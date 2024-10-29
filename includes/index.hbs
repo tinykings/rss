@@ -38,7 +38,7 @@
                     data-accordion-key="{{id}}"
                     open
                   >
-                    <summary class="article-expander__title">{{title}}</summary>
+                    <summary class="article-expander__title">{{title}}. {{source.siteUrl}}</summary>
                     <a class="article-summary-link article-summary-box-outer" href="{{link}}">
                       <div class="article-summary-box-inner media-object">
                         {{#if imageUrl}}
@@ -52,13 +52,6 @@
                         </span>
                       </div>
                     </a>
-                    <div>
-                      <span>Source: <a href="{{source.siteUrl}}">{{source.title}}</a></span> | 
-                      <span>Date: <time>{{isoPublishDate}}</time></span> |
-                      <span>Timestamp: <time>{{publishedOn}}</time></span> |
-                      <span>Reading time: <time>{{readingTimeInMin}} min</time></span> |
-                      <span>Word count: <time>{{wordCount}}</time></span>
-                    </div>
                   </details>
                 </article>
               </li>
