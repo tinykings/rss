@@ -1,34 +1,42 @@
 <!DOCTYPE html>
 <html lang="en">
 
-  <head>
-    <title>{{siteTitle}}</title>
-    <meta charset="utf-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="robots" content="noindex, nofollow" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
-    <link rel="alternate" type="application/rss+xml" title="{{siteTitle}}" href="{{feedHref}}" />
-    <link href="index.css" rel="stylesheet" />
-    <!-- %before-head-end.html% -->
-  </head>
+<head>
+  <title>{{siteTitle}}</title>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="robots" content="noindex, nofollow" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
+  <link rel="alternate" type="application/rss+xml" title="{{siteTitle}}" href="{{feedHref}}" />
+  <link href="index.css" rel="stylesheet" />
+</head>
 
-  <body>
-    <!-- %after-body-begin.html% -->
+<body>
+  <header>
+    <dl>
+      <dt><b>Site title</b></dt><dd>{{siteTitle}}</dd>
+      <dt><b>Built on</b></dt><dd>{{siteBuildTimestamp}}</dd>
+      <dt><b>Cli version</b></dt><dd>{{cliVersion}}</dd>
+      <dt><b>Documentation URL</b></dt><dd>{{projectUrl}}</dd>
+    </dl>
+  </header>
+
+  <ul class="daily-content js-toggle-accordions-scope">
     {{#each dates}}
-      <section class="daily-content js-toggle-accordions-scope">
-        <h2 class="daily-heading">
-          <button
-            class="daily-heading-toggle"
-            data-action="toggle-accordions"
-            title="Click to toggle the day, Ctrl + click to toggle all."
-          >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date={{isoOffsetPublishDate}} datetime="{{isoUtcPublishTime}}">{{isoOffsetPublishDate}}</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date={{isoOffsetPublishDate}} datetime="{{isoUtcPublishTime}}"></time>
-          </button>
-        </h2>
-        <ul class="articles card">
-          {{#each sources}}
+      <li class="card__section">
+        <section>
+          <h2 class="daily-heading">
+            <button
+              class="daily-heading-toggle"
+              data-action="toggle-accordions"
+              title="Click to toggle the day, Ctrl + click to toggle all."
+            >
+              <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date="{{isoPublishDate}}" datetime="{{isoUtcPublishTime}}">{{isoPublishDate}}</time>
+            </button>
+          </h2>
+
+          <ul class="articles card">
             {{#each articles}}
               <li class="card__section">
                 <article>
@@ -47,34 +55,40 @@
                         <span class="media-object__text">
                           <span>{{description}}</span>
                           {{#if readingTimeInMin}}
-                            &ensp;<span class="article-reading-time">(&hairsp;{{readingTimeInMin}}
-                              min&hairsp;)</span>
+                            &ensp;<span class="article-reading-time">(&hairsp;{{readingTimeInMin}} min&hairsp;)</span>
                           {{/if}}
                         </span>
                       </div>
                     </a>
-                    <p class="article-source">Source: <a href="{{../siteUrl}}">{{../title}}</a></p>
+                    <div>
+                      <span>Source: <a href="{{source.siteUrl}}">{{source.title}}</a></span> | 
+                      <span>Date: <time>{{isoPublishDate}}</time></span> |
+                      <span>Timestamp: <time>{{publishedOn}}</time></span> |
+                      <span>Reading time: <time>{{readingTimeInMin}} min</time></span> |
+                      <span>Word count: <time>{{wordCount}}</time></span>
+                    </div>
                   </details>
                 </article>
               </li>
             {{/each}}
-          {{/each}}
-        </ul>
-      </section>
+          </ul>
+        </section>
+      </li>
     {{/each}}
+  </ul>
 
-    <footer>
-      {{#if githubRunUrl}}
-      <a class="footer-link" href="{{githubRunUrl}}">
-        <time id="build-timestamp" datetime="{{siteBuildTimestamp}}">{{siteBuildTimestamp}}</time>
-      </a>
-      {{else}}
+  <footer>
+    {{#if githubRunUrl}}
+    <a class="footer-link" href="{{githubRunUrl}}">
       <time id="build-timestamp" datetime="{{siteBuildTimestamp}}">{{siteBuildTimestamp}}</time>
-      {{/if}}
-      <a class="footer-link" href="{{projectUrl}}">osmosfeed {{cliVersion}}</a>
-    </footer>
-    <script src="index.js?v1.14.4"></script>
-    <!-- %before-body-end.html% -->
-  </body>
+    </a>
+    {{else}}
+    <time id="build-timestamp" datetime="{{siteBuildTimestamp}}">{{siteBuildTimestamp}}</time>
+    {{/if}}
+    <a class="footer-link" href="{{projectUrl}}">osmosfeed {{cliVersion}}</a>
+  </footer>
+  
+  <script src="index.js?v1.14.4"></script>
+</body>
 
 </html>
