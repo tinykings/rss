@@ -14,7 +14,6 @@ sources:
   - href: https://www.thelazyadministrator.com/feed/
   - href: https://krebsonsecurity.com/feed/
   - href: https://www.apple.com/newsroom/rss-feed.rss
-  - href: https://www.theverge.com/rss/front-page/index.xml 
   - href: https://www.jw.org/en/news/rss/FullNewsRSS/feed.xml 
   - href: https://feeds.feedburner.com/StudyHacks
   - href: https://www.macstories.net/feed/
@@ -23,6 +22,8 @@ sources:
   - href: https://pitchfork.com/rss/reviews/best/albums/
   - href: https://www.reddit.com/r/television/search.xml?q=flair_name%3A%22Premiere%22&amp;restrict_sr=1&amp;t=week 
   - href: https://www.reddit.com/r/apple/top.rss?t=week  
+  - href: https://www.reddit.com/r/anime/top.rss?t=week  
+  - href: https://www.reddit.com/r/artificial/top.rss?t=week  
   - href: https://www.reddit.com/r/sysadmin/top.rss?t=week
   - href: https://www.reddit.com/r/technology/top.rss?t=week
 # DIY Perks
@@ -171,3 +172,70 @@ sources:
   - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCnann7INGH7_6YZikDx3O2w
 # carina aarnio
   - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCsCmDXLmyIMMOYnBTkoxF3A
+  - href: https://youtube.com/feeds/videos.xml?channel_id=UCcEH1uSjWiKpYp4B2lShqlA
+
+  - href: https://youtube.com/feeds/videos.xml?channel_id=UC415bOPUcGSamy543abLmRA
+
+  - href: https://youtube.com/feeds/videos.xml?channel_id=UC4QZ_LsYcvcq7qOsOhpAX4A
+
+  - href: https://youtube.com/feeds/videos.xml?channel_id=UC-tZk0bsaiq9KANWZ2BPO8w
+
+  - href: https://youtube.com/feeds/videos.xml?channel_id=UCDBroOWVP4aN8SYM0br6sJQ
+
+  - href: https://youtube.com/feeds/videos.xml?channel_id=UC78cxCAcp7JfQPgKxYdyGrg
+
+  - href: https://youtube.com/feeds/videos.xml?channel_id=UCndv1-tgcYaxulGlPzbgbcQ
+
+  - href: https://youtube.com/feeds/videos.xml?channel_id=UC9Uej_tQ-kXssFR4eSjeXCg
+
+  - href: https://youtube.com/feeds/videos.xml?channel_id=UC7dF9qfBMXrSlaaFFDvV_Yg
+
+  - href: https://youtube.com/feeds/videos.xml?channel_id=UCmEbe0XH51CI09gm_9Fcn8Q
+
+  - href: https://youtube.com/feeds/videos.xml?channel_id=UC3s0BtrBJpwNDaflRSoiieQ
+
+  - href: https://youtube.com/feeds/videos.xml?channel_id=UCIxLxlan8q9WA7sjuq6LdTQ
+
+  - href: https://youtube.com/feeds/videos.xml?channel_id=UCdCottK2mn8T7VOHleKCYCg
+
+  - href: https://youtube.com/feeds/videos.xml?channel_id=UC56HZ6upLIrsKr8VoHT2HLQ
+
+  - href: https://youtube.com/feeds/videos.xml?channel_id=UCoNTMWgGuXtGPLv9UeJZwBw
+
+  - href: https://youtube.com/feeds/videos.xml?channel_id=UCnEZmnSrGrALq2ji4RrJK3A
+
+  - href: https://youtube.com/feeds/videos.xml?channel_id=UCt0Zqulbc1MR2r2_GpKObrQ
+
+  - href: https://youtube.com/feeds/videos.xml?channel_id=UCBJycsmduvYEL83R_U4JriQ
+
+  - href: https://youtube.com/feeds/videos.xml?channel_id=UC7YOGHUfC1Tb6E4pudI9STA
+
+  - href: https://youtube.com/feeds/videos.xml?channel_id=UCBs2Y3i14e1NWQxOGliatmg
+
+  - href: https://youtube.com/feeds/videos.xml?channel_id=UC_zQ777U6YTyatP3P1wi3xw
+
+  - href: https://youtube.com/feeds/videos.xml?channel_id=UCI3yTtc0kShZ-S_Qsd5VTSQ
+
+  - href: https://youtube.com/feeds/videos.xml?channel_id=UCk01c4Lhpc-nyzkckS-gTIA
+
+  - href: https://youtube.com/feeds/videos.xml?channel_id=UCiVWjDbSQMGFddqRwToBRbg
+
+  - href: https://youtube.com/feeds/videos.xml?channel_id=UCkHN7h7CFeYL6Y1N5JcEZug
+
+  - href: https://youtube.com/feeds/videos.xml?channel_id=UCeeFfhMcJa1kjtfZAGskOCA
+
+  - href: https://youtube.com/feeds/videos.xml?channel_id=UCNZ1H42l5IzQFvIIJZYC08w
+
+  - href: https://youtube.com/feeds/videos.xml?channel_id=UCdrpY4M9Auo0csXo6XJTo3w
+
+  - href: https://youtube.com/feeds/videos.xml?channel_id=UC4hSJgj8TMuOBmsgHRmE-VA
+
+  - href: https://youtube.com/feeds/videos.xml?channel_id=UCedG6psZXqBIaguc41k-GVQ
+
+  - href: https://youtube.com/feeds/videos.xml?channel_id=UCZCe6AEqZhDPnzaJoj85BuA
+
+  - href: https://youtube.com/feeds/videos.xml?channel_id=UCe1XYFh-ddEzIoE6_ugiewg
+
+  - href: https://youtube.com/feeds/videos.xml?channel_id=UCEP-696sFVJMSNf0XgfdqGQ
+
+  - href: https://youtube.com/feeds/videos.xml?channel_id=UCvUJ6BwgUGWBHuUd0cv546g
