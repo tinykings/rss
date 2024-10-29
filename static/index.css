@@ -1,31 +1,19 @@
 :root {
-  /**
-   * Palette
-   * Gruvbox dark, medium
-   * Dawid Kurek (dawikur@gmail.com), morhetz (https://github.com/morhetz/gruvbox)
-   */
-  --base00: #282828; /* ---- */
-  --base01: #3c3836; /* --- */
-  --base02: #504945; /* -- */
-  --base03: #665c54; /* - */
-  --base04: #bdae93; /* + */
-  --base05: #d5c4a1; /* ++ */
-  --base06: #ebdbb2; /* +++ */
-  --base07: #fbf1c7; /* ++++ */
-  --base08: #fb4934; /* red */
-  --base09: #fe8019; /* orange */
-  --base0A: #fabd2f; /* yellow */
-  --base0B: #b8bb26; /* green */
-  --base0C: #8ec07c; /* aqua/cyan */
-  --base0D: #83a598; /* blue */
-  --base0E: #d3869b; /* purple */
-  --base0F: #d65d0e; /* brown */
+  /* Dracula Color Palette */
+  --base00: #282a36; /* Background */
+  --base01: #44475a; /* Current Line */
+  --base02: #6272a4; /* Comment */
+  --base03: #f8f8f2; /* Foreground */
+  --base04: #8be9fd; /* Cyan */
+  --base05: #50fa7b; /* Green */
+  --base06: #ffb86c; /* Orange */
+  --base07: #ff79c6; /* Pink */
+  --base08: #bd93f9; /* Purple */
+  --base09: #ff5555; /* Red */
+  --base0A: #f1fa8c; /* Yellow */
 
-  /**
-   * Typograph
-   */
-  --font-family-default: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell,
-    "Helvetica Neue", sans-serif;
+  /* Typography */
+  --font-family-default: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
   --font-size-L: 3.6rem;
   --font-size-m: 2.2rem;
   --font-size-s: 1.8rem;
@@ -33,64 +21,48 @@
   --line-height-body: 1.4;
   --line-height-heading: 1.2;
 
-  /**
-   * Components
-   */
-  --body-color: var(--base04);
+  /* Components */
+  --body-color: var(--base03);
   --body-bg: var(--base00);
   --body-padding: 32px 24px;
   --body-stack-gap: 32px;
 
   --accordion-content-hover-rail-color: var(--base04);
-  --accordion-content-rail-color: var(--base03);
-  --accordion-marker-color: var(--article-title-color);
-  --accordion-marker-expanded-color: var(--base03);
-  --accordion-marker-hover-color: var(--accordion-marker-color);
-  --accordion-marker-expanded-hover-color: var(--accordion-marker-color);
+  --accordion-content-rail-color: var(--base01);
+  --accordion-marker-color: var(--base0A);
+  --accordion-marker-expanded-color: var(--base04);
+  --accordion-marker-hover-color: var(--base07);
+  --accordion-marker-expanded-hover-color: var(--base08);
   --accordion-rail-indent: 7px;
 
-  --article-image-border-color: var(--base03);
+  --article-image-border-color: var(--base01);
   --article-image-radius: 6px;
-  --article-image-shadow: none;
-  --article-reading-time-color: var(--base04);
+  --article-image-shadow: 0px 4px 10px rgba(0, 0, 0, 0.4);
+  --article-reading-time-color: var(--base02);
   --article-stack-gap: 16px;
-  --article-summary-color: var(--base05);
-  --article-summary-hover-color: var(--base07);
-  --article-title-color: var(--base0E);
-  --article-title-expanded-color: var(--base0E);
+  --article-summary-color: var(--base04);
+  --article-summary-hover-color: var(--base05);
+  --article-title-color: var(--base07);
+  --article-title-expanded-color: var(--base08);
 
   --card-bg: var(--base01);
-  --card-border-color: var(--base03);
+  --card-border-color: var(--base02);
   --card-padding: 16px;
   --card-radius: 8px;
-  --card-shadow: none;
+  --card-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
   --card-stack-gap: 24px;
 
-  --daily-heading-color: var(--base03);
-  --daily-heading-hover-color: var(--base04);
+  --daily-heading-color: var(--base04);
+  --daily-heading-hover-color: var(--base0A);
 
-  --footer-color: var(--base03);
-  --footer-link-hover-color: var(--base04);
+  --footer-color: var(--base02);
+  --footer-link-hover-color: var(--base05);
 
   --source-link-color: var(--base04);
-  --source-link-hover-color: var(--base07);
+  --source-link-hover-color: var(--base06);
   --source-name-color: var(--base0A);
-  --source-name-hover-color: var(--base07);
+  --source-name-hover-color: var(--base05);
 }
-
-/**
- * Internals below
- *
- * If you can't create a specific look and feel with the configuration above,
- * you might have reached the customization limit of the template.
- *
- * Options:
- * 1. File an issue with the template.
- * 2. Target specific elements and write your own CSS. A future change in HTML may break your style.
- * 3. (Coming soon...) Write your own template with Template Extensibility API.
- */
-
-/** RESETS */
 
 * {
   box-sizing: border-box;
@@ -100,7 +72,6 @@
   outline: none;
 }
 
-/** GENERIC */
 html {
   font-size: var(--font-size-scaler);
 }
@@ -116,7 +87,6 @@ body {
   display: grid;
 }
 
-/** COMPONENTS */
 .article-expander {
   padding: 4px 0;
 }
@@ -146,9 +116,6 @@ body {
   font-weight: 700;
   margin-right: 6px;
   font-family: monospace;
-}
-.article-expander__title::-webkit-details-marker {
-  display: none; /* remove triangle from Safair */
 }
 .article-expander[open] .article-expander__title::before {
   color: var(--accordion-marker-expanded-color);
@@ -193,7 +160,7 @@ body {
   border-left: 1px solid var(--accordion-content-rail-color);
   font-size: var(--font-size-s);
   overflow-wrap: anywhere;
-  word-break: break-word; /* same as above, for Safari compatitiliby */
+  word-break: break-word;
 }
 
 .article-reading-time {
@@ -254,7 +221,7 @@ footer {
 }
 
 .footer-link {
-  color: var(--footer-link-text);
+  color: var(--footer-color);
   text-decoration: none;
 }
 
@@ -286,52 +253,4 @@ footer {
     grid-area: media;
     margin-bottom: var(--article-stack-gap);
   }
-}
-
-.sources {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-  display: grid;
-  gap: 1px;
-}
-
-.source-heading {
-  display: flex;
-  gap: 16px;
-  flex-wrap: wrap;
-  font-size: var(--font-size-s);
-  margin: 0 0 8px 0;
-  padding-right: var(--accordion-rail-indent);
-}
-.source-heading__name {
-  font: inherit;
-  font-size: var(--font-size-s);
-  font-weight: 400;
-  text-align: start;
-  border: none;
-  background: none;
-  padding: 0;
-  cursor: pointer;
-  color: var(--source-name-color);
-  flex-grow: 1;
-}
-.source-heading__name:hover {
-  color: var(--source-name-hover-color);
-}
-.source-heading__link {
-  color: var(--source-link-color);
-  font-weight: 400;
-  text-decoration: none;
-}
-.source-heading__link:hover {
-  color: var(--source-link-hover-color);
-  text-decoration: underline;
-}
-
-.z-stack {
-  display: grid;
-}
-.z-stack__layer {
-  grid-area: 1/1/-1/-1;
 }
