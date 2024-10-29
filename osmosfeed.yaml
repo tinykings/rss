@@ -7,3 +7,4 @@ cacheUrl: https://tinykings.github.io/rss/cache.json
 sources:
   - href: https://github.com/osmoscraft/osmosfeed/releases.atom
   - href: https://www.theverge.com/rss/front-page/index.xml
+  - href: https://www.theatlantic.com/feed/all/
