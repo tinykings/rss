@@ -143,6 +143,11 @@ body {
   color: var(--article-summary-color);
   font-size: var(--font-size-m);
   text-decoration: none;
+  display: inline-block;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 100%; /* or a specific width like 250px */
 }
 
 .article-summary-link:hover {
