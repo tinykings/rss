@@ -32,20 +32,18 @@
             {{#each articles}}
               <li class="card__section">
                 <article>
-                  <h3 class="article-expander__title">{{title}}</h3>
-
-                  {{#if imageUrl}}
-                    <img src="{{imageUrl}}" loading="lazy" class="media-object__media article-image" />
-                  {{/if}}
-
                   <details
                     class="article-expander"
                     data-action="toggle-native-accordion"
                     data-accordion-key="{{id}}"
+                    open
                   >
-                    <summary style="display:none;"></summary> <!-- Hide summary to disable toggle -->
+                    <summary class="article-expander__title">{{title}}. {{source.siteUrl}}</summary>
                     <a class="article-summary-link article-summary-box-outer" href="{{link}}">
                       <div class="article-summary-box-inner media-object">
+                        {{#if imageUrl}}
+                          <img src="{{imageUrl}}" loading="lazy" class="media-object__media article-image" />
+                        {{/if}}
                         <span class="media-object__text">
                           <span>{{description}}</span>
                           {{#if readingTimeInMin}}
