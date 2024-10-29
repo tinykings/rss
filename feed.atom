@@ -2,10 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tinykings.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-29T19:33:20.558Z</updated>
+    <updated>2024-10-29T19:49:20.265Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://tinykings.github.io/rss/index.html"/>
     <link rel="self" href="https://tinykings.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[An Elon Musk-funded super PAC is putting out fake pro-Harris ads]]></title>
+        <id>https://www.theverge.com/2024/10/29/24282957/progress-2028-elon-musk-building-americas-future-ads-pac</id>
+        <link href="https://www.theverge.com/2024/10/29/24282957/progress-2028-elon-musk-building-americas-future-ads-pac"/>
+        <updated>2024-10-29T19:49:05.000Z</updated>
+        <summary type="html"><![CDATA[Image: Cath Virginia / The Verge; Getty Images
+    
+
+  
+If you’re a swing state voter, you may have seen ads claiming that vice president Kamala Harris wants to institute a mandatory gun buyback program and make it easier for undocumented immigrants to get driver’s licenses. These ostensibly pro-Harris ads are the product of Progress 2025, a campaign designed to look like the Democratic answer to the Heritage Foundation’s Project 2025 — but they’re actually funded by a group called Building America’s Future, a pro-Trump super PAC that is in turn funded by Elon Musk.
+Building America’s Future is expanding an ad campaign targeted at undecided voters in swing states, 404 Media reports. Over the past week, the PAC spent over $300,000 on a dozen Facebook ads, which are sub-targeted to 819 diffe…]]></summary>
+        <author>
+            <name>The Verge -  Front Pages</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Revenge Voting Is a Mistake]]></title>
+        <id>https://www.theatlantic.com/politics/archive/2024/10/revenge-voting-over-gaza-is-a-mistake/680446/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/politics/archive/2024/10/revenge-voting-over-gaza-is-a-mistake/680446/?utm_source=feed"/>
+        <updated>2024-10-29T19:19:00.000Z</updated>
+        <summary type="html"><![CDATA[Protesters angry over Kamala Harris’s support for Israel should not forget what they stand to lose.]]></summary>
+        <author>
+            <name>The Atlantic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Scary Movie franchise is getting a Wayans brothers reboot]]></title>
         <id>https://www.theverge.com/2024/10/29/24282909/scary-movie-reboot-wayans-brothers</id>
@@ -71,6 +96,26 @@ The Information had reported in July that OpenAI was in discussion with Broadcom
 The reported strategy puts OpenAI on a similar track to the other tech companies trying to manage costs and access to AI server hardware with custom chip designs. But Google, Microsoft, and Amazon are all already a few generations down the road in their efforts, and OpenAI may need significantly more funding to become a true competitor.]]></summary>
         <author>
             <name>The Verge -  Front Pages</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Worst Statue in the History of Sports]]></title>
+        <id>https://www.theatlantic.com/technology/archive/2024/10/dwyane-wade-statue-close-reading/680444/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/technology/archive/2024/10/dwyane-wade-statue-close-reading/680444/?utm_source=feed"/>
+        <updated>2024-10-29T18:42:55.000Z</updated>
+        <summary type="html"><![CDATA[Dwyane Wade deserves a do-over.]]></summary>
+        <author>
+            <name>The Atlantic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[You’re More Than Your Data]]></title>
+        <id>https://www.theatlantic.com/books/archive/2024/10/right-to-oblivion-lowry-pressly-book-review/680443/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/books/archive/2024/10/right-to-oblivion-lowry-pressly-book-review/680443/?utm_source=feed"/>
+        <updated>2024-10-29T18:32:00.000Z</updated>
+        <summary type="html"><![CDATA[A lack of privacy has made people’s personal and public lives less meaningful.]]></summary>
+        <author>
+            <name>The Atlantic</name>
         </author>
     </entry>
     <entry>
@@ -177,6 +222,16 @@ Screenshot: Mozilla
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[My Colleague Repeats Herself Constantly]]></title>
+        <id>https://www.theatlantic.com/culture/archive/2024/10/dear-james-my-colleague-repeats-herself-constantly/680431/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/culture/archive/2024/10/dear-james-my-colleague-repeats-herself-constantly/680431/?utm_source=feed"/>
+        <updated>2024-10-29T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[And I’m losing my mind.]]></summary>
+        <author>
+            <name>The Atlantic</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Sony’s noise-canceling XM5 have dropped to one of their best prices yet]]></title>
         <id>https://www.theverge.com/2024/10/29/24279458/sony-wh-1000xm5-thermapen-one-deal-sale</id>
         <link href="https://www.theverge.com/2024/10/29/24279458/sony-wh-1000xm5-thermapen-one-deal-sale"/>
@@ -209,6 +264,216 @@ Nintendo released a new trailer to mark the occasion and its opening seconds fee
 In addition to porting old Wii U games, Nintendo’s still releasing new titles in the twilight days of the Switch. Mario & Luigi: Brothership is due out next week. Nintendo’s also confirmed that Metroid Prime 4 will get a Switch release too.]]></summary>
         <author>
             <name>The Verge -  Front Pages</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Genius of Handel’s <em>Messiah</em>]]></title>
+        <id>https://www.theatlantic.com/magazine/archive/2024/12/handels-messiah-origins-western-music-classic/680398/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/magazine/archive/2024/12/handels-messiah-origins-western-music-classic/680398/?utm_source=feed"/>
+        <updated>2024-10-29T16:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The oratorio is a feat of sustained inspiration arguably unsurpassed in the canon of Western classical music.]]></summary>
+        <author>
+            <name>The Atlantic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How the Trump Resistance Gave Up]]></title>
+        <id>https://www.theatlantic.com/culture/archive/2024/10/how-the-trump-resistance-gave-way-to-apathy/680442/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/culture/archive/2024/10/how-the-trump-resistance-gave-way-to-apathy/680442/?utm_source=feed"/>
+        <updated>2024-10-29T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This year is nothing like 2020, and a collective sense of resignation might make all the difference.]]></summary>
+        <author>
+            <name>The Atlantic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The End of Francis Fukuyama]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2024/10/francis-fukuyama-end-greatly-exaggerated/680439/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2024/10/francis-fukuyama-end-greatly-exaggerated/680439/?utm_source=feed"/>
+        <updated>2024-10-29T14:45:21.000Z</updated>
+        <summary type="html"><![CDATA[The legendary political scientist is very much alive, but liberal democracy is at risk.]]></summary>
+        <author>
+            <name>The Atlantic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Prevent the Worst From Happening]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2024/10/conservative-argument-against-trump/680438/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2024/10/conservative-argument-against-trump/680438/?utm_source=feed"/>
+        <updated>2024-10-29T13:56:14.000Z</updated>
+        <summary type="html"><![CDATA[If Trump wins the presidency again, conservatism will be homeless, a philosophy without a party, for at least a generation.]]></summary>
+        <author>
+            <name>The Atlantic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solidarity and Gaza]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2024/10/black-americans-solidarity-gaza/680433/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2024/10/black-americans-solidarity-gaza/680433/?utm_source=feed"/>
+        <updated>2024-10-29T13:44:00.000Z</updated>
+        <summary type="html"><![CDATA[Black people see what is happening to Palestinians, and many feel the tug of the familiar in their heart.]]></summary>
+        <author>
+            <name>The Atlantic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The People Who Don’t Read Political News]]></title>
+        <id>https://www.theatlantic.com/politics/archive/2024/10/ignoring-political-news/680426/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/politics/archive/2024/10/ignoring-political-news/680426/?utm_source=feed"/>
+        <updated>2024-10-29T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[It’s more tempting than ever to ignore the election.]]></summary>
+        <author>
+            <name>The Atlantic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ohio Isn’t Just J. D. Vance Country]]></title>
+        <id>https://www.theatlantic.com/politics/archive/2024/10/akron-mayor-local-republicans/680361/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/politics/archive/2024/10/akron-mayor-local-republicans/680361/?utm_source=feed"/>
+        <updated>2024-10-29T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The state has quite a crop of young, talented Democratic leaders—who face tough odds of ever moving up in politics.]]></summary>
+        <author>
+            <name>The Atlantic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Does ‘Greedflation’ Explain High Prices?]]></title>
+        <id>https://www.theatlantic.com/podcasts/archive/2024/10/greedflation-inflation-grocery-prices-corporate-greed/680432/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/podcasts/archive/2024/10/greedflation-inflation-grocery-prices-corporate-greed/680432/?utm_source=feed"/>
+        <updated>2024-10-29T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Anger at high grocery prices may help reelect Donald Trump. Is corporate greed to blame?]]></summary>
+        <author>
+            <name>The Atlantic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Next ‘Stop the Steal’ Movement Is Here]]></title>
+        <id>https://www.theatlantic.com/technology/archive/2024/10/election-denial-stop-steal-trump-harris/680436/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/technology/archive/2024/10/election-denial-stop-steal-trump-harris/680436/?utm_source=feed"/>
+        <updated>2024-10-29T00:19:00.000Z</updated>
+        <summary type="html"><![CDATA[The right is already saying the election is rigged.]]></summary>
+        <author>
+            <name>The Atlantic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Under the Spell of the Crowd]]></title>
+        <id>https://www.theatlantic.com/politics/archive/2024/10/under-spell-crowd/680435/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/politics/archive/2024/10/under-spell-crowd/680435/?utm_source=feed"/>
+        <updated>2024-10-28T23:19:17.000Z</updated>
+        <summary type="html"><![CDATA[An afternoon outside the Trump rally at Madison Square Garden]]></summary>
+        <author>
+            <name>The Atlantic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Does Elon Musk Still Have a Security Clearance?]]></title>
+        <id>https://www.theatlantic.com/newsletters/archive/2024/10/why-does-elon-musk-still-have-a-security-clearance/680434/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/newsletters/archive/2024/10/why-does-elon-musk-still-have-a-security-clearance/680434/?utm_source=feed"/>
+        <updated>2024-10-28T21:44:00.000Z</updated>
+        <summary type="html"><![CDATA[The U.S. government seems to think he’s too big to fail.]]></summary>
+        <author>
+            <name>The Atlantic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Celebrities Are Saying the Loud Part Quietly]]></title>
+        <id>https://www.theatlantic.com/culture/archive/2024/10/kamala-harris-celebrity-endorsements-eminem/680430/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/culture/archive/2024/10/kamala-harris-celebrity-endorsements-eminem/680430/?utm_source=feed"/>
+        <updated>2024-10-28T20:24:33.000Z</updated>
+        <summary type="html"><![CDATA[Democratic politics and pop culture have long been entangled—but entertainers seem a bit more sheepish about their endorsements lately.]]></summary>
+        <author>
+            <name>The Atlantic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trump Wants You to Accept All of This as Normal]]></title>
+        <id>https://www.theatlantic.com/politics/archive/2024/10/maidison-square-garden-election-fraud/680429/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/politics/archive/2024/10/maidison-square-garden-election-fraud/680429/?utm_source=feed"/>
+        <updated>2024-10-28T20:06:55.000Z</updated>
+        <summary type="html"><![CDATA[The former president is psychologically preparing Americans for an assault on the electoral system.]]></summary>
+        <author>
+            <name>The Atlantic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Comically Terrible Rollout of Latter-day Saints for Trump]]></title>
+        <id>https://www.theatlantic.com/politics/archive/2024/10/latter-day-saints-trump/680428/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/politics/archive/2024/10/latter-day-saints-trump/680428/?utm_source=feed"/>
+        <updated>2024-10-28T18:32:00.000Z</updated>
+        <summary type="html"><![CDATA[The koozies and coffee mugs were a mistake.]]></summary>
+        <author>
+            <name>The Atlantic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Bogus New Rationale For Trump's Economic Agenda]]></title>
+        <id>https://www.theatlantic.com/politics/archive/2024/10/trump-tariffs-economic-uncertainty/680427/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/politics/archive/2024/10/trump-tariffs-economic-uncertainty/680427/?utm_source=feed"/>
+        <updated>2024-10-28T18:02:00.000Z</updated>
+        <summary type="html"><![CDATA[His allies now claim that he wouldn’t really impose massive global tariffs if elected. But the uncertainty created by threats is bad enough.]]></summary>
+        <author>
+            <name>The Atlantic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Giant Mythological Puppets Stage a Show in Toulouse]]></title>
+        <id>https://www.theatlantic.com/photo/2024/10/giant-mythological-puppets-stage-a-show-in-toulouse/680425/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/photo/2024/10/giant-mythological-puppets-stage-a-show-in-toulouse/680425/?utm_source=feed"/>
+        <updated>2024-10-28T17:29:55.000Z</updated>
+        <summary type="html"><![CDATA[Images of several remarkable huge puppets performing in the streets of Toulouse]]></summary>
+        <author>
+            <name>The Atlantic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This Is Trump’s Message]]></title>
+        <id>https://www.theatlantic.com/politics/archive/2024/10/trump-madison-square-garden-rally/680424/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/politics/archive/2024/10/trump-madison-square-garden-rally/680424/?utm_source=feed"/>
+        <updated>2024-10-28T16:11:10.000Z</updated>
+        <summary type="html"><![CDATA[At his Madison Square Garden rally, Trump’s argument was hate and fear.]]></summary>
+        <author>
+            <name>The Atlantic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Major Newspapers Won’t Endorse Kamala Harris]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2024/10/non-endorsement-washington-post-la-times/680423/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2024/10/non-endorsement-washington-post-la-times/680423/?utm_source=feed"/>
+        <updated>2024-10-28T13:21:52.000Z</updated>
+        <summary type="html"><![CDATA[Democracy dies in broad daylight.]]></summary>
+        <author>
+            <name>The Atlantic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Touch Revolution Could Transform Pitching]]></title>
+        <id>https://www.theatlantic.com/science/archive/2024/10/baseball-pitching-touch-feel-science/680414/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/science/archive/2024/10/baseball-pitching-touch-feel-science/680414/?utm_source=feed"/>
+        <updated>2024-10-28T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A revolution in the science of touch could unlock the mystery of “feel” in pitching.]]></summary>
+        <author>
+            <name>The Atlantic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Truth About Polling]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2024/10/presidential-polls-unreliable/680408/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2024/10/presidential-polls-unreliable/680408/?utm_source=feed"/>
+        <updated>2024-10-28T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We don’t know what we think we know about how Americans will vote.]]></summary>
+        <author>
+            <name>The Atlantic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dear Therapist: I’m Worried About My Brother]]></title>
+        <id>https://www.theatlantic.com/family/archive/2024/10/brother-wife-relationship-abuse/680385/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/family/archive/2024/10/brother-wife-relationship-abuse/680385/?utm_source=feed"/>
+        <updated>2024-10-28T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[His wife’s behavior has made him a shell of his former self.]]></summary>
+        <author>
+            <name>The Atlantic</name>
         </author>
     </entry>
 </feed>
