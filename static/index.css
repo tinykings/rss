@@ -147,7 +147,7 @@ body {
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
-  max-width: 100%; /* or a specific width like 250px */
+  max-width: 30%; /* or a specific width like 250px */
 }
 
 .article-summary-link:hover {
