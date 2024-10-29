@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tinykings.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-29T20:04:42.708Z</updated>
+    <updated>2024-10-29T20:08:11.602Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://tinykings.github.io/rss/index.html"/>
     <link rel="self" href="https://tinykings.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Google accused of violating labor law for asking workers to ‘refrain’ from talking about antitrust case]]></title>
+        <id>https://www.theverge.com/2024/10/29/24278993/google-labor-law-nlrb-alphabet-labor-union-antitrust-search-remedies</id>
+        <link href="https://www.theverge.com/2024/10/29/24278993/google-labor-law-nlrb-alphabet-labor-union-antitrust-search-remedies"/>
+        <updated>2024-10-29T20:04:11.000Z</updated>
+        <summary type="html"><![CDATA[Illustration: The Verge
+    
+
+  
+The Alphabet Workers Union filed a charge against Google with the National Labor Relations Board after Google management asked workers to “refrain” from talking about its ongoing Search antitrust case.
+The union charges that Google issued an “overly broad directive” on discussing the case to employees, according to a copy of the charge filed in August and viewed by The Verge. On August 5th, just after US District Court Judge Amit Mehta issued his decision finding Google to have an illegal monopoly, president of global affairs Kent Walker sent an email (also reviewed by The Verge) directing employees to “please refrain from commenting on this case, both internally and externally.” Walker sent a similar message at the start of the trial last fall, Business In…]]></summary>
+        <author>
+            <name>The Verge -  Front Pages</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[An Elon Musk-funded super PAC is putting out fake pro-Harris ads]]></title>
         <id>https://www.theverge.com/2024/10/29/24282957/progress-2028-elon-musk-building-americas-future-ads-pac</id>
