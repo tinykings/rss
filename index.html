@@ -1,60 +1,41 @@
 <!DOCTYPE html>
 <html lang="en">
 
-  <head>
-    <title>osmos::feed</title>
-    <meta charset="utf-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="robots" content="noindex, nofollow" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
-    <link rel="alternate" type="application/rss+xml" title="osmos::feed" href="feed.atom" />
-    <link href="index.css" rel="stylesheet" />
-    <style>
-  :root {
-    /** 
-     * Gruvbox light, medium
-     * Dawid Kurek (dawikur@gmail.com), morhetz (https://github.com/morhetz/gruvbox)
-     */
-    --base00: #fbf1c7; /* ---- */
-    --base01: #ebdbb2; /* --- */
-    --base02: #d5c4a1; /* -- */
-    --base03: #bdae93; /* - */
-    --base04: #665c54; /* + */
-    --base05: #504945; /* ++ */
-    --base06: #3c3836; /* +++ */
-    --base07: #282828; /* ++++ */
-    --base08: #9d0006; /* red */
-    --base09: #af3a03; /* orange */
-    --base0A: #b57614; /* yellow */
-    --base0B: #79740e; /* green */
-    --base0C: #427b58; /* aqua/cyan */
-    --base0D: #076678; /* blue */
-    --base0E: #8f3f71; /* purple */
-    --base0F: #d65d0e; /* brown */
+<head>
+  <title>osmos::feed</title>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="robots" content="noindex, nofollow" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
+  <link rel="alternate" type="application/rss+xml" title="osmos::feed" href="feed.atom" />
+  <link href="index.css" rel="stylesheet" />
+</head>
 
-    /* light theme needs to swap body and card background color */
-    --body-bg: var(--base01);
-    --card-bg: var(--base00);
-  }
-</style>
+<body>
+  <header>
+    <dl>
+      <dt><b>Site title</b></dt><dd>osmos::feed</dd>
+      <dt><b>Built on</b></dt><dd>2024-10-29T20:26:21.809Z</dd>
+      <dt><b>Cli version</b></dt><dd>1.15.1</dd>
+      <dt><b>Documentation URL</b></dt><dd>https://github.com/osmoscraft/osmosfeed</dd>
+    </dl>
+  </header>
 
-  </head>
+  <ul class="daily-content js-toggle-accordions-scope">
+      <li class="card__section">
+        <section>
+          <h2 class="daily-heading">
+            <button
+              class="daily-heading-toggle"
+              data-action="toggle-accordions"
+              title="Click to toggle the day, Ctrl + click to toggle all."
+            >
+              <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date="2024-10-29" datetime="2024-10-29T20:04:11.000Z">2024-10-29</time>
+            </button>
+          </h2>
 
-  <body>
-    <!-- %after-body-begin.html% -->
-      <section class="daily-content js-toggle-accordions-scope">
-        <h2 class="daily-heading">
-          <button
-            class="daily-heading-toggle"
-            data-action="toggle-accordions"
-            title="Click to toggle the day, Ctrl + click to toggle all."
-          >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2024-10-29 datetime="2024-10-29T20:04:11.000Z">2024-10-29</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2024-10-29 datetime="2024-10-29T20:04:11.000Z"></time>
-          </button>
-        </h2>
-        <ul class="articles card">
+          <ul class="articles card">
               <li class="card__section">
                 <article>
                   <details
@@ -74,12 +55,17 @@
   
 The Alphabet Workers Union filed a charge against Google with the National Labor Relations Board after Google management asked workers to “refrain” from talking about its ongoing Search antitrust case.
 The union charges that Google issued an “overly broad directive” on discussing the case to employees, according to a copy of the charge filed in August and viewed by The Verge. On August 5th, just after US District Court Judge Amit Mehta issued his decision finding Google to have an illegal monopoly, president of global affairs Kent Walker sent an email (also reviewed by The Verge) directing employees to “please refrain from commenting on this case, both internally and externally.” Walker sent a similar message at the start of the trial last fall, Business In…</span>
-                            &ensp;<span class="article-reading-time">(&hairsp;24
-                              min&hairsp;)</span>
+                            &ensp;<span class="article-reading-time">(&hairsp;24 min&hairsp;)</span>
                         </span>
                       </div>
                     </a>
-                    <p class="article-source">Source: <a href="https://www.theverge.com/">The Verge -  Front Pages</a></p>
+                    <div>
+                      <span>Source: <a href="https://www.theverge.com/">The Verge -  Front Pages</a></span> | 
+                      <span>Date: <time>2024-10-29</time></span> |
+                      <span>Timestamp: <time>2024-10-29T20:04:11.000Z</time></span> |
+                      <span>Reading time: <time>24 min</time></span> |
+                      <span>Word count: <time>7261</time></span>
+                    </div>
                   </details>
                 </article>
               </li>
@@ -102,12 +88,45 @@ The union charges that Google issued an “overly broad directive” on discussi
   
 If you’re a swing state voter, you may have seen ads claiming that vice president Kamala Harris wants to institute a mandatory gun buyback program and make it easier for undocumented immigrants to get driver’s licenses. These ostensibly pro-Harris ads are the product of Progress 2025, a campaign designed to look like the Democratic answer to the Heritage Foundation’s Project 2025 — but they’re actually funded by a group called Building America’s Future, a pro-Trump super PAC that is in turn funded by Elon Musk.
 Building America’s Future is expanding an ad campaign targeted at undecided voters in swing states, 404 Media reports. Over the past week, the PAC spent over $300,000 on a dozen Facebook ads, which are sub-targeted to 819 diffe…</span>
-                            &ensp;<span class="article-reading-time">(&hairsp;13
-                              min&hairsp;)</span>
+                            &ensp;<span class="article-reading-time">(&hairsp;13 min&hairsp;)</span>
                         </span>
                       </div>
                     </a>
-                    <p class="article-source">Source: <a href="https://www.theverge.com/">The Verge -  Front Pages</a></p>
+                    <div>
+                      <span>Source: <a href="https://www.theverge.com/">The Verge -  Front Pages</a></span> | 
+                      <span>Date: <time>2024-10-29</time></span> |
+                      <span>Timestamp: <time>2024-10-29T19:49:05.000Z</time></span> |
+                      <span>Reading time: <time>13 min</time></span> |
+                      <span>Word count: <time>3998</time></span>
+                    </div>
+                  </details>
+                </article>
+              </li>
+              <li class="card__section">
+                <article>
+                  <details
+                    class="article-expander"
+                    data-action="toggle-native-accordion"
+                    data-accordion-key="https://www.theatlantic.com/politics/archive/2024/10/revenge-voting-over-gaza-is-a-mistake/680446/?utm_source&#x3D;feed"
+                    open
+                  >
+                    <summary class="article-expander__title">Revenge Voting Is a Mistake</summary>
+                    <a class="article-summary-link article-summary-box-outer" href="https://www.theatlantic.com/politics/archive/2024/10/revenge-voting-over-gaza-is-a-mistake/680446/?utm_source&#x3D;feed">
+                      <div class="article-summary-box-inner media-object">
+                          <img src="https://cdn.theatlantic.com/thumbor/LQt8UlEdfcV9R5a5wDrQGeLKwoQ&#x3D;/0x57:2696x1461/1200x625/media/img/mt/2024/10/2024_10_28_gary_indiana_2180061700-1/original.jpg" loading="lazy" class="media-object__media article-image" />
+                        <span class="media-object__text">
+                          <span>Protesters angry over Kamala Harris’s support for Israel should not forget what they stand to lose.</span>
+                            &ensp;<span class="article-reading-time">(&hairsp;10 min&hairsp;)</span>
+                        </span>
+                      </div>
+                    </a>
+                    <div>
+                      <span>Source: <a href="https://www.theatlantic.com/">The Atlantic</a></span> | 
+                      <span>Date: <time>2024-10-29</time></span> |
+                      <span>Timestamp: <time>2024-10-29T19:19:00.000Z</time></span> |
+                      <span>Reading time: <time>10 min</time></span> |
+                      <span>Word count: <time>2921</time></span>
+                    </div>
                   </details>
                 </article>
               </li>
@@ -162,12 +181,17 @@ The Wayans brothers first created the Scary Movie franchise back in 2000, and in
 Miramax head Jonathan Glickman added that “the timing is perfect to bring back the series to the big screen,” and said that the studio is “lucky to have Keenen, Marlon and Shawn’s unique comedic vision bringing it to audiences around the world.”
 Though the first two Scary Movies — which were directed by Keenan and starred Marlon and Shawn — were massively successful at the box office, the brothers left the series after contract talks for a third installment fell apart. In a 2021 appearance on the Comedy Gold Minds podcast, Marlon Wayans insisted that he and his brothers “didn’t walk away from a franchise,” but rather that Miramax under Harvey Weinstein’s leadership “didn’t want to make our deal, and they snatched it.”
 The new Scary Movie is slated to begin production some time next year. There’s no word yet on who else might be returning from the franchise’s original cast or whether any newcomers might join the project.</span>
-                            &ensp;<span class="article-reading-time">(&hairsp;11
-                              min&hairsp;)</span>
+                            &ensp;<span class="article-reading-time">(&hairsp;11 min&hairsp;)</span>
                         </span>
                       </div>
                     </a>
-                    <p class="article-source">Source: <a href="https://www.theverge.com/">The Verge -  Front Pages</a></p>
+                    <div>
+                      <span>Source: <a href="https://www.theverge.com/">The Verge -  Front Pages</a></span> | 
+                      <span>Date: <time>2024-10-29</time></span> |
+                      <span>Timestamp: <time>2024-10-29T19:09:07.000Z</time></span> |
+                      <span>Reading time: <time>11 min</time></span> |
+                      <span>Word count: <time>3361</time></span>
+                    </div>
                   </details>
                 </article>
               </li>
@@ -195,12 +219,73 @@ Still, on its current timeline, the custom-designed hardware may not start produ
 In the meantime, the sources also said OpenAI is incorporating AMD chips into its Microsoft Azure setup. AMD introduced its MI300 chips last year, which was a big part of the news this summer that its data center business has doubled in a single year as it chases market leader Nvidia.
 The Information had reported in July that OpenAI was in discussion with Broadcom and other semiconductor designers about developing its own AI chip, and earlier this year, Bloomberg reported that OpenAI was working to build its own network of foundries, but according to Reuters, those plans have been put on ice due to cost and time. 
 The reported strategy puts OpenAI on a similar track to the other tech companies trying to manage costs and access to AI server hardware with custom chip designs. But Google, Microsoft, and Amazon are all already a few generations down the road in their efforts, and OpenAI may need significantly more funding to become a true competitor.</span>
-                            &ensp;<span class="article-reading-time">(&hairsp;10
-                              min&hairsp;)</span>
+                            &ensp;<span class="article-reading-time">(&hairsp;10 min&hairsp;)</span>
                         </span>
                       </div>
                     </a>
-                    <p class="article-source">Source: <a href="https://www.theverge.com/">The Verge -  Front Pages</a></p>
+                    <div>
+                      <span>Source: <a href="https://www.theverge.com/">The Verge -  Front Pages</a></span> | 
+                      <span>Date: <time>2024-10-29</time></span> |
+                      <span>Timestamp: <time>2024-10-29T19:05:57.000Z</time></span> |
+                      <span>Reading time: <time>10 min</time></span> |
+                      <span>Word count: <time>3086</time></span>
+                    </div>
+                  </details>
+                </article>
+              </li>
+              <li class="card__section">
+                <article>
+                  <details
+                    class="article-expander"
+                    data-action="toggle-native-accordion"
+                    data-accordion-key="https://www.theatlantic.com/technology/archive/2024/10/dwyane-wade-statue-close-reading/680444/?utm_source&#x3D;feed"
+                    open
+                  >
+                    <summary class="article-expander__title">The Worst Statue in the History of Sports</summary>
+                    <a class="article-summary-link article-summary-box-outer" href="https://www.theatlantic.com/technology/archive/2024/10/dwyane-wade-statue-close-reading/680444/?utm_source&#x3D;feed">
+                      <div class="article-summary-box-inner media-object">
+                          <img src="https://cdn.theatlantic.com/thumbor/k8noLTHXcHay2cabp1eh4sXpWVE&#x3D;/0x0:4792x2496/1200x625/media/img/mt/2024/10/HR_AP24302334898301/original.jpg" loading="lazy" class="media-object__media article-image" />
+                        <span class="media-object__text">
+                          <span>Dwyane Wade deserves a do-over.</span>
+                            &ensp;<span class="article-reading-time">(&hairsp;8 min&hairsp;)</span>
+                        </span>
+                      </div>
+                    </a>
+                    <div>
+                      <span>Source: <a href="https://www.theatlantic.com/">The Atlantic</a></span> | 
+                      <span>Date: <time>2024-10-29</time></span> |
+                      <span>Timestamp: <time>2024-10-29T18:42:55.000Z</time></span> |
+                      <span>Reading time: <time>8 min</time></span> |
+                      <span>Word count: <time>2521</time></span>
+                    </div>
+                  </details>
+                </article>
+              </li>
+              <li class="card__section">
+                <article>
+                  <details
+                    class="article-expander"
+                    data-action="toggle-native-accordion"
+                    data-accordion-key="https://www.theatlantic.com/books/archive/2024/10/right-to-oblivion-lowry-pressly-book-review/680443/?utm_source&#x3D;feed"
+                    open
+                  >
+                    <summary class="article-expander__title">You’re More Than Your Data</summary>
+                    <a class="article-summary-link article-summary-box-outer" href="https://www.theatlantic.com/books/archive/2024/10/right-to-oblivion-lowry-pressly-book-review/680443/?utm_source&#x3D;feed">
+                      <div class="article-summary-box-inner media-object">
+                          <img src="https://cdn.theatlantic.com/thumbor/3Jko3qJH_tgcjw04INE4v7PwGvE&#x3D;/0x43:2000x1085/1200x625/media/img/mt/2024/10/Data3/original.jpg" loading="lazy" class="media-object__media article-image" />
+                        <span class="media-object__text">
+                          <span>A lack of privacy has made people’s personal and public lives less meaningful.</span>
+                            &ensp;<span class="article-reading-time">(&hairsp;9 min&hairsp;)</span>
+                        </span>
+                      </div>
+                    </a>
+                    <div>
+                      <span>Source: <a href="https://www.theatlantic.com/">The Atlantic</a></span> | 
+                      <span>Date: <time>2024-10-29</time></span> |
+                      <span>Timestamp: <time>2024-10-29T18:32:00.000Z</time></span> |
+                      <span>Reading time: <time>9 min</time></span> |
+                      <span>Word count: <time>2730</time></span>
+                    </div>
                   </details>
                 </article>
               </li>
@@ -223,12 +308,17 @@ The reported strategy puts OpenAI on a similar track to the other tech companies
   
 Google is rolling out some new Chrome memory management features aimed at helping you wrangle out-of-control tabs more easily. The updates include new “Performance issue alerts” and some tweaks to the existing Memory Saver mode, which already tries to free up the resources of inactive tabs in the background.
 The new alerts appear when a new Performance Detection tool finds that one of your tabs is using more resources than it should. The notification appears next to your account thumbnail in Chrome’s toolbar as a tiny graphic that looks like a speedometer. (If I didn’t know about it already, I might think I’d accidentally added an Ookla Speedtest extension to my browser.) If you click the graphic, it will list the offending tabs and give you the option to “…</span>
-                            &ensp;<span class="article-reading-time">(&hairsp;12
-                              min&hairsp;)</span>
+                            &ensp;<span class="article-reading-time">(&hairsp;12 min&hairsp;)</span>
                         </span>
                       </div>
                     </a>
-                    <p class="article-source">Source: <a href="https://www.theverge.com/">The Verge -  Front Pages</a></p>
+                    <div>
+                      <span>Source: <a href="https://www.theverge.com/">The Verge -  Front Pages</a></span> | 
+                      <span>Date: <time>2024-10-29</time></span> |
+                      <span>Timestamp: <time>2024-10-29T18:11:50.000Z</time></span> |
+                      <span>Reading time: <time>12 min</time></span> |
+                      <span>Word count: <time>3474</time></span>
+                    </div>
                   </details>
                 </article>
               </li>
@@ -257,12 +347,17 @@ Peacock raised the price of its service in July and reported losing 500,000 subs
 Netflix and Universal’s existing arrangement had brought films like The Super Mario Bros. Movie, Sing 2, The Secret Life of Pets, and Kung Fu Panda 4 to Netflix. Now that the agreement has been renewed, we’ll see even more upcoming animated films, such as The Super Mario Bros. Movie 2, Shrek 5, and Minions 3, arrive on the streaming service in the future. Netflix has also secured the rights to “select” titles from Universal’s film library.
 As part of its earnings report earlier this month, Netflix emphasized the importance of offering a “breadth of content” to viewers. It said the company’s goal is to ensure it has “a steady drumbeat of great, new TV shows, movies and games throughout the year.”
 Disclosure: Comcast is an investor in Vox Media, The Verge’s parent company.</span>
-                            &ensp;<span class="article-reading-time">(&hairsp;12
-                              min&hairsp;)</span>
+                            &ensp;<span class="article-reading-time">(&hairsp;12 min&hairsp;)</span>
                         </span>
                       </div>
                     </a>
-                    <p class="article-source">Source: <a href="https://www.theverge.com/">The Verge -  Front Pages</a></p>
+                    <div>
+                      <span>Source: <a href="https://www.theverge.com/">The Verge -  Front Pages</a></span> | 
+                      <span>Date: <time>2024-10-29</time></span> |
+                      <span>Timestamp: <time>2024-10-29T18:07:17.000Z</time></span> |
+                      <span>Reading time: <time>12 min</time></span> |
+                      <span>Word count: <time>3460</time></span>
+                    </div>
                   </details>
                 </article>
               </li>
@@ -286,12 +381,17 @@ Disclosure: Comcast is an investor in Vox Media, The Verge’s parent company.</
 Microsoft’s Recall feature, which creates screenshots of mostly everything you see or do on a Copilot Plus PC, has been mired in controversy ever since it was announced earlier this year. After security researchers found that a pre-release version of the Recall database wasn’t encrypted, Microsoft moved to delay the feature and overhaul it with a big focus on security. 
 Recall still isn’t even available to test yet on Copilot Plus PCs, but some good old fashioned fear, uncertainty, and doubt is spreading about Microsoft supposedly secretly installing it on the latest version of Windows 11.
 IT manager and YouTuber Chris Titus first discovered that Microsoft’s latest update to Windows 11, version 24H2, has references to Recall that confusingly make it seem like it’s…</span>
-                            &ensp;<span class="article-reading-time">(&hairsp;16
-                              min&hairsp;)</span>
+                            &ensp;<span class="article-reading-time">(&hairsp;16 min&hairsp;)</span>
                         </span>
                       </div>
                     </a>
-                    <p class="article-source">Source: <a href="https://www.theverge.com/">The Verge -  Front Pages</a></p>
+                    <div>
+                      <span>Source: <a href="https://www.theverge.com/">The Verge -  Front Pages</a></span> | 
+                      <span>Date: <time>2024-10-29</time></span> |
+                      <span>Timestamp: <time>2024-10-29T18:05:51.000Z</time></span> |
+                      <span>Reading time: <time>16 min</time></span> |
+                      <span>Word count: <time>4701</time></span>
+                    </div>
                   </details>
                 </article>
               </li>
@@ -315,12 +415,17 @@ IT manager and YouTuber Chris Titus first discovered that Microsoft’s latest u
 Sony is closing Firewalk Studios, the studio behind its PlayStation Concord game that it took offline last month after a disastrous launch. In a message to PlayStation staff, Hermen Hulst, CEO of the PlayStation studio business group, says Firewalk Studios will close alongside Neon Koi, a mobile game studio.
 “We have spent considerable time these past few months exploring all our options,” says Hulst. “After much thought, we have determined the best path forward is to permanently sunset the game and close the studio. I want to thank all of Firewalk for their craftsmanship, creative spirit and dedication.”
 Hulst says Concord didn’t hit Sony’s targets and that the PlayStation maker will “take the lessons learned from Concord and continue to advance our live service capab…</span>
-                            &ensp;<span class="article-reading-time">(&hairsp;11
-                              min&hairsp;)</span>
+                            &ensp;<span class="article-reading-time">(&hairsp;11 min&hairsp;)</span>
                         </span>
                       </div>
                     </a>
-                    <p class="article-source">Source: <a href="https://www.theverge.com/">The Verge -  Front Pages</a></p>
+                    <div>
+                      <span>Source: <a href="https://www.theverge.com/">The Verge -  Front Pages</a></span> | 
+                      <span>Date: <time>2024-10-29</time></span> |
+                      <span>Timestamp: <time>2024-10-29T17:52:19.000Z</time></span> |
+                      <span>Reading time: <time>11 min</time></span> |
+                      <span>Word count: <time>3237</time></span>
+                    </div>
                   </details>
                 </article>
               </li>
@@ -345,12 +450,17 @@ Between new M4-based Macs and the long-awaited arrival of Apple Intelligence in 
 
 
 In addition to the M4 iMac’s new colors, USB-C peripherals, and an upgraded 12MP FaceTime camera, Apple is also increasing the starting RAM from 8GB to 16GB. There aren’t many other drastic performance differences over last year’s model, but the added power and memory are a welcome boost fo…</span>
-                            &ensp;<span class="article-reading-time">(&hairsp;22
-                              min&hairsp;)</span>
+                            &ensp;<span class="article-reading-time">(&hairsp;22 min&hairsp;)</span>
                         </span>
                       </div>
                     </a>
-                    <p class="article-source">Source: <a href="https://www.theverge.com/">The Verge -  Front Pages</a></p>
+                    <div>
+                      <span>Source: <a href="https://www.theverge.com/">The Verge -  Front Pages</a></span> | 
+                      <span>Date: <time>2024-10-29</time></span> |
+                      <span>Timestamp: <time>2024-10-29T17:37:16.000Z</time></span> |
+                      <span>Reading time: <time>22 min</time></span> |
+                      <span>Word count: <time>6593</time></span>
+                    </div>
                   </details>
                 </article>
               </li>
@@ -376,12 +486,45 @@ What follows is a description of Pocket and some of the available apps. They all
 Pocket
 Screenshot: Mozilla
       Pocket has developed an attractive interface and a va…</span>
-                            &ensp;<span class="article-reading-time">(&hairsp;29
-                              min&hairsp;)</span>
+                            &ensp;<span class="article-reading-time">(&hairsp;29 min&hairsp;)</span>
                         </span>
                       </div>
                     </a>
-                    <p class="article-source">Source: <a href="https://www.theverge.com/">The Verge -  Front Pages</a></p>
+                    <div>
+                      <span>Source: <a href="https://www.theverge.com/">The Verge -  Front Pages</a></span> | 
+                      <span>Date: <time>2024-10-29</time></span> |
+                      <span>Timestamp: <time>2024-10-29T17:21:36.000Z</time></span> |
+                      <span>Reading time: <time>29 min</time></span> |
+                      <span>Word count: <time>8598</time></span>
+                    </div>
+                  </details>
+                </article>
+              </li>
+              <li class="card__section">
+                <article>
+                  <details
+                    class="article-expander"
+                    data-action="toggle-native-accordion"
+                    data-accordion-key="https://www.theatlantic.com/culture/archive/2024/10/dear-james-my-colleague-repeats-herself-constantly/680431/?utm_source&#x3D;feed"
+                    open
+                  >
+                    <summary class="article-expander__title">My Colleague Repeats Herself Constantly</summary>
+                    <a class="article-summary-link article-summary-box-outer" href="https://www.theatlantic.com/culture/archive/2024/10/dear-james-my-colleague-repeats-herself-constantly/680431/?utm_source&#x3D;feed">
+                      <div class="article-summary-box-inner media-object">
+                          <img src="https://cdn.theatlantic.com/thumbor/K0eLa19k3H74aralriZHbTaXa2Y&#x3D;/2x82:1919x1080/1200x625/media/img/mt/2024/10/final_dear_james_7_miguel_porlan-1/original.jpg" loading="lazy" class="media-object__media article-image" />
+                        <span class="media-object__text">
+                          <span>And I’m losing my mind.</span>
+                            &ensp;<span class="article-reading-time">(&hairsp;8 min&hairsp;)</span>
+                        </span>
+                      </div>
+                    </a>
+                    <div>
+                      <span>Source: <a href="https://www.theatlantic.com/">The Atlantic</a></span> | 
+                      <span>Date: <time>2024-10-29</time></span> |
+                      <span>Timestamp: <time>2024-10-29T17:00:00.000Z</time></span> |
+                      <span>Reading time: <time>8 min</time></span> |
+                      <span>Word count: <time>2460</time></span>
+                    </div>
                   </details>
                 </article>
               </li>
@@ -406,12 +549,17 @@ It can be hard to get some peace and quiet even on an average day, but with the 
 
 
 When it comes to noise-canceling headphones, few can rival Sony’s WH-1000XM5, which is why they’re our favorite pair on the market. Along with canceling out noise impressively, they deliver clear, detail-rich sound with support for LDAC, Sony’s codec …</span>
-                            &ensp;<span class="article-reading-time">(&hairsp;13
-                              min&hairsp;)</span>
+                            &ensp;<span class="article-reading-time">(&hairsp;13 min&hairsp;)</span>
                         </span>
                       </div>
                     </a>
-                    <p class="article-source">Source: <a href="https://www.theverge.com/">The Verge -  Front Pages</a></p>
+                    <div>
+                      <span>Source: <a href="https://www.theverge.com/">The Verge -  Front Pages</a></span> | 
+                      <span>Date: <time>2024-10-29</time></span> |
+                      <span>Timestamp: <time>2024-10-29T16:37:03.000Z</time></span> |
+                      <span>Reading time: <time>13 min</time></span> |
+                      <span>Word count: <time>3960</time></span>
+                    </div>
                   </details>
                 </article>
               </li>
@@ -437,104 +585,17 @@ Though we’re mere months away from the reveal of the Switch’s successor, Nin
 
 Nintendo released a new trailer to mark the occasion and its opening seconds feel hilariously on the nose. There’s something deeply ironic about the trailer for a Switch port of a ten-year old Wii U game starting with the dialogue, “Well, here we are. Not too shabby, huh?” It’s like a tongue-in-cheek joke acknowledging there’s a wealth of Wii U games in desperate need of salvation (coughs Wind Waker coughs) and Xenoblade Chronicles X was one of the lucky ones to get a lifeboat off the sunken, inaccessible ship that is the Nintendo back catalogue. 
 In addition to porting old Wii U games, Nintendo’s still releasing new titles in the twilight days of the Switch. Mario &amp; Luigi: Brothership is due out next week. Nintendo’s also confirmed that Metroid Prime 4 will get a Switch release too.</span>
-                            &ensp;<span class="article-reading-time">(&hairsp;10
-                              min&hairsp;)</span>
+                            &ensp;<span class="article-reading-time">(&hairsp;10 min&hairsp;)</span>
                         </span>
                       </div>
                     </a>
-                    <p class="article-source">Source: <a href="https://www.theverge.com/">The Verge -  Front Pages</a></p>
-                  </details>
-                </article>
-              </li>
-              <li class="card__section">
-                <article>
-                  <details
-                    class="article-expander"
-                    data-action="toggle-native-accordion"
-                    data-accordion-key="https://www.theatlantic.com/politics/archive/2024/10/revenge-voting-over-gaza-is-a-mistake/680446/?utm_source&#x3D;feed"
-                    open
-                  >
-                    <summary class="article-expander__title">Revenge Voting Is a Mistake</summary>
-                    <a class="article-summary-link article-summary-box-outer" href="https://www.theatlantic.com/politics/archive/2024/10/revenge-voting-over-gaza-is-a-mistake/680446/?utm_source&#x3D;feed">
-                      <div class="article-summary-box-inner media-object">
-                          <img src="https://cdn.theatlantic.com/thumbor/LQt8UlEdfcV9R5a5wDrQGeLKwoQ&#x3D;/0x57:2696x1461/1200x625/media/img/mt/2024/10/2024_10_28_gary_indiana_2180061700-1/original.jpg" loading="lazy" class="media-object__media article-image" />
-                        <span class="media-object__text">
-                          <span>Protesters angry over Kamala Harris’s support for Israel should not forget what they stand to lose.</span>
-                            &ensp;<span class="article-reading-time">(&hairsp;10
-                              min&hairsp;)</span>
-                        </span>
-                      </div>
-                    </a>
-                    <p class="article-source">Source: <a href="https://www.theatlantic.com/">The Atlantic</a></p>
-                  </details>
-                </article>
-              </li>
-              <li class="card__section">
-                <article>
-                  <details
-                    class="article-expander"
-                    data-action="toggle-native-accordion"
-                    data-accordion-key="https://www.theatlantic.com/technology/archive/2024/10/dwyane-wade-statue-close-reading/680444/?utm_source&#x3D;feed"
-                    open
-                  >
-                    <summary class="article-expander__title">The Worst Statue in the History of Sports</summary>
-                    <a class="article-summary-link article-summary-box-outer" href="https://www.theatlantic.com/technology/archive/2024/10/dwyane-wade-statue-close-reading/680444/?utm_source&#x3D;feed">
-                      <div class="article-summary-box-inner media-object">
-                          <img src="https://cdn.theatlantic.com/thumbor/k8noLTHXcHay2cabp1eh4sXpWVE&#x3D;/0x0:4792x2496/1200x625/media/img/mt/2024/10/HR_AP24302334898301/original.jpg" loading="lazy" class="media-object__media article-image" />
-                        <span class="media-object__text">
-                          <span>Dwyane Wade deserves a do-over.</span>
-                            &ensp;<span class="article-reading-time">(&hairsp;8
-                              min&hairsp;)</span>
-                        </span>
-                      </div>
-                    </a>
-                    <p class="article-source">Source: <a href="https://www.theatlantic.com/">The Atlantic</a></p>
-                  </details>
-                </article>
-              </li>
-              <li class="card__section">
-                <article>
-                  <details
-                    class="article-expander"
-                    data-action="toggle-native-accordion"
-                    data-accordion-key="https://www.theatlantic.com/books/archive/2024/10/right-to-oblivion-lowry-pressly-book-review/680443/?utm_source&#x3D;feed"
-                    open
-                  >
-                    <summary class="article-expander__title">You’re More Than Your Data</summary>
-                    <a class="article-summary-link article-summary-box-outer" href="https://www.theatlantic.com/books/archive/2024/10/right-to-oblivion-lowry-pressly-book-review/680443/?utm_source&#x3D;feed">
-                      <div class="article-summary-box-inner media-object">
-                          <img src="https://cdn.theatlantic.com/thumbor/3Jko3qJH_tgcjw04INE4v7PwGvE&#x3D;/0x43:2000x1085/1200x625/media/img/mt/2024/10/Data3/original.jpg" loading="lazy" class="media-object__media article-image" />
-                        <span class="media-object__text">
-                          <span>A lack of privacy has made people’s personal and public lives less meaningful.</span>
-                            &ensp;<span class="article-reading-time">(&hairsp;9
-                              min&hairsp;)</span>
-                        </span>
-                      </div>
-                    </a>
-                    <p class="article-source">Source: <a href="https://www.theatlantic.com/">The Atlantic</a></p>
-                  </details>
-                </article>
-              </li>
-              <li class="card__section">
-                <article>
-                  <details
-                    class="article-expander"
-                    data-action="toggle-native-accordion"
-                    data-accordion-key="https://www.theatlantic.com/culture/archive/2024/10/dear-james-my-colleague-repeats-herself-constantly/680431/?utm_source&#x3D;feed"
-                    open
-                  >
-                    <summary class="article-expander__title">My Colleague Repeats Herself Constantly</summary>
-                    <a class="article-summary-link article-summary-box-outer" href="https://www.theatlantic.com/culture/archive/2024/10/dear-james-my-colleague-repeats-herself-constantly/680431/?utm_source&#x3D;feed">
-                      <div class="article-summary-box-inner media-object">
-                          <img src="https://cdn.theatlantic.com/thumbor/K0eLa19k3H74aralriZHbTaXa2Y&#x3D;/2x82:1919x1080/1200x625/media/img/mt/2024/10/final_dear_james_7_miguel_porlan-1/original.jpg" loading="lazy" class="media-object__media article-image" />
-                        <span class="media-object__text">
-                          <span>And I’m losing my mind.</span>
-                            &ensp;<span class="article-reading-time">(&hairsp;8
-                              min&hairsp;)</span>
-                        </span>
-                      </div>
-                    </a>
-                    <p class="article-source">Source: <a href="https://www.theatlantic.com/">The Atlantic</a></p>
+                    <div>
+                      <span>Source: <a href="https://www.theverge.com/">The Verge -  Front Pages</a></span> | 
+                      <span>Date: <time>2024-10-29</time></span> |
+                      <span>Timestamp: <time>2024-10-29T16:35:25.000Z</time></span> |
+                      <span>Reading time: <time>10 min</time></span> |
+                      <span>Word count: <time>2867</time></span>
+                    </div>
                   </details>
                 </article>
               </li>
@@ -552,12 +613,17 @@ In addition to porting old Wii U games, Nintendo’s still releasing new titles 
                           <img src="https://cdn.theatlantic.com/thumbor/VFnbx-WYO5yJ8Bhwd6t0s-7NPaA&#x3D;/0x43:2000x1085/1200x625/media/img/2024/10/CC_Swafford_MessiahHP/original.png" loading="lazy" class="media-object__media article-image" />
                         <span class="media-object__text">
                           <span>The oratorio is a feat of sustained inspiration arguably unsurpassed in the canon of Western classical music.</span>
-                            &ensp;<span class="article-reading-time">(&hairsp;16
-                              min&hairsp;)</span>
+                            &ensp;<span class="article-reading-time">(&hairsp;16 min&hairsp;)</span>
                         </span>
                       </div>
                     </a>
-                    <p class="article-source">Source: <a href="https://www.theatlantic.com/">The Atlantic</a></p>
+                    <div>
+                      <span>Source: <a href="https://www.theatlantic.com/">The Atlantic</a></span> | 
+                      <span>Date: <time>2024-10-29</time></span> |
+                      <span>Timestamp: <time>2024-10-29T16:30:00.000Z</time></span> |
+                      <span>Reading time: <time>16 min</time></span> |
+                      <span>Word count: <time>4882</time></span>
+                    </div>
                   </details>
                 </article>
               </li>
@@ -575,12 +641,17 @@ In addition to porting old Wii U games, Nintendo’s still releasing new titles 
                           <img src="https://cdn.theatlantic.com/thumbor/WqUUOYLwQxt9gFpElXN1mIJ1Sas&#x3D;/0x43:2000x1085/1200x625/media/img/mt/2024/10/TrumpApathy/original.png" loading="lazy" class="media-object__media article-image" />
                         <span class="media-object__text">
                           <span>This year is nothing like 2020, and a collective sense of resignation might make all the difference.</span>
-                            &ensp;<span class="article-reading-time">(&hairsp;9
-                              min&hairsp;)</span>
+                            &ensp;<span class="article-reading-time">(&hairsp;9 min&hairsp;)</span>
                         </span>
                       </div>
                     </a>
-                    <p class="article-source">Source: <a href="https://www.theatlantic.com/">The Atlantic</a></p>
+                    <div>
+                      <span>Source: <a href="https://www.theatlantic.com/">The Atlantic</a></span> | 
+                      <span>Date: <time>2024-10-29</time></span> |
+                      <span>Timestamp: <time>2024-10-29T16:00:00.000Z</time></span> |
+                      <span>Reading time: <time>9 min</time></span> |
+                      <span>Word count: <time>2628</time></span>
+                    </div>
                   </details>
                 </article>
               </li>
@@ -598,12 +669,17 @@ In addition to porting old Wii U games, Nintendo’s still releasing new titles 
                           <img src="https://cdn.theatlantic.com/thumbor/_6re0giqpK6wSp1-8tzizRzARYI&#x3D;/0x43:2000x1085/1200x625/media/img/mt/2024/10/new_QA_francis_final/original.jpg" loading="lazy" class="media-object__media article-image" />
                         <span class="media-object__text">
                           <span>The legendary political scientist is very much alive, but liberal democracy is at risk.</span>
-                            &ensp;<span class="article-reading-time">(&hairsp;12
-                              min&hairsp;)</span>
+                            &ensp;<span class="article-reading-time">(&hairsp;12 min&hairsp;)</span>
                         </span>
                       </div>
                     </a>
-                    <p class="article-source">Source: <a href="https://www.theatlantic.com/">The Atlantic</a></p>
+                    <div>
+                      <span>Source: <a href="https://www.theatlantic.com/">The Atlantic</a></span> | 
+                      <span>Date: <time>2024-10-29</time></span> |
+                      <span>Timestamp: <time>2024-10-29T14:45:21.000Z</time></span> |
+                      <span>Reading time: <time>12 min</time></span> |
+                      <span>Word count: <time>3505</time></span>
+                    </div>
                   </details>
                 </article>
               </li>
@@ -621,12 +697,17 @@ In addition to porting old Wii U games, Nintendo’s still releasing new titles 
                           <img src="https://cdn.theatlantic.com/thumbor/W3fA3MPULYHNEuoWPAhfKkdXR_g&#x3D;/0x662:2116x1764/1200x625/media/img/mt/2024/10/HarrisEndorsementUnused3/original.jpg" loading="lazy" class="media-object__media article-image" />
                         <span class="media-object__text">
                           <span>If Trump wins the presidency again, conservatism will be homeless, a philosophy without a party, for at least a generation.</span>
-                            &ensp;<span class="article-reading-time">(&hairsp;18
-                              min&hairsp;)</span>
+                            &ensp;<span class="article-reading-time">(&hairsp;18 min&hairsp;)</span>
                         </span>
                       </div>
                     </a>
-                    <p class="article-source">Source: <a href="https://www.theatlantic.com/">The Atlantic</a></p>
+                    <div>
+                      <span>Source: <a href="https://www.theatlantic.com/">The Atlantic</a></span> | 
+                      <span>Date: <time>2024-10-29</time></span> |
+                      <span>Timestamp: <time>2024-10-29T13:56:14.000Z</time></span> |
+                      <span>Reading time: <time>18 min</time></span> |
+                      <span>Word count: <time>5387</time></span>
+                    </div>
                   </details>
                 </article>
               </li>
@@ -644,12 +725,17 @@ In addition to porting old Wii U games, Nintendo’s still releasing new titles 
                           <img src="https://cdn.theatlantic.com/thumbor/LkvNxB_RL8Cfr8KFjlJqalD6b9E&#x3D;/0x102:4792x2598/1200x625/media/img/mt/2024/10/Final_Opera_senza_titolo/original.jpg" loading="lazy" class="media-object__media article-image" />
                         <span class="media-object__text">
                           <span>Black people see what is happening to Palestinians, and many feel the tug of the familiar in their heart.</span>
-                            &ensp;<span class="article-reading-time">(&hairsp;33
-                              min&hairsp;)</span>
+                            &ensp;<span class="article-reading-time">(&hairsp;33 min&hairsp;)</span>
                         </span>
                       </div>
                     </a>
-                    <p class="article-source">Source: <a href="https://www.theatlantic.com/">The Atlantic</a></p>
+                    <div>
+                      <span>Source: <a href="https://www.theatlantic.com/">The Atlantic</a></span> | 
+                      <span>Date: <time>2024-10-29</time></span> |
+                      <span>Timestamp: <time>2024-10-29T13:44:00.000Z</time></span> |
+                      <span>Reading time: <time>33 min</time></span> |
+                      <span>Word count: <time>9988</time></span>
+                    </div>
                   </details>
                 </article>
               </li>
@@ -667,12 +753,17 @@ In addition to porting old Wii U games, Nintendo’s still releasing new titles 
                           <img src="https://cdn.theatlantic.com/thumbor/zNTqR7qYdij5WB5DLlwLPuiyEjk&#x3D;/0x43:2000x1085/1200x625/media/img/mt/2024/10/poltical_news_final/original.jpg" loading="lazy" class="media-object__media article-image" />
                         <span class="media-object__text">
                           <span>It’s more tempting than ever to ignore the election.</span>
-                            &ensp;<span class="article-reading-time">(&hairsp;9
-                              min&hairsp;)</span>
+                            &ensp;<span class="article-reading-time">(&hairsp;9 min&hairsp;)</span>
                         </span>
                       </div>
                     </a>
-                    <p class="article-source">Source: <a href="https://www.theatlantic.com/">The Atlantic</a></p>
+                    <div>
+                      <span>Source: <a href="https://www.theatlantic.com/">The Atlantic</a></span> | 
+                      <span>Date: <time>2024-10-29</time></span> |
+                      <span>Timestamp: <time>2024-10-29T11:30:00.000Z</time></span> |
+                      <span>Reading time: <time>9 min</time></span> |
+                      <span>Word count: <time>2733</time></span>
+                    </div>
                   </details>
                 </article>
               </li>
@@ -690,12 +781,17 @@ In addition to porting old Wii U games, Nintendo’s still releasing new titles 
                           <img src="https://cdn.theatlantic.com/thumbor/XGVlsXjkmFzkzQWNcbQVifVdyzU&#x3D;/0x43:2000x1085/1200x625/media/img/mt/2024/10/akron/original.jpg" loading="lazy" class="media-object__media article-image" />
                         <span class="media-object__text">
                           <span>The state has quite a crop of young, talented Democratic leaders—who face tough odds of ever moving up in politics.</span>
-                            &ensp;<span class="article-reading-time">(&hairsp;17
-                              min&hairsp;)</span>
+                            &ensp;<span class="article-reading-time">(&hairsp;17 min&hairsp;)</span>
                         </span>
                       </div>
                     </a>
-                    <p class="article-source">Source: <a href="https://www.theatlantic.com/">The Atlantic</a></p>
+                    <div>
+                      <span>Source: <a href="https://www.theatlantic.com/">The Atlantic</a></span> | 
+                      <span>Date: <time>2024-10-29</time></span> |
+                      <span>Timestamp: <time>2024-10-29T10:30:00.000Z</time></span> |
+                      <span>Reading time: <time>17 min</time></span> |
+                      <span>Word count: <time>5127</time></span>
+                    </div>
                   </details>
                 </article>
               </li>
@@ -713,12 +809,17 @@ In addition to porting old Wii U games, Nintendo’s still releasing new titles 
                           <img src="https://cdn.theatlantic.com/thumbor/2cs8FsCZNc7mLESKW9uBCoQXymc&#x3D;/0x58:2880x1558/1200x625/media/img/mt/2024/10/GOP_episode_greedflation_horizontal/original.jpg" loading="lazy" class="media-object__media article-image" />
                         <span class="media-object__text">
                           <span>Anger at high grocery prices may help reelect Donald Trump. Is corporate greed to blame?</span>
-                            &ensp;<span class="article-reading-time">(&hairsp;61
-                              min&hairsp;)</span>
+                            &ensp;<span class="article-reading-time">(&hairsp;61 min&hairsp;)</span>
                         </span>
                       </div>
                     </a>
-                    <p class="article-source">Source: <a href="https://www.theatlantic.com/">The Atlantic</a></p>
+                    <div>
+                      <span>Source: <a href="https://www.theatlantic.com/">The Atlantic</a></span> | 
+                      <span>Date: <time>2024-10-29</time></span> |
+                      <span>Timestamp: <time>2024-10-29T10:00:00.000Z</time></span> |
+                      <span>Reading time: <time>61 min</time></span> |
+                      <span>Word count: <time>18289</time></span>
+                    </div>
                   </details>
                 </article>
               </li>
@@ -736,29 +837,36 @@ In addition to porting old Wii U games, Nintendo’s still releasing new titles 
                           <img src="https://cdn.theatlantic.com/thumbor/kMC5HpEpxzGUGGE1WJUcYyYgoFs&#x3D;/0x57:2696x1461/1200x625/media/img/mt/2024/10/2024_10_28_1240195263/original.jpg" loading="lazy" class="media-object__media article-image" />
                         <span class="media-object__text">
                           <span>The right is already saying the election is rigged.</span>
-                            &ensp;<span class="article-reading-time">(&hairsp;8
-                              min&hairsp;)</span>
+                            &ensp;<span class="article-reading-time">(&hairsp;8 min&hairsp;)</span>
                         </span>
                       </div>
                     </a>
-                    <p class="article-source">Source: <a href="https://www.theatlantic.com/">The Atlantic</a></p>
+                    <div>
+                      <span>Source: <a href="https://www.theatlantic.com/">The Atlantic</a></span> | 
+                      <span>Date: <time>2024-10-29</time></span> |
+                      <span>Timestamp: <time>2024-10-29T00:19:00.000Z</time></span> |
+                      <span>Reading time: <time>8 min</time></span> |
+                      <span>Word count: <time>2412</time></span>
+                    </div>
                   </details>
                 </article>
               </li>
-        </ul>
-      </section>
-      <section class="daily-content js-toggle-accordions-scope">
-        <h2 class="daily-heading">
-          <button
-            class="daily-heading-toggle"
-            data-action="toggle-accordions"
-            title="Click to toggle the day, Ctrl + click to toggle all."
-          >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2024-10-28 datetime="2024-10-28T23:19:17.000Z">2024-10-28</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2024-10-28 datetime="2024-10-28T23:19:17.000Z"></time>
-          </button>
-        </h2>
-        <ul class="articles card">
+          </ul>
+        </section>
+      </li>
+      <li class="card__section">
+        <section>
+          <h2 class="daily-heading">
+            <button
+              class="daily-heading-toggle"
+              data-action="toggle-accordions"
+              title="Click to toggle the day, Ctrl + click to toggle all."
+            >
+              <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date="2024-10-28" datetime="2024-10-28T23:19:17.000Z">2024-10-28</time>
+            </button>
+          </h2>
+
+          <ul class="articles card">
               <li class="card__section">
                 <article>
                   <details
@@ -773,12 +881,17 @@ In addition to porting old Wii U games, Nintendo’s still releasing new titles 
                           <img src="https://cdn.theatlantic.com/thumbor/FKhfUW-EaFrWVZQxMOClNwSPVSc&#x3D;/0x85:3994x2165/1200x625/media/img/mt/2024/10/GettyImages_2180787738/original.jpg" loading="lazy" class="media-object__media article-image" />
                         <span class="media-object__text">
                           <span>An afternoon outside the Trump rally at Madison Square Garden</span>
-                            &ensp;<span class="article-reading-time">(&hairsp;8
-                              min&hairsp;)</span>
+                            &ensp;<span class="article-reading-time">(&hairsp;8 min&hairsp;)</span>
                         </span>
                       </div>
                     </a>
-                    <p class="article-source">Source: <a href="https://www.theatlantic.com/">The Atlantic</a></p>
+                    <div>
+                      <span>Source: <a href="https://www.theatlantic.com/">The Atlantic</a></span> | 
+                      <span>Date: <time>2024-10-28</time></span> |
+                      <span>Timestamp: <time>2024-10-28T23:19:17.000Z</time></span> |
+                      <span>Reading time: <time>8 min</time></span> |
+                      <span>Word count: <time>2384</time></span>
+                    </div>
                   </details>
                 </article>
               </li>
@@ -796,12 +909,17 @@ In addition to porting old Wii U games, Nintendo’s still releasing new titles 
                           <img src="https://cdn.theatlantic.com/thumbor/gwtl4hYG7d6ELJGhjiwIwmuwEGQ&#x3D;/0x691:5620x3618/1200x625/media/img/mt/2024/10/GettyImages_2179030530/original.jpg" loading="lazy" class="media-object__media article-image" />
                         <span class="media-object__text">
                           <span>The U.S. government seems to think he’s too big to fail.</span>
-                            &ensp;<span class="article-reading-time">(&hairsp;13
-                              min&hairsp;)</span>
+                            &ensp;<span class="article-reading-time">(&hairsp;13 min&hairsp;)</span>
                         </span>
                       </div>
                     </a>
-                    <p class="article-source">Source: <a href="https://www.theatlantic.com/">The Atlantic</a></p>
+                    <div>
+                      <span>Source: <a href="https://www.theatlantic.com/">The Atlantic</a></span> | 
+                      <span>Date: <time>2024-10-28</time></span> |
+                      <span>Timestamp: <time>2024-10-28T21:44:00.000Z</time></span> |
+                      <span>Reading time: <time>13 min</time></span> |
+                      <span>Word count: <time>3968</time></span>
+                    </div>
                   </details>
                 </article>
               </li>
@@ -819,12 +937,17 @@ In addition to porting old Wii U games, Nintendo’s still releasing new titles 
                           <img src="https://cdn.theatlantic.com/thumbor/rjuDJet8ljJtkixxRSxXdtTcrc4&#x3D;/0x43:2000x1085/1200x625/media/img/mt/2024/10/beyonce_kamala_final/original.jpg" loading="lazy" class="media-object__media article-image" />
                         <span class="media-object__text">
                           <span>Democratic politics and pop culture have long been entangled—but entertainers seem a bit more sheepish about their endorsements lately.</span>
-                            &ensp;<span class="article-reading-time">(&hairsp;11
-                              min&hairsp;)</span>
+                            &ensp;<span class="article-reading-time">(&hairsp;11 min&hairsp;)</span>
                         </span>
                       </div>
                     </a>
-                    <p class="article-source">Source: <a href="https://www.theatlantic.com/">The Atlantic</a></p>
+                    <div>
+                      <span>Source: <a href="https://www.theatlantic.com/">The Atlantic</a></span> | 
+                      <span>Date: <time>2024-10-28</time></span> |
+                      <span>Timestamp: <time>2024-10-28T20:24:33.000Z</time></span> |
+                      <span>Reading time: <time>11 min</time></span> |
+                      <span>Word count: <time>3255</time></span>
+                    </div>
                   </details>
                 </article>
               </li>
@@ -842,12 +965,17 @@ In addition to porting old Wii U games, Nintendo’s still releasing new titles 
                           <img src="https://cdn.theatlantic.com/thumbor/P2SSL6GwCAwsnvsB01rR1oh8lgk&#x3D;/0x440:5991x3560/1200x625/media/img/mt/2024/10/GettyImages_2181418892/original.jpg" loading="lazy" class="media-object__media article-image" />
                         <span class="media-object__text">
                           <span>The former president is psychologically preparing Americans for an assault on the electoral system.</span>
-                            &ensp;<span class="article-reading-time">(&hairsp;8
-                              min&hairsp;)</span>
+                            &ensp;<span class="article-reading-time">(&hairsp;8 min&hairsp;)</span>
                         </span>
                       </div>
                     </a>
-                    <p class="article-source">Source: <a href="https://www.theatlantic.com/">The Atlantic</a></p>
+                    <div>
+                      <span>Source: <a href="https://www.theatlantic.com/">The Atlantic</a></span> | 
+                      <span>Date: <time>2024-10-28</time></span> |
+                      <span>Timestamp: <time>2024-10-28T20:06:55.000Z</time></span> |
+                      <span>Reading time: <time>8 min</time></span> |
+                      <span>Word count: <time>2520</time></span>
+                    </div>
                   </details>
                 </article>
               </li>
@@ -865,12 +993,17 @@ In addition to porting old Wii U games, Nintendo’s still releasing new titles 
                           <img src="https://cdn.theatlantic.com/thumbor/oo6imr2AlXy35zB9D39bQ3Ng6fs&#x3D;/0x57:2696x1461/1200x625/media/img/mt/2024/10/2024_10_28_23269731806451/original.jpg" loading="lazy" class="media-object__media article-image" />
                         <span class="media-object__text">
                           <span>The koozies and coffee mugs were a mistake.</span>
-                            &ensp;<span class="article-reading-time">(&hairsp;9
-                              min&hairsp;)</span>
+                            &ensp;<span class="article-reading-time">(&hairsp;9 min&hairsp;)</span>
                         </span>
                       </div>
                     </a>
-                    <p class="article-source">Source: <a href="https://www.theatlantic.com/">The Atlantic</a></p>
+                    <div>
+                      <span>Source: <a href="https://www.theatlantic.com/">The Atlantic</a></span> | 
+                      <span>Date: <time>2024-10-28</time></span> |
+                      <span>Timestamp: <time>2024-10-28T18:32:00.000Z</time></span> |
+                      <span>Reading time: <time>9 min</time></span> |
+                      <span>Word count: <time>2810</time></span>
+                    </div>
                   </details>
                 </article>
               </li>
@@ -888,12 +1021,17 @@ In addition to porting old Wii U games, Nintendo’s still releasing new titles 
                           <img src="https://cdn.theatlantic.com/thumbor/TilzIc8WUOQLR5PLvai4HFCwueY&#x3D;/0x62:2932x1589/1200x625/media/img/mt/2024/10/GettyImages_1243657668/original.jpg" loading="lazy" class="media-object__media article-image" />
                         <span class="media-object__text">
                           <span>His allies now claim that he wouldn’t really impose massive global tariffs if elected. But the uncertainty created by threats is bad enough.</span>
-                            &ensp;<span class="article-reading-time">(&hairsp;11
-                              min&hairsp;)</span>
+                            &ensp;<span class="article-reading-time">(&hairsp;11 min&hairsp;)</span>
                         </span>
                       </div>
                     </a>
-                    <p class="article-source">Source: <a href="https://www.theatlantic.com/">The Atlantic</a></p>
+                    <div>
+                      <span>Source: <a href="https://www.theatlantic.com/">The Atlantic</a></span> | 
+                      <span>Date: <time>2024-10-28</time></span> |
+                      <span>Timestamp: <time>2024-10-28T18:02:00.000Z</time></span> |
+                      <span>Reading time: <time>11 min</time></span> |
+                      <span>Word count: <time>3167</time></span>
+                    </div>
                   </details>
                 </article>
               </li>
@@ -911,12 +1049,17 @@ In addition to porting old Wii U games, Nintendo’s still releasing new titles 
                           <img src="https://cdn.theatlantic.com/thumbor/Yq_fBUASk88o6LYFOtzA7OGxHv8&#x3D;/0x119:2000x1161/960x500/media/img/photo/2024/10/la-machine/a01_G-2180352690-1/original.jpg" loading="lazy" class="media-object__media article-image" />
                         <span class="media-object__text">
                           <span>Images of several remarkable huge puppets performing in the streets of Toulouse</span>
-                            &ensp;<span class="article-reading-time">(&hairsp;11
-                              min&hairsp;)</span>
+                            &ensp;<span class="article-reading-time">(&hairsp;11 min&hairsp;)</span>
                         </span>
                       </div>
                     </a>
-                    <p class="article-source">Source: <a href="https://www.theatlantic.com/">The Atlantic</a></p>
+                    <div>
+                      <span>Source: <a href="https://www.theatlantic.com/">The Atlantic</a></span> | 
+                      <span>Date: <time>2024-10-28</time></span> |
+                      <span>Timestamp: <time>2024-10-28T17:29:55.000Z</time></span> |
+                      <span>Reading time: <time>11 min</time></span> |
+                      <span>Word count: <time>3344</time></span>
+                    </div>
                   </details>
                 </article>
               </li>
@@ -934,12 +1077,17 @@ In addition to porting old Wii U games, Nintendo’s still releasing new titles 
                           <img src="https://cdn.theatlantic.com/thumbor/sdCSW_JZPdUqxF4GRyRZgSrQXd8&#x3D;/0x57:2696x1461/1200x625/media/img/mt/2024/10/2024_10_28_2180782348/original.jpg" loading="lazy" class="media-object__media article-image" />
                         <span class="media-object__text">
                           <span>At his Madison Square Garden rally, Trump’s argument was hate and fear.</span>
-                            &ensp;<span class="article-reading-time">(&hairsp;7
-                              min&hairsp;)</span>
+                            &ensp;<span class="article-reading-time">(&hairsp;7 min&hairsp;)</span>
                         </span>
                       </div>
                     </a>
-                    <p class="article-source">Source: <a href="https://www.theatlantic.com/">The Atlantic</a></p>
+                    <div>
+                      <span>Source: <a href="https://www.theatlantic.com/">The Atlantic</a></span> | 
+                      <span>Date: <time>2024-10-28</time></span> |
+                      <span>Timestamp: <time>2024-10-28T16:11:10.000Z</time></span> |
+                      <span>Reading time: <time>7 min</time></span> |
+                      <span>Word count: <time>2089</time></span>
+                    </div>
                   </details>
                 </article>
               </li>
@@ -957,12 +1105,17 @@ In addition to porting old Wii U games, Nintendo’s still releasing new titles 
                           <img src="https://cdn.theatlantic.com/thumbor/eIkbrOY0Hj62lVg7HsBpSGEaB20&#x3D;/0x105:4950x2683/1200x625/media/img/mt/2024/10/h_16/original.jpg" loading="lazy" class="media-object__media article-image" />
                         <span class="media-object__text">
                           <span>Democracy dies in broad daylight.</span>
-                            &ensp;<span class="article-reading-time">(&hairsp;8
-                              min&hairsp;)</span>
+                            &ensp;<span class="article-reading-time">(&hairsp;8 min&hairsp;)</span>
                         </span>
                       </div>
                     </a>
-                    <p class="article-source">Source: <a href="https://www.theatlantic.com/">The Atlantic</a></p>
+                    <div>
+                      <span>Source: <a href="https://www.theatlantic.com/">The Atlantic</a></span> | 
+                      <span>Date: <time>2024-10-28</time></span> |
+                      <span>Timestamp: <time>2024-10-28T13:21:52.000Z</time></span> |
+                      <span>Reading time: <time>8 min</time></span> |
+                      <span>Word count: <time>2493</time></span>
+                    </div>
                   </details>
                 </article>
               </li>
@@ -980,12 +1133,17 @@ In addition to porting old Wii U games, Nintendo’s still releasing new titles 
                           <img src="https://cdn.theatlantic.com/thumbor/N65g31XKf7xNvHF4eNmmT9-JmvY&#x3D;/0x105:4911x2663/1200x625/media/img/mt/2024/10/GettyImages_2149003384_1/original.jpg" loading="lazy" class="media-object__media article-image" />
                         <span class="media-object__text">
                           <span>A revolution in the science of touch could unlock the mystery of “feel” in pitching.</span>
-                            &ensp;<span class="article-reading-time">(&hairsp;12
-                              min&hairsp;)</span>
+                            &ensp;<span class="article-reading-time">(&hairsp;12 min&hairsp;)</span>
                         </span>
                       </div>
                     </a>
-                    <p class="article-source">Source: <a href="https://www.theatlantic.com/">The Atlantic</a></p>
+                    <div>
+                      <span>Source: <a href="https://www.theatlantic.com/">The Atlantic</a></span> | 
+                      <span>Date: <time>2024-10-28</time></span> |
+                      <span>Timestamp: <time>2024-10-28T12:00:00.000Z</time></span> |
+                      <span>Reading time: <time>12 min</time></span> |
+                      <span>Word count: <time>3545</time></span>
+                    </div>
                   </details>
                 </article>
               </li>
@@ -1003,12 +1161,17 @@ In addition to porting old Wii U games, Nintendo’s still releasing new titles 
                           <img src="https://cdn.theatlantic.com/thumbor/IaC6qnNyUiSr2bVoEQhqyeqMWl8&#x3D;/0x43:2000x1085/1200x625/media/img/mt/2024/10/polling/original.jpg" loading="lazy" class="media-object__media article-image" />
                         <span class="media-object__text">
                           <span>We don’t know what we think we know about how Americans will vote.</span>
-                            &ensp;<span class="article-reading-time">(&hairsp;18
-                              min&hairsp;)</span>
+                            &ensp;<span class="article-reading-time">(&hairsp;18 min&hairsp;)</span>
                         </span>
                       </div>
                     </a>
-                    <p class="article-source">Source: <a href="https://www.theatlantic.com/">The Atlantic</a></p>
+                    <div>
+                      <span>Source: <a href="https://www.theatlantic.com/">The Atlantic</a></span> | 
+                      <span>Date: <time>2024-10-28</time></span> |
+                      <span>Timestamp: <time>2024-10-28T11:00:00.000Z</time></span> |
+                      <span>Reading time: <time>18 min</time></span> |
+                      <span>Word count: <time>5272</time></span>
+                    </div>
                   </details>
                 </article>
               </li>
@@ -1026,26 +1189,33 @@ In addition to porting old Wii U games, Nintendo’s still releasing new titles 
                           <img src="https://cdn.theatlantic.com/thumbor/1fVkule2F9qW3LYJs4rP7fwgDbo&#x3D;/0x0:4992x2600/1200x625/media/img/mt/2024/10/How_Can_I_Get_My_Brother_to_Leave_His_Wife_final_B/original.jpg" loading="lazy" class="media-object__media article-image" />
                         <span class="media-object__text">
                           <span>His wife’s behavior has made him a shell of his former self.</span>
-                            &ensp;<span class="article-reading-time">(&hairsp;13
-                              min&hairsp;)</span>
+                            &ensp;<span class="article-reading-time">(&hairsp;13 min&hairsp;)</span>
                         </span>
                       </div>
                     </a>
-                    <p class="article-source">Source: <a href="https://www.theatlantic.com/">The Atlantic</a></p>
+                    <div>
+                      <span>Source: <a href="https://www.theatlantic.com/">The Atlantic</a></span> | 
+                      <span>Date: <time>2024-10-28</time></span> |
+                      <span>Timestamp: <time>2024-10-28T11:00:00.000Z</time></span> |
+                      <span>Reading time: <time>13 min</time></span> |
+                      <span>Word count: <time>3866</time></span>
+                    </div>
                   </details>
                 </article>
               </li>
-        </ul>
-      </section>
+          </ul>
+        </section>
+      </li>
+  </ul>
 
-    <footer>
-      <a class="footer-link" href="https://github.com/tinykings/rss/actions/runs/11581846118">
-        <time id="build-timestamp" datetime="2024-10-29T20:22:04.215Z">2024-10-29T20:22:04.215Z</time>
-      </a>
-      <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
-    </footer>
-    <script src="index.js?v1.14.4"></script>
-    <!-- %before-body-end.html% -->
-  </body>
+  <footer>
+    <a class="footer-link" href="https://github.com/tinykings/rss/actions/runs/11581908184">
+      <time id="build-timestamp" datetime="2024-10-29T20:26:21.809Z">2024-10-29T20:26:21.809Z</time>
+    </a>
+    <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
+  </footer>
+  
+  <script src="index.js?v1.14.4"></script>
+</body>
 
 </html>
