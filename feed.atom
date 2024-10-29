@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tinykings.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-29T20:26:21.828Z</updated>
+    <updated>2024-10-29T20:30:22.589Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://tinykings.github.io/rss/index.html"/>
     <link rel="self" href="https://tinykings.github.io/rss/feed.atom"/>
@@ -19,6 +19,16 @@ The Alphabet Workers Union filed a charge against Google with the National Labor
 The union charges that Google issued an “overly broad directive” on discussing the case to employees, according to a copy of the charge filed in August and viewed by The Verge. On August 5th, just after US District Court Judge Amit Mehta issued his decision finding Google to have an illegal monopoly, president of global affairs Kent Walker sent an email (also reviewed by The Verge) directing employees to “please refrain from commenting on this case, both internally and externally.” Walker sent a similar message at the start of the trial last fall, Business In…]]></summary>
         <author>
             <name>The Verge -  Front Pages</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Beauty of Gary Indiana’s Contempt]]></title>
+        <id>https://www.theatlantic.com/books/archive/2024/10/gary-indiana-obituary-horse-crazy/680447/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/books/archive/2024/10/gary-indiana-obituary-horse-crazy/680447/?utm_source=feed"/>
+        <updated>2024-10-29T20:03:07.000Z</updated>
+        <summary type="html"><![CDATA[The late writer kept the culture of his time close to his chest because it fueled his indignation—and his obsessions.]]></summary>
+        <author>
+            <name>The Atlantic</name>
         </author>
     </entry>
     <entry>
