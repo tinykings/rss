@@ -2,10 +2,57 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tinykings.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-29T23:23:42.925Z</updated>
+    <updated>2024-10-30T00:46:34.071Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://tinykings.github.io/rss/index.html"/>
     <link rel="self" href="https://tinykings.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The best Nintendo Switch controllers to buy right now]]></title>
+        <id>https://www.theverge.com/23350899/nintendo-switch-controllers-best-wireless-joy-con-gamepad</id>
+        <link href="https://www.theverge.com/23350899/nintendo-switch-controllers-best-wireless-joy-con-gamepad"/>
+        <updated>2024-10-29T23:59:34.000Z</updated>
+        <summary type="html"><![CDATA[Image: Cath Virginia / The Verge
+    
+
+
+  
+From the unbeatable Switch Pro and comfy Joy-Con alternatives to a dongle that lets you use your Xbox or PlayStation controllers with your Switch, these are the best Switch controllers you can get. 
+ The best Nintendo Switch controllers aren’t the ones that come with it. While the removable Joy-Cons included with all non-Lite Switch consoles are convenient given they can be detached for wireless use, their tiny contourless design isn’t that comfortable for long gaming sessions or large hands. And while Nintendo has taken steps to address the dreaded Joy-Con drift and earlier quality control problems, some issues persist.
+
+
+
+In this buying guide, we focus on wireless controllers that are both comfortable and reliable, as well as a few options that …]]></summary>
+        <author>
+            <name>The Verge -  Front Pages</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The best iPhones]]></title>
+        <id>https://www.theverge.com/23618862/best-iphone-camera-battery-screen-guide</id>
+        <link href="https://www.theverge.com/23618862/best-iphone-camera-battery-screen-guide"/>
+        <updated>2024-10-29T23:39:15.000Z</updated>
+        <summary type="html"><![CDATA[New iPhones for the AI era. | Image: Cath Virginia / The Verge
+    
+
+
+  
+Whether you want a battery that lasts for days or the very best deal, we’ve got some recommendations for an iPhone you’ll love.
+ The wait is over — kind of. Apple’s iPhone 16 series is out, and its much-hyped Apple Intelligence has arrived courtesy of iOS 18.1. But if you’re expecting an entirely new kind of iPhone experience, well, I have some bad news for you. The AI features in iOS 18.1, including the writing tools and email summaries, are pretty standard fare at this point. And although Siri has a new coat of paint, it’s basically the same old Siri.
+Apple has promised much more, though, and what we’ve been able to preview in the iOS 18.2 developer beta looks pretty good. But the Apple Intelligence rollout is going…]]></summary>
+        <author>
+            <name>The Verge -  Front Pages</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What <em>Election Integrity</em> Really Means]]></title>
+        <id>https://www.theatlantic.com/newsletters/archive/2024/10/election-integrity-denial-efforts/680454/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/newsletters/archive/2024/10/election-integrity-denial-efforts/680454/?utm_source=feed"/>
+        <updated>2024-10-29T23:06:00.000Z</updated>
+        <summary type="html"><![CDATA[Election deniers have co-opted the term to undermine trust in the voting process.]]></summary>
+        <author>
+            <name>The Atlantic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The best instant cameras you can buy right now]]></title>
         <id>https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak</id>
@@ -4181,33 +4228,6 @@ This post was created by a bot. Message the mod team for feedback and comments. 
         <updated>2024-10-20T13:45:07.000Z</updated>
         <author>
             <name>Kyla Quilos</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[last few days in Japan :') visiting Kyoto, Nishiki market, ogawa coffee, some shopping]]></title>
-        <id>https://www.youtube.com/watch?v=O7GuoMO0mHk</id>
-        <link href="https://www.youtube.com/watch?v=O7GuoMO0mHk"/>
-        <updated>2024-10-20T12:00:31.000Z</updated>
-        <author>
-            <name>inemuifj</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Our Favourite Furniture Picks From Our Friends At MUJI! #nevertoosmall #muji #shorts]]></title>
-        <id>https://www.youtube.com/watch?v=J8wFBSXBvTU</id>
-        <link href="https://www.youtube.com/watch?v=J8wFBSXBvTU"/>
-        <updated>2024-10-20T12:00:19.000Z</updated>
-        <author>
-            <name>NEVER TOO SMALL</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[車生活での怖かった体験８選。]]></title>
-        <id>https://www.youtube.com/watch?v=-ijXS4XJcZ0</id>
-        <link href="https://www.youtube.com/watch?v=-ijXS4XJcZ0"/>
-        <updated>2024-10-20T11:50:00.000Z</updated>
-        <author>
-            <name>軽バン生活</name>
         </author>
     </entry>
 </feed>

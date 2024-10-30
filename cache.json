@@ -12,6 +12,26 @@
       "siteUrl": "https://www.theverge.com/",
       "articles": [
         {
+          "id": "https://www.theverge.com/23350899/nintendo-switch-controllers-best-wireless-joy-con-gamepad",
+          "author": null,
+          "description": "Image: Cath Virginia / The Verge\n    \n\n\n  \nFrom the unbeatable Switch Pro and comfy Joy-Con alternatives to a dongle that lets you use your Xbox or PlayStation controllers with your Switch, these are the best Switch controllers you can get. \n The best Nintendo Switch controllers aren’t the ones that come with it. While the removable Joy-Cons included with all non-Lite Switch consoles are convenient given they can be detached for wireless use, their tiny contourless design isn’t that comfortable for long gaming sessions or large hands. And while Nintendo has taken steps to address the dreaded Joy-Con drift and earlier quality control problems, some issues persist.\n\n\n\nIn this buying guide, we focus on wireless controllers that are both comfortable and reliable, as well as a few options that …",
+          "link": "https://www.theverge.com/23350899/nintendo-switch-controllers-best-wireless-joy-con-gamepad",
+          "publishedOn": "2024-10-29T23:59:34.000Z",
+          "wordCount": 20000,
+          "title": "The best Nintendo Switch controllers to buy right now",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/QgKeJb40h1OpFzyXjRgweoxMm8k=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25490155/247143_Buying_Guide_Switch_Controllers_CVirginia.jpg"
+        },
+        {
+          "id": "https://www.theverge.com/23618862/best-iphone-camera-battery-screen-guide",
+          "author": null,
+          "description": "New iPhones for the AI era. | Image: Cath Virginia / The Verge\n    \n\n\n  \nWhether you want a battery that lasts for days or the very best deal, we’ve got some recommendations for an iPhone you’ll love.\n The wait is over — kind of. Apple’s iPhone 16 series is out, and its much-hyped Apple Intelligence has arrived courtesy of iOS 18.1. But if you’re expecting an entirely new kind of iPhone experience, well, I have some bad news for you. The AI features in iOS 18.1, including the writing tools and email summaries, are pretty standard fare at this point. And although Siri has a new coat of paint, it’s basically the same old Siri.\nApple has promised much more, though, and what we’ve been able to preview in the iOS 18.2 developer beta looks pretty good. But the Apple Intelligence rollout is going…",
+          "link": "https://www.theverge.com/23618862/best-iphone-camera-battery-screen-guide",
+          "publishedOn": "2024-10-29T23:39:15.000Z",
+          "wordCount": 14167,
+          "title": "The best iPhones",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/Ert0djYK8bso4_YTb8kG9d6eM58=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25652775/247288_iPhone_Buying_Guides_2_CVirginia.jpg"
+        },
+        {
           "id": "https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak",
           "author": null,
           "description": "Image: Kristen Radtke / The Verge\n    \n\n\n  \nWe found the best cameras for your budget and needs.\n Even with the ability to take excellent photos with our phones and instantly share them across the world, there’s something magical about the old-school instant camera. With just a click of a button, you can capture a moment in a photo that you can see and touch almost immediately. Images captured by an instant camera aren’t as pristine or perfect as those produced by modern digital cameras, but their soft images and imperfections are often a big part of the allure.\nYet not all instant cameras are the same, and some of them are better suited for different needs and budgets. That’s why we tested some of the most popular instant cameras on the market from brands like Fujifilm, Polaroid, Leica, C…",
@@ -168,6 +188,16 @@
       "feedUrl": "https://www.theatlantic.com/feed/all/",
       "siteUrl": "https://www.theatlantic.com/",
       "articles": [
+        {
+          "id": "https://www.theatlantic.com/newsletters/archive/2024/10/election-integrity-denial-efforts/680454/?utm_source=feed",
+          "author": null,
+          "description": "Election deniers have co-opted the term to undermine trust in the voting process.",
+          "link": "https://www.theatlantic.com/newsletters/archive/2024/10/election-integrity-denial-efforts/680454/?utm_source=feed",
+          "publishedOn": "2024-10-29T23:06:00.000Z",
+          "wordCount": 2973,
+          "title": "What <em>Election Integrity</em> Really Means",
+          "imageUrl": "https://cdn.theatlantic.com/thumbor/gHQSpzWXQux2xDmpY2CNN1tAMPs=/0x445:4110x2586/1200x625/media/newsletters/2024/10/GettyImages_1229619978/original.jpg"
+        },
         {
           "id": "https://www.theatlantic.com/health/archive/2024/10/baseball-player-chewing-mystery/680448/?utm_source=feed",
           "author": null,
@@ -2883,16 +2913,6 @@
           "wordCount": null,
           "title": "A week in my life: senior year, what I've been up to, welding, look back movie, design",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=O7GuoMO0mHk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=O7GuoMO0mHk",
-          "publishedOn": "2024-10-20T12:00:31.000Z",
-          "wordCount": null,
-          "title": "last few days in Japan :') visiting Kyoto, Nishiki market, ogawa coffee, some shopping",
-          "imageUrl": null
         }
       ]
     },
@@ -4449,16 +4469,6 @@
           "wordCount": null,
           "title": "NEVER TOO SMALL: DIY Makeover to 1960’s Melbourne Apartment, 42sqm/452sqft",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=J8wFBSXBvTU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=J8wFBSXBvTU",
-          "publishedOn": "2024-10-20T12:00:19.000Z",
-          "wordCount": null,
-          "title": "Our Favourite Furniture Picks From Our Friends At MUJI! #nevertoosmall #muji #shorts",
-          "imageUrl": null
         }
       ]
     },
@@ -4616,18 +4626,7 @@
       "title": "軽バン生活",
       "feedUrl": "https://youtube.com/feeds/videos.xml?channel_id=UCEP-696sFVJMSNf0XgfdqGQ",
       "siteUrl": "https://www.youtube.com/channel/UCEP-696sFVJMSNf0XgfdqGQ",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=-ijXS4XJcZ0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=-ijXS4XJcZ0",
-          "publishedOn": "2024-10-20T11:50:00.000Z",
-          "wordCount": null,
-          "title": "車生活での怖かった体験８選。",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "小宁子 XNZ",
