@@ -2,10 +2,887 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tinykings.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-30T00:46:34.071Z</updated>
+    <updated>2024-10-31T00:46:52.907Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://tinykings.github.io/rss/index.html"/>
     <link rel="self" href="https://tinykings.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Here are the price-matching policies for Best Buy, Walmart, and others]]></title>
+        <id>https://www.theverge.com/21570383/price-matching-policy-apple-google-microsoft</id>
+        <link href="https://www.theverge.com/21570383/price-matching-policy-apple-google-microsoft"/>
+        <updated>2024-10-30T23:40:26.000Z</updated>
+        <summary type="html"><![CDATA[Illustration by Samar Haddad / The Verge
+    
+
+  
+Nothing is more frustrating than buying a new pair of headphones, an OLED TV, or a laptop just to find out that you could have gotten it for a lot cheaper somewhere else. That’s why, in order to keep customers happy and prevent them from going elsewhere, many retailers offer price-matching policies in which they promise to match a lower price found elsewhere. That kind of information comes in handy no matter the time of year, but it’s especially helpful during shopping events like Black Friday and Cyber Monday.
+What follows are the price-matching policies for a variety of major retailers. There are a few things to make note of here. First, all price-matching policies have a number of rules attached to them. We’ve summarized some of the rule…]]></summary>
+        <author>
+            <name>The Verge -  Front Pages</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nintendo Releases a Music App]]></title>
+        <id>https://www.macstories.net/?p=77112</id>
+        <link href="https://www.macstories.net/news/nintendo-releases-a-music-app/"/>
+        <updated>2024-10-30T23:17:54.000Z</updated>
+        <summary type="html"><![CDATA[Nintendo just released a surprise new iOS app: Nintendo Music, a music player that draws on Nintendo’s decades of videogame soundtracks. The iPhone-only app is an exclusive perk for Nintendo Online members. Once you sign into your account, you’re greeted with a deep catalog of classic Nintendo music. You’ll find old favorites from the biggest […]]]></summary>
+        <author>
+            <name>John Voorhees</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Trump Is Baiting Harris]]></title>
+        <id>https://www.theatlantic.com/newsletters/archive/2024/10/how-trump-is-baiting-harris/680466/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/newsletters/archive/2024/10/how-trump-is-baiting-harris/680466/?utm_source=feed"/>
+        <updated>2024-10-30T23:10:00.000Z</updated>
+        <summary type="html"><![CDATA[He and his campaign keep pushing the bounds of decency in an effort to provoke a reaction.]]></summary>
+        <author>
+            <name>The Atlantic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta is pushing for the government to use its AI]]></title>
+        <id>https://www.theverge.com/2024/10/30/24283985/meta-government-llama-ai-q3-earnings</id>
+        <link href="https://www.theverge.com/2024/10/30/24283985/meta-government-llama-ai-q3-earnings"/>
+        <updated>2024-10-30T23:09:34.000Z</updated>
+        <summary type="html"><![CDATA[Mark Zuckerberg. | Image: The Verge | Photo: Bloomberg via Getty Images
+    
+
+  
+Meta is “working with the public sector to adopt Llama across the US government,” according to CEO Mark Zuckerberg. 
+The comment, made during his opening remarks for Meta’s Q3 earnings call on Wednesday, raises a lot of important questions: Exactly which parts of the government will use Meta’s AI models? What will the AI be used for? Will there be any kind of military-specific applications of Llama? Is Meta getting paid for any of this? 
+When I asked Meta to elaborate, spokesperson Jon Carvill declined to comment beyond Zuckerberg’s brief remark to investors. The social media giant is pushing its AI on the government at an interesting time. For one, presidential nominee Donald Trump has recently threatened to …]]></summary>
+        <author>
+            <name>The Verge -  Front Pages</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adam Richman eats 4 classic NYC sandwiches BY BUDGET 🥪💰]]></title>
+        <id>https://www.youtube.com/watch?v=orAr4Mdedxo</id>
+        <link href="https://www.youtube.com/watch?v=orAr4Mdedxo"/>
+        <updated>2024-10-30T23:00:44.000Z</updated>
+        <author>
+            <name>First We Feast</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[COZY & PRACTICAL GIFT IDEAS | the homebody holiday gift guide]]></title>
+        <id>https://www.youtube.com/watch?v=Pa_WvgZQzUQ</id>
+        <link href="https://www.youtube.com/watch?v=Pa_WvgZQzUQ"/>
+        <updated>2024-10-30T23:00:17.000Z</updated>
+        <author>
+            <name>cloudyhills</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The best smartwatches for Android]]></title>
+        <id>https://www.theverge.com/23449363/best-android-smartwatches-wear-os</id>
+        <link href="https://www.theverge.com/23449363/best-android-smartwatches-wear-os"/>
+        <updated>2024-10-30T22:23:16.000Z</updated>
+        <summary type="html"><![CDATA[Photo illustration by William Joel / The Verge
+    
+
+
+  
+Wear OS is much better than it used to be, so there’s never been a better time to consider a smartwatch.
+ After a long stretch of slim pickings, the last couple of years have been huge for Android smartwatches. Now there are more good options than ever. 
+But this is still a transitional era. While we’re encouraged by the stronger third-party app options, the market is still fragmented. Wear OS 5 is here for Samsung’s Galaxy Watches and the Pixel Watch 3. However, the larger ecosystem is still catching up. Some features, like Google Assistant, are not yet available on certain Wear OS 3 smartwatches, and Wear OS 4 still isn’t widely available. Even so, the Android wearable ecosystem is barreling ahead.  
+
+
+
+If you’d rather wait until W…]]></summary>
+        <author>
+            <name>The Verge -  Front Pages</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Interbank confirms data breach following failed extortion, data leak]]></title>
+        <id>https://www.bleepingcomputer.com/news/security/interbank-confirms-data-breach-following-failed-extortion-data-leak/</id>
+        <link href="https://www.bleepingcomputer.com/news/security/interbank-confirms-data-breach-following-failed-extortion-data-leak/"/>
+        <updated>2024-10-30T22:22:27.000Z</updated>
+        <summary type="html"><![CDATA[​Interbank, one of Peru's leading financial institutions, has confirmed a data breach after a threat actor who hacked into its systems leaked stolen data online. [...]]]></summary>
+        <author>
+            <name>Sergiu Gatlan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nintendo made a music streaming app for Switch Online subscribers]]></title>
+        <id>https://www.theverge.com/2024/10/30/24284073/nintendo-music-streaming-app-switch-online-subscribers</id>
+        <link href="https://www.theverge.com/2024/10/30/24284073/nintendo-music-streaming-app-switch-online-subscribers"/>
+        <updated>2024-10-30T22:22:10.000Z</updated>
+        <summary type="html"><![CDATA[Image: Nintendo
+    
+
+  
+While we all wait for the reveal of Nintendo’s next console, the company has once again announced something very different. This time, it’s a mobile app called Nintendo Music, which lets users listen to classic gaming tunes from Nintendo games spanning the last few decades, including Splatoon, Animal Crossing, and The Legend of Zelda. It’s only available to Switch Online subscribers, and it’s launching today on both iOS and Android.
+
+
+The app features curated playlists themed around games, moments, moods, or characters, though you can also build your own. It also supports streaming as well as downloading tracks for offline listening. Curiously, it includes a spoiler feature that lets you filter out tracks that, somehow, might spoil a game you haven’t played or finished yet. And if you just want some Hyrule white noise, the app also lets you “loop songs or extend select tracks to 15, 30, or 60 minutes for uninterrupted listening.”
+Here’s a list of all the regions the app will be available in.
+The announcement of Nintendo Music comes not long after a handful of other surprise, non-Switch 2 reveals from Nintendo, including the launch of an alarm clock and a mysterious MMO that’s currently in testing.]]></summary>
+        <author>
+            <name>The Verge -  Front Pages</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google’s AI-powered weather app is rolling out to older Pixels]]></title>
+        <id>https://www.theverge.com/2024/10/30/24283998/google-weather-app-pixel-8-7-6-ai-summaries</id>
+        <link href="https://www.theverge.com/2024/10/30/24283998/google-weather-app-pixel-8-7-6-ai-summaries"/>
+        <updated>2024-10-30T22:19:31.000Z</updated>
+        <summary type="html"><![CDATA[Image: Google
+    
+
+  
+Google’s Pixel 9 launched with a cool new standalone weather app that can summarize outdoor conditions using AI.  As reported by 9to5Google, the company is rolling it out to older Pixels running  Android 15 with all the latest updates installed, including one of ours here at The Verge.
+The standalone Google Weather app will pull saved locations from the built-in weather service already present on Pixels to let you track weather in multiple locations, arrange weather data blocks, track weather on a map, and get a summary so you don’t need to figure out if an umbrella is needed for the day.
+Image: Google
+      Some Google Weather features are reminiscent of the discontinued Dark Sky app.
+  
+If you have a Pixel 6, 7, or 8 series device, you might start seeing the new Google Weather app as an update in the Play Store.
+As of writing, the app currently has a 2.3-star rating, with a few listed complaints like one noting you can’t check the weather in random cities without adding it to your saved locations list first. Google Weather is a welcome new option for those who haven’t found a favorite weather app since Dark Sky was acquired and shut down by Apple in 2020.]]></summary>
+        <author>
+            <name>The Verge -  Front Pages</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Democratic Rep. Ruben Gallego visits the Havasupai people as he runs for U.S. Senate in Arizona]]></title>
+        <id>https://www.youtube.com/watch?v=TIZc-27j4sg</id>
+        <link href="https://www.youtube.com/watch?v=TIZc-27j4sg"/>
+        <updated>2024-10-30T22:00:30.000Z</updated>
+        <author>
+            <name>NPR</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple’s latest iPad Air is on sale in all four colors for its lowest price to date]]></title>
+        <id>https://www.theverge.com/2024/10/30/24282960/apple-ipad-air-11-inch-airpods-max-usb-c-deal-sale</id>
+        <link href="https://www.theverge.com/2024/10/30/24282960/apple-ipad-air-11-inch-airpods-max-usb-c-deal-sale"/>
+        <updated>2024-10-30T21:59:02.000Z</updated>
+        <summary type="html"><![CDATA[We wouldn’t recommend the latest Air for most people at full price, but the current discount makes it more appealing. | Photo: David Pierce / The Verge
+    
+
+  
+The new iPad Mini has arrived, bringing with it a faster A17 Pro chip, 8GB of RAM, support for the Apple Pencil Pro, and a taste of Apple Intelligence. However, unless you’re dead set on the tablet’s 8.3-inch form factor, the latest iPad Air is a better buy — especially since the 11-inch configuration is on sale at Amazon and Target with Wi-Fi and 128GB of storage starting at $498 ($101 off), an all-time low.
+
+
+If you’re having trouble choosing between Apple’s entry-level iPad and an M4-powered iPad Pro, the 2024 iPad Air represents the middle ground. It’s a good-step option from the base iPad with USB-C charging, support for both …]]></summary>
+        <author>
+            <name>The Verge -  Front Pages</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Epic Family Tiny House Design w/ Cozy Cabin Extension! 🤩 #tinyhouse #tour]]></title>
+        <id>https://www.youtube.com/watch?v=YuJggNmkbL8</id>
+        <link href="https://www.youtube.com/watch?v=YuJggNmkbL8"/>
+        <updated>2024-10-30T21:56:13.000Z</updated>
+        <author>
+            <name>Living Big In A Tiny House</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google doesn’t sell headsets anymore — but its app store is getting ready for them]]></title>
+        <id>https://www.theverge.com/2024/10/30/24283894/google-play-store-ar-vr-xr-headset-smart-glasses-support-code-leak</id>
+        <link href="https://www.theverge.com/2024/10/30/24283894/google-play-store-ar-vr-xr-headset-smart-glasses-support-code-leak"/>
+        <updated>2024-10-30T21:52:52.000Z</updated>
+        <summary type="html"><![CDATA[Illustration by Alex Castro / The Verge
+    
+
+  
+Are we about to see what’s up Google’s sleeve after its mysterious AR / VR deals with companies like Qualcomm and Samsung? Or might it finally bring its Google Play Store to Meta’s Quest like Meta once asked? Either way, Google seems to be prepping its Play Store for headsets, according to details discovered in app store code by Android Authority. 
+Screenshots published by the outlet show a small graphic representing a headset in the Play Store’s “Install on more devices menu,” while a bit of text appearing on an app listing elsewhere references an “XR headset” too:
+Screenshot: Android Authority
+      
+That glyph either represents a headset or a Flintstones-style hunk of meat.
+
+  
+
+        
+      Screenshot: Android Authority
+  
+None of this means Google would necessarily release its own headsets again — but despite having heavily trimmed its AR/ VR division, the company continues to make moves in the space. Those include the “micro XR” platform it’s building and wants to license to headset makers, partnerships for new Samsung mixed-reality smart glasses, and a mysterious Magic Leap deal. But there is also that unreleased Google AR glasses prototype that made a brief cameo during the company’s I/O conference earlier this year. 
+Or, it could be that Google just changed its mind about putting the Play Store on Meta Quest headsets. Meta pressed Google for that very thing earlier this year, months after one of its execs revealed that Google had declined to let Quest users download regular Android apps to the headset. Since then, Meta has announced it will offer 2D apps after all — but from its own app store, not Google’s. 
+Or maybe — just maybe — we’re about to see the return of Google Cardboard. Hey, a guy can dream, can’t he?]]></summary>
+        <author>
+            <name>The Verge -  Front Pages</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This Is What $44 Billion Buys You]]></title>
+        <id>https://www.theatlantic.com/technology/archive/2024/10/elon-musk-x-political-weapon/680463/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/technology/archive/2024/10/elon-musk-x-political-weapon/680463/?utm_source=feed"/>
+        <updated>2024-10-30T21:23:05.000Z</updated>
+        <summary type="html"><![CDATA[Elon Musk has turned X into a political weapon.]]></summary>
+        <author>
+            <name>The Atlantic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why you’re seeing those gross political ads during the World Series]]></title>
+        <id>https://www.theverge.com/2024/10/30/24283757/world-series-political-ads-anti-trans-abortion-dodgers-yankees</id>
+        <link href="https://www.theverge.com/2024/10/30/24283757/world-series-political-ads-anti-trans-abortion-dodgers-yankees"/>
+        <updated>2024-10-30T21:00:19.000Z</updated>
+        <summary type="html"><![CDATA[Photo by Al Bello/Getty Images
+    
+
+  
+The World Series between the Los Angeles Dodgers and the New York Yankees is in full swing, and millions of people in the US and abroad are tuning in nightly watch the showdown. Some fans are also being forced to watch graphic and hateful political ads — and though some ads are preceded by a broadcaster’s warning, there’s not much anyone can do about it.
+An anti-abortion ad that ran last night during the World Series shows graphic imagery of fetuses alongside a message that “Abortion is murder. Don’t vote for Kamala.” The ad was paid for Randall Terry, a longtime anti-abortion activist who founded Operation Rescue, a group that stands outside of healthcare clinics and harasses patients. Terry is also a no-shot presidential candidate running on the ha…]]></summary>
+        <author>
+            <name>The Verge -  Front Pages</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[is bikepacking fun? #bikepackingtrip #cycling]]></title>
+        <id>https://www.youtube.com/watch?v=HzWzlmRrlOU</id>
+        <link href="https://www.youtube.com/watch?v=HzWzlmRrlOU"/>
+        <updated>2024-10-30T20:54:11.000Z</updated>
+        <author>
+            <name>Makari Espe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft’s gaming revenue keeps going up, even though hardware sales are down]]></title>
+        <id>https://www.theverge.com/2024/10/30/24283812/microsoft-q1-2025-earnings-revenue-profits-windows-xbox-gaming-surface</id>
+        <link href="https://www.theverge.com/2024/10/30/24283812/microsoft-q1-2025-earnings-revenue-profits-windows-xbox-gaming-surface"/>
+        <updated>2024-10-30T20:48:02.000Z</updated>
+        <summary type="html"><![CDATA[Image: The Verge
+    
+
+  
+Microsoft’s Q1 2025 earnings are in, and the results show that Microsoft’s software gaming revenues are way up even as Xbox hardware revenue is declining.
+The company says that its Xbox content and services revenue grew 61 percent year over year from the previous quarter — a figure driven by “53 points of net impact from the Activision acquisition,” according to the company’s press release. But hardware revenues again declined, down 29 percent this quarter, which may be influenced by Microsoft’s continued strategy to make its games available more widely than just Xbox consoles.
+During the quarter, Microsoft introduced its new Xbox Game Pass “Standard” tier and a price hike for Xbox Game Pass Ultimate. Q1 also saw the arrival of Call of Duty: Modern Warfare III on …]]></summary>
+        <author>
+            <name>The Verge -  Front Pages</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Disney Plus has grown big enough to need a top 10 list]]></title>
+        <id>https://www.theverge.com/2024/10/30/24283967/disney-plus-top-10-list</id>
+        <link href="https://www.theverge.com/2024/10/30/24283967/disney-plus-top-10-list"/>
+        <updated>2024-10-30T20:47:28.000Z</updated>
+        <summary type="html"><![CDATA[Agatha All Along. | Image: Disney
+    
+
+  
+As Disney Plus has grown, finding things to watch has become increasingly challenging. So the streaming service is rolling out a top 10 list featured on the home screen in hopes of improving discoverability.
+It’s not the most novel addition; really, it looks just like similar lists you’d find in competitive services like Netflix and Apple TV Plus. But it’s become a necessary feature as the lineup on Disney Plus has expanded quite a bit over the years, with original shows and movies, along with the integration of Hulu.
+According to Disney, the ranking “takes several factors into account, including total views at the episode and movie level within a day and the growing popularity of new titles released during that time frame.” The company adds that “views are a component” but “not the sole determining factor” of what gets featured.
+The list also takes into account age-ratings, so you shouldn’t see R-rated movies in your list if the parental settings are set properly. Good news for any parents trying to keep their kids away from Deadpool and Wolverine next month.
+Image: Disney
+  
+If nothing else, the change points to a maturation of Disney Plus, which started out with a relatively scant library that has steadily grown to the point that finding new episodes of Agatha All Along or Bob’s Burgers can actually be difficult. And with some big series on the horizon, it’s coming at a good time.]]></summary>
+        <author>
+            <name>The Verge -  Front Pages</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My FAVORITE Desk Setup EVER! (5 Apple Screens!)]]></title>
+        <id>https://www.youtube.com/watch?v=wkFb2pImE9c</id>
+        <link href="https://www.youtube.com/watch?v=wkFb2pImE9c"/>
+        <updated>2024-10-30T20:46:24.000Z</updated>
+        <author>
+            <name>DailyTekk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Harris makes her closing pitch for the campaign a week before election day]]></title>
+        <id>https://www.youtube.com/watch?v=uF9BbSpZ9gQ</id>
+        <link href="https://www.youtube.com/watch?v=uF9BbSpZ9gQ"/>
+        <updated>2024-10-30T20:15:01.000Z</updated>
+        <author>
+            <name>NPR</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Billionaire Is the Threat, Not the Solution]]></title>
+        <id>672290648d131200010491e6</id>
+        <link href="https://www.404media.co/the-billionaire-is-the-threat-not-the-solution/"/>
+        <updated>2024-10-30T20:07:53.000Z</updated>
+        <summary type="html"><![CDATA[Jeff Bezos is not the answer at The Washington Post. And billionaire funding is not the answer for journalism.]]></summary>
+        <author>
+            <name>Jason Koebler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Entra "security defaults" to make MFA setup mandatory]]></title>
+        <id>https://www.bleepingcomputer.com/news/microsoft/microsoft-entra-security-defaults-to-make-mfa-setup-mandatory/</id>
+        <link href="https://www.bleepingcomputer.com/news/microsoft/microsoft-entra-security-defaults-to-make-mfa-setup-mandatory/"/>
+        <updated>2024-10-30T19:18:17.000Z</updated>
+        <summary type="html"><![CDATA[​Microsoft says it will improve security across Entra tenants where security defaults are enabled by making multifactor authentication (MFA) registration mandatory. [...]]]></summary>
+        <author>
+            <name>Sergiu Gatlan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Get ready for Jimmy Fallon on Hot Ones 😂]]></title>
+        <id>https://www.youtube.com/watch?v=VKFAlc91BaI</id>
+        <link href="https://www.youtube.com/watch?v=VKFAlc91BaI"/>
+        <updated>2024-10-30T19:00:19.000Z</updated>
+        <author>
+            <name>First We Feast</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thomas Friedman endorses Kamala because "AGI is likely in the next 4 years" so we must ensure "superintelligent machines will remained aligned with human values as they use these powers to go off in their own directions."]]></title>
+        <id>https://www.reddit.com/r/artificial/comments/1gftjru/thomas_friedman_endorses_kamala_because_agi_is/</id>
+        <link href="https://www.reddit.com/r/artificial/comments/1gftjru/thomas_friedman_endorses_kamala_because_agi_is/"/>
+        <updated>2024-10-30T18:27:01.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/MetaKnowing  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : artificial</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How much RAM do you need on a MacBook Pro?]]></title>
+        <id>https://www.youtube.com/watch?v=gEGNAATOp_4</id>
+        <link href="https://www.youtube.com/watch?v=gEGNAATOp_4"/>
+        <updated>2024-10-30T18:09:12.000Z</updated>
+        <author>
+            <name>Byte Review</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[QNAP patches second zero-day exploited at Pwn2Own to get root]]></title>
+        <id>https://www.bleepingcomputer.com/news/security/qnap-patches-second-zero-day-exploited-at-pwn2own-to-get-root/</id>
+        <link href="https://www.bleepingcomputer.com/news/security/qnap-patches-second-zero-day-exploited-at-pwn2own-to-get-root/"/>
+        <updated>2024-10-30T17:36:27.000Z</updated>
+        <summary type="html"><![CDATA[QNAP has fixed a second zero-day vulnerability exploited at the Pwn2Own Ireland 2024 hacking contest to gain a root shell and take over a TS-464 NAS device. [...]]]></summary>
+        <author>
+            <name>Sergiu Gatlan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maintainers Removed From Linux - ThreatWire]]></title>
+        <id>https://www.youtube.com/watch?v=hGEi08D_hjg</id>
+        <link href="https://www.youtube.com/watch?v=hGEi08D_hjg"/>
+        <updated>2024-10-30T17:22:06.000Z</updated>
+        <author>
+            <name>Hak5</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Photos: The Spirit of Halloween 2024]]></title>
+        <id>https://www.theatlantic.com/photo/2024/10/photos-halloween-2024/680458/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/photo/2024/10/photos-halloween-2024/680458/?utm_source=feed"/>
+        <updated>2024-10-30T17:16:53.000Z</updated>
+        <summary type="html"><![CDATA[Recent images that show some scary (and fun) pre-Halloween festivities around the world]]></summary>
+        <author>
+            <name>The Atlantic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[$5 vs. $35 Sandwich! Adam Richman Eats the Best Sandwiches by Budget | Pro Moves]]></title>
+        <id>https://www.youtube.com/watch?v=QHDI4gFi23w</id>
+        <link href="https://www.youtube.com/watch?v=QHDI4gFi23w"/>
+        <updated>2024-10-30T17:00:24.000Z</updated>
+        <author>
+            <name>First We Feast</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Entire Mac Lineup Now Starts With at Least 16GB RAM, Ending 8GB Era]]></title>
+        <id>https://www.reddit.com/r/apple/comments/1gfre1v/entire_mac_lineup_now_starts_with_at_least_16gb/</id>
+        <link href="https://www.reddit.com/r/apple/comments/1gfre1v/entire_mac_lineup_now_starts_with_at_least_16gb/"/>
+        <updated>2024-10-30T16:58:02.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/chrisdh79  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : apple</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nobody should be 100% certain about what AGIs would do]]></title>
+        <id>https://www.reddit.com/r/artificial/comments/1gfra3h/nobody_should_be_100_certain_about_what_agis/</id>
+        <link href="https://www.reddit.com/r/artificial/comments/1gfra3h/nobody_should_be_100_certain_about_what_agis/"/>
+        <updated>2024-10-30T16:53:17.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/MetaKnowing  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : artificial</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Year My Father Died]]></title>
+        <id>https://www.theatlantic.com/books/archive/2024/10/poem-katie-peterson-year-my-father-died/680459/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/books/archive/2024/10/poem-katie-peterson-year-my-father-died/680459/?utm_source=feed"/>
+        <updated>2024-10-30T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A poem for Wednesday]]></summary>
+        <author>
+            <name>The Atlantic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[North Korean govt hackers linked to Play ransomware attack]]></title>
+        <id>https://www.bleepingcomputer.com/news/security/north-korean-govt-hackers-linked-to-play-ransomware-attack/</id>
+        <link href="https://www.bleepingcomputer.com/news/security/north-korean-govt-hackers-linked-to-play-ransomware-attack/"/>
+        <updated>2024-10-30T15:55:32.000Z</updated>
+        <summary type="html"><![CDATA[The North Korean state-sponsored hacking group tracked as 'Andariel' has been linked to the Play ransomware operation, using the RaaS to work behind the scenes and evade sanctions. [...]]]></summary>
+        <author>
+            <name>Bill Toulas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Disable OneDrive for Business – is that even possible?]]></title>
+        <id>https://4sysops.com/?p=1587946</id>
+        <link href="https://4sysops.com/archives/disable-onedrive-for-business-is-that-even-possible/"/>
+        <updated>2024-10-30T15:52:24.000Z</updated>
+        <summary type="html"><![CDATA[OneDrive for Business serves is a popular cloud storage solution in Microsoft 365. From the user’s perspective, this personal storage space is convenient. However, from an IT perspective, security or compliance requirements often call for at least partially disabling it. Here are some considerations about the challenges of turning off OneDrive.]]></summary>
+        <author>
+            <name>Wolfgang Miedl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Reveals New M4 MacBook Pros]]></title>
+        <id>https://www.macstories.net/?p=77107</id>
+        <link href="https://www.macstories.net/news/apple-reveals-new-m4-macbook-pros/"/>
+        <updated>2024-10-30T15:33:27.000Z</updated>
+        <summary type="html"><![CDATA[Source: Apple. In its third and likely last Mac announcement this week, Apple revealed updates to the MacBook Pro line of laptops, which includes Pro and Max variants of the M4 chipsets in the same 14-inch and 16-inch form factors we’ve seen in the MacBook Pro line for the past few years. According to John […]]]></summary>
+        <author>
+            <name>John Voorhees</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Polishing Cloth adds support for the new iMac and MacBook Pro (M4-models)]]></title>
+        <id>https://www.reddit.com/r/apple/comments/1gfp9tp/apple_polishing_cloth_adds_support_for_the_new/</id>
+        <link href="https://www.reddit.com/r/apple/comments/1gfp9tp/apple_polishing_cloth_adds_support_for_the_new/"/>
+        <updated>2024-10-30T15:28:52.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/ty003  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : apple</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The MacBook Air gets a surprise upgrade to 16GB of RAM]]></title>
+        <id>https://www.reddit.com/r/apple/comments/1gfoq4x/the_macbook_air_gets_a_surprise_upgrade_to_16gb/</id>
+        <link href="https://www.reddit.com/r/apple/comments/1gfoq4x/the_macbook_air_gets_a_surprise_upgrade_to_16gb/"/>
+        <updated>2024-10-30T15:05:54.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/ICumCoffee  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : apple</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Israel Could Be Changing Iran’s Nuclear Calculus]]></title>
+        <id>https://www.theatlantic.com/international/archive/2024/10/iran-nuclear-weapons-israel-khamenei/680437/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/international/archive/2024/10/iran-nuclear-weapons-israel-khamenei/680437/?utm_source=feed"/>
+        <updated>2024-10-30T15:05:00.000Z</updated>
+        <summary type="html"><![CDATA[Newly threatened, the Iranian regime might pursue a bomb to try to salvage its national security.]]></summary>
+        <author>
+            <name>The Atlantic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hannah Dreier Wins 2024 Michael Kelly Award for <em>New York Times</em> Investigation]]></title>
+        <id>https://www.theatlantic.com/press-releases/archive/2024/10/hannah-dreier-wins-2024-michael-kelly-award/680359/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/press-releases/archive/2024/10/hannah-dreier-wins-2024-michael-kelly-award/680359/?utm_source=feed"/>
+        <updated>2024-10-30T15:00:54.000Z</updated>
+        <summary type="html"><![CDATA[Finalists are from the <em>Detroit Free Press</em>,<em> </em>the<em> Daily Beast</em>,<em> </em>and<em> The Washington Post</em>.]]></summary>
+        <author>
+            <name>The Atlantic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New MacBook Pro features M4 family of chips and Apple Intelligence]]></title>
+        <id>https://www.reddit.com/r/apple/comments/1gfokzg/new_macbook_pro_features_m4_family_of_chips_and/</id>
+        <link href="https://www.reddit.com/r/apple/comments/1gfokzg/new_macbook_pro_features_m4_family_of_chips_and/"/>
+        <updated>2024-10-30T15:00:35.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/CoralShade  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : apple</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New MacBook Pro features M4 family of chips and Apple Intelligence]]></title>
+        <id>https://www.apple.com/newsroom/2024/10/new-macbook-pro-features-m4-family-of-chips-and-apple-intelligence/</id>
+        <link href="https://www.apple.com/newsroom/2024/10/new-macbook-pro-features-m4-family-of-chips-and-apple-intelligence/"/>
+        <updated>2024-10-30T14:59:39.734Z</updated>
+        <summary type="html"><![CDATA[Apple today unveiled the new MacBook Pro, powered by the M4 family of chips: M4, M4 Pro, and M4 Max.]]></summary>
+        <author>
+            <name>Apple Newsroom</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple introduces M4 Pro and M4 Max]]></title>
+        <id>https://www.apple.com/newsroom/2024/10/apple-introduces-m4-pro-and-m4-max/</id>
+        <link href="https://www.apple.com/newsroom/2024/10/apple-introduces-m4-pro-and-m4-max/"/>
+        <updated>2024-10-30T14:59:24.226Z</updated>
+        <summary type="html"><![CDATA[Apple announces M4 Pro and M4 Max, two new chips that — along with M4 — bring more power-efficient performance and advanced capabilities to the Mac.]]></summary>
+        <author>
+            <name>Apple Newsroom</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thousands of Pennsylvania voters received a text message this weekend that falsely claimed that they had already voted. Ignore them, officials say.]]></title>
+        <id>https://www.reddit.com/r/technology/comments/1gfohmw/thousands_of_pennsylvania_voters_received_a_text/</id>
+        <link href="https://www.reddit.com/r/technology/comments/1gfohmw/thousands_of_pennsylvania_voters_received_a_text/"/>
+        <updated>2024-10-30T14:56:27.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/a_Ninja_b0y  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : technology</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Android malware "FakeCall" now reroutes bank calls to attackers]]></title>
+        <id>https://www.bleepingcomputer.com/news/security/android-malware-fakecall-now-reroutes-bank-calls-to-attackers/</id>
+        <link href="https://www.bleepingcomputer.com/news/security/android-malware-fakecall-now-reroutes-bank-calls-to-attackers/"/>
+        <updated>2024-10-30T14:50:50.000Z</updated>
+        <summary type="html"><![CDATA[A new version of the FakeCall malware for Android hijacks outgoing calls from a user to their bank, redirecting them to the attacker's phone number instead. [...]]]></summary>
+        <author>
+            <name>Bill Toulas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Pack Like a Minimalist (Best Travel Backpack)]]></title>
+        <id>https://www.youtube.com/watch?v=O1ZBs0nUFxI</id>
+        <link href="https://www.youtube.com/watch?v=O1ZBs0nUFxI"/>
+        <updated>2024-10-30T14:40:53.000Z</updated>
+        <author>
+            <name>Robert Creating</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re:Zero kara Hajimeru Isekai Seikatsu Season 3 • Re:Zero: Starting Life in Another World Season 3 - Episode 5 discussion]]></title>
+        <id>https://www.reddit.com/r/anime/comments/1gfo0mb/rezero_kara_hajimeru_isekai_seikatsu_season_3/</id>
+        <link href="https://www.reddit.com/r/anime/comments/1gfo0mb/rezero_kara_hajimeru_isekai_seikatsu_season_3/"/>
+        <updated>2024-10-30T14:35:34.000Z</updated>
+        <summary type="html"><![CDATA[Re:Zero kara Hajimeru Isekai Seikatsu Season 3, episode 5
+ Reminder: Please do not discuss plot points not yet seen or skipped in the show. Failing to follow the rules may result in a ban.
+  
+Streams
+  
+Crunchyroll
+  
+Show information
+  
+MyAnimeList
+ AniList
+ AniDB
+ Anime-Planet
+ Official Website
+ /r/Re_Zero
+  
+ All discussions
+  
+ Episode Link 
+  
+ 1 Link 
+  2 Link 
+  3 Link 
+  4 Link 
+  5 Link 
+ 
+  
+This post was created by a bot. Message the mod team for feedback and comments. The original source code can be found on GitHub.
+    submitted by    /u/AutoLovepon  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : anime</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GameSir G8+ iPad mini and iPhone Controller Walkthrough]]></title>
+        <id>https://www.macstories.net/?p=77097</id>
+        <link href="https://www.macstories.net/linked/gamesir-g8-ipad-mini-and-iphone-controller-walkthrough/"/>
+        <updated>2024-10-30T14:29:27.000Z</updated>
+        <summary type="html"><![CDATA[The new iPad mini is the first model with Wi-Fi 6E support, which makes it the best mini for game streaming yet. Of course, it’s a great size for playing App Store and Apple Arcade games too. Last weekend, I did an in-depth review of the GameSir G8+ for Club MacStories Weekly, which included an […]]]></summary>
+        <author>
+            <name>John Voorhees</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 10 Pro users suddenly being forced to upgrade to Win11 and cannot opt out]]></title>
+        <id>https://www.reddit.com/r/sysadmin/comments/1gfnkh1/windows_10_pro_users_suddenly_being_forced_to/</id>
+        <link href="https://www.reddit.com/r/sysadmin/comments/1gfnkh1/windows_10_pro_users_suddenly_being_forced_to/"/>
+        <updated>2024-10-30T14:16:23.000Z</updated>
+        <summary type="html"><![CDATA[I've had 3 Win10 users now get a prompt after signing in that their computer WILL be upgraded to Windows 11 because "Windows 10 will be EOL October 25, 2025" and there is nothing to click to delay it, or say no.
+ The options are "Schedule for tonight" OR "Upgrade now".
+ I have a couple Win10 users that can't upgrade yet due to app compatibility. I'm just so shocked there's seemingly no way to even schedule it out further than the same night.
+ Is anyone else seeing this? I've had 3 PCs in the last 7 days doing this and I can't stop it. Will pausing Windows Updates even help?
+ UPDATE: 99% of my end points are Win11 Pro already, will a TargetReleasedVersion GPO set to Win10 target effect end points that are already Win11? Do I have to break out my Win10 PCs into their own OU to link the GPO to just the Win10 ones?
+    submitted by    /u/Humble-Plankton2217  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : sysadmin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HOUSE TOUR | A Charming Los Angeles Home Filled with Vintage Finds]]></title>
+        <id>https://www.youtube.com/watch?v=5e0zHdkiQdc</id>
+        <link href="https://www.youtube.com/watch?v=5e0zHdkiQdc"/>
+        <updated>2024-10-30T14:00:05.000Z</updated>
+        <author>
+            <name>Homeworthy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hackers steal 15,000 cloud credentials from exposed Git config files]]></title>
+        <id>https://www.bleepingcomputer.com/news/security/hackers-steal-15-000-cloud-credentials-from-exposed-git-config-files/</id>
+        <link href="https://www.bleepingcomputer.com/news/security/hackers-steal-15-000-cloud-credentials-from-exposed-git-config-files/"/>
+        <updated>2024-10-30T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A global large-scale dubbed "EmeraldWhale" exploited misconfigured Git configuration files to steal over 15,000 cloud account credentials from thousands of private repositories. [...]]]></summary>
+        <author>
+            <name>Bill Toulas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FBI: Upcoming U.S. general election fuel multiple fraud schemes]]></title>
+        <id>https://www.bleepingcomputer.com/news/security/fbi-upcoming-us-general-election-fuel-multiple-fraud-schemes/</id>
+        <link href="https://www.bleepingcomputer.com/news/security/fbi-upcoming-us-general-election-fuel-multiple-fraud-schemes/"/>
+        <updated>2024-10-30T13:44:04.000Z</updated>
+        <summary type="html"><![CDATA[The Federal Bureau of Investigation (FBI) is warning of multiple schemes taking advantage of the upcoming U.S. general election to scam people out of their money or personal data. [...]]]></summary>
+        <author>
+            <name>Bill Toulas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trump Pays the Price for Insulting Puerto Rico]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2024/10/bad-bunny-puerto-rico-trump/680453/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2024/10/bad-bunny-puerto-rico-trump/680453/?utm_source=feed"/>
+        <updated>2024-10-30T13:35:00.000Z</updated>
+        <summary type="html"><![CDATA[You can’t call it a “floating island of garbage” and get away with it. <strong> </strong>]]></summary>
+        <author>
+            <name>The Atlantic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Change Healthcare Breach Hits 100M Americans]]></title>
+        <id>https://krebsonsecurity.com/?p=69341</id>
+        <link href="https://krebsonsecurity.com/2024/10/change-healthcare-breach-hits-100m-americans/"/>
+        <updated>2024-10-30T13:34:08.000Z</updated>
+        <summary type="html"><![CDATA[Change Healthcare says it has notified approximately 100 million Americans that their personal, financial and healthcare records may have been stolen in a February 2024 ransomware attack that caused the largest ever known data breach of protected health information.]]></summary>
+        <author>
+            <name>BrianKrebs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI’s Transcription Tool Hallucinates. Hospitals Are Using It Anyway]]></title>
+        <id>https://www.reddit.com/r/artificial/comments/1gfmg53/openais_transcription_tool_hallucinates_hospitals/</id>
+        <link href="https://www.reddit.com/r/artificial/comments/1gfmg53/openais_transcription_tool_hallucinates_hospitals/"/>
+        <updated>2024-10-30T13:24:51.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/wiredmagazine  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : artificial</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Podcast: An Elon Musk-Funded PAC Is Running a Democrat Impersonation Campaign]]></title>
+        <id>672223eb8d131200010397ad</id>
+        <link href="https://www.404media.co/podcast-an-elon-musk-funded-pac-is-running-a-democrat-impersonation-campaign/"/>
+        <updated>2024-10-30T13:00:48.000Z</updated>
+        <summary type="html"><![CDATA[The latest expansion of an Elon Musk-funded super PAC; how New York's largest hospital system is using AI; and how Epic Games' control over the 3D model market could "destroy" cultural heritage.]]></summary>
+        <author>
+            <name>Joseph Cox</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fired Employee Allegedly Hacked Disney World's Menu System to Alter Peanut Allergy Information]]></title>
+        <id>672183d38d131200010391b4</id>
+        <link href="https://www.404media.co/fired-employee-allegedly-hacked-disney-worlds-menu-system-to-alter-peanut-allergy-information/"/>
+        <updated>2024-10-30T13:00:43.000Z</updated>
+        <summary type="html"><![CDATA[The employee separately changed all menu text to Wingdings, the complaint says.]]></summary>
+        <author>
+            <name>Jason Koebler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Throw Out Your Black Plastic Spatula]]></title>
+        <id>https://www.theatlantic.com/health/archive/2024/10/black-plastic-spatula-flame-retardants/680452/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/health/archive/2024/10/black-plastic-spatula-flame-retardants/680452/?utm_source=feed"/>
+        <updated>2024-10-30T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It’s probably leaching chemicals into your cooking oil.]]></summary>
+        <author>
+            <name>The Atlantic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Harris Delivers A Closing Pitch To Voters From The Ellipse | NPR News Now]]></title>
+        <id>https://www.youtube.com/watch?v=-nLqbdrJfJI</id>
+        <link href="https://www.youtube.com/watch?v=-nLqbdrJfJI"/>
+        <updated>2024-10-30T12:50:21.000Z</updated>
+        <author>
+            <name>NPR</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pokémon TCG Pocket Launches Early]]></title>
+        <id>https://www.macstories.net/?p=77100</id>
+        <link href="https://www.macstories.net/news/pokemon-tcg-pocket-launches-early/"/>
+        <updated>2024-10-30T12:35:03.000Z</updated>
+        <summary type="html"><![CDATA[Pokémon TCG Pocket, originally slated to be released on October 31st, is out now and available to download from the App Store. The free-to-play game from The Pokémon Company recreates the company’s trading cards as a mobile experience, with a focus on collecting and casual battling. According to the game’s release notes: You can open […]]]></summary>
+        <author>
+            <name>John Voorhees</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smart Home Mistakes You Need to AVOID]]></title>
+        <id>https://www.youtube.com/watch?v=TRqMD7ZJBaQ</id>
+        <link href="https://www.youtube.com/watch?v=TRqMD7ZJBaQ"/>
+        <updated>2024-10-30T12:30:34.000Z</updated>
+        <author>
+            <name>Jimmy Tries World</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The iPad is at the centre of my productivity.]]></title>
+        <id>https://www.youtube.com/watch?v=o9L13RacO9U</id>
+        <link href="https://www.youtube.com/watch?v=o9L13RacO9U"/>
+        <updated>2024-10-30T12:01:11.000Z</updated>
+        <author>
+            <name>Check the Box &amp; Learn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Red 3 is still in your candy]]></title>
+        <id>https://www.youtube.com/watch?v=rq9dhQIoDw8</id>
+        <link href="https://www.youtube.com/watch?v=rq9dhQIoDw8"/>
+        <updated>2024-10-30T12:01:07.000Z</updated>
+        <author>
+            <name>Vox</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When the Pope Dies, the Cardinals Get Catty]]></title>
+        <id>https://www.theatlantic.com/culture/archive/2024/10/conclave-film-review/680450/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/culture/archive/2024/10/conclave-film-review/680450/?utm_source=feed"/>
+        <updated>2024-10-30T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In <em>Conclave</em>, Vatican City isn’t immune to election-season absurdity.]]></summary>
+        <author>
+            <name>The Atlantic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tobacco Companies May Have Found a Way to Make Vapes More Addictive]]></title>
+        <id>https://www.theatlantic.com/health/archive/2024/10/vape-screen-teens-nicotine-addiction/680455/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/health/archive/2024/10/vape-screen-teens-nicotine-addiction/680455/?utm_source=feed"/>
+        <updated>2024-10-30T11:53:00.000Z</updated>
+        <summary type="html"><![CDATA[Kids might get hooked on new vapes that display animations with each puff.]]></summary>
+        <author>
+            <name>The Atlantic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Overlooked Path to a Financial Fresh Start]]></title>
+        <id>https://www.theatlantic.com/family/archive/2024/10/bankruptcy-law/680451/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/family/archive/2024/10/bankruptcy-law/680451/?utm_source=feed"/>
+        <updated>2024-10-30T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Bankruptcy could help many Americans forgive their debts—yet few take advantage of it.]]></summary>
+        <author>
+            <name>The Atlantic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Recall is NOT Mandatory?!?]]></title>
+        <id>https://www.youtube.com/watch?v=gBqIUkmVel8</id>
+        <link href="https://www.youtube.com/watch?v=gBqIUkmVel8"/>
+        <updated>2024-10-30T11:15:04.000Z</updated>
+        <author>
+            <name>Chris Titus Tech</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Tipping Point I Got Wrong | Malcolm Gladwell | TED]]></title>
+        <id>https://www.youtube.com/watch?v=RmXrwKydM9k</id>
+        <link href="https://www.youtube.com/watch?v=RmXrwKydM9k"/>
+        <updated>2024-10-30T11:00:35.000Z</updated>
+        <author>
+            <name>TED</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Muslim American Support for Trump Is an Act of Self-Sabotage]]></title>
+        <id>https://www.theatlantic.com/politics/archive/2024/10/muslim-american-support-trump/680449/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/politics/archive/2024/10/muslim-american-support-trump/680449/?utm_source=feed"/>
+        <updated>2024-10-30T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<span>A second Trump term would be dramatically worse for our communities than a Harris presidency.</span>]]></summary>
+        <author>
+            <name>The Atlantic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Worst of Crypto Is Yet to Come]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2024/10/crypto-lobbying-trump-harris/680445/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2024/10/crypto-lobbying-trump-harris/680445/?utm_source=feed"/>
+        <updated>2024-10-30T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[No matter who wins in November, the digital-asset market could be on the brink of a deregulation-fueled bonanza.]]></summary>
+        <author>
+            <name>The Atlantic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Kamala Harris Is Targeting Deep-Red Counties]]></title>
+        <id>https://www.theatlantic.com/politics/archive/2024/10/countrypolitan-counties-north-carolina/680440/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/politics/archive/2024/10/countrypolitan-counties-north-carolina/680440/?utm_source=feed"/>
+        <updated>2024-10-30T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[“Countrypolitan” areas around Charlotte and Raleigh are where North Carolina will be won—and lost.]]></summary>
+        <author>
+            <name>The Atlantic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Saori hayami best performance —I don’t understand [When Supernatural battles become commonplace]]]></title>
+        <id>https://www.reddit.com/r/anime/comments/1gfh8hc/saori_hayami_best_performance_i_dont_understand/</id>
+        <link href="https://www.reddit.com/r/anime/comments/1gfh8hc/saori_hayami_best_performance_i_dont_understand/"/>
+        <updated>2024-10-30T07:49:50.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/anime_hentai__  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : anime</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Teamviewer has a 28day pre-cancellation period]]></title>
+        <id>https://www.reddit.com/r/sysadmin/comments/1gfewr7/teamviewer_has_a_28day_precancellation_period/</id>
+        <link href="https://www.reddit.com/r/sysadmin/comments/1gfewr7/teamviewer_has_a_28day_precancellation_period/"/>
+        <updated>2024-10-30T04:54:31.000Z</updated>
+        <summary type="html"><![CDATA[I don't run my company any more so I don't need my Teamviewer business license any more. Closed my business over a year ago but I was two months into a annual license. Made a note in my calendar to cancel one month before my renewal date only to find that by the time I was able to cancel it was now 26 days before and the license requires a minimum of 28 days. 
+ So now they are telling me I have to pay for another full year and I don't even have any customers. 
+    submitted by    /u/DirtyDave67  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : sysadmin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[More than a quarter of new code at Google is generated by AI]]></title>
+        <id>https://www.reddit.com/r/artificial/comments/1gfcpfm/more_than_a_quarter_of_new_code_at_google_is/</id>
+        <link href="https://www.reddit.com/r/artificial/comments/1gfcpfm/more_than_a_quarter_of_new_code_at_google_is/"/>
+        <updated>2024-10-30T02:45:16.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/MetaKnowing  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : artificial</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reddit is profitable for the first time ever, with nearly 100 million daily users]]></title>
+        <id>https://www.reddit.com/r/technology/comments/1gfbcib/reddit_is_profitable_for_the_first_time_ever_with/</id>
+        <link href="https://www.reddit.com/r/technology/comments/1gfbcib/reddit_is_profitable_for_the_first_time_ever_with/"/>
+        <updated>2024-10-30T01:35:16.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/zxyzyxz  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : technology</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tesla Using 'Full Self-Driving' Hits Deer Without Slowing, Doesn't Stop]]></title>
+        <id>https://www.reddit.com/r/technology/comments/1gf9tdz/tesla_using_full_selfdriving_hits_deer_without/</id>
+        <link href="https://www.reddit.com/r/technology/comments/1gf9tdz/tesla_using_full_selfdriving_hits_deer_without/"/>
+        <updated>2024-10-30T00:20:02.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Lacy_Hall  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : technology</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The best Nintendo Switch controllers to buy right now]]></title>
         <id>https://www.theverge.com/23350899/nintendo-switch-controllers-best-wireless-joy-con-gamepad</id>
@@ -27,6 +904,17 @@ In this buying guide, we focus on wireless controllers that are both comfortable
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Jeff Bezos says he didn't know Blue Origin met with Trump as he tries to calm Washington Post storm]]></title>
+        <id>https://www.reddit.com/r/technology/comments/1gf97ey/jeff_bezos_says_he_didnt_know_blue_origin_met/</id>
+        <link href="https://www.reddit.com/r/technology/comments/1gf97ey/jeff_bezos_says_he_didnt_know_blue_origin_met/"/>
+        <updated>2024-10-29T23:51:03.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/upyoars  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : technology</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The best iPhones]]></title>
         <id>https://www.theverge.com/23618862/best-iphone-camera-battery-screen-guide</id>
         <link href="https://www.theverge.com/23618862/best-iphone-camera-battery-screen-guide"/>
@@ -41,6 +929,17 @@ Whether you want a battery that lasts for days or the very best deal, we’ve go
 Apple has promised much more, though, and what we’ve been able to preview in the iOS 18.2 developer beta looks pretty good. But the Apple Intelligence rollout is going…]]></summary>
         <author>
             <name>The Verge -  Front Pages</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Russian court fines Google $20,000,000,000,000,000,000,000,000,000,000,000]]></title>
+        <id>https://www.reddit.com/r/technology/comments/1gf8g4v/russian_court_fines_google/</id>
+        <link href="https://www.reddit.com/r/technology/comments/1gf8g4v/russian_court_fines_google/"/>
+        <updated>2024-10-29T23:15:48.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Letsbesensibleplease  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : technology</name>
         </author>
     </entry>
     <entry>
@@ -78,6 +977,21 @@ Yet not all instant cameras are the same, and some of them are better suited for
         <summary type="html"><![CDATA[Enjoy the latest episodes from MacStories’ family of podcasts: AppStories This week, Federico and John are joined by Niléane Dorffer who writes at MacStories and is a co-host of Comfort Zone, a show all about trying new things in your tech life, to talk about three of Niléane’s favorite apps – Raycast, Tailscale, and Day […]]]></summary>
         <author>
             <name>John Voorhees</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is Linux system administration dead?]]></title>
+        <id>https://www.reddit.com/r/sysadmin/comments/1gf758d/is_linux_system_administration_dead/</id>
+        <link href="https://www.reddit.com/r/sysadmin/comments/1gf758d/is_linux_system_administration_dead/"/>
+        <updated>2024-10-29T22:17:08.000Z</updated>
+        <summary type="html"><![CDATA[I just got my associates and Linux Plus certification and have been looking for a job. I've noticed that almost every job listing has been asking about active directory and windows servers, which is different than what I expected and was told in college. I was under the impression that 90 something percent the servers ran on Linux. Anyway I decided not to let it bother me and to apply for those jobs anyway as they were the only ones I could find. I've had five or six interviews and all of them have turned me down because I have no training or experience with active directory or Windows servers. Then yesterday the person I was interviewing with made a comment the kind of scared me. He said that he had come from a Linux background as well and had transitioned to Windows servers because "93% of servers run Windows and the only people running Linux are banks and credit unions." This was absolutely terrifying to hear because college was the most expensive thing I've ever done. To think that all the time and money I spent was useless really sucks.
+ I guess my question is two parts: where do you find Linux system administrator jobs in Arizona?
+ Was it a mistake to get into linux? If so what would you recommend I learned next.
+ EDIT: I just wanted to say thank you to everybody for your encouragement and for quelling my fears about Linux. I'm super excited as I have a lot information to research and work with now! 😁
+    submitted by    /u/voxcopper  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : sysadmin</name>
         </author>
     </entry>
     <entry>
@@ -130,6 +1044,18 @@ Operating incomes were also strong. Google Services hi…]]></summary>
         <updated>2024-10-29T20:47:37.000Z</updated>
         <author>
             <name>DailyTekk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Just got a 10k raise 3 months in.]]></title>
+        <id>https://www.reddit.com/r/sysadmin/comments/1gf4rgt/just_got_a_10k_raise_3_months_in/</id>
+        <link href="https://www.reddit.com/r/sysadmin/comments/1gf4rgt/just_got_a_10k_raise_3_months_in/"/>
+        <updated>2024-10-29T20:34:53.000Z</updated>
+        <summary type="html"><![CDATA[Always worth a shot to ask. Almost tied for my quickest pay raise to date, although I don’t think I’m ever going to beat sub 30 days…
+    submitted by    /u/Ragepower529  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : sysadmin</name>
         </author>
     </entry>
     <entry>
@@ -195,6 +1121,19 @@ The union charges that Google issued an “overly broad directive” on discussi
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Dandadan stays on Netflix Top 10 (October 21st - 27th) with 3.1 million views]]></title>
+        <id>https://www.reddit.com/r/anime/comments/1gf3rgo/dandadan_stays_on_netflix_top_10_october_21st/</id>
+        <link href="https://www.reddit.com/r/anime/comments/1gf3rgo/dandadan_stays_on_netflix_top_10_october_21st/"/>
+        <updated>2024-10-29T19:53:20.000Z</updated>
+        <summary type="html"><![CDATA[(Top 10 refers to "TV (Non-English)" category)
+ Ranma 1/2 stays on Top 10 with 1.4 million views too.
+    submitted by    /u/NathLWX  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : anime</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[An Elon Musk-funded super PAC is putting out fake pro-Harris ads]]></title>
         <id>https://www.theverge.com/2024/10/29/24282957/progress-2028-elon-musk-building-americas-future-ads-pac</id>
         <link href="https://www.theverge.com/2024/10/29/24282957/progress-2028-elon-musk-building-americas-future-ads-pac"/>
@@ -207,6 +1146,17 @@ If you’re a swing state voter, you may have seen ads claiming that vice presid
 Building America’s Future is expanding an ad campaign targeted at undecided voters in swing states, 404 Media reports. Over the past week, the PAC spent over $300,000 on a dozen Facebook ads, which are sub-targeted to 819 diffe…]]></summary>
         <author>
             <name>The Verge -  Front Pages</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kamala Harris And Tim Walz Launch Their Own Fortnite Map]]></title>
+        <id>https://www.reddit.com/r/technology/comments/1gf3j6v/kamala_harris_and_tim_walz_launch_their_own/</id>
+        <link href="https://www.reddit.com/r/technology/comments/1gf3j6v/kamala_harris_and_tim_walz_launch_their_own/"/>
+        <updated>2024-10-29T19:43:43.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/upyoars  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : technology</name>
         </author>
     </entry>
     <entry>
@@ -449,6 +1399,17 @@ In addition to the M4 iMac’s new colors, USB-C peripherals, and an upgraded 12
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Introducing the all-new Mac mini | Apple]]></title>
+        <id>https://www.reddit.com/r/apple/comments/1gf0buc/introducing_the_allnew_mac_mini_apple/</id>
+        <link href="https://www.reddit.com/r/apple/comments/1gf0buc/introducing_the_allnew_mac_mini_apple/"/>
+        <updated>2024-10-29T17:31:40.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/instamelih  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : apple</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[These bookmarking apps can organize all of that content you’re saving for later]]></title>
         <id>https://www.theverge.com/22927750/bookmarks-pocket-firefox-instapaper-raindrop</id>
         <link href="https://www.theverge.com/22927750/bookmarks-pocket-firefox-instapaper-raindrop"/>
@@ -464,6 +1425,17 @@ Screenshot: Mozilla
       Pocket has developed an attractive interface and a va…]]></summary>
         <author>
             <name>The Verge -  Front Pages</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The new Mac Mini's power button is at the bottom...]]></title>
+        <id>https://www.reddit.com/r/apple/comments/1gf00lc/the_new_mac_minis_power_button_is_at_the_bottom/</id>
+        <link href="https://www.reddit.com/r/apple/comments/1gf00lc/the_new_mac_minis_power_button_is_at_the_bottom/"/>
+        <updated>2024-10-29T17:18:45.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Photoro  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : apple</name>
         </author>
     </entry>
     <entry>
@@ -567,6 +1539,17 @@ In addition to porting old Wii U games, Nintendo’s still releasing new titles 
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Apple 2030: The M4 Mac mini is Apple’s first carbon neutral Mac]]></title>
+        <id>https://www.reddit.com/r/apple/comments/1gey9od/apple_2030_the_m4_mac_mini_is_apples_first_carbon/</id>
+        <link href="https://www.reddit.com/r/apple/comments/1gey9od/apple_2030_the_m4_mac_mini_is_apples_first_carbon/"/>
+        <updated>2024-10-29T16:06:31.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/ty003  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : apple</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How the Trump Resistance Gave Up]]></title>
         <id>https://www.theatlantic.com/culture/archive/2024/10/how-the-trump-resistance-gave-way-to-apathy/680442/?utm_source=feed</id>
         <link href="https://www.theatlantic.com/culture/archive/2024/10/how-the-trump-resistance-gave-way-to-apathy/680442/?utm_source=feed"/>
@@ -584,6 +1567,17 @@ In addition to porting old Wii U games, Nintendo’s still releasing new titles 
         <summary type="html"><![CDATA[Source: Apple. Today, Apple announced the new M4 Mac mini via a press release. The new mini’s chip jumped from M2 to M4, which is available in both its base and Pro configurations. However, what’s most remarkable about the Mac mini is its size. The new design measures just 5 inches deep, 5 inches wide, […]]]></summary>
         <author>
             <name>John Voorhees</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[M4 Pro chip boosts CPU and GPU performance, up to 64 GB RAM and Thunderbolt 5 support]]></title>
+        <id>https://www.reddit.com/r/apple/comments/1gewxvb/m4_pro_chip_boosts_cpu_and_gpu_performance_up_to/</id>
+        <link href="https://www.reddit.com/r/apple/comments/1gewxvb/m4_pro_chip_boosts_cpu_and_gpu_performance_up_to/"/>
+        <updated>2024-10-29T15:10:48.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/byaruhaf  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : apple</name>
         </author>
     </entry>
     <entry>
@@ -732,6 +1726,17 @@ In addition to porting old Wii U games, Nintendo’s still releasing new titles 
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[US Copyright Office Grants DMCA Exemption for Ice Cream Machines]]></title>
+        <id>https://www.reddit.com/r/technology/comments/1geuywr/us_copyright_office_grants_dmca_exemption_for_ice/</id>
+        <link href="https://www.reddit.com/r/technology/comments/1geuywr/us_copyright_office_grants_dmca_exemption_for_ice/"/>
+        <updated>2024-10-29T13:44:34.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/ivantos09  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : technology</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Solidarity and Gaza]]></title>
         <id>https://www.theatlantic.com/ideas/archive/2024/10/black-americans-solidarity-gaza/680433/?utm_source=feed</id>
         <link href="https://www.theatlantic.com/ideas/archive/2024/10/black-americans-solidarity-gaza/680433/?utm_source=feed"/>
@@ -749,6 +1754,17 @@ In addition to porting old Wii U games, Nintendo’s still releasing new titles 
         <summary type="html"><![CDATA[Installing a NAT router with Windows Server Routing and Remote Access Service (RRAS) provides secure internet access for internal networks by routing traffic while protecting against external threats. With RRAS, Windows Server can function as a NAT router, VPN server, or gateway for internal and VPN-connected networks. This guide covers step-by-step instructions for configuring NAT and enabling features like DHCP and DNS proxy for seamless network management.]]></summary>
         <author>
             <name>Wolfgang Sommergut</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thunderous applause, please! [Re:Zero Season 3]]]></title>
+        <id>https://www.reddit.com/r/anime/comments/1geu87m/thunderous_applause_please_rezero_season_3/</id>
+        <link href="https://www.reddit.com/r/anime/comments/1geu87m/thunderous_applause_please_rezero_season_3/"/>
+        <updated>2024-10-29T13:09:52.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/The_frost__  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : anime</name>
         </author>
     </entry>
     <entry>
@@ -2268,6 +3284,19 @@ This post was created by a bot. Message the mod team for feedback and comments. 
         <updated>2024-10-26T10:00:48.000Z</updated>
         <author>
             <name>Poetry Of Slow Life</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I shared a beginner friendly PyTorch Deep Learning course on YouTube (1.5 Hours)]]></title>
+        <id>https://www.reddit.com/r/artificial/comments/1gcfrg7/i_shared_a_beginner_friendly_pytorch_deep/</id>
+        <link href="https://www.reddit.com/r/artificial/comments/1gcfrg7/i_shared_a_beginner_friendly_pytorch_deep/"/>
+        <updated>2024-10-26T07:34:09.000Z</updated>
+        <summary type="html"><![CDATA[Hello, I just shared a beginner-friendly PyTorch deep learning course on YouTube. In this course, I cover installation, creating tensors, tensor operations, tensor indexing and slicing, automatic differentiation with autograd, building a linear regression model from scratch, PyTorch modules and layers, neural network basics, training models, and saving/loading models. I am adding the course link below, have a great day!
+ https://www.youtube.com/watch?v=4EQ-oSD8HeU&list=PLTsu3dft3CWiow7L7WrCd27ohlra_5PGH&index=12
+    submitted by    /u/onurbaltaci  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : artificial</name>
         </author>
     </entry>
     <entry>
@@ -4120,114 +5149,6 @@ This post was created by a bot. Message the mod team for feedback and comments. 
         <updated>2024-10-21T14:05:14.000Z</updated>
         <author>
             <name>Cleo Abram</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trump Campaigns In A McDonald's Drive-Thru | NPR News Now]]></title>
-        <id>https://www.youtube.com/watch?v=L8GwGTuJDko</id>
-        <link href="https://www.youtube.com/watch?v=L8GwGTuJDko"/>
-        <updated>2024-10-21T12:28:52.000Z</updated>
-        <author>
-            <name>NPR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Magical, Mesmerizing Migration of Monarch Butterflies | Jaime Rojo | TED]]></title>
-        <id>https://www.youtube.com/watch?v=PnBMdJ5KeHk</id>
-        <link href="https://www.youtube.com/watch?v=PnBMdJ5KeHk"/>
-        <updated>2024-10-21T11:00:33.000Z</updated>
-        <author>
-            <name>TED</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NEWS RELEASES | Sister Nataliya Sharapova Released From Russian Prison]]></title>
-        <id>4f67bbff07c7b9cb9d2992871955e5de</id>
-        <link href="https://www.jw.org/en/news/region/russia/Sister-Nataliya-Sharapova-Released-From-Russian-Prison/"/>
-        <updated>2024-10-21T00:00:00.000Z</updated>
-        <author>
-            <name>JW.ORG Newsroom</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Tri Folding Phone Impressions!]]></title>
-        <id>https://www.youtube.com/watch?v=Yv_S7KrOlfk</id>
-        <link href="https://www.youtube.com/watch?v=Yv_S7KrOlfk"/>
-        <updated>2024-10-20T20:48:21.000Z</updated>
-        <author>
-            <name>Marques Brownlee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I'M ADDICTED TO INTERIOR DESIGN TIKTOK]]></title>
-        <id>https://www.youtube.com/watch?v=TI4DK7aSkiw</id>
-        <link href="https://www.youtube.com/watch?v=TI4DK7aSkiw"/>
-        <updated>2024-10-20T20:14:49.000Z</updated>
-        <author>
-            <name>Paige Wassel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tenant couldn't afford city. Their alleyway studio ADU made him stay]]></title>
-        <id>https://www.youtube.com/watch?v=K7T22-HunFc</id>
-        <link href="https://www.youtube.com/watch?v=K7T22-HunFc"/>
-        <updated>2024-10-20T19:08:38.000Z</updated>
-        <author>
-            <name>Kirsten Dirksen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Daily Habits That Help Me Live Simply As A Busy Worker | slow living & minimalism]]></title>
-        <id>https://www.youtube.com/watch?v=MqbtfX-MbWA</id>
-        <link href="https://www.youtube.com/watch?v=MqbtfX-MbWA"/>
-        <updated>2024-10-20T17:04:08.000Z</updated>
-        <author>
-            <name>LagomHolly</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My Minimal iPad Mini Setup | OS18]]></title>
-        <id>https://www.youtube.com/watch?v=i-OYRNATN4o</id>
-        <link href="https://www.youtube.com/watch?v=i-OYRNATN4o"/>
-        <updated>2024-10-20T16:25:07.000Z</updated>
-        <author>
-            <name>Nicholas Garofola</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🏡 decorating my new york city apartment (colorful & maximalist)]]></title>
-        <id>https://www.youtube.com/watch?v=j4XDLM4VbsY</id>
-        <link href="https://www.youtube.com/watch?v=j4XDLM4VbsY"/>
-        <updated>2024-10-20T16:00:44.000Z</updated>
-        <author>
-            <name>linh truong</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The best way to use up leftover rice 🍚]]></title>
-        <id>https://www.youtube.com/watch?v=lxz_gqXVnBY</id>
-        <link href="https://www.youtube.com/watch?v=lxz_gqXVnBY"/>
-        <updated>2024-10-20T15:33:03.000Z</updated>
-        <author>
-            <name>Pick Up Limes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Saying Goodbye to Our Cabin]]></title>
-        <id>https://www.youtube.com/watch?v=Yjp3Y66XGD8</id>
-        <link href="https://www.youtube.com/watch?v=Yjp3Y66XGD8"/>
-        <updated>2024-10-20T15:00:40.000Z</updated>
-        <author>
-            <name>Eamon &amp; Bec</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Day in my life as a Software Engineer | AWS Control Tower/Security + testing my new Insta360 GO 3S 📷]]></title>
-        <id>https://www.youtube.com/watch?v=ueuASdCBBjU</id>
-        <link href="https://www.youtube.com/watch?v=ueuASdCBBjU"/>
-        <updated>2024-10-20T13:45:07.000Z</updated>
-        <author>
-            <name>Kyla Quilos</name>
         </author>
     </entry>
 </feed>
