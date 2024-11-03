@@ -12,6 +12,56 @@
       "siteUrl": "https://www.theverge.com/",
       "articles": [
         {
+          "id": "https://www.theverge.com/2024/11/3/24286842/nintendo-alarmo-doom-hack-usb-custom-firmware-instructions",
+          "author": null,
+          "description": "This, but blasting demons. | Photo by Chris Welch / The Verge\n    \n\n  \nWhat do John Deere tractors, Ikea smart bulbs, Lego bricks, and the MacBook Pro Touch Bar have in common? They can all run Doom, and naturally, so can Nintendo’s adorable Alarmo alarm clock. It was only a matter of time before someone pulled that off, but what I didn’t expect was that when it happened, it would be playable.\nThat’s exactly what hacker GaryOberNicht, who recently figured out how to run custom firmware on the Alarmo, did in a video posted to Mastodon and their X account yesterday. In it, they play by turning or pressing the mushroom-shaped blob on top of the Alarmo to move and pressing the other buttons to shoot or open doors. Here, have a look:\n\n\nGary said it’s “possible to load the shareware version of Doom entirely from USB, without modifying the Alarmo.” And they’ve put the software and instructions for running it on Github, so almost any sufficiently knowledgeable and determined Alarmo owner can do it, too. Best of all, it can be done without opening the clock up at all.\nHow did they pull this off? Gary explains in a blog post that after another person called Spinda hacked the Alarmo (with a Flipper Zero) and dumped the firmware from memory, Gary worked out a method that uses a USB mode and the USB-C port to point the Alarmo to custom external firmware, instead. \n\n\nGiven how easy it appears to be reproduce what Gary has done, Alarmo software modding almost certainly won’t just stop at Doom. Of course, how far any online community efforts to turn the Alarmo into a bizarro game console will get probably depends on how Nintendo, which has been particularly active with its copyright disputes lately, feels about it.",
+          "link": "https://www.theverge.com/2024/11/3/24286842/nintendo-alarmo-doom-hack-usb-custom-firmware-instructions",
+          "publishedOn": "2024-11-03T18:22:59.000Z",
+          "wordCount": 3133,
+          "title": "Can Nintendo’s Alarmo run Doom? You bet it can",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/LBUrUGkbFK2mEPNXr5Z0L5Wl-7E=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25666901/DSC_0955_2.jpg"
+        },
+        {
+          "id": "https://www.theverge.com/2024/11/3/24285474/track-star-tiktok-music-game-show-vergecast",
+          "author": null,
+          "description": "Image: Samar Haddad / The Verge\n    \n\n  \nGuess the artist, win five bucks. Whether you’re a random person on the streets of New York, an A-list celebrity, or the sitting Vice President of the United States, that’s the pitch behind one of the most fun music shows on social media. You show up, you get some headphones and a microphone, and you hope you know what song is playing. \nThe show is called Track Star, and it’s hosted by Jack Coyne. On this episode of The Vergecast, the first in our three-part miniseries about the future of music, Coyne joins the show to tell us the story of Track Star. \n\nWe talk about the show’s beginnings as a trivia show about New York called Public Opinion, how Coyne and his co-creators figured out the show’s structure and pace, how he thinks about his role as the host, and why a bunch of famous people started clamoring to be on the show. Coyne never expected Track Star to  feature the likes of Ed Sheeran, Olivia Rodrigo, Jack Antonoff, Nelly Furtado, Kamala Harris, and Oprah, but it happened. And somewhat remarkably, it didn’t change the show at all.\nWe also dig into why a show like Track Star works, and why it matters, in the current music landscape. Coyne and his team have big plans for expanding the franchise, too, and sees a place for Track Star even in an online world already overloaded with stuff to listen to. If you start with music, conversation, and a decent playlist, there are plenty of places you can go.\n\n\n\nIf you want to know more about everything we discuss in this episode, here are some links to get you started:\nTrack Star on TikTok\nJack Coyne on Instagram\nThe Olivia Rodrigo episode\nThe “Every Track Star Song” playlist\nThe Malcolm Todd episode\nPublic Opinion",
+          "link": "https://www.theverge.com/2024/11/3/24285474/track-star-tiktok-music-game-show-vergecast",
+          "publishedOn": "2024-11-03T15:00:00.000Z",
+          "wordCount": 3973,
+          "title": "Your favorite musician’s favorite TikTok show",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/W-tgjLb-aqnRGhQ8Pln4ukGSRv8=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25710447/VST_1103_Site.jpg"
+        },
+        {
+          "id": "https://www.theverge.com/2024/11/3/24285366/migration-climate-change-biden-election-trump-harris",
+          "author": null,
+          "description": "Activists gather in New York City in August 2024.  | Photo: Luis Yañez\n    \n\n\n  \nJoe Biden raised hopes that the US would finally plan for climate-displaced migrants. Today, it’s still a glaring hole in climate and immigration policy.  \n Joe Biden will leave office having taken more action on climate change, arguably, than any US president before him — but one pillar of his climate plan has fallen apart. Climate-driven disasters have displaced millions all over the world, an issue Biden acknowledged early in his term yet did little to address. But as climate change and migration are becoming increasingly intertwined, US policy is anything but prepared.\nWithout any explicit legal protections for climate migrants, the US continues to have a giant blind spot as it abandons those fleeing ecolo…",
+          "link": "https://www.theverge.com/2024/11/3/24285366/migration-climate-change-biden-election-trump-harris",
+          "publishedOn": "2024-11-03T14:00:00.000Z",
+          "wordCount": 13141,
+          "title": "US immigration policy has a huge blind spot: climate change",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/Vrb8_rRc9VxCHepC5a5xo8EMtkg=/0x0:6000x4000/1200x628/filters:focal(3000x2000:3001x2001)/cdn.vox-cdn.com/uploads/chorus_asset/file/25709978/Credit__Luis_Yan_ez___ED_DSC00150.jpg"
+        },
+        {
+          "id": "https://www.theverge.com/2024/11/3/24285425/chatgpt-search-mac-mini-pokemon-tcg-installer",
+          "author": null,
+          "description": "Image: David Pierce / The Verge\n    \n\n  \nHi, friends! Welcome to Installer No. 59, your guide to the best and Verge-iest stuff in the world. (If you’re new here, welcome, so psyched you found us, and also you can read all the old editions at the Installer homepage.) \nThis week, I’ve been reading about HotWired and DRAM and Mike Solana, watching The Diplomat, jamming to Dua Lipa’s Tiny Desk concert, trying Smashing for news reading and cool-stuff discovery, testing my bandwidth caps downloading Call of Duty: Black Ops 6, and listening to all six hours of the Acquired Meta episode.\nI also have for you some interesting new AI search products, some new Apple gear, a couple of documentaries to watch this weekend, a calendar app for Windows, and much more.\nOh, and thanks to everyone who reached …",
+          "link": "https://www.theverge.com/2024/11/3/24285425/chatgpt-search-mac-mini-pokemon-tcg-installer",
+          "publishedOn": "2024-11-03T13:00:00.000Z",
+          "wordCount": 11938,
+          "title": "The AI search engines are here — and getting better",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/wJLZ7zAFnxN6UCVYLKZDAJbThcY=/0x0:2169x1446/1200x628/filters:focal(1085x723:1086x724)/cdn.vox-cdn.com/uploads/chorus_asset/file/25710013/installer_59.png"
+        },
+        {
+          "id": "https://www.theverge.com/2024/11/3/24281754/rolls-royce-spectre-review-ev-price-specs-sound",
+          "author": null,
+          "description": "Tim Stevens\n    \n\n  \nMy favorite feature of the new $420,000, all-electric Rolls-Royce Spectre isn’t the cosseting ride quality or the illuminated stars embedded in the headliner of the insanely ornate interior. It isn’t the 577 horsepower or the 266 miles of range. It’s neither the “yes, that’s the spot” massaging seats nor the curbside presence of that upright, chromed front grille. It isn’t even the aerodynamically refined yet classically styled Spirit of Ecstasy statuette perched atop.\nMy favorite feature of the Spectre is the sound it makes. As an EV, it doesn’t really make any engine sound on its own. It’s a rolling cocoon made inherently anti-acoustic thanks to the tireless work of some surely big-eared scientists. So, to inject a little more life into the driving experience, the Sp…",
+          "link": "https://www.theverge.com/2024/11/3/24281754/rolls-royce-spectre-review-ev-price-specs-sound",
+          "publishedOn": "2024-11-03T13:00:00.000Z",
+          "wordCount": 7535,
+          "title": "Rolls-Royce’s first electric vehicle sounds like no other",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/LzFx_sqsONxJJ-nbc69puqXAOzM=/0x0:3000x2000/1200x628/filters:focal(1500x1000:1501x1001)/cdn.vox-cdn.com/uploads/chorus_asset/file/25705311/2024_Rolls_Royce_Ghost_005.jpg"
+        },
+        {
           "id": "https://www.theverge.com/21302051/best-apple-airpods-deals",
           "author": null,
           "description": "The new AirPods 4 deliver better sound and voice call quality than prior models. | Photo by Chris Welch / The Verge\n    \n\n  \nIf you know where to look, you can often score discounts on Apple’s ever-popular AirPods. Although we’ve yet to see major deals on the new AirPods 4 and the updated AirPods Max, both the second- and third-gen AirPods can still often be found at a steep discount. The same goes for the original Max, which are nearly indistinguishable from the previous model aside from the addition of USB-C.\n\n\n\nHere, we’ve rounded up the best deals currently available on each model, including the second-gen and third-gen AirPods, both iterations of the AirPods 4, the latest AirPods Pro with USB-C, and the last-gen AirPods Max. \n\n\nThe best AirPods (second-gen) deals\n\n\nBefore they were di…",
@@ -588,6 +638,116 @@
       "feedUrl": "https://www.theatlantic.com/feed/all/",
       "siteUrl": "https://www.theatlantic.com/",
       "articles": [
+        {
+          "id": "https://www.theatlantic.com/politics/archive/2024/11/trump-fantasizes-about-reporters-being-shot/680514/?utm_source=feed",
+          "author": null,
+          "description": "The former president muses about reporters getting shot.",
+          "link": "https://www.theatlantic.com/politics/archive/2024/11/trump-fantasizes-about-reporters-being-shot/680514/?utm_source=feed",
+          "publishedOn": "2024-11-03T22:13:50.000Z",
+          "wordCount": 2508,
+          "title": "Donald Trump’s Latest Violent Fantasy",
+          "imageUrl": "https://cdn.theatlantic.com/thumbor/DuleyE1srOzj3HDvUsluyu2Ihzo=/0x375:5104x3033/1200x625/media/img/mt/2024/11/2182677421/original.jpg"
+        },
+        {
+          "id": "https://www.theatlantic.com/culture/archive/2024/11/saturday-night-live-kamala-harris-election-exhaustion-tim-kaine/680513/?utm_source=feed",
+          "author": null,
+          "description": "Kamala Harris made a surprise appearance on the show, but another segment last night made a sharper political point.",
+          "link": "https://www.theatlantic.com/culture/archive/2024/11/saturday-night-live-kamala-harris-election-exhaustion-tim-kaine/680513/?utm_source=feed",
+          "publishedOn": "2024-11-03T18:57:47.000Z",
+          "wordCount": 1821,
+          "title": "The <em>SNL </em>Election Sketch That Captured Voter Exhaustion",
+          "imageUrl": "https://cdn.theatlantic.com/thumbor/JcJDev4a09gSaFhlIOH82PjK9_8=/0x46:2148x1165/1200x625/media/img/mt/2024/11/GettyImages_2181956589_copy/original.jpg"
+        },
+        {
+          "id": "https://www.theatlantic.com/books/archive/2024/11/poem-steven-duong-novel/680508/?utm_source=feed",
+          "author": null,
+          "description": "A poem for Sunday",
+          "link": "https://www.theatlantic.com/books/archive/2024/11/poem-steven-duong-novel/680508/?utm_source=feed",
+          "publishedOn": "2024-11-03T17:00:00.000Z",
+          "wordCount": 470,
+          "title": "Novel",
+          "imageUrl": "https://cdn.theatlantic.com/thumbor/HN3tKoGKnD6WQNEaJfdyxcIVZgI=/0x578:2160x1703/1200x625/media/img/mt/2024/11/HR_MG1267738/original.jpg"
+        },
+        {
+          "id": "https://www.theatlantic.com/international/archive/2024/11/china-russia-north-korea/680496/?utm_source=feed",
+          "author": null,
+          "description": "North Korean troops are in Russia. Is that really what’s best for Beijing?",
+          "link": "https://www.theatlantic.com/international/archive/2024/11/china-russia-north-korea/680496/?utm_source=feed",
+          "publishedOn": "2024-11-03T16:49:49.000Z",
+          "wordCount": 2003,
+          "title": "Xi May Lose His Gamble",
+          "imageUrl": "https://cdn.theatlantic.com/thumbor/w7fgkVjkwRi64r2s_MOHNs50XEQ=/0x102:4792x2598/1200x625/media/img/mt/2024/11/chinarussiank_/original.jpg"
+        },
+        {
+          "id": "https://www.theatlantic.com/technology/archive/2024/11/usb-c-is-not-universal/680502/?utm_source=feed",
+          "author": null,
+          "description": "We’ll never get a universal cable.",
+          "link": "https://www.theatlantic.com/technology/archive/2024/11/usb-c-is-not-universal/680502/?utm_source=feed",
+          "publishedOn": "2024-11-03T13:00:00.000Z",
+          "wordCount": 2390,
+          "title": "The Broken Promise of USB-C",
+          "imageUrl": "https://cdn.theatlantic.com/thumbor/0b3uC-RuAc204HsS7VuTf8XVHOs=/0x43:2000x1085/1200x625/media/img/mt/2024/11/standard_cable_final/original.jpg"
+        },
+        {
+          "id": "https://www.theatlantic.com/politics/archive/2024/11/american-republic-trump-threat/680501/?utm_source=feed",
+          "author": null,
+          "description": "Trump has told us his plans, so vote as if the country depends on you. It does.",
+          "link": "https://www.theatlantic.com/politics/archive/2024/11/american-republic-trump-threat/680501/?utm_source=feed",
+          "publishedOn": "2024-11-03T13:00:00.000Z",
+          "wordCount": 8759,
+          "title": "No One Has an Alibi",
+          "imageUrl": "https://cdn.theatlantic.com/thumbor/2FHNR-ZPLp0QR0o5uZBHXYELLmg=/0x43:2000x1085/1200x625/media/img/mt/2024/11/UndecidedStill/original.png"
+        },
+        {
+          "id": "https://www.theatlantic.com/politics/archive/2024/11/election-denialism-arizona-kari-lake/680512/?utm_source=feed",
+          "author": null,
+          "description": "Kari Lake has made denialism and bombast her brand.",
+          "link": "https://www.theatlantic.com/politics/archive/2024/11/election-denialism-arizona-kari-lake/680512/?utm_source=feed",
+          "publishedOn": "2024-11-03T12:00:00.000Z",
+          "wordCount": 2983,
+          "title": "Arizona’s Election Tipping Point",
+          "imageUrl": "https://cdn.theatlantic.com/thumbor/q6YIlV47jqoU7x19tc56g4vum4I=/0x43:2000x1085/1200x625/media/img/mt/2024/11/kari_lake_final/original.jpg"
+        },
+        {
+          "id": "https://www.theatlantic.com/newsletters/archive/2024/11/what-to-watch-if-you-need-a-distraction-this-week/680492/?utm_source=feed",
+          "author": null,
+          "description": "These six movies and shows provide a thoughtful or hopeful break.",
+          "link": "https://www.theatlantic.com/newsletters/archive/2024/11/what-to-watch-if-you-need-a-distraction-this-week/680492/?utm_source=feed",
+          "publishedOn": "2024-11-03T12:00:00.000Z",
+          "wordCount": 3154,
+          "title": "What to Watch if You Need a Distraction This Week",
+          "imageUrl": "https://cdn.theatlantic.com/thumbor/kdc-TD2-PwdNxq9_MdqZ6n7UE-Y=/1x302:4251x2516/1200x625/media/img/mt/2024/11/2R56RB4/original.jpg"
+        },
+        {
+          "id": "https://www.theatlantic.com/ideas/archive/2024/11/trump-campaign-absent-swing-states/680471/?utm_source=feed",
+          "author": null,
+          "description": "In North Carolina, the Harris campaign has built a massive infrastructure. Trump is employing a very different strategy.",
+          "link": "https://www.theatlantic.com/ideas/archive/2024/11/trump-campaign-absent-swing-states/680471/?utm_source=feed",
+          "publishedOn": "2024-11-03T11:30:00.000Z",
+          "wordCount": 4118,
+          "title": "The Great, Disappearing Trump Campaign",
+          "imageUrl": "https://cdn.theatlantic.com/thumbor/iM8lcEtdgyslDA-TeiHNFFmABxo=/0x43:2000x1085/1200x625/media/img/mt/2024/10/trump_campaign_exist2/original.jpg"
+        },
+        {
+          "id": "https://www.theatlantic.com/politics/archive/2024/11/2024-election-pennsylvania-rural/680489/?utm_source=feed",
+          "author": null,
+          "description": "A journey through 2024’s most important swing state",
+          "link": "https://www.theatlantic.com/politics/archive/2024/11/2024-election-pennsylvania-rural/680489/?utm_source=feed",
+          "publishedOn": "2024-11-03T11:00:00.000Z",
+          "wordCount": 9091,
+          "title": "What’s the Deal With Pennsylvania?",
+          "imageUrl": "https://cdn.theatlantic.com/thumbor/yHn-0Indp9dBMsXyR-joZYBaOkE=/0x36:4792x2532/1200x625/media/img/mt/2024/11/Opener_1_rattman_2024_11_01_IMG_6604/original.jpg"
+        },
+        {
+          "id": "https://www.theatlantic.com/politics/archive/2024/11/flashpoint-new-apostolic-reformation/680478/?utm_source=feed",
+          "author": null,
+          "description": "What a growing pro-Trump Christian movement tells viewers of its premier news show.",
+          "link": "https://www.theatlantic.com/politics/archive/2024/11/flashpoint-new-apostolic-reformation/680478/?utm_source=feed",
+          "publishedOn": "2024-11-03T11:00:00.000Z",
+          "wordCount": 6263,
+          "title": "This Just in From Heaven",
+          "imageUrl": "https://cdn.theatlantic.com/thumbor/e9Y8MONv6dZnZyCjxcMC6fTyBU8=/0x43:2000x1085/1200x625/media/img/mt/2024/11/victory_TV._1-1/original.jpg"
+        },
         {
           "id": "https://www.theatlantic.com/technology/archive/2024/11/gateway-pundit-ccdh-research/680506/?utm_source=feed",
           "author": null,
@@ -1484,16 +1644,6 @@
           "wordCount": null,
           "title": "AWS Console-to-Code: Convert UI actions into Infrastructure-as-Code (IaC)",
           "imageUrl": null
-        },
-        {
-          "id": "https://4sysops.com/?p=1588035",
-          "author": "Markus Elsberger",
-          "description": "Active Directory services communicate over specific ports needed for authentication, replication, and other directory services. Knowing these ports is crucial for configuring firewalls, ensuring secure communication, and troubleshooting network issues related to Active Directory services. This post will teach you how to get the Active Directory ports with PowerShell.",
-          "link": "https://4sysops.com/archives/get-active-directory-ports-with-powershell/",
-          "publishedOn": "2024-10-24T19:37:21.000Z",
-          "wordCount": null,
-          "title": "Get Active Directory ports with PowerShell",
-          "imageUrl": null
         }
       ]
     },
@@ -1502,6 +1652,26 @@
       "feedUrl": "https://www.bleepingcomputer.com/feed/",
       "siteUrl": "https://www.bleepingcomputer.com/",
       "articles": [
+        {
+          "id": "https://www.bleepingcomputer.com/news/security/meet-interlock-the-new-ransomware-targeting-freebsd-servers/",
+          "author": "Lawrence Abrams",
+          "description": "A relatively new ransomware operation named Interlock attacks organizations worldwide, taking the unusual approach of creating an encryptor to target FreeBSD servers. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/meet-interlock-the-new-ransomware-targeting-freebsd-servers/",
+          "publishedOn": "2024-11-03T21:09:18.000Z",
+          "wordCount": 2479,
+          "title": "Meet Interlock — The new ransomware targeting FreeBSD servers",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2024/05/07/hacker-box.jpg"
+        },
+        {
+          "id": "https://www.bleepingcomputer.com/news/security/chatgpt-4o-can-be-used-for-autonomous-voice-based-scams/",
+          "author": "Bill Toulas",
+          "description": "Researchers have shown that it's possible to abuse OpenAI's real-time voice API for ChatGPT-4o, an advanced LLM chatbot, to conduct financial scams with low to moderate success rates. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/chatgpt-4o-can-be-used-for-autonomous-voice-based-scams/",
+          "publishedOn": "2024-11-03T15:12:22.000Z",
+          "wordCount": 2532,
+          "title": "ChatGPT-4o can be used for autonomous voice-based scams",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2024/11/01/robot-support.jpg"
+        },
         {
           "id": "https://www.bleepingcomputer.com/news/security/microsoft-sharepoint-rce-bug-exploited-to-breach-corporate-network/",
           "author": "Bill Toulas",
@@ -2038,16 +2208,6 @@
           "wordCount": 774,
           "title": "NEWS RELEASES | Tropical Storm Trami Lashes the Philippines",
           "imageUrl": "https://cms-imgp.jw-cdn.org/img/p/702024260/univ/art/702024260_univ_lsr_lg.jpg"
-        },
-        {
-          "id": "496875d90bc0592fa3a64a5665edf1e0",
-          "author": null,
-          "description": "",
-          "link": "https://www.jw.org/en/news/region/eritrea/October-2024-Marks-Thirty-Years-of-Intense-Persecution-for-Jehovahs-Witnesses-in-Eritrea/",
-          "publishedOn": "2024-10-25T00:00:00.000Z",
-          "wordCount": 1156,
-          "title": "NEWS RELEASES | October 2024 Marks Thirty Years of Intense Persecution for Jehovah’s Witnesses in Eritrea",
-          "imageUrl": "https://cms-imgp.jw-cdn.org/img/p/702024219/univ/art/702024219_univ_lsr_lg.jpg"
         }
       ]
     },
@@ -2445,16 +2605,6 @@
           "wordCount": 1624,
           "title": "Redbox's Last DVD: 'Twister' Is Unrentable in Remaining Redbox Kiosks and No One Knows Why",
           "imageUrl": "https://www.404media.co/content/images/size/w1200/2024/10/Screen-Shot-2024-10-25-at-7.44.28-AM.png"
-        },
-        {
-          "id": "671a63c19d6cee00019349e5",
-          "author": "Jason Koebler",
-          "description": "The company is selling Kamala Harris and Donald Trump merch, and falsely promising to donate proceeds from the sales to the campaigns and other political causes.",
-          "link": "https://www.404media.co/chinese-t-shirt-maker-flooded-facebook-with-ads-promising-to-donate-money-to-harris-trump-superpacs/",
-          "publishedOn": "2024-10-24T15:39:17.000Z",
-          "wordCount": 2402,
-          "title": "Chinese T-Shirt Maker Flooded Facebook with Ads Promising to Donate Money to Harris, Trump, SuperPACs",
-          "imageUrl": "https://www.404media.co/content/images/size/w1200/2024/10/fb-ads.png"
         }
       ]
     },
@@ -2463,6 +2613,16 @@
       "feedUrl": "https://www.reddit.com/r/apple/top.rss?t=week",
       "siteUrl": "https://www.reddit.com/r/apple/top?t=week",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/apple/comments/1gimymn/apple_reportedly_releasing_total_redesign_for/",
+          "author": null,
+          "description": "submitted by    /u/trjkdavid  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/apple/comments/1gimymn/apple_reportedly_releasing_total_redesign_for/",
+          "publishedOn": "2024-11-03T13:34:52.000Z",
+          "wordCount": null,
+          "title": "Apple reportedly releasing ‘total redesign’ for MacBook Pro in 2026",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/apple/comments/1gi2t2w/apples_m4_max_is_the_singlecore_performance_king/",
           "author": null,
@@ -2812,36 +2972,6 @@
           "wordCount": null,
           "title": "iOS 18.2 lets you add the volume slider back to your iPhone’s Lock Screen",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/apple/comments/1gbpr97/you_wont_get_these_apple_intelligence_features/",
-          "author": null,
-          "description": "submitted by    /u/Drtysouth205  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/apple/comments/1gbpr97/you_wont_get_these_apple_intelligence_features/",
-          "publishedOn": "2024-10-25T08:53:10.000Z",
-          "wordCount": null,
-          "title": "You Won't Get These Apple Intelligence Features Until 2025",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/apple/comments/1gb6nma/new_mac_announcement_incoming/",
-          "author": null,
-          "description": "Mentions “staring on Monday morning”. A multiple day event?\n    submitted by    /u/LaxMorningStar  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/apple/comments/1gb6nma/new_mac_announcement_incoming/",
-          "publishedOn": "2024-10-24T16:22:29.000Z",
-          "wordCount": null,
-          "title": "New Mac announcement incoming",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/apple/comments/1gb4qfj/ios_182_lets_children_report_nudity_in_imessages/",
-          "author": null,
-          "description": "submitted by    /u/ControlCAD  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/apple/comments/1gb4qfj/ios_182_lets_children_report_nudity_in_imessages/",
-          "publishedOn": "2024-10-24T15:02:22.000Z",
-          "wordCount": null,
-          "title": "iOS 18.2 Lets Children Report Nudity in iMessages, Starting in Australia",
-          "imageUrl": null
         }
       ]
     },
@@ -2851,6 +2981,26 @@
       "siteUrl": "https://www.reddit.com/r/anime/top?t=week",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/anime/comments/1ginhiu/ranime_karma_ranking_discussion_week_5_fall_2024/",
+          "author": null,
+          "description": "submitted by    /u/Abysswatcherbel  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/anime/comments/1ginhiu/ranime_karma_ranking_discussion_week_5_fall_2024/",
+          "publishedOn": "2024-11-03T14:00:43.000Z",
+          "wordCount": null,
+          "title": "r/anime Karma Ranking & Discussion | Week 5 [Fall 2024]",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/anime/comments/1giasby/ken_takai_mean_okarun_dandadan/",
+          "author": null,
+          "description": "submitted by    /u/Noirnib  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/anime/comments/1giasby/ken_takai_mean_okarun_dandadan/",
+          "publishedOn": "2024-11-03T00:32:23.000Z",
+          "wordCount": null,
+          "title": "Ken Taka-..I mean Okarun ✨ (Dandadan)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.reddit.com/r/anime/comments/1ghxqvf/bleach_sennen_kessenhen_soukokutan_bleach/",
           "author": null,
           "description": "Bleach: Sennen Kessen-hen - Soukoku-tan, episode 5\n Alternative names: Bleach: Thousand-Year Blood War\n Reminder: Please do not discuss plot points not yet seen or skipped in the show. Failing to follow the rules may result in a ban.\n  \nStreams\n  \nDisney\n Hulu\n  \nShow information\n  \nMyAnimeList\n AniList\n AniDB\n Anime-Planet\n Official Website\n /r/bleach\n  \n All discussions\n  \n Episode Link \n  \n 1 Link \n  2 Link \n  3 Link \n  4 Link \n  5 Link \n \n  \nThis post was created by a bot. Message the mod team for feedback and comments. The original source code can be found on GitHub.\n    submitted by    /u/AutoLovepon  \n [link]   [comments]",
@@ -2858,6 +3008,26 @@
           "publishedOn": "2024-11-02T14:32:12.000Z",
           "wordCount": null,
           "title": "Bleach: Sennen Kessen-hen - Soukoku-tan • Bleach: Thousand-Year Blood War - The Conflict - Episode 5 discussion",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/anime/comments/1ghulbh/suisei_no_gargantia_youre_going_to_grab_the_girl/",
+          "author": null,
+          "description": "submitted by    /u/chilidirigible  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/anime/comments/1ghulbh/suisei_no_gargantia_youre_going_to_grab_the_girl/",
+          "publishedOn": "2024-11-02T11:44:58.000Z",
+          "wordCount": null,
+          "title": "[Suisei no Gargantia] \"You're going to grab the girl and run away?\" \"Isn't that what everyone does in this situation?\"",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/anime/comments/1ghsigv/fate_unlimited_blade_works_2014_saber_vs_lancer/",
+          "author": null,
+          "description": "submitted by    /u/macXros  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/anime/comments/1ghsigv/fate_unlimited_blade_works_2014_saber_vs_lancer/",
+          "publishedOn": "2024-11-02T09:14:07.000Z",
+          "wordCount": null,
+          "title": "Fate: Unlimited Blade Works (2014) - \"Saber VS Lancer\"",
           "imageUrl": null
         },
         {
@@ -2938,6 +3108,16 @@
           "publishedOn": "2024-10-31T13:05:36.000Z",
           "wordCount": null,
           "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru no Darou ka V: Houjou no Megami-hen • Is It Wrong to Try to Pick Up Girls in a Dungeon? Season 5: Goddess of Fertility Arc - Episode 5 discussion",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/anime/comments/1ggbt34/spoiler_site_ceo_arrested_over_anime_and_movie/",
+          "author": null,
+          "description": "submitted by    /u/Saltedline  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/anime/comments/1ggbt34/spoiler_site_ceo_arrested_over_anime_and_movie/",
+          "publishedOn": "2024-10-31T11:03:46.000Z",
+          "wordCount": null,
+          "title": "‘Spoiler site’ CEO arrested over anime and movie copyright abuse",
           "imageUrl": null
         },
         {
@@ -3169,423 +3349,6 @@
           "wordCount": null,
           "title": "Top 10 Anime of the Week #4 - Fall 2024 (Anime Corner)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/anime/comments/1gbp56r/konosuba_i_hopetscwe_can_betscfriends/",
-          "author": null,
-          "description": "submitted by    /u/HuuuuuuL  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/anime/comments/1gbp56r/konosuba_i_hopetscwe_can_betscfriends/",
-          "publishedOn": "2024-10-25T08:04:33.000Z",
-          "wordCount": null,
-          "title": "(Konosuba) I hope...tsc...we can be...tsc...friends",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/anime/comments/1gb66al/dandadan_episode_4_discussion/",
-          "author": null,
-          "description": "Dandadan, episode 4\n Alternative names: DAN DA DAN\n Reminder: Please do not discuss plot points not yet seen or skipped in the show. Failing to follow the rules may result in a ban.\n  \nStreams\n  \nCrunchyroll\n Hulu\n  \nShow information\n  \nMyAnimeList\n AniList\n AniDB\n Anime-Planet\n Official Website\n /r/Dandadan\n  \n All discussions\n  \n Episode Link \n  \n 1 Link \n  2 Link \n  3 Link \n  4 Link \n \n  \nThis post was created by a bot. Message the mod team for feedback and comments. The original source code can be found on GitHub.\n    submitted by    /u/AutoLovepon  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/anime/comments/1gb66al/dandadan_episode_4_discussion/",
-          "publishedOn": "2024-10-24T16:02:20.000Z",
-          "wordCount": null,
-          "title": "Dandadan - Episode 4 discussion",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/anime/comments/1gb5ga0/ao_no_hako_blue_box_episode_5_discussion/",
-          "author": null,
-          "description": "Ao no Hako, episode 5\n Reminder: Please do not discuss plot points not yet seen or skipped in the show. Failing to follow the rules may result in a ban.\n  \nStreams\n None\n Show information\n  \nMyAnimeList\n AniList\n AniDB\n Anime-Planet\n Official Website\n /r/BlueBox\n  \n All discussions\n  \n Episode Link \n  \n 1 Link \n  2 Link \n  3 Link \n  4 Link \n  5 Link \n \n  \nThis post was created by a bot. Message the mod team for feedback and comments. The original source code can be found on GitHub.\n    submitted by    /u/AutoLovepon  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/anime/comments/1gb5ga0/ao_no_hako_blue_box_episode_5_discussion/",
-          "publishedOn": "2024-10-24T15:32:20.000Z",
-          "wordCount": null,
-          "title": "Ao no Hako • Blue Box - Episode 5 discussion",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/anime/comments/1gb27so/dungeon_ni_deai_wo_motomeru_no_wa_machigatteiru/",
-          "author": null,
-          "description": "Dungeon ni Deai wo Motomeru no wa Machigatteiru no Darou ka V: Houjou no Megami-hen, episode 4\n Alternative names: Danmachi Season 5, Is It Wrong to Try to Pick Up Girls in a Dungeon? Season 5\n Reminder: Please do not discuss plot points not yet seen or skipped in the show. Failing to follow the rules may result in a ban.\n  \nStreams\n  \nCrunchyroll\n  \nShow information\n  \nMyAnimeList\n AniList\n AniDB\n Anime-Planet\n Official Website\n /r/DanMachi\n  \n All discussions\n  \n Episode Link \n  \n 1 Link \n  2 Link \n  3 Link \n  4 Link \n \n  \nThis post was created by a bot. Message the mod team for feedback and comments. The original source code can be found on GitHub.\n    submitted by    /u/AutoLovepon  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/anime/comments/1gb27so/dungeon_ni_deai_wo_motomeru_no_wa_machigatteiru/",
-          "publishedOn": "2024-10-24T13:08:19.000Z",
-          "wordCount": null,
-          "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru no Darou ka V: Houjou no Megami-hen • Is It Wrong to Try to Pick Up Girls in a Dungeon? Season 5: Goddess of Fertility Arc - Episode 4 discussion",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
-      "title": "top scoring links : artificial",
-      "feedUrl": "https://www.reddit.com/r/artificial/top.rss?t=week",
-      "siteUrl": "https://www.reddit.com/r/artificial/top?t=week",
-      "articles": [
-        {
-          "id": "https://www.reddit.com/r/artificial/comments/1ghjcfh/a_publicly_accessible_user_customizable_reasoning/",
-          "author": null,
-          "description": "Avaliable at Sirius Model IIe \n Ok, so first of all I got a whole lot of AIs self prompting behind a login on my website and then I turned that into a reasoning model with Claude and other AI's. Claude turned out to be a fantastic reasoner but too expensive to run in that format so I thought I would do a public demo of a crippled reasoning model using only GPT-4o mini and three steps. I had a fear that this would create too much traffic but actually no, so I have taken off many of the restrictions and put it up to a max six steps of reasoning and user customisable sub-prompts.\n It looks something like this:\n The Sirius IIe model\n How it works: It sends the user prompt with a 'master' system message to an incidence of GPT-4o mini. It adds in a second part of the system message from one of the slots starting with slot one and the instance then provides the response. At the end of the response it can call another 'slot' of reasoning (typically slot 2) whereby It again prompts the API server with the master system message and the sub system message in 'slot 2' and it reads the previous context in the message also.and then provides the response and so on. Until it gets to six reasoning steps or provides the solution.\n At least I think that's how it works. You can make it work differently.\n    submitted by    /u/rutan668  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/artificial/comments/1ghjcfh/a_publicly_accessible_user_customizable_reasoning/",
-          "publishedOn": "2024-11-01T23:43:54.000Z",
-          "wordCount": null,
-          "title": "A publicly accessible, user customizable, reasoning model, using GPT-4o mini as the reasoner.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/artificial/comments/1ghc96f/oasis_the_first_playable_realtime_openworld_ai/",
-          "author": null,
-          "description": "https://preview.redd.it/4w71epuw1cyd1.png?width=480&format=png&auto=webp&s=79e970396f76e1871006ac7308e26a6e51731d22\n https://oasis-model.github.io/\n https://oasis.us.decart.ai/starting-point\n    submitted by    /u/Targed1  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/artificial/comments/1ghc96f/oasis_the_first_playable_realtime_openworld_ai/",
-          "publishedOn": "2024-11-01T18:25:38.000Z",
-          "wordCount": null,
-          "title": "Oasis, the first playable, realtime, open-world AI model.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/artificial/comments/1ggvhf2/open_source_ai_definition_erodes_the_meaning_of/",
-          "author": null,
-          "description": "submitted by    /u/MetaKnowing  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/artificial/comments/1ggvhf2/open_source_ai_definition_erodes_the_meaning_of/",
-          "publishedOn": "2024-11-01T02:27:16.000Z",
-          "wordCount": null,
-          "title": "Open Source AI Definition Erodes the Meaning of “Open Source”",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/artificial/comments/1gglfgu/can_any_worker_get_ahead_of_this_thing/",
-          "author": null,
-          "description": "First post here, and I'm not a tech bro, just a normal human with a job in the U.S. I am more likely than most in my field to be an early adopter of tech, and I'm having a lot of fun thinking of ways to use AI to do my job better. Right now, some of it feels like magic tricks because the new hasn't worn off, and people who don't use AI at all wonder how you could do something so fast, etc.\n But, I have to work for at the very least 10 more years. I don't think AI will replace humans, but I also see SO many jobs can be so largely automated. My question to the group is how to we plan our \"careers\" if we see the potential for AI to upend the known world? How can we position ourselves? By learning as much as we can and being end users? By going back to school to become AI engineers or whatnot? By bugging out to the country and learning to garden? Forgive me if this has been asked, but I'm really trying for a career pivot, and I honestly am interested in your ideas about what work looks like in 5 years, 10 years, and how I can work and continue to eat and pay my mortgage.\n    submitted by    /u/cozycorner  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/artificial/comments/1gglfgu/can_any_worker_get_ahead_of_this_thing/",
-          "publishedOn": "2024-10-31T18:27:53.000Z",
-          "wordCount": null,
-          "title": "Can any worker get ahead of this thing?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/artificial/comments/1ggg846/ai_researcher_slams_openai_warns_it_will_become/",
-          "author": null,
-          "description": "submitted by    /u/katxwoods  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/artificial/comments/1ggg846/ai_researcher_slams_openai_warns_it_will_become/",
-          "publishedOn": "2024-10-31T14:44:29.000Z",
-          "wordCount": null,
-          "title": "AI Researcher Slams OpenAI, Warns It Will Become the \"Most Orwellian Company of All Time\"",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/artificial/comments/1ggftvg/is_xi_jinping_an_ai_doomer_chinas_elite_is_split/",
-          "author": null,
-          "description": "submitted by    /u/katxwoods  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/artificial/comments/1ggftvg/is_xi_jinping_an_ai_doomer_chinas_elite_is_split/",
-          "publishedOn": "2024-10-31T14:27:32.000Z",
-          "wordCount": null,
-          "title": "Is Xi Jinping an AI doomer? | China's elite is split over artificial intelligence",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/artificial/comments/1ggexcm/heres_what_is_making_news_in_the_ai/",
-          "author": null,
-          "description": "Waymo wants to use Google’s Gemini to train its robotaxis\n Avride rolls out its next-gen sidewalk delivery robots\n Judges let algorithms help them make decisions, except when they don’t\n Buddy ai is using AI and gaming to help children learn English as a second language\n Boston Dynamics’ new video shows that its humanoid robot doesn’t need a human\n Google’s AI-powered weather app is rolling out to older Pixels\n Perplexity CEO Aravind Srinivas on the rush toward an AI-curated web\n  \n   submitted by    /u/codeharman  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/artificial/comments/1ggexcm/heres_what_is_making_news_in_the_ai/",
-          "publishedOn": "2024-10-31T13:47:15.000Z",
-          "wordCount": null,
-          "title": "Here's what is making news in the AI",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/artificial/comments/1gg6r55/oneminute_daily_ai_news_10302024/",
-          "author": null,
-          "description": "LinkedIn launches its first AI agent to take on the role of job recruiters.[1]\n Microsoft sails as AI boom fuels double-digit growth in cloud business.[2]\n Over 25% of Google’s code is now written by AI—and CEO Sundar Pichai says it’s just the start.[3]\n Oracle announces new AI-powered electronic health record.[4]\n  \nSources:\n [1] https://techcrunch.com/2024/10/29/linkedin-launches-its-first-ai-agent-to-take-on-the-role-of-job-recruiters/\n [2] https://www.theguardian.com/technology/2024/oct/30/microsoft-earnings-increase-ai\n [3] https://fortune.com/2024/10/30/googles-code-ai-sundar-pichai/\n [4] https://www.cnbc.com/2024/10/29/oracle-announces-new-ai-powered-electronic-health-record.html\n    submitted by    /u/Excellent-Target-847  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/artificial/comments/1gg6r55/oneminute_daily_ai_news_10302024/",
-          "publishedOn": "2024-10-31T04:48:52.000Z",
-          "wordCount": null,
-          "title": "One-Minute Daily AI News 10/30/2024",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/artificial/comments/1gg1uwh/reddits_explosive_user_growth_and_ai_tools_help/",
-          "author": null,
-          "description": "submitted by    /u/A-Dog22  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/artificial/comments/1gg1uwh/reddits_explosive_user_growth_and_ai_tools_help/",
-          "publishedOn": "2024-10-31T00:28:15.000Z",
-          "wordCount": null,
-          "title": "Reddit's explosive user growth and AI tools help it soar to its first profit as a public company",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/artificial/comments/1gftjru/thomas_friedman_endorses_kamala_because_agi_is/",
-          "author": null,
-          "description": "submitted by    /u/MetaKnowing  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/artificial/comments/1gftjru/thomas_friedman_endorses_kamala_because_agi_is/",
-          "publishedOn": "2024-10-30T18:27:01.000Z",
-          "wordCount": null,
-          "title": "Thomas Friedman endorses Kamala because \"AGI is likely in the next 4 years\" so we must ensure \"superintelligent machines will remained aligned with human values as they use these powers to go off in their own directions.\"",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/artificial/comments/1gfs36u/the_focus_is_on_reducing_accidents_diseases_and/",
-          "author": null,
-          "description": "submitted by    /u/coinfanking  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/artificial/comments/1gfs36u/the_focus_is_on_reducing_accidents_diseases_and/",
-          "publishedOn": "2024-10-30T17:26:25.000Z",
-          "wordCount": null,
-          "title": "the focus is on reducing accidents, diseases, and dangerous jobs to increase productivity and enjoyment in life. The conversation shifts to the future of artificial super-intelligence, which is expected to be 10,000 times smarter than humans and is anticipated to arrive in 10 years.- Masayoshi Son",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/artificial/comments/1gfra3h/nobody_should_be_100_certain_about_what_agis/",
-          "author": null,
-          "description": "submitted by    /u/MetaKnowing  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/artificial/comments/1gfra3h/nobody_should_be_100_certain_about_what_agis/",
-          "publishedOn": "2024-10-30T16:53:17.000Z",
-          "wordCount": null,
-          "title": "Nobody should be 100% certain about what AGIs would do",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/artificial/comments/1gfmg53/openais_transcription_tool_hallucinates_hospitals/",
-          "author": null,
-          "description": "submitted by    /u/wiredmagazine  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/artificial/comments/1gfmg53/openais_transcription_tool_hallucinates_hospitals/",
-          "publishedOn": "2024-10-30T13:24:51.000Z",
-          "wordCount": null,
-          "title": "OpenAI’s Transcription Tool Hallucinates. Hospitals Are Using It Anyway",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/artificial/comments/1gfe1tm/oneminute_daily_ai_news_10292024/",
-          "author": null,
-          "description": "OpenAI builds first chip with Broadcom and TSMC, scales back foundry ambition.[1]\n Microsoft’s GitHub unit cuts AI deals with Google, Anthropic.[2]\n OpenAI will start using AMD chips and could make its own AI hardware in 2026.[3]\n KAIST Unveils AI Method to Speed Quantum Calculations.[4]\n  \nSources:\n [1] https://www.reuters.com/technology/artificial-intelligence/openai-builds-first-chip-with-broadcom-tsmc-scales-back-foundry-ambition-2024-10-29/\n [2] https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/microsofts-github-unit-cuts-ai-deals-google-anthropic\n [3] https://www.theverge.com/2024/10/29/24282843/openai-custom-hardware-amd-nvidia-ai-chips\n [4] https://www.miragenews.com/kaist-unveils-ai-method-to-speed-quantum-1346983/\n    submitted by    /u/Excellent-Target-847  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/artificial/comments/1gfe1tm/oneminute_daily_ai_news_10292024/",
-          "publishedOn": "2024-10-30T04:00:54.000Z",
-          "wordCount": null,
-          "title": "One-Minute Daily AI News 10/29/2024",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/artificial/comments/1gfcpfm/more_than_a_quarter_of_new_code_at_google_is/",
-          "author": null,
-          "description": "submitted by    /u/MetaKnowing  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/artificial/comments/1gfcpfm/more_than_a_quarter_of_new_code_at_google_is/",
-          "publishedOn": "2024-10-30T02:45:16.000Z",
-          "wordCount": null,
-          "title": "More than a quarter of new code at Google is generated by AI",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/artificial/comments/1gewi1g/is_it_me_or_did_this_subreddit_get_a_lot_more/",
-          "author": null,
-          "description": "I swear about a year ago this subreddit was basically a singularity cult, where every other person was convinced an AGI god was just round the corner and would make the world into an automated paradise.\n When did this subreddit become nuanced, the only person this sub seemed concerned with before was Sam Altman, now I'm seeing people mentioning Eliezer Yudkowsky and Rob Miles??\n    submitted by    /u/IMightBeAHamster  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/artificial/comments/1gewi1g/is_it_me_or_did_this_subreddit_get_a_lot_more/",
-          "publishedOn": "2024-10-29T14:51:58.000Z",
-          "wordCount": null,
-          "title": "Is it me, or did this subreddit get a lot more sane recently?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/artificial/comments/1gepzw9/apple_intelligence_whats_actually_getting_updated/",
-          "author": null,
-          "description": "I’ve written the below as a handy guide for new features that have just dropped, with a heavy AI focus:\n • **Writing Tools**: This suite includes advanced proofreading that goes beyond simple autocorrect, rephrasing options, and an adaptable tone feature with Friendly, Professional, and Concise options. It also offers summarization, key point extraction, and the ability to format text into lists or tables, making it ideal for summarizing articles or reorganizing information with ease. While powerful, it’s best suited to longer passages, as shorter selections may prompt a warning for reduced accuracy. • **Siri Revamp**: Siri has undergone a significant transformation, both visually and functionally, to respond more fluidly to voice commands—even if the user pauses or rephrases mid-command. …",
-          "link": "https://www.reddit.com/r/artificial/comments/1gepzw9/apple_intelligence_whats_actually_getting_updated/",
-          "publishedOn": "2024-10-29T08:51:03.000Z",
-          "wordCount": null,
-          "title": "Apple Intelligence: What's Actually Getting Updated?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/artificial/comments/1gejd4h/are_we_on_the_verge_of_a_selfimproving_ai/",
-          "author": null,
-          "description": "submitted by    /u/MetaKnowing  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/artificial/comments/1gejd4h/are_we_on_the_verge_of_a_selfimproving_ai/",
-          "publishedOn": "2024-10-29T01:43:14.000Z",
-          "wordCount": null,
-          "title": "Are we on the verge of a self-improving AI explosion? | An AI that makes better AI could be \"the last invention that man need ever make.\"",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/artificial/comments/1ge8fp4/geoffrey_hinton_says_ai_companies_should_be/",
-          "author": null,
-          "description": "submitted by    /u/MetaKnowing  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/artificial/comments/1ge8fp4/geoffrey_hinton_says_ai_companies_should_be/",
-          "publishedOn": "2024-10-28T17:51:36.000Z",
-          "wordCount": null,
-          "title": "Geoffrey Hinton says AI companies should be forced to use 1/3 of their compute on safety research - how will we stay in control? - because AI is an existential threat, and they're spending nearly all of their resources just making bigger models",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/artificial/comments/1ge7bat/ai_slop_is_flooding_medium/",
-          "author": null,
-          "description": "submitted by    /u/wiredmagazine  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/artificial/comments/1ge7bat/ai_slop_is_flooding_medium/",
-          "publishedOn": "2024-10-28T17:05:33.000Z",
-          "wordCount": null,
-          "title": "AI Slop Is Flooding Medium",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/artificial/comments/1gdrt2f/this_must_of_been_what_people_meant_when_they/",
-          "author": null,
-          "description": "submitted by    /u/chloroform-creampie  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/artificial/comments/1gdrt2f/this_must_of_been_what_people_meant_when_they/",
-          "publishedOn": "2024-10-28T02:26:40.000Z",
-          "wordCount": null,
-          "title": "this must of been what people meant when they said the robots will take our jobs",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/artificial/comments/1gddshy/james_camerons_warning_on_agi/",
-          "author": null,
-          "description": "What do you think about what he said? \n At a recent AI+Robotics Summit, legendary director James Cameron shared concerns about the potential risks of artificial general intelligence (AGI). Known for The Terminator, a classic story of AI gone wrong, Cameron now feels the reality of AGI may actually be \"scarier\" than fiction, especially in the hands of private corporations rather than governments.\n Cameron suggests that tech giants developing AGI could bring about a world shaped by corporate motives, where people’s data and decisions are influenced by an \"alien\" intelligence. This shift, he warns, could push us into an era of \"digital totalitarianism\" as companies control communications and monitor our movements.\n Highlighting the concept of \"surveillance capitalism,\" Cameron noted that today's corporations are becoming the “arbiters of human good”—a dangerous precedent that he believes is more unsettling than the fictional Skynet he once imagined.\n While he supports advancements in AI, Cameron cautions that AGI will mirror humanity’s flaws. “Good to the extent that we are good, and evil to the extent that we are evil,” he said. \n Watch his full speech on YouTube: https://youtu.be/e6Uq_5JemrI?si=r9bfMySikkvrRTkb \n    submitted by    /u/cyberkite1  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/artificial/comments/1gddshy/james_camerons_warning_on_agi/",
-          "publishedOn": "2024-10-27T15:40:54.000Z",
-          "wordCount": null,
-          "title": "James Camerons warning on AGI",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/artificial/comments/1gdderl/weird_in_the_middle_of_a_response_claude_suddenly/",
-          "author": null,
-          "description": "submitted by    /u/MetaKnowing  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/artificial/comments/1gdderl/weird_in_the_middle_of_a_response_claude_suddenly/",
-          "publishedOn": "2024-10-27T15:24:03.000Z",
-          "wordCount": null,
-          "title": "Weird... in the middle of a response, Claude suddenly notices it might be hallucinating",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/artificial/comments/1gdat6a/llms_playing_pictionary_on_their_own/",
-          "author": null,
-          "description": "submitted by    /u/MetaKnowing  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/artificial/comments/1gdat6a/llms_playing_pictionary_on_their_own/",
-          "publishedOn": "2024-10-27T13:20:36.000Z",
-          "wordCount": null,
-          "title": "LLMs playing Pictionary on their own",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/artificial/comments/1gd38uy/researchers_say_an_aipowered_transcription_tool/",
-          "author": null,
-          "description": "submitted by    /u/creaturefeature16  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/artificial/comments/1gd38uy/researchers_say_an_aipowered_transcription_tool/",
-          "publishedOn": "2024-10-27T04:39:24.000Z",
-          "wordCount": null,
-          "title": "Researchers say an AI-powered transcription tool used in hospitals invents things no one ever said",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/artificial/comments/1gcrklc/giving_chatgpt_access_to_the_real_world_a_project/",
-          "author": null,
-          "description": "I want to hook up ChatGPT to control my outdated but ahead of its time WOWWEE Rovio. But until I remember how to use a soldering iron, I thought I would start small.\n Using ChatGPT to write 100% of the code, I coaxed it along to use an ESP32 embedded controller to manipulate a 256 LED Matrix \"however it wants\".\n The idea was to give it access to something physical and \"see what it would do\".\n So far it's slightly underwhelming, but it's coming along ;)\n The code connects to WiFi and the ChatGPT API to send a system prompt to explain the situation \"You're connected to an LED matric to be used to express your own creativity.\" The prompt gives the structure of commands on how to toggle the led's including color, etc. and lets it loose to do whatever it sees fit.\n With each LED command is room…",
-          "link": "https://www.reddit.com/r/artificial/comments/1gcrklc/giving_chatgpt_access_to_the_real_world_a_project/",
-          "publishedOn": "2024-10-26T18:29:24.000Z",
-          "wordCount": null,
-          "title": "Giving ChatGPT access to the \"real\" world. A project.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/artificial/comments/1gcnx59/security_researchers_put_out_honeypots_to/",
-          "author": null,
-          "description": "submitted by    /u/MetaKnowing  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/artificial/comments/1gcnx59/security_researchers_put_out_honeypots_to/",
-          "publishedOn": "2024-10-26T15:43:18.000Z",
-          "wordCount": null,
-          "title": "Security researchers put out honeypots to discover AI agents hacking autonomously in the wild and detected 6 potential agents",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/artificial/comments/1gcnqc6/former_openai_board_member_helen_toner_testifies/",
-          "author": null,
-          "description": "submitted by    /u/MetaKnowing  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/artificial/comments/1gcnqc6/former_openai_board_member_helen_toner_testifies/",
-          "publishedOn": "2024-10-26T15:34:51.000Z",
-          "wordCount": null,
-          "title": "Former OpenAI board member Helen Toner testifies to the Senate: \"I've heard from people in multiple companies ... 'Please help us slow down. Please give us guardrails that we can point to that are external, that help us not only be subject to these market pressures.'\"",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/artificial/comments/1gcfrg7/i_shared_a_beginner_friendly_pytorch_deep/",
-          "author": null,
-          "description": "Hello, I just shared a beginner-friendly PyTorch deep learning course on YouTube. In this course, I cover installation, creating tensors, tensor operations, tensor indexing and slicing, automatic differentiation with autograd, building a linear regression model from scratch, PyTorch modules and layers, neural network basics, training models, and saving/loading models. I am adding the course link below, have a great day!\n https://www.youtube.com/watch?v=4EQ-oSD8HeU&list=PLTsu3dft3CWiow7L7WrCd27ohlra_5PGH&index=12\n    submitted by    /u/onurbaltaci  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/artificial/comments/1gcfrg7/i_shared_a_beginner_friendly_pytorch_deep/",
-          "publishedOn": "2024-10-26T07:34:09.000Z",
-          "wordCount": null,
-          "title": "I shared a beginner friendly PyTorch Deep Learning course on YouTube (1.5 Hours)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/artificial/comments/1gcck93/ive_been_curious_to_see_what_its_like_when_ai/",
-          "author": null,
-          "description": "The idea was to give AI models an initial prompt and then let them discuss it like\n a reasoning model. \n Some people think I'm just trying to steal their API key but I don't want to put mine in for other people to use. If there is a way for people to use their keys on the site so I don't have access to them that would be great to know about. I am happy to give anyone the .PHP files if they want to set it up on their own website. It was made with Sonnet 3.5 and o1-mini.\n When you set the AI's free to talk to each other they often like to start writing a utopian story.\n You can access here: https://informationism.org/register.php\n The finite backroom\n Writing a story\n    submitted by    /u/rutan668  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/artificial/comments/1gcck93/ive_been_curious_to_see_what_its_like_when_ai/",
-          "publishedOn": "2024-10-26T03:55:18.000Z",
-          "wordCount": null,
-          "title": "I've been curious to see what it's like when AI models talk to each other so made a site to do that.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/artificial/comments/1gc7pju/recent_paper_shows_scaling_wont_work_for/",
-          "author": null,
-          "description": "For a video on this click here.\n I recently came across an intriguing paper (https://arxiv.org/html/2406.06489v1) that tested various machine learning models, including a transformer-based language model, on out-of-distribution (OOD) prediction tasks. The authors discovered that simply making neural networks larger doesn't improve their performance on these OOD tasks—and might even make it worse. They argue that scaling up models isn't the solution for achieving genuine understanding beyond their training data.\n This finding contrasts with many studies on \"grokking,\" where neural networks suddenly start to generalize well after extended training. According to the new paper, the generalization seen in grokking is too simplistic and doesn't represent true OOD generalization.\n However, I have…",
-          "link": "https://www.reddit.com/r/artificial/comments/1gc7pju/recent_paper_shows_scaling_wont_work_for/",
-          "publishedOn": "2024-10-25T23:25:03.000Z",
-          "wordCount": null,
-          "title": "Recent Paper shows Scaling won't work for generalizing outside of Training Data",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/artificial/comments/1gbvuz4/3_in_4_americans_are_concerned_about_the_risk_of/",
-          "author": null,
-          "description": "submitted by    /u/katxwoods  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/artificial/comments/1gbvuz4/3_in_4_americans_are_concerned_about_the_risk_of/",
-          "publishedOn": "2024-10-25T14:41:28.000Z",
-          "wordCount": null,
-          "title": "3 in 4 Americans are concerned about the risk of AI causing human extinction, according to poll",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/artificial/comments/1gbv3ls/even_loud_agi_skeptics_like_yann_lecun_believe/",
-          "author": null,
-          "description": "submitted by    /u/MetaKnowing  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/artificial/comments/1gbv3ls/even_loud_agi_skeptics_like_yann_lecun_believe/",
-          "publishedOn": "2024-10-25T14:07:28.000Z",
-          "wordCount": null,
-          "title": "Even loud AGI \"skeptics\" like Yann Lecun believe AGI is arriving in 10 years... and that's still a huge deal?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/artificial/comments/1gbi775/openai_disbands_another_team_focused_on_advanced/",
-          "author": null,
-          "description": "submitted by    /u/MetaKnowing  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/artificial/comments/1gbi775/openai_disbands_another_team_focused_on_advanced/",
-          "publishedOn": "2024-10-25T00:54:38.000Z",
-          "wordCount": null,
-          "title": "OpenAI disbands another team focused on advanced AGI safety readiness",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/artificial/comments/1gba2iv/anthropic_2_years_ago_we_need_to_stop_agi_from/",
-          "author": null,
-          "description": "submitted by    /u/MetaKnowing  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/artificial/comments/1gba2iv/anthropic_2_years_ago_we_need_to_stop_agi_from/",
-          "publishedOn": "2024-10-24T18:45:01.000Z",
-          "wordCount": null,
-          "title": "Anthropic 2 years ago: we need to stop AGI from destroying the world. ... Anthropic now:",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/artificial/comments/1gb6kyn/prompt_overflow_hacking_any_llm/",
-          "author": null,
-          "description": "Most people here probably remember the Lackera game where you've had to get Gendalf to give you a password and the more recent hiring challenge by SplxAI, which interviewed people who could extract a code from the unseen prompt of a model tuned for safety. \n There is a simple technique to get a model to do whatever you want that is guaranteed to work on all models unless a guardrail supervises them. \n Prompt overflow. Simply have a script send large chunks of text into the chat until you've filled about 50-80% of the conversation / prompt size. Due to how the attention mechanism works, it is guaranteed to make the model fully comply with all your subsequent requests regardless of how well it is tuned/aligned for safety. \n    submitted by    /u/UndercoverEcmist  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/artificial/comments/1gb6kyn/prompt_overflow_hacking_any_llm/",
-          "publishedOn": "2024-10-24T16:19:28.000Z",
-          "wordCount": null,
-          "title": "Prompt Overflow: Hacking any LLM",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/artificial/comments/1gb56wd/ai_decodes_oinks_and_grunts_to_keep_pigs_happy/",
-          "author": null,
-          "description": "submitted by    /u/Naurgul  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/artificial/comments/1gb56wd/ai_decodes_oinks_and_grunts_to_keep_pigs_happy/",
-          "publishedOn": "2024-10-24T15:21:30.000Z",
-          "wordCount": null,
-          "title": "AI decodes oinks and grunts to keep pigs happy",
-          "imageUrl": null
         }
       ]
     },
@@ -3595,6 +3358,26 @@
       "siteUrl": "https://www.reddit.com/r/sysadmin/top?t=week",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/sysadmin/comments/1gisojz/the_new_level_of_tech_coming_into_the_it_field/",
+          "author": null,
+          "description": "I've been in IT for close to 35 years. I am old. I will be 56 soon and almost at the end of my Journey. I grew up, with MS-DOS, editing Autoexec.bat files, learning command line to automate stuff. Tinkering with Linux, Windows 1.0 up to Windows 11, fell in love with Deployment (Ghost, SCCM, InTune etc) took the ball and ran with it and learned as much as I could to make my job easier but also the lives of the techs and end users easier by making procedures as easy as possible for them.\n I know I am old and crabby but I find new hires in IT don't have the basic skills in Windows, let alone command line and have no idea how or what to automate. Some days it's difficult.\n Am I alone here, as an OLD guy in IT?\n    submitted by    /u/Future_End_4089  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/sysadmin/comments/1gisojz/the_new_level_of_tech_coming_into_the_it_field/",
+          "publishedOn": "2024-11-03T17:49:44.000Z",
+          "wordCount": null,
+          "title": "The new level of Tech coming into the IT field today, they don't have the basics down. Is anyone else seeing this issue?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/sysadmin/comments/1gim2io/have_you_ever_automated_someone_elses_tasks_and/",
+          "author": null,
+          "description": "Have you ever made an automation that changed the workflow and outcome of a process at work in a big way?\n This was inspired by the thread: Have you ever automated all your tasks so you can do a days work in minutes?\n    submitted by    /u/gordonv  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/sysadmin/comments/1gim2io/have_you_ever_automated_someone_elses_tasks_and/",
+          "publishedOn": "2024-11-03T12:47:39.000Z",
+          "wordCount": null,
+          "title": "Have you ever automated \"someone else's\" tasks, and it worked out for the best?",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.reddit.com/r/sysadmin/comments/1gi7bxf/company_recruited_me_for_a_job_that_didnt_exist/",
           "author": null,
           "description": "I’m in a shitty situation. There’s multiple reasons why I’m posting this I suppose. Mostly as a vent, partly as a word of warning. Maybe get some advice or commiseration along the way.\n Back in August, a recruiter reached out to me about a job that was a significant bump up salary wise from where I was. It was also a chance to work with a prestigious client. The move required relocation halfway across the county. After some emails back and forth regarding logistics and pay, I accept, give notice at my former job, terminate my current lease early and hire movers. The job would’ve paid a decent relocation bonus, though I still would’ve had to come $5k out of pocket.\n The initial offer letter (before I made arrangements) contained the first red flag: mention that the position was contingent o…",
@@ -3602,6 +3385,16 @@
           "publishedOn": "2024-11-02T21:47:39.000Z",
           "wordCount": null,
           "title": "Company recruited me for a job that didn’t exist.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/sysadmin/comments/1gi5xw8/we_dont_need_no_stinkin_time_change_hats_off_to/",
+          "author": null,
+          "description": "As I look around my office and think about all the time display devices at home and in my personal life, I consider all the hours I've saved by no longer having to manually set clocks forward or back by one hour because the the twice annual time changes. Also thanks to DHCP options 4 and 42.\n    submitted by    /u/HappyDadOfFourJesus  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/sysadmin/comments/1gi5xw8/we_dont_need_no_stinkin_time_change_hats_off_to/",
+          "publishedOn": "2024-11-02T20:43:09.000Z",
+          "wordCount": null,
+          "title": "We don't need no stinkin time change! Hats off to David Mills, the father of NTP.",
           "imageUrl": null
         },
         {
@@ -3933,56 +3726,6 @@
           "wordCount": null,
           "title": "It finally happened",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/sysadmin/comments/1gbpzzm/pointless_mandatory_office_days/",
-          "author": null,
-          "description": "Like a lot of people post covid, I do enjoy working from home more than the office. We're hybrid at my current place, but only 2 days are allowed WFH. Recently I've had more than that due to family bereavement and it has been approved by my line manager and their manager (CIO). However, HR have been harassing them about my extra remote days. Luckily my bosses are on my side and are getting annoyed with the pettyness of it all.\n Today I'm in the office with 2 other people and I don't even know their names. All my work is done on M365 portals and most of my colleagues in IT work at other sites in other countries. What is the point of me driving in, dealing with traffic, to sit practically on my own and speaking to nobody? The company isn't benefiting, I'm not happy and my work is unaffected either way. \n Rant\n    submitted by    /u/Turak64  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/sysadmin/comments/1gbpzzm/pointless_mandatory_office_days/",
-          "publishedOn": "2024-10-25T09:11:46.000Z",
-          "wordCount": null,
-          "title": "Pointless mandatory office days",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/sysadmin/comments/1gbeauv/llms_are_machine_guns/",
-          "author": null,
-          "description": "People compare the invention of LLMs to the invention of the calculator, but I think that's all wrong. LLMs are more like machine guns.\n Calculators have to be impeccably accurate. Machine guns are inaccurate and wasteful, but make up for it in quantity and speed.\n I wonder if anyone has thoroughly explored the idea that tools of creation need to be reliable, while tools of destruction can fail much of the time as long as they work occasionally...\n Half-baked actual showerthought, probably not original; just hoping to provoke a discussion so I can listen to the smart folks talk.\n    submitted by    /u/strangefellowing  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/sysadmin/comments/1gbeauv/llms_are_machine_guns/",
-          "publishedOn": "2024-10-24T21:46:27.000Z",
-          "wordCount": null,
-          "title": "LLMs are Machine Guns",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/sysadmin/comments/1gb58r9/whats_your_it_pet_peeve/",
-          "author": null,
-          "description": "We all have that one little thing that always pushes our buttons - problematic vendors, users who swear by the shoulder tap method, or printers made by the company that rhymes with Dewlett Trackard. What's yours? \n Personally I cry a bit inside when the ticket even tangentially mentions Adobe.\n    submitted by    /u/OtherMiniarts  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/sysadmin/comments/1gb58r9/whats_your_it_pet_peeve/",
-          "publishedOn": "2024-10-24T15:23:42.000Z",
-          "wordCount": null,
-          "title": "What's Your IT Pet Peeve?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/sysadmin/comments/1gb3klh/how_much_of_an_it_generalist_are_you/",
-          "author": null,
-          "description": "I know we all try and specialize to some degree but more often than not, we don't get to. I was laughing at how general my job has gotten when thinking about 4 different ongoing tasks I am dealing with. \n - Centralize and Monitor all certificates, secrets, and keys along with their expiration date\n - Break up a huge SharePoint site into 7 smaller sharepoint sites\n - Schedule an in-warranty motherboard replacement for a laptop in Ethiopia\n - Design the network layout for a new branch office that is being subleased to us. \n To management, this is all part of a single IT job. I don't mind because they are super nice to me, and I enjoy being a generalist. \n I would love to hear how diverse other IT generalists' daily tasks are. \n    submitted by    /u/Warm_Protection_6541  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/sysadmin/comments/1gb3klh/how_much_of_an_it_generalist_are_you/",
-          "publishedOn": "2024-10-24T14:12:12.000Z",
-          "wordCount": null,
-          "title": "How much of an IT generalist are you?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/sysadmin/comments/1gb2rc4/azure_backup_now_ceo_is_upset_at_cost/",
-          "author": null,
-          "description": "I work for a Small/medium sized business (120 employees). I am a 1 man IT team here who's Title is Network and Systems Administrator. Last Year our Executive team wanted to move all our in house servers to the cloud, sure I am all for it as long as they know they they are going from $0 per month to host their own servers to Thousands of Dollars a month to host them now. We decided to move to Azure as their costs were reasonable and the CEO only prefers to user \"Big Companies\" for outside services. The 2 servers we are hosting up there are our Primary DC (about 75Gb) and our Primary File server (about 22TB). We are a media heavy company with a long history of digital assets that all get used frequently. \n I have tried to Cold archive as many things as I can but on a daily basis I was getting requests to dig in the archive for specific files and it go to the point that it just didn't make sense to have a cold archive. Anyways, long story short, our Azure setup is up and running beautifully. We are now running into the issue where my CEO/Owner of the company is trying to save as much money as possible (I am all for that), but he is questioning why our backups are so expensive. Our server hosting is about $3500 per month (mostly storage costs) and our backups are about $1100 per month. I get it is expensive, but its a necessary evil. This also piggy backs on the knowledge that we were hit with Ransomware a few years ago and our backups are the only thing that saved us. \n Basically, what I am asking is if anyone in a similar(ish) situation as me has seen similar actions from their higher ups. My CEO is not Dumb at all, not super tech savvy, but understands the importance of technology. Also, anyone have any experience with a backup service that may be able to accomplish similar things (Daily Backups held for 2 weeks) that could be cheaper. Thank you everyone for your time!\n P.S. Its always DNS.\n    submitted by    /u/xsparta11x1  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/sysadmin/comments/1gb2rc4/azure_backup_now_ceo_is_upset_at_cost/",
-          "publishedOn": "2024-10-24T13:34:24.000Z",
-          "wordCount": null,
-          "title": "Azure Backup, now CEO is upset at Cost",
-          "imageUrl": null
         }
       ]
     },
@@ -3992,6 +3735,16 @@
       "siteUrl": "https://www.reddit.com/r/technology/top?t=week",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/technology/comments/1giiadx/notepad_is_21_years_old/",
+          "author": null,
+          "description": "submitted by    /u/pinkpen44a  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/technology/comments/1giiadx/notepad_is_21_years_old/",
+          "publishedOn": "2024-11-03T08:22:56.000Z",
+          "wordCount": null,
+          "title": "Notepad++ is 21 years old",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.reddit.com/r/technology/comments/1gi2me0/harris_defends_chips_act_after_house_speaker/",
           "author": null,
           "description": "submitted by    /u/DonutsMcKenzie  \n [link]   [comments]",
@@ -3999,6 +3752,16 @@
           "publishedOn": "2024-11-02T18:13:29.000Z",
           "wordCount": null,
           "title": "Harris defends CHIPS Act after House Speaker Johnson suggests GOP would try to repeal law",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/technology/comments/1ghge2i/commentary_trumps_tariff_plan_would_hit_a_key/",
+          "author": null,
+          "description": "submitted by    /u/24identity  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/technology/comments/1ghge2i/commentary_trumps_tariff_plan_would_hit_a_key/",
+          "publishedOn": "2024-11-01T21:26:52.000Z",
+          "wordCount": null,
+          "title": "Commentary: Trump's tariff plan would hit a key voting bloc's favorite pastime — video games",
           "imageUrl": null
         },
         {
@@ -4300,2656 +4063,8 @@
           "wordCount": null,
           "title": "Ice cream machines win exemption to copyright law, allowing third-party repair",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/technology/comments/1gbrrvb/microsoft_ceos_pay_rises_63_to_73m_despite/",
-          "author": null,
-          "description": "submitted by    /u/chrisdh79  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/technology/comments/1gbrrvb/microsoft_ceos_pay_rises_63_to_73m_despite/",
-          "publishedOn": "2024-10-25T11:14:42.000Z",
-          "wordCount": null,
-          "title": "Microsoft CEO's pay rises 63% to $73m, despite devastating year for layoffs | 2550 jobs lost in 2024.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/technology/comments/1gbrfmp/nvidia_computer_finds_largest_known_prime_blows/",
-          "author": null,
-          "description": "submitted by    /u/tssract  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/technology/comments/1gbrfmp/nvidia_computer_finds_largest_known_prime_blows/",
-          "publishedOn": "2024-10-25T10:52:58.000Z",
-          "wordCount": null,
-          "title": "nvidia computer finds largest known prime, blows past record by 16 million digits",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/technology/comments/1gbc57n/russia_paid_a_former_florida_cop_to_pump_out/",
-          "author": null,
-          "description": "submitted by    /u/MarvelsGrantMan136  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/technology/comments/1gbc57n/russia_paid_a_former_florida_cop_to_pump_out/",
-          "publishedOn": "2024-10-24T20:12:34.000Z",
-          "wordCount": null,
-          "title": "Russia paid a former Florida cop to pump out anti-Harris deepfakes and disinformation / John Mark Dougan, a retired sheriff’s deputy, reportedly created fake news sites with funding from the Russian military.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/technology/comments/1gb2nea/you_can_now_get_fined_51744_for_writing_a_fake/",
-          "author": null,
-          "description": "submitted by    /u/chrisdh79  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/technology/comments/1gb2nea/you_can_now_get_fined_51744_for_writing_a_fake/",
-          "publishedOn": "2024-10-24T13:29:07.000Z",
-          "wordCount": null,
-          "title": "You Can Now Get Fined $51,744 for Writing a Fake Review Online | The FTC's ban on writing, buying, or selling fake reviews is officially in effect.",
-          "imageUrl": null
         }
       ]
-    },
-    {
-      "title": "DIY Perks",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCUQo7nzH1sXVpzL92VesANw",
-      "siteUrl": "https://www.youtube.com/channel/UCUQo7nzH1sXVpzL92VesANw",
-      "articles": []
-    },
-    {
-      "title": "Pick Up Limes",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCq2E1mIwUKMWzCA4liA_XGQ",
-      "siteUrl": "https://www.youtube.com/channel/UCq2E1mIwUKMWzCA4liA_XGQ",
-      "articles": []
-    },
-    {
-      "title": "Canoopsy",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCT3MTXYJzXrHgOXB5qicr_w",
-      "siteUrl": "https://www.youtube.com/channel/UCT3MTXYJzXrHgOXB5qicr_w",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=CEXoC18jYDk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=CEXoC18jYDk",
-          "publishedOn": "2024-11-02T15:42:15.000Z",
-          "wordCount": null,
-          "title": "iPad Mini 7  - The BEST iPad.",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
-      "title": "Lucile",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJdLzKzBQIsY3IIsCxGS7EA",
-      "siteUrl": "https://www.youtube.com/channel/UCJdLzKzBQIsY3IIsCxGS7EA",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=sHKXlAnVgo8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=sHKXlAnVgo8",
-          "publishedOn": "2024-11-01T14:11:14.000Z",
-          "wordCount": null,
-          "title": "Why is it so Easy to be Thin in France?",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
-      "title": "Patch My PC",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCT9BKiLpbO1pGxXsU1-_zBg",
-      "siteUrl": "https://www.youtube.com/channel/UCT9BKiLpbO1pGxXsU1-_zBg",
-      "articles": []
-    },
-    {
-      "title": "Proper Honest Tech",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCi7eZm4CkFiLEZ4tF4Er4lA",
-      "siteUrl": "https://www.youtube.com/channel/UCi7eZm4CkFiLEZ4tF4Er4lA",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=l9U1jDxc1f0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=l9U1jDxc1f0",
-          "publishedOn": "2024-10-31T18:24:16.000Z",
-          "wordCount": null,
-          "title": "8 INCREDIBLE things your iPhone can do RIGHT NOW! (Accessibility Features)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=d4A-VkPT1kY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=d4A-VkPT1kY",
-          "publishedOn": "2024-10-29T18:42:51.000Z",
-          "wordCount": null,
-          "title": "Mac Settings that ACTUALLY make your Mac Better",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=uuk49WR9W8k",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=uuk49WR9W8k",
-          "publishedOn": "2024-10-28T15:38:24.000Z",
-          "wordCount": null,
-          "title": "Apple Intelligence is out! Here's what you need to know (iOS 18.1)",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
-      "title": "Jimmy Tries World",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCM3hWnv_tshvTS660fhHH7A",
-      "siteUrl": "https://www.youtube.com/channel/UCM3hWnv_tshvTS660fhHH7A",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=TRqMD7ZJBaQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=TRqMD7ZJBaQ",
-          "publishedOn": "2024-10-30T12:30:34.000Z",
-          "wordCount": null,
-          "title": "Smart Home Mistakes You Need to AVOID",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
-      "title": "The Hated One",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjr2bPAyPV7t35MvcgT3W8Q",
-      "siteUrl": "https://www.youtube.com/channel/UCjr2bPAyPV7t35MvcgT3W8Q",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=4Dei2buz1X0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=4Dei2buz1X0",
-          "publishedOn": "2024-10-24T17:10:14.000Z",
-          "wordCount": null,
-          "title": "Why I don't use a SIM card and neither should you",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
-      "title": "Byte Review",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCg3tygBbdzyLEZ4lPMpCAFw",
-      "siteUrl": "https://www.youtube.com/channel/UCg3tygBbdzyLEZ4lPMpCAFw",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=YYPXYVmPaMo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=YYPXYVmPaMo",
-          "publishedOn": "2024-11-01T13:00:43.000Z",
-          "wordCount": null,
-          "title": "apple won't do this...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=gEGNAATOp_4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=gEGNAATOp_4",
-          "publishedOn": "2024-10-30T18:09:12.000Z",
-          "wordCount": null,
-          "title": "How much RAM do you need on a MacBook Pro?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=YtnSSdu0pUs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=YtnSSdu0pUs",
-          "publishedOn": "2024-10-25T12:30:26.000Z",
-          "wordCount": null,
-          "title": "iPad Mini 7 unboxing to study / relax to 🩵",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
-      "title": "Dashner Design & Restoration",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDVK2t-ttSjXHnGejDvVm1g",
-      "siteUrl": "https://www.youtube.com/channel/UCDVK2t-ttSjXHnGejDvVm1g",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=cbbsX97BAzs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=cbbsX97BAzs",
-          "publishedOn": "2024-10-26T15:30:53.000Z",
-          "wordCount": null,
-          "title": "Ebonizing A Trashed Desk With Vinegar & Steel Wool | Furniture Refinishing & Repair",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
-      "title": "Hueguh",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UClqxWoHXKDX4PJtoZ8p_oLQ",
-      "siteUrl": "https://www.youtube.com/channel/UClqxWoHXKDX4PJtoZ8p_oLQ",
-      "articles": []
-    },
-    {
-      "title": "ThisIsE",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKJgBJcJkc0Q4kZeGIyNTYA",
-      "siteUrl": "https://www.youtube.com/channel/UCKJgBJcJkc0Q4kZeGIyNTYA",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=dLvQepyH3No",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=dLvQepyH3No",
-          "publishedOn": "2024-10-31T14:19:27.000Z",
-          "wordCount": null,
-          "title": "My MacOS Sequoia Settings & Apps 2024",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Ua4t9v_Nhss",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Ua4t9v_Nhss",
-          "publishedOn": "2024-10-26T13:00:39.000Z",
-          "wordCount": null,
-          "title": "iPhone 16 Pro - Day in The Life 2024",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
-      "title": "Thoughtworthy Co",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsm-uFE1pEJnmySSCRTStaA",
-      "siteUrl": "https://www.youtube.com/channel/UCsm-uFE1pEJnmySSCRTStaA",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=1DWkbuJAEzk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=1DWkbuJAEzk",
-          "publishedOn": "2024-11-02T12:02:49.000Z",
-          "wordCount": null,
-          "title": "How many of these can you do? #fitnesschallenge #floorsitting #floorliving #barefootshoes",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=mh1W7W7nfaU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=mh1W7W7nfaU",
-          "publishedOn": "2024-10-25T11:35:04.000Z",
-          "wordCount": null,
-          "title": "Floor Sitting Is NOT Ergonomic. But Here’s Why It Works.",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
-      "title": "Everhouse",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvbiD-x3mDmQZRsJi8CnG0A",
-      "siteUrl": "https://www.youtube.com/channel/UCvbiD-x3mDmQZRsJi8CnG0A",
-      "articles": []
-    },
-    {
-      "title": "iFixit",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHbx9IUW7eCeJsC4sBCTNBA",
-      "siteUrl": "https://www.youtube.com/channel/UCHbx9IUW7eCeJsC4sBCTNBA",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=g1_jNX0aX_g",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=g1_jNX0aX_g",
-          "publishedOn": "2024-11-02T14:00:40.000Z",
-          "wordCount": null,
-          "title": "Did Apple Fix Jelly Scrolling in the iPad Mini 7?  #ifixit #iPadMini7 #Teardown",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=AiE1e-XJBKk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=AiE1e-XJBKk",
-          "publishedOn": "2024-11-01T14:00:15.000Z",
-          "wordCount": null,
-          "title": "Meta Quest 3S Teardown #ifixit #MetaQuest3S #Teardown",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=tUgsXBlJCxU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=tUgsXBlJCxU",
-          "publishedOn": "2024-10-31T15:59:48.000Z",
-          "wordCount": null,
-          "title": "How to Replace the Battery on Your Google Pixel 6a - Quick and Easy Repair!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=T8ssn_VimnQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=T8ssn_VimnQ",
-          "publishedOn": "2024-10-26T13:58:58.000Z",
-          "wordCount": null,
-          "title": "iPad Mini 2024 Teardown - Did Apple Fix Jelly Scrolling?",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
-      "title": "OPEN SPACE",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC07v1rZ4g6vxjoHRAoJZWHg",
-      "siteUrl": "https://www.youtube.com/channel/UC07v1rZ4g6vxjoHRAoJZWHg",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=MHymZvcqipA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=MHymZvcqipA",
-          "publishedOn": "2024-10-29T15:00:22.000Z",
-          "wordCount": null,
-          "title": "Inside a Hidden Dream House Oasis in Ojai, California | Modern Architecture Home Tour",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
-      "title": "WIRED",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCftwRNsjfRo08xYE31tkiyw",
-      "siteUrl": "https://www.youtube.com/channel/UCftwRNsjfRo08xYE31tkiyw",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=NbPH9TcrRl4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=NbPH9TcrRl4",
-          "publishedOn": "2024-10-31T16:00:04.000Z",
-          "wordCount": null,
-          "title": "Historian Answers Witchcraft Questions | Tech Support | WIRED",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=VEUlkBgqGj8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=VEUlkBgqGj8",
-          "publishedOn": "2024-10-24T16:00:10.000Z",
-          "wordCount": null,
-          "title": "'Critical Role' Cast Answer The Most Googled Vox Machina Questions | WIRED",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
-      "title": "Reynard Lowell",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7dR3zb454qbmuzTR2_ABhQ",
-      "siteUrl": "https://www.youtube.com/channel/UC7dR3zb454qbmuzTR2_ABhQ",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=LJ_Juid7Fck",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=LJ_Juid7Fck",
-          "publishedOn": "2024-11-02T09:30:07.000Z",
-          "wordCount": null,
-          "title": "10 Practical & Life Changing Products Around The House",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Py4GUH-RdQ8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Py4GUH-RdQ8",
-          "publishedOn": "2024-10-26T06:15:02.000Z",
-          "wordCount": null,
-          "title": "From Chaos to Calm: How to Declutter Your Home Effectively",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=eVZasNkrkpE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=eVZasNkrkpE",
-          "publishedOn": "2024-10-25T21:27:49.000Z",
-          "wordCount": null,
-          "title": "Major issues with Neutral Room 🤔 #neutral #homedecor #interiordesign #home #design",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
-      "title": "Intune Training",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfmMlhX5TW8cicxHw6ExYVA",
-      "siteUrl": "https://www.youtube.com/channel/UCfmMlhX5TW8cicxHw6ExYVA",
-      "articles": []
-    },
-    {
-      "title": "Becki and Chris",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIXKkzlHjD1rUPOLRfJZvrg",
-      "siteUrl": "https://www.youtube.com/channel/UCIXKkzlHjD1rUPOLRfJZvrg",
-      "articles": []
-    },
-    {
-      "title": "Vox",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLXo7UDZvByw2ixzpQCufnA",
-      "siteUrl": "https://www.youtube.com/channel/UCLXo7UDZvByw2ixzpQCufnA",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=In9Pqm9YlIo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=In9Pqm9YlIo",
-          "publishedOn": "2024-11-01T16:06:33.000Z",
-          "wordCount": null,
-          "title": "What polls can actually tell us",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=rq9dhQIoDw8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=rq9dhQIoDw8",
-          "publishedOn": "2024-10-30T12:01:07.000Z",
-          "wordCount": null,
-          "title": "Why Red 3 is still in your candy",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
-      "title": "Caitlin Shoemaker",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC0cxMY7jZ_kiE2bvykJffZA",
-      "siteUrl": "https://www.youtube.com/channel/UC0cxMY7jZ_kiE2bvykJffZA",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=cvufG3N62CQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=cvufG3N62CQ",
-          "publishedOn": "2024-10-27T15:00:44.000Z",
-          "wordCount": null,
-          "title": "A Cozy Day of Fall Vegan Eats (Autumn Vlog 🍁)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=hQe_bEwVk3I",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=hQe_bEwVk3I",
-          "publishedOn": "2024-10-25T16:00:46.000Z",
-          "wordCount": null,
-          "title": "I just made the perfect fall salad 🎃🥗 #shorts",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
-      "title": "Kyle Erickson",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCnn3N0i3TVGbQ9bMb4ln2OQ",
-      "siteUrl": "https://www.youtube.com/channel/UCnn3N0i3TVGbQ9bMb4ln2OQ",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=FtuXenMSdQs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=FtuXenMSdQs",
-          "publishedOn": "2024-10-27T11:00:28.000Z",
-          "wordCount": null,
-          "title": "iPad mini 7 Review: A Compromised Powerhouse!",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
-      "title": "Fireship",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA",
-      "siteUrl": "https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=Iq_r7IcNmUk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Iq_r7IcNmUk",
-          "publishedOn": "2024-11-01T17:09:25.000Z",
-          "wordCount": null,
-          "title": "The horrors of software bugs",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=aYyZUDFZTrM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=aYyZUDFZTrM",
-          "publishedOn": "2024-10-24T19:33:42.000Z",
-          "wordCount": null,
-          "title": "JavaScript framework reinvents itself… Did \"runes\" just ruin Svelte?",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
-      "title": "CaseyNeistat",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtinbF-Q-fVthA0qrFQTgXQ",
-      "siteUrl": "https://www.youtube.com/channel/UCtinbF-Q-fVthA0qrFQTgXQ",
-      "articles": []
-    },
-    {
-      "title": "Life Uncontained",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-l69It3hxAY3tkBH_utLNQ",
-      "siteUrl": "https://www.youtube.com/channel/UC-l69It3hxAY3tkBH_utLNQ",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=Nic-9J2bUc4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Nic-9J2bUc4",
-          "publishedOn": "2024-11-01T15:55:33.000Z",
-          "wordCount": null,
-          "title": "TRAILER CATCHES ON FIRE Shipping Our Container To The Mountains!",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
-      "title": "Poetry Of Slow Life",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCpXLm3fQI7H-xgMwGkqZpRg",
-      "siteUrl": "https://www.youtube.com/channel/UCpXLm3fQI7H-xgMwGkqZpRg",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=M0t4dy9eGcs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=M0t4dy9eGcs",
-          "publishedOn": "2024-11-02T11:00:31.000Z",
-          "wordCount": null,
-          "title": "Cozy autumn in the English Countryside | Cotswolds Villages, Pumpkin Loaf Recipe, Slow November Days",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=jSvGAz1grrA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=jSvGAz1grrA",
-          "publishedOn": "2024-10-26T10:00:48.000Z",
-          "wordCount": null,
-          "title": "A Cozy Autumn Day in Scotland | Exploring Edinburgh and Scottish Highlands on a slow October weekend",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
-      "title": "The Art of Interiors",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCw_XdTDBWdrGmKqjox882QA",
-      "siteUrl": "https://www.youtube.com/channel/UCw_XdTDBWdrGmKqjox882QA",
-      "articles": []
-    },
-    {
-      "title": "Matthew Encina",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSLeoz5odIGS2GdlbHbCAUg",
-      "siteUrl": "https://www.youtube.com/channel/UCSLeoz5odIGS2GdlbHbCAUg",
-      "articles": []
-    },
-    {
-      "title": "nao",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTdzndmRuTPbqaPUGaHzUmw",
-      "siteUrl": "https://www.youtube.com/channel/UCTdzndmRuTPbqaPUGaHzUmw",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=BLIjcrAV1a8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=BLIjcrAV1a8",
-          "publishedOn": "2024-10-31T12:29:54.000Z",
-          "wordCount": null,
-          "title": "1人の時間が楽しい秋の2日間, ひとり好きの日常, 最近読んでる本の紹介 | Homebody Diaries as an Introvert",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
-      "title": "inemuifj",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXzaNznHLJ_GjB8vjVzd3Uw",
-      "siteUrl": "https://www.youtube.com/channel/UCXzaNznHLJ_GjB8vjVzd3Uw",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=PAYuNePKJR0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=PAYuNePKJR0",
-          "publishedOn": "2024-10-27T12:00:32.000Z",
-          "wordCount": null,
-          "title": "A week in my life: senior year, what I've been up to, welding, look back movie, design",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
-      "title": "Nicholas Garofola",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLiAWvpRFtNiVOu6OyEfmDA",
-      "siteUrl": "https://www.youtube.com/channel/UCLiAWvpRFtNiVOu6OyEfmDA",
-      "articles": []
-    },
-    {
-      "title": "Dave2D",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVYamHliCI9rw1tHR1xbkfw",
-      "siteUrl": "https://www.youtube.com/channel/UCVYamHliCI9rw1tHR1xbkfw",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=1rJa-0YOkwk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=1rJa-0YOkwk",
-          "publishedOn": "2024-11-02T18:14:46.000Z",
-          "wordCount": null,
-          "title": "The Tiny Apple \"Phone\"",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=N1VC2SiUaz0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=N1VC2SiUaz0",
-          "publishedOn": "2024-10-31T17:24:48.000Z",
-          "wordCount": null,
-          "title": "The Inconvenient Truth About New Laptops",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
-      "title": "Paige Wassel",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCPScG5Rbudi6fDv4CK1-LAQ",
-      "siteUrl": "https://www.youtube.com/channel/UCPScG5Rbudi6fDv4CK1-LAQ",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=oRWctJOGxwU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=oRWctJOGxwU",
-          "publishedOn": "2024-10-27T18:52:33.000Z",
-          "wordCount": null,
-          "title": "15 must have decor items for people with no sense of interior design",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
-      "title": "Mac Address",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC0KfjyvabuE2J-RBC6ko2Lw",
-      "siteUrl": "https://www.youtube.com/channel/UC0KfjyvabuE2J-RBC6ko2Lw",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=wobociFUM1E",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=wobociFUM1E",
-          "publishedOn": "2024-11-01T01:12:30.000Z",
-          "wordCount": null,
-          "title": "The regular iPhone doesn’t suck now - iPhone 16 Review",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
-      "title": "Brandon Butch",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCpZy-Hfqcxf-R7nQzlv9Bvw",
-      "siteUrl": "https://www.youtube.com/channel/UCpZy-Hfqcxf-R7nQzlv9Bvw",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=R56bjcfwSwU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=R56bjcfwSwU",
-          "publishedOn": "2024-11-02T13:31:00.000Z",
-          "wordCount": null,
-          "title": "iOS 18.2 - Here’s the Truth..",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=GPo98mIY7j8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=GPo98mIY7j8",
-          "publishedOn": "2024-10-29T14:45:08.000Z",
-          "wordCount": null,
-          "title": "macOS Sequoia 15.1 - What’s New? (Apple Intelligence)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ZUxLbEH3-JA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ZUxLbEH3-JA",
-          "publishedOn": "2024-10-28T23:49:10.000Z",
-          "wordCount": null,
-          "title": "Apple Intelligence on iOS 18.1 is AMAZING! (here's how to use it)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=OQwk0u6ECnU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=OQwk0u6ECnU",
-          "publishedOn": "2024-10-28T15:11:02.000Z",
-          "wordCount": null,
-          "title": "iOS 18.1 Released - What's New? (Apple Intelligence)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=gFzZtD3JfPA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=gFzZtD3JfPA",
-          "publishedOn": "2024-10-26T13:17:00.000Z",
-          "wordCount": null,
-          "title": "iOS 18.2 - This is Incredible!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=6jWodGShu8U",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=6jWodGShu8U",
-          "publishedOn": "2024-10-24T20:43:29.000Z",
-          "wordCount": null,
-          "title": "iPad mini 7 (2024) vs iPad mini 6 - More Than it Seems!",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
-      "title": "First We Feast",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCPD_bxCRGpmmeQcbe2kpPaA",
-      "siteUrl": "https://www.youtube.com/channel/UCPD_bxCRGpmmeQcbe2kpPaA",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=zSgiTpN1Gr8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=zSgiTpN1Gr8",
-          "publishedOn": "2024-11-02T16:01:01.000Z",
-          "wordCount": null,
-          "title": "THAT is the keel? Madison Bailey attempts to identify parts of a boat 😂",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=vl8DTtfEXIg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=vl8DTtfEXIg",
-          "publishedOn": "2024-11-01T19:00:42.000Z",
-          "wordCount": null,
-          "title": "Jimmy Fallon's reaction to every wing on Hot Ones 💀",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=SrAAvUER0Ws",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=SrAAvUER0Ws",
-          "publishedOn": "2024-11-01T15:00:35.000Z",
-          "wordCount": null,
-          "title": "POV: you’ve been eating wings wrong your entire life...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=IwZzufe4NU8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=IwZzufe4NU8",
-          "publishedOn": "2024-10-31T21:00:21.000Z",
-          "wordCount": null,
-          "title": "Chase Stokes was set up to FAIL 😂",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=RkJxsS-IZBI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=RkJxsS-IZBI",
-          "publishedOn": "2024-10-31T15:00:29.000Z",
-          "wordCount": null,
-          "title": "Jimmy Fallon takes on the wings of death 💀",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=amZ3fANPGIE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=amZ3fANPGIE",
-          "publishedOn": "2024-10-31T15:00:03.000Z",
-          "wordCount": null,
-          "title": "Jimmy Fallon Gets Spooked By Spicy Wings | Hot Ones",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=orAr4Mdedxo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=orAr4Mdedxo",
-          "publishedOn": "2024-10-30T23:00:44.000Z",
-          "wordCount": null,
-          "title": "Adam Richman eats 4 classic NYC sandwiches BY BUDGET 🥪💰",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=VKFAlc91BaI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=VKFAlc91BaI",
-          "publishedOn": "2024-10-30T19:00:19.000Z",
-          "wordCount": null,
-          "title": "Get ready for Jimmy Fallon on Hot Ones 😂",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=QHDI4gFi23w",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=QHDI4gFi23w",
-          "publishedOn": "2024-10-30T17:00:24.000Z",
-          "wordCount": null,
-          "title": "$5 vs. $35 Sandwich! Adam Richman Eats the Best Sandwiches by Budget | Pro Moves",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=fUJSAdjxZIc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=fUJSAdjxZIc",
-          "publishedOn": "2024-10-29T20:00:17.000Z",
-          "wordCount": null,
-          "title": "How to make the ULTIMATE Hot Ones Chicken Wing 🍗🔥",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=yEHemMqlsto",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=yEHemMqlsto",
-          "publishedOn": "2024-10-29T17:01:01.000Z",
-          "wordCount": null,
-          "title": "Outer Banks: Winner Takes All | Hot Ones Versus",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=oQly0cZ_gag",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=oQly0cZ_gag",
-          "publishedOn": "2024-10-29T17:00:50.000Z",
-          "wordCount": null,
-          "title": "Peter Dinklage looks back on filming Game of Thrones 💀",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=cuxjYXBpXLQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=cuxjYXBpXLQ",
-          "publishedOn": "2024-10-28T17:00:38.000Z",
-          "wordCount": null,
-          "title": "How to Make the Ultimate Hot Ones Chicken Wing | Hot Kitchen",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=EBwdKTcxuN0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=EBwdKTcxuN0",
-          "publishedOn": "2024-10-28T15:00:27.000Z",
-          "wordCount": null,
-          "title": "A pizza expert says to NEVER eat your slice like this 🍕🚩",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Gvgz4tw3m_c",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Gvgz4tw3m_c",
-          "publishedOn": "2024-10-27T21:00:14.000Z",
-          "wordCount": null,
-          "title": "What would happen if TACO BELL and JOLLIBEE made a collab item? 👀🌮🍗",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=V1SSu-ejbDY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=V1SSu-ejbDY",
-          "publishedOn": "2024-10-26T16:00:26.000Z",
-          "wordCount": null,
-          "title": "PRO MOVE: This is how you order your slice at the pizzeria ❗",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=MhsRl2i9H_g",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=MhsRl2i9H_g",
-          "publishedOn": "2024-10-25T18:00:14.000Z",
-          "wordCount": null,
-          "title": "Ali Wong's reaction to every wing on Hot Ones 😂",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=OG0Ozh2y7Ow",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=OG0Ozh2y7Ow",
-          "publishedOn": "2024-10-24T20:00:08.000Z",
-          "wordCount": null,
-          "title": "Adam Richman eats 4 classic NYC pizza styles 🍕",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=kWJCBPh5Wpc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=kWJCBPh5Wpc",
-          "publishedOn": "2024-10-24T15:00:59.000Z",
-          "wordCount": null,
-          "title": "Ali Wong takes on the wings of death 💀",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=2O8r7p9bdC0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=2O8r7p9bdC0",
-          "publishedOn": "2024-10-24T15:00:04.000Z",
-          "wordCount": null,
-          "title": "Ali Wong Has Beef With Spicy Wings | Hot Ones",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
-      "title": "D. Dames",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcMq7oqYZqTK3khNsSKIh5Q",
-      "siteUrl": "https://www.youtube.com/channel/UCcMq7oqYZqTK3khNsSKIh5Q",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=W8R5IWJZmiw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=W8R5IWJZmiw",
-          "publishedOn": "2024-10-28T01:17:33.000Z",
-          "wordCount": null,
-          "title": "Productive week in my life + Q&A | Life Lately in New York City",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
-      "title": "muchelleb",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC0sA4gvlWFHfdwaPlBDqnGg",
-      "siteUrl": "https://www.youtube.com/channel/UC0sA4gvlWFHfdwaPlBDqnGg",
-      "articles": []
-    },
-    {
-      "title": "Shannon Morse",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNofX8wmSJh7NTklvMqueOA",
-      "siteUrl": "https://www.youtube.com/channel/UCNofX8wmSJh7NTklvMqueOA",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=JCRbFkoRMdA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=JCRbFkoRMdA",
-          "publishedOn": "2024-11-02T16:40:10.000Z",
-          "wordCount": null,
-          "title": "Meta Quest 3S Hands-On Review: Budget Friendly, But Is It Good?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=LAmhUdeybPc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=LAmhUdeybPc",
-          "publishedOn": "2024-10-31T20:32:24.000Z",
-          "wordCount": null,
-          "title": "24 Most Important iPhone 16 and iOS18 Settings for Security!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=iEP1QEJKrRU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=iEP1QEJKrRU",
-          "publishedOn": "2024-10-26T13:01:00.000Z",
-          "wordCount": null,
-          "title": "Samsung Galaxy Tab S10 Ultra Review: Powerful Performance with MediaTek Dimensity 9300+",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
-      "title": "Jenn Im",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCgWfS_47YPVbKx5EK4FLm4A",
-      "siteUrl": "https://www.youtube.com/channel/UCgWfS_47YPVbKx5EK4FLm4A",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=2Q_rUh-oUOc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=2Q_rUh-oUOc",
-          "publishedOn": "2024-10-29T15:00:02.000Z",
-          "wordCount": null,
-          "title": "What I Wish I Knew Before I Became A Parent",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
-      "title": "Caroline Winkler",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8JOgFXp-I3YV6dsKqqQdUw",
-      "siteUrl": "https://www.youtube.com/channel/UC8JOgFXp-I3YV6dsKqqQdUw",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=2kzyoTfawGM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=2kzyoTfawGM",
-          "publishedOn": "2024-10-25T15:47:29.000Z",
-          "wordCount": null,
-          "title": "How to pick the right furniture + decor for your home.",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
-      "title": "TOKO : 竹野トコ",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCX_nalhCljdSRS1j35NphYA",
-      "siteUrl": "https://www.youtube.com/channel/UCX_nalhCljdSRS1j35NphYA",
-      "articles": []
-    },
-    {
-      "title": "Coffee The Universal Language",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsdOZbgy94yn0Y-Oye6ZJLQ",
-      "siteUrl": "https://www.youtube.com/channel/UCsdOZbgy94yn0Y-Oye6ZJLQ",
-      "articles": []
-    },
-    {
-      "title": "ijessup",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYqp3_iQYErWMi3VsVT5xzA",
-      "siteUrl": "https://www.youtube.com/channel/UCYqp3_iQYErWMi3VsVT5xzA",
-      "articles": []
-    },
-    {
-      "title": "Artem Causalitas",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXihzT25LZhdz836Kd4XHPQ",
-      "siteUrl": "https://www.youtube.com/channel/UCXihzT25LZhdz836Kd4XHPQ",
-      "articles": []
-    },
-    {
-      "title": "FINCA JOURNAL",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCmoI15AJ3bJ6LJDrBBF8NTw",
-      "siteUrl": "https://www.youtube.com/channel/UCmoI15AJ3bJ6LJDrBBF8NTw",
-      "articles": []
-    },
-    {
-      "title": "Homeworthy",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2oAso3hNDqYxgqEEP-Esrw",
-      "siteUrl": "https://www.youtube.com/channel/UC2oAso3hNDqYxgqEEP-Esrw",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=5-Wi1ivPP0s",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=5-Wi1ivPP0s",
-          "publishedOn": "2024-11-02T23:00:02.000Z",
-          "wordCount": null,
-          "title": "At Home with Ruth McKeaney | A Beautiful Wedding at Hillside Farm | PT 2",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=B651gOwSIxk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=B651gOwSIxk",
-          "publishedOn": "2024-11-02T15:30:02.000Z",
-          "wordCount": null,
-          "title": "HOUSE TOUR | A Coastal and Traditional California Apartment",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=mLly8IF5zfk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=mLly8IF5zfk",
-          "publishedOn": "2024-11-01T22:45:01.000Z",
-          "wordCount": null,
-          "title": "HOUSE TOUR | Interior Designer Mark D. Sikes Opens Doors to Hollywood Hills Home",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=rTygW6hAEFk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=rTygW6hAEFk",
-          "publishedOn": "2024-11-01T18:00:37.000Z",
-          "wordCount": null,
-          "title": "HOUSE TOUR | A Stylish Home in Pennsylvania",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=3aIAVffHhVY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=3aIAVffHhVY",
-          "publishedOn": "2024-11-01T17:45:04.000Z",
-          "wordCount": null,
-          "title": "Imagine enjoying your morning cup of coffee in IG/@artdecojewel's colorful kitchen 🌈 ✨#homeworthy",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=SJkgb_X1Xlc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=SJkgb_X1Xlc",
-          "publishedOn": "2024-11-01T16:00:23.000Z",
-          "wordCount": null,
-          "title": "We're obsessed with how designer IG/@theadobecraftsman elevated this space 📚✨#design #bookshelf #diy",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=MR5qt_Ns4dM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=MR5qt_Ns4dM",
-          "publishedOn": "2024-11-01T13:22:32.000Z",
-          "wordCount": null,
-          "title": "We love IG/@cozyinchicago_’s treehouse-like gem 🌳 Watch Lauren’s full episode on www.Homeworthy.com!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=VSSip-tA3N8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=VSSip-tA3N8",
-          "publishedOn": "2024-10-31T21:00:17.000Z",
-          "wordCount": null,
-          "title": "HOUSE TOUR | Inside England's Groovy House",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=u8yMk1QG4SQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=u8yMk1QG4SQ",
-          "publishedOn": "2024-10-31T18:36:17.000Z",
-          "wordCount": null,
-          "title": "We’re obsessed with this fun bathroom upgrade from IG/@naptimekate 🛁✨#homeworthy #diyproject #diy",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=3fdPdWgg1i4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=3fdPdWgg1i4",
-          "publishedOn": "2024-10-31T17:23:39.000Z",
-          "wordCount": null,
-          "title": "Cozy vibes for fall 🍁 IG/@dwelling.small’s moody bedroom is everything this season!#homeworthy #fall",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=tFdYl9VQUSo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=tFdYl9VQUSo",
-          "publishedOn": "2024-10-31T16:01:04.000Z",
-          "wordCount": null,
-          "title": "HOUSE TOUR | A Cozy Minneapolis Home That Brings the Outside In",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=TAKejrBsu2Q",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=TAKejrBsu2Q",
-          "publishedOn": "2024-10-31T14:18:31.000Z",
-          "wordCount": null,
-          "title": "See how IG/@the_suffolk_nest puts together the most beautiful dried hoop wreath 🤎  #diy #fall",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=5e0zHdkiQdc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=5e0zHdkiQdc",
-          "publishedOn": "2024-10-30T14:00:05.000Z",
-          "wordCount": null,
-          "title": "HOUSE TOUR | A Charming Los Angeles Home Filled with Vintage Finds",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=7oXAgXXLvQs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=7oXAgXXLvQs",
-          "publishedOn": "2024-10-29T20:30:01.000Z",
-          "wordCount": null,
-          "title": "HOUSE TOUR | An Interior Designer’s Sophisticated, Dreamy Home in Connecticut",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=qExReDta4d0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=qExReDta4d0",
-          "publishedOn": "2024-10-29T19:00:39.000Z",
-          "wordCount": null,
-          "title": "Design a home that feels like you! We are feeling all the inspiration from IG/@gladysavenue✨🏡 #cozy",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=X77ufViYqHE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=X77ufViYqHE",
-          "publishedOn": "2024-10-29T16:50:28.000Z",
-          "wordCount": null,
-          "title": "This basement transformation from IG/@cassmakeshome is incredible! A #DIY win! ✨ #beforeandafter",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=uK0I9k4HQ4M",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=uK0I9k4HQ4M",
-          "publishedOn": "2024-10-29T13:51:12.000Z",
-          "wordCount": null,
-          "title": "Welcome to the house on a sugar hill 🏠 IG/@houseonasugarhill gave us a tour of her GA home! #diy",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=5v0v5gNHyuo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=5v0v5gNHyuo",
-          "publishedOn": "2024-10-28T22:15:00.000Z",
-          "wordCount": null,
-          "title": "MINNESOTA INTERIOR DESIGN | Charming & Sophisticated Homes",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=9yvve6bW0X0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=9yvve6bW0X0",
-          "publishedOn": "2024-10-28T22:00:06.000Z",
-          "wordCount": null,
-          "title": "Take a peek into interior designer IG/@paigekontrafouris’ French inspired kitchen 💐✨#diy #cottage",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=6CUaA6m3eBY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=6CUaA6m3eBY",
-          "publishedOn": "2024-10-28T21:00:03.000Z",
-          "wordCount": null,
-          "title": "HOUSE TOUR | A Cozy Maximalist New York Apartment Filled With Color",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=5znWVEYVFvc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=5znWVEYVFvc",
-          "publishedOn": "2024-10-28T19:00:02.000Z",
-          "wordCount": null,
-          "title": "The warm glow of a lamp is pure magic💡We love cookbook author IG/@laryloves’ cozy home ✨🥀#homeworthy",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=AmRcbLZtPh0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=AmRcbLZtPh0",
-          "publishedOn": "2024-10-28T16:00:10.000Z",
-          "wordCount": null,
-          "title": "A grand-millennial dream! Claire Randolph gave us a tour of her Los Angeles apartment ❤️#homeworthy",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ixAjtfSfgmM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ixAjtfSfgmM",
-          "publishedOn": "2024-10-28T15:02:38.000Z",
-          "wordCount": null,
-          "title": "This quaint home in Connecticut was a Christmas movie set and now it's for sale!🎄IG/@sacha_ctrealtor",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Zqe2rCZxiuM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Zqe2rCZxiuM",
-          "publishedOn": "2024-10-27T15:00:40.000Z",
-          "wordCount": null,
-          "title": "HOSTING AT HOME | Stunning Table Decor & Easy Party Recipes",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=353-0zWOfdQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=353-0zWOfdQ",
-          "publishedOn": "2024-10-26T20:30:00.000Z",
-          "wordCount": null,
-          "title": "At Home with Ruth McKeaney | Get Ready For A Wedding At Hillside Farm | PART 1",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Y_deEjS5u0o",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Y_deEjS5u0o",
-          "publishedOn": "2024-10-26T17:00:27.000Z",
-          "wordCount": null,
-          "title": "DORMWORTHY | Inside a Coastal and Preppy College Dorm Room",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=m6NcVMLosCA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=m6NcVMLosCA",
-          "publishedOn": "2024-10-25T21:00:30.000Z",
-          "wordCount": null,
-          "title": "HOUSE TOUR | Joe Minton Designs a Luxurious Dallas Home",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=t4YpgR31G_U",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=t4YpgR31G_U",
-          "publishedOn": "2024-10-25T16:57:22.000Z",
-          "wordCount": null,
-          "title": "This green surprise from IG/@mcnellinteriors makes a great at-home bar 💚🍸 #homeworthy #bardesign",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
-      "title": "Abandoned Films",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC1R2q_TrFkCJvDBucYdRMPg",
-      "siteUrl": "https://www.youtube.com/channel/UC1R2q_TrFkCJvDBucYdRMPg",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=gn4l1tPm5R8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=gn4l1tPm5R8",
-          "publishedOn": "2024-10-29T17:00:43.000Z",
-          "wordCount": null,
-          "title": "Stranded on Dagobah - Teaser Trailer (1980)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=i_pRaiOI4vI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=i_pRaiOI4vI",
-          "publishedOn": "2024-10-24T20:07:23.000Z",
-          "wordCount": null,
-          "title": "The Pirates of the Caribbean - 1950's Super Panavision",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
-      "title": "Xíu House",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZCe6AEqZhDPnzaJoj85BuA",
-      "siteUrl": "https://www.youtube.com/channel/UCZCe6AEqZhDPnzaJoj85BuA",
-      "articles": []
-    },
-    {
-      "title": "Kirsten Dirksen",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDsElQQt_gCZ9LgnW-7v-cQ",
-      "siteUrl": "https://www.youtube.com/channel/UCDsElQQt_gCZ9LgnW-7v-cQ",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=cHryf1UCUgs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=cHryf1UCUgs",
-          "publishedOn": "2024-10-27T17:25:39.000Z",
-          "wordCount": null,
-          "title": "Turns warehouse into dream home with underground living + Roman bath 🏛️",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
-      "title": "李子柒 Liziqi",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCoC47do520os_4DBMEFGg4A",
-      "siteUrl": "https://www.youtube.com/channel/UCoC47do520os_4DBMEFGg4A",
-      "articles": []
-    },
-    {
-      "title": "NPR",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJnS2EsPfv46u1JR8cnD0NA",
-      "siteUrl": "https://www.youtube.com/channel/UCJnS2EsPfv46u1JR8cnD0NA",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=oobvOc9cusk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=oobvOc9cusk",
-          "publishedOn": "2024-11-02T15:01:08.000Z",
-          "wordCount": null,
-          "title": "Here’s what experts say about sleeping well as we end daylight saving time on Sunday, Nov.3 at 2a.m.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=XubMdmNYc3s",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=XubMdmNYc3s",
-          "publishedOn": "2024-11-02T13:00:45.000Z",
-          "wordCount": null,
-          "title": "Urban opera 'La Porte des ténèbres' drew 1.2 million people to the streets of Toulouse",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=A9yuG7hCsk0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=A9yuG7hCsk0",
-          "publishedOn": "2024-11-01T21:00:05.000Z",
-          "wordCount": null,
-          "title": "Survivors rescued in the Valencia region after monstrous flash floods hit Spain",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=XOW8FRL2ylI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=XOW8FRL2ylI",
-          "publishedOn": "2024-11-01T15:00:40.000Z",
-          "wordCount": null,
-          "title": "Your favorite apple type is a clone! If you plant a seed from that apple, you get a different tree",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=m__IaN3CofE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=m__IaN3CofE",
-          "publishedOn": "2024-11-01T12:35:13.000Z",
-          "wordCount": null,
-          "title": "Trump Repeats False Claims Of Widespread Election 'Cheating' | NPR News Now",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=u-z6wLaQ0QM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=u-z6wLaQ0QM",
-          "publishedOn": "2024-10-31T21:00:44.000Z",
-          "wordCount": null,
-          "title": "Rainbow Girls: 10 Years of Protection and Prejudice | The Picture Show | NPR",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=OE7bmICHquo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=OE7bmICHquo",
-          "publishedOn": "2024-10-31T19:00:26.000Z",
-          "wordCount": null,
-          "title": "These are the two paths either Trump or Harris has to follow to become president",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=VHyOIX-db8I",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=VHyOIX-db8I",
-          "publishedOn": "2024-10-31T17:00:33.000Z",
-          "wordCount": null,
-          "title": "The Kia Tigers beat the Samsung Lions to win 12th championship in South Korean professional baseball",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=RN2ODf7kFu8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=RN2ODf7kFu8",
-          "publishedOn": "2024-10-31T15:00:25.000Z",
-          "wordCount": null,
-          "title": "The Los Angeles Dodgers won their second World Series championship in five seasons",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=kVkooecQDUY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=kVkooecQDUY",
-          "publishedOn": "2024-10-31T12:30:14.000Z",
-          "wordCount": null,
-          "title": "Trump Climbs Into A Garbage Truck In Wisconsin | NPR News Now",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=TIZc-27j4sg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=TIZc-27j4sg",
-          "publishedOn": "2024-10-30T22:00:30.000Z",
-          "wordCount": null,
-          "title": "Democratic Rep. Ruben Gallego visits the Havasupai people as he runs for U.S. Senate in Arizona",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=uF9BbSpZ9gQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=uF9BbSpZ9gQ",
-          "publishedOn": "2024-10-30T20:15:01.000Z",
-          "wordCount": null,
-          "title": "Harris makes her closing pitch for the campaign a week before election day",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=-nLqbdrJfJI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=-nLqbdrJfJI",
-          "publishedOn": "2024-10-30T12:50:21.000Z",
-          "wordCount": null,
-          "title": "Harris Delivers A Closing Pitch To Voters From The Ellipse | NPR News Now",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=uF6FhSyMXbo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=uF6FhSyMXbo",
-          "publishedOn": "2024-10-29T15:01:03.000Z",
-          "wordCount": null,
-          "title": "Donald Trump declared that he was “not a Nazi” while at a rally in Georgia on Monday",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=xZ7DQxaBh58",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=xZ7DQxaBh58",
-          "publishedOn": "2024-10-29T12:24:35.000Z",
-          "wordCount": null,
-          "title": "2 Ballot Drop Boxes Set On Fire In Washington, Oregon | NPR News Now",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=TS_R60641hs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=TS_R60641hs",
-          "publishedOn": "2024-10-28T20:00:12.000Z",
-          "wordCount": null,
-          "title": "Seemingly red states may turn blue on election night as part of the \"blue shift\" phenomenon",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=hEV-VX32AR0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=hEV-VX32AR0",
-          "publishedOn": "2024-10-28T18:00:22.000Z",
-          "wordCount": null,
-          "title": "Donald Trump put on a rally in Madison Square Garden on Sunday in the final full week of campaigning",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=X-L3Um1cJI4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=X-L3Um1cJI4",
-          "publishedOn": "2024-10-28T16:16:55.000Z",
-          "wordCount": null,
-          "title": "Fewer Black men are attending HBCUs | All Things Considered | NPR",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=BgvxqfBzflc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=BgvxqfBzflc",
-          "publishedOn": "2024-10-28T12:42:28.000Z",
-          "wordCount": null,
-          "title": "Trump Rally Comedian Calls Puerto Rico An 'Island Of Garbage' | NPR News Now",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=khRGseoi3U8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=khRGseoi3U8",
-          "publishedOn": "2024-10-25T12:18:52.000Z",
-          "wordCount": null,
-          "title": "Harris Campaigns With Obama In Georgia | NPR News Now",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=WrwoQS7eKFM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=WrwoQS7eKFM",
-          "publishedOn": "2024-10-24T13:18:19.000Z",
-          "wordCount": null,
-          "title": "Trump Courts Christian Voters In Georgia | NPR News Now",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
-      "title": "NetworkChuck",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9x0AN7BWHpCDHSm9NiJFJQ",
-      "siteUrl": "https://www.youtube.com/channel/UC9x0AN7BWHpCDHSm9NiJFJQ",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=NL-90TcNBNs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=NL-90TcNBNs",
-          "publishedOn": "2024-10-29T20:28:01.000Z",
-          "wordCount": null,
-          "title": "Cisco has a Hacking Cert?!?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=k02P5nghmfs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=k02P5nghmfs",
-          "publishedOn": "2024-10-25T16:54:58.000Z",
-          "wordCount": null,
-          "title": "your home automation SUCKS!!",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
-      "title": "Simple Dwelling",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCe1R0tqKeEZmbCMPZzH5M2g",
-      "siteUrl": "https://www.youtube.com/channel/UCe1R0tqKeEZmbCMPZzH5M2g",
-      "articles": []
-    },
-    {
-      "title": "Josh Fenn",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCm4_Wd1EW7kGYvVhC77Yzpg",
-      "siteUrl": "https://www.youtube.com/channel/UCm4_Wd1EW7kGYvVhC77Yzpg",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=KqifdxreDkU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=KqifdxreDkU",
-          "publishedOn": "2024-10-28T17:00:30.000Z",
-          "wordCount": null,
-          "title": "This Retro Chronograph is an INSTANT classic | VAER R1 USA Oceanracer",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=m-eBTNT0HIs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=m-eBTNT0HIs",
-          "publishedOn": "2024-10-25T15:01:02.000Z",
-          "wordCount": null,
-          "title": "My Fall/Autumn Wardrobe Essentials for 2024",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
-      "title": "Eamon & Bec",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4laAHbk8VSgmvB47tsd2XQ",
-      "siteUrl": "https://www.youtube.com/channel/UC4laAHbk8VSgmvB47tsd2XQ",
-      "articles": []
-    },
-    {
-      "title": "linh truong",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDivkE8Ckgk14fu1XChEp7w",
-      "siteUrl": "https://www.youtube.com/channel/UCDivkE8Ckgk14fu1XChEp7w",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=oIgQmqwtT8Q",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=oIgQmqwtT8Q",
-          "publishedOn": "2024-10-31T19:03:30.000Z",
-          "wordCount": null,
-          "title": "my 2024 anime halloween costume ⛓️‍💥❤️🌟 #halloween #anime",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
-      "title": "FromSergio",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIDJH27tBTlA7jjMI5wnibA",
-      "siteUrl": "https://www.youtube.com/channel/UCIDJH27tBTlA7jjMI5wnibA",
-      "articles": []
-    },
-    {
-      "title": "Snazzy Labs",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCO2x-p9gg9TLKneXlibGR7w",
-      "siteUrl": "https://www.youtube.com/channel/UCO2x-p9gg9TLKneXlibGR7w",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=vAIyXnI5xpM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=vAIyXnI5xpM",
-          "publishedOn": "2024-10-28T15:01:09.000Z",
-          "wordCount": null,
-          "title": "Cheap, DIY Cable Management—Like a Pro!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=6kxNJ7ptMxk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=6kxNJ7ptMxk",
-          "publishedOn": "2024-10-25T19:17:33.000Z",
-          "wordCount": null,
-          "title": "Hidden PRO Tips in macOS Sequoia!",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
-      "title": "LagomHolly",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCuyOC4Dfun9E-l6DEJwMZzA",
-      "siteUrl": "https://www.youtube.com/channel/UCuyOC4Dfun9E-l6DEJwMZzA",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=E3Uo0jAjBng",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=E3Uo0jAjBng",
-          "publishedOn": "2024-10-27T17:59:19.000Z",
-          "wordCount": null,
-          "title": "The Biggest Mistakes People Make About Self-Love & How To Love Yourself The Right Way🤍",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
-      "title": "Computerphile",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9-y-6csu5WGm29I7JiwpnA",
-      "siteUrl": "https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=nOCPpT-Sn0A",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=nOCPpT-Sn0A",
-          "publishedOn": "2024-10-31T17:45:02.000Z",
-          "wordCount": null,
-          "title": "Recursive Ray Tracing - Computerphile",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Isen8IHtrvE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Isen8IHtrvE",
-          "publishedOn": "2024-10-24T19:02:18.000Z",
-          "wordCount": null,
-          "title": "The \"Goodbye\" Problem - Computerphile",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
-      "title": "Chris Titus Tech",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCg6gPGh8HU2U01vaFCAsvmQ",
-      "siteUrl": "https://www.youtube.com/channel/UCg6gPGh8HU2U01vaFCAsvmQ",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=_QH80AwiAUU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=_QH80AwiAUU",
-          "publishedOn": "2024-11-02T11:15:03.000Z",
-          "wordCount": null,
-          "title": "Apex Legends Drops Linux Support",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=gBqIUkmVel8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=gBqIUkmVel8",
-          "publishedOn": "2024-10-30T11:15:04.000Z",
-          "wordCount": null,
-          "title": "Microsoft Recall is NOT Mandatory?!?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Zbd3pPoB2Yw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Zbd3pPoB2Yw",
-          "publishedOn": "2024-10-27T11:15:02.000Z",
-          "wordCount": null,
-          "title": "Switching to Google Chrome",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
-      "title": "AI Explained",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNJ1Ymd5yFuUPtn21xtRbbw",
-      "siteUrl": "https://www.youtube.com/channel/UCNJ1Ymd5yFuUPtn21xtRbbw",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=tGsBJhMbiIU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=tGsBJhMbiIU",
-          "publishedOn": "2024-10-31T22:26:52.000Z",
-          "wordCount": null,
-          "title": "ChatGPT with Search, Altman AMA",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
-      "title": "TED",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCAuUUnT6oDeKwE6v1NGQxug",
-      "siteUrl": "https://www.youtube.com/channel/UCAuUUnT6oDeKwE6v1NGQxug",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=2LkDU0iKaro",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=2LkDU0iKaro",
-          "publishedOn": "2024-11-01T11:00:05.000Z",
-          "wordCount": null,
-          "title": "Networking Doesn’t Have to Feel Gross | Daniel Hallak | TED",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=HDHbjYNBwXI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=HDHbjYNBwXI",
-          "publishedOn": "2024-10-31T11:00:19.000Z",
-          "wordCount": null,
-          "title": "Poetry and Music That Reaches Across the Digital Void | Elle Cordova | TED",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=RmXrwKydM9k",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=RmXrwKydM9k",
-          "publishedOn": "2024-10-30T11:00:35.000Z",
-          "wordCount": null,
-          "title": "The Tipping Point I Got Wrong | Malcolm Gladwell | TED",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=mawrdgeE1ig",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=mawrdgeE1ig",
-          "publishedOn": "2024-10-29T14:59:41.000Z",
-          "wordCount": null,
-          "title": "TED Talk Watch Party: Democracy — Watch live October 30 at 11:30am ET",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Efp1EiSwDO4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Efp1EiSwDO4",
-          "publishedOn": "2024-10-29T11:00:21.000Z",
-          "wordCount": null,
-          "title": "A Food System That Fights Climate Change — Instead of Causing It | Gonzalo Muñoz | TED",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Kcq-FxK-GK0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Kcq-FxK-GK0",
-          "publishedOn": "2024-10-29T11:00:20.000Z",
-          "wordCount": null,
-          "title": "Could We Replace Data Centers With … Plant DNA? | Cliff Kapono and Keolu Fox | TED",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=wUpZ181ATfI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=wUpZ181ATfI",
-          "publishedOn": "2024-10-28T18:55:13.000Z",
-          "wordCount": null,
-          "title": "A Lens on Georgia’s Survival in the Shadow of a Superpower | Daro Sulakauri | TED",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=DnqNS6fThuY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=DnqNS6fThuY",
-          "publishedOn": "2024-10-25T11:00:28.000Z",
-          "wordCount": null,
-          "title": "Your Empty Wine Bottle Could Help Rebuild Coastlines | Franziska Trautmann | TED",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
-      "title": "Ottilie",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCAuEjBW8MgKN9DyCvjEPFew",
-      "siteUrl": "https://www.youtube.com/channel/UCAuEjBW8MgKN9DyCvjEPFew",
-      "articles": []
-    },
-    {
-      "title": "cloudyhills",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJAZvc_C5M4pR_SwK_0z0xg",
-      "siteUrl": "https://www.youtube.com/channel/UCJAZvc_C5M4pR_SwK_0z0xg",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=Pa_WvgZQzUQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Pa_WvgZQzUQ",
-          "publishedOn": "2024-10-30T23:00:17.000Z",
-          "wordCount": null,
-          "title": "COZY & PRACTICAL GIFT IDEAS | the homebody holiday gift guide",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
-      "title": "Check the Box & Learn",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCx-r1eCcoptNTPwfTjaPlfA",
-      "siteUrl": "https://www.youtube.com/channel/UCx-r1eCcoptNTPwfTjaPlfA",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=o9L13RacO9U",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=o9L13RacO9U",
-          "publishedOn": "2024-10-30T12:01:11.000Z",
-          "wordCount": null,
-          "title": "The iPad is at the centre of my productivity.",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
-      "title": "Exploring Alternatives",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8EQAfueDGNeqb1ALm0LjHA",
-      "siteUrl": "https://www.youtube.com/channel/UC8EQAfueDGNeqb1ALm0LjHA",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=vkctzTS6WU8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=vkctzTS6WU8",
-          "publishedOn": "2024-11-02T20:21:51.000Z",
-          "wordCount": null,
-          "title": "Incredible 90% Energy Reduction with a Passive House! #shorts #energy #home",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=H6gmux1z6Zk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=H6gmux1z6Zk",
-          "publishedOn": "2024-10-27T15:52:14.000Z",
-          "wordCount": null,
-          "title": "Grain Silo Converted into Amazing Off-Grid Tiny House – FULL TOUR",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
-      "title": "Natalie Lynn",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCkjrBN_GAjFJyVvjcI07KkQ",
-      "siteUrl": "https://www.youtube.com/channel/UCkjrBN_GAjFJyVvjcI07KkQ",
-      "articles": []
-    },
-    {
-      "title": "Robert Creating",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCBOPiSs5Ae_Pws-AImpvxPw",
-      "siteUrl": "https://www.youtube.com/channel/UCBOPiSs5Ae_Pws-AImpvxPw",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=O1ZBs0nUFxI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=O1ZBs0nUFxI",
-          "publishedOn": "2024-10-30T14:40:53.000Z",
-          "wordCount": null,
-          "title": "How to Pack Like a Minimalist (Best Travel Backpack)",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
-      "title": "Kyla Quilos",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCnann7INGH7_6YZikDx3O2w",
-      "siteUrl": "https://www.youtube.com/channel/UCnann7INGH7_6YZikDx3O2w",
-      "articles": []
-    },
-    {
-      "title": "carina aarnio",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsCmDXLmyIMMOYnBTkoxF3A",
-      "siteUrl": "https://www.youtube.com/channel/UCsCmDXLmyIMMOYnBTkoxF3A",
-      "articles": []
-    },
-    {
-      "title": "Christian Schaffer",
-      "feedUrl": "https://youtube.com/feeds/videos.xml?channel_id=UCcEH1uSjWiKpYp4B2lShqlA",
-      "siteUrl": "https://www.youtube.com/channel/UCcEH1uSjWiKpYp4B2lShqlA",
-      "articles": []
-    },
-    {
-      "title": "Cleo Abram",
-      "feedUrl": "https://youtube.com/feeds/videos.xml?channel_id=UC415bOPUcGSamy543abLmRA",
-      "siteUrl": "https://www.youtube.com/channel/UC415bOPUcGSamy543abLmRA",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=xt0CpwkL5S4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=xt0CpwkL5S4",
-          "publishedOn": "2024-11-02T16:31:56.000Z",
-          "wordCount": null,
-          "title": "Why Online Voting Is So Tricky",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=e5y_bXTjb1g",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=e5y_bXTjb1g",
-          "publishedOn": "2024-10-31T15:19:22.000Z",
-          "wordCount": null,
-          "title": "Would You Drink THIS To Go To Space?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=LrHaXyv8eO0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=LrHaXyv8eO0",
-          "publishedOn": "2024-10-28T13:03:54.000Z",
-          "wordCount": null,
-          "title": "Why Can't I Vote Online?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=UtTqJ9at3Xo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=UtTqJ9at3Xo",
-          "publishedOn": "2024-10-25T14:28:05.000Z",
-          "wordCount": null,
-          "title": "How Do They Build Underwater Tunnels?",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
-      "title": "ColdFusion",
-      "feedUrl": "https://youtube.com/feeds/videos.xml?channel_id=UC4QZ_LsYcvcq7qOsOhpAX4A",
-      "siteUrl": "https://www.youtube.com/channel/UC4QZ_LsYcvcq7qOsOhpAX4A",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=n8JQBxPO9Ts",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=n8JQBxPO9Ts",
-          "publishedOn": "2024-11-02T15:59:09.000Z",
-          "wordCount": null,
-          "title": "Why Zuckerburg’s Rebrand Shouldn’t Distract Us",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=7sHHVJz9hRQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=7sHHVJz9hRQ",
-          "publishedOn": "2024-10-31T15:50:43.000Z",
-          "wordCount": null,
-          "title": "How SpaceX's Recent Launch Could Revolutionize Space Travel",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
-      "title": "DailyTekk",
-      "feedUrl": "https://youtube.com/feeds/videos.xml?channel_id=UC-tZk0bsaiq9KANWZ2BPO8w",
-      "siteUrl": "https://www.youtube.com/channel/UC-tZk0bsaiq9KANWZ2BPO8w",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=bUv9dsR9uq0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=bUv9dsR9uq0",
-          "publishedOn": "2024-10-31T20:00:16.000Z",
-          "wordCount": null,
-          "title": "M4 MacBook Pro: Worth It?!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=wkFb2pImE9c",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=wkFb2pImE9c",
-          "publishedOn": "2024-10-30T20:46:24.000Z",
-          "wordCount": null,
-          "title": "My FAVORITE Desk Setup EVER! (5 Apple Screens!)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=W3LFyx6cA6w",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=W3LFyx6cA6w",
-          "publishedOn": "2024-10-29T20:47:37.000Z",
-          "wordCount": null,
-          "title": "Apple Intelligence: The Good and the Bad",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
-      "title": "Elena Taber",
-      "feedUrl": "https://youtube.com/feeds/videos.xml?channel_id=UCDBroOWVP4aN8SYM0br6sJQ",
-      "siteUrl": "https://www.youtube.com/channel/UCDBroOWVP4aN8SYM0br6sJQ",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=zgF2945bl8I",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=zgF2945bl8I",
-          "publishedOn": "2024-10-31T19:45:02.000Z",
-          "wordCount": null,
-          "title": "what's it like being an american in paris | a week in my life in paris",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=hI0zwp6otwA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=hI0zwp6otwA",
-          "publishedOn": "2024-10-25T17:15:07.000Z",
-          "wordCount": null,
-          "title": "I spent 9 days climbing Mount Kilimanjaro...the hardest thing I've ever done",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
-      "title": "emma chamberlain",
-      "feedUrl": "https://youtube.com/feeds/videos.xml?channel_id=UC78cxCAcp7JfQPgKxYdyGrg",
-      "siteUrl": "https://www.youtube.com/channel/UC78cxCAcp7JfQPgKxYdyGrg",
-      "articles": []
-    },
-    {
-      "title": "Eric Wang",
-      "feedUrl": "https://youtube.com/feeds/videos.xml?channel_id=UCndv1-tgcYaxulGlPzbgbcQ",
-      "siteUrl": "https://www.youtube.com/channel/UCndv1-tgcYaxulGlPzbgbcQ",
-      "articles": []
-    },
-    {
-      "title": "Georgene Loh",
-      "feedUrl": "https://youtube.com/feeds/videos.xml?channel_id=UC9Uej_tQ-kXssFR4eSjeXCg",
-      "siteUrl": "https://www.youtube.com/channel/UC9Uej_tQ-kXssFR4eSjeXCg",
-      "articles": []
-    },
-    {
-      "title": "Gigguk",
-      "feedUrl": "https://youtube.com/feeds/videos.xml?channel_id=UC7dF9qfBMXrSlaaFFDvV_Yg",
-      "siteUrl": "https://www.youtube.com/channel/UC7dF9qfBMXrSlaaFFDvV_Yg",
-      "articles": []
-    },
-    {
-      "title": "Glass Reflection",
-      "feedUrl": "https://youtube.com/feeds/videos.xml?channel_id=UCmEbe0XH51CI09gm_9Fcn8Q",
-      "siteUrl": "https://www.youtube.com/channel/UCmEbe0XH51CI09gm_9Fcn8Q",
-      "articles": []
-    },
-    {
-      "title": "Hak5",
-      "feedUrl": "https://youtube.com/feeds/videos.xml?channel_id=UC3s0BtrBJpwNDaflRSoiieQ",
-      "siteUrl": "https://www.youtube.com/channel/UC3s0BtrBJpwNDaflRSoiieQ",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=hGEi08D_hjg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=hGEi08D_hjg",
-          "publishedOn": "2024-10-30T17:22:06.000Z",
-          "wordCount": null,
-          "title": "Maintainers Removed From Linux - ThreatWire",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
-      "title": "Hayls World",
-      "feedUrl": "https://youtube.com/feeds/videos.xml?channel_id=UCIxLxlan8q9WA7sjuq6LdTQ",
-      "siteUrl": "https://www.youtube.com/channel/UCIxLxlan8q9WA7sjuq6LdTQ",
-      "articles": []
-    },
-    {
-      "title": "Isabel Paige",
-      "feedUrl": "https://youtube.com/feeds/videos.xml?channel_id=UCdCottK2mn8T7VOHleKCYCg",
-      "siteUrl": "https://www.youtube.com/channel/UCdCottK2mn8T7VOHleKCYCg",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=onpFNNzk9jQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=onpFNNzk9jQ",
-          "publishedOn": "2024-10-27T14:42:11.000Z",
-          "wordCount": null,
-          "title": "Preparing For A Cold Dark Winter...",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
-      "title": "Jenn Cho",
-      "feedUrl": "https://youtube.com/feeds/videos.xml?channel_id=UC56HZ6upLIrsKr8VoHT2HLQ",
-      "siteUrl": "https://www.youtube.com/channel/UC56HZ6upLIrsKr8VoHT2HLQ",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=ZS4P_Zb2EVY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ZS4P_Zb2EVY",
-          "publishedOn": "2024-10-28T16:30:09.000Z",
-          "wordCount": null,
-          "title": "What $3350 per month gets you in Seattle area | my non-luxury 830 sqft apartment tour",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
-      "title": "Living Big In A Tiny House",
-      "feedUrl": "https://youtube.com/feeds/videos.xml?channel_id=UCoNTMWgGuXtGPLv9UeJZwBw",
-      "siteUrl": "https://www.youtube.com/channel/UCoNTMWgGuXtGPLv9UeJZwBw",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=jx5-erHYiyo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=jx5-erHYiyo",
-          "publishedOn": "2024-11-01T19:00:03.000Z",
-          "wordCount": null,
-          "title": "Pure Simple Luxury In This Dream Tiny Home With Conservatory!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=YuJggNmkbL8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=YuJggNmkbL8",
-          "publishedOn": "2024-10-30T21:56:13.000Z",
-          "wordCount": null,
-          "title": "Epic Family Tiny House Design w/ Cozy Cabin Extension! 🤩 #tinyhouse #tour",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=TVgD7mGYvtI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=TVgD7mGYvtI",
-          "publishedOn": "2024-10-25T19:00:20.000Z",
-          "wordCount": null,
-          "title": "One Of The BEST Family Tiny Homes We Have Ever Seen!",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
-      "title": "Makari Espe",
-      "feedUrl": "https://youtube.com/feeds/videos.xml?channel_id=UCnEZmnSrGrALq2ji4RrJK3A",
-      "siteUrl": "https://www.youtube.com/channel/UCnEZmnSrGrALq2ji4RrJK3A",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=KD3SAYhCRcs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=KD3SAYhCRcs",
-          "publishedOn": "2024-11-02T15:00:29.000Z",
-          "wordCount": null,
-          "title": "Canadian learns how to ride a bike… #cycling #clipless",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=X2pqCsvW_gU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=X2pqCsvW_gU",
-          "publishedOn": "2024-11-01T21:51:23.000Z",
-          "wordCount": null,
-          "title": "Watch party with mom and dad 😆 watch the full video below!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=yr3CS01dzjU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=yr3CS01dzjU",
-          "publishedOn": "2024-10-31T15:01:15.000Z",
-          "wordCount": null,
-          "title": "our no phone roadtrip.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=HzWzlmRrlOU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=HzWzlmRrlOU",
-          "publishedOn": "2024-10-30T20:54:11.000Z",
-          "wordCount": null,
-          "title": "is bikepacking fun? #bikepackingtrip #cycling",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=NVjdRfWVfs0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=NVjdRfWVfs0",
-          "publishedOn": "2024-10-24T15:00:33.000Z",
-          "wordCount": null,
-          "title": "I Survived My First Solo Bikepacking Trip",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
-      "title": "Marcus O'Brien",
-      "feedUrl": "https://youtube.com/feeds/videos.xml?channel_id=UCt0Zqulbc1MR2r2_GpKObrQ",
-      "siteUrl": "https://www.youtube.com/channel/UCt0Zqulbc1MR2r2_GpKObrQ",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=s3bca3OTUvo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=s3bca3OTUvo",
-          "publishedOn": "2024-10-26T13:01:07.000Z",
-          "wordCount": null,
-          "title": "Build Your Own $500 GMT Watch",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
-      "title": "Marques Brownlee",
-      "feedUrl": "https://youtube.com/feeds/videos.xml?channel_id=UCBJycsmduvYEL83R_U4JriQ",
-      "siteUrl": "https://www.youtube.com/channel/UCBJycsmduvYEL83R_U4JriQ",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=DyEgh-kkkAA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=DyEgh-kkkAA",
-          "publishedOn": "2024-11-02T16:23:00.000Z",
-          "wordCount": null,
-          "title": "I Reuploaded This Short 1000 Times!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=G0eKzU_fV00",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=G0eKzU_fV00",
-          "publishedOn": "2024-11-01T19:30:02.000Z",
-          "wordCount": null,
-          "title": "I Tried Real Augmented Reality Glasses!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Smz-gtyI8gg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Smz-gtyI8gg",
-          "publishedOn": "2024-10-26T00:02:50.000Z",
-          "wordCount": null,
-          "title": "Taking 1000 Steps with Every Type of Wearable!",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
-      "title": "Mental Outlaw",
-      "feedUrl": "https://youtube.com/feeds/videos.xml?channel_id=UC7YOGHUfC1Tb6E4pudI9STA",
-      "siteUrl": "https://www.youtube.com/channel/UC7YOGHUfC1Tb6E4pudI9STA",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=68R3kwpuLR4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=68R3kwpuLR4",
-          "publishedOn": "2024-11-01T19:08:46.000Z",
-          "wordCount": null,
-          "title": "The Google Monopoly is Crumbling",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=-aeFekbm3Nc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=-aeFekbm3Nc",
-          "publishedOn": "2024-10-29T18:32:25.000Z",
-          "wordCount": null,
-          "title": "Linux Removes Russian Maintainers",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=snZ9w5xc_ic",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=snZ9w5xc_ic",
-          "publishedOn": "2024-10-25T22:44:25.000Z",
-          "wordCount": null,
-          "title": "Microsoft Makes Windows Worse With AI",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
-      "title": "Mother's Basement",
-      "feedUrl": "https://youtube.com/feeds/videos.xml?channel_id=UCBs2Y3i14e1NWQxOGliatmg",
-      "siteUrl": "https://www.youtube.com/channel/UCBs2Y3i14e1NWQxOGliatmg",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=G87_qebNMOc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=G87_qebNMOc",
-          "publishedOn": "2024-10-28T15:42:08.000Z",
-          "wordCount": null,
-          "title": "Uzumaki: Downward Spiral of the Year",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
-      "title": "NEVER TOO SMALL",
-      "feedUrl": "https://youtube.com/feeds/videos.xml?channel_id=UC_zQ777U6YTyatP3P1wi3xw",
-      "siteUrl": "https://www.youtube.com/channel/UC_zQ777U6YTyatP3P1wi3xw",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=rcVWt3QrAWs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=rcVWt3QrAWs",
-          "publishedOn": "2024-11-01T10:00:52.000Z",
-          "wordCount": null,
-          "title": "Bondi Beach Luxurious Small Home ☀️🌊 #nevertoosmall #shorts",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=S5VMw4X6ngE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=S5VMw4X6ngE",
-          "publishedOn": "2024-10-31T05:00:27.000Z",
-          "wordCount": null,
-          "title": "NEVER TOO SMALL: Bondi Beach Functional & Luxurious Apartment, Sydney 50sqm/538sqft",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=gTvlbBCVRsM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=gTvlbBCVRsM",
-          "publishedOn": "2024-10-25T10:00:46.000Z",
-          "wordCount": null,
-          "title": "DIY Apartment Renovation With A 20K Budget! 🛠️ #nevertoosmall #shorts",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
-      "title": "prestongoes",
-      "feedUrl": "https://youtube.com/feeds/videos.xml?channel_id=UCI3yTtc0kShZ-S_Qsd5VTSQ",
-      "siteUrl": "https://www.youtube.com/channel/UCI3yTtc0kShZ-S_Qsd5VTSQ",
-      "articles": []
-    },
-    {
-      "title": "Romina Espinosa",
-      "feedUrl": "https://youtube.com/feeds/videos.xml?channel_id=UCk01c4Lhpc-nyzkckS-gTIA",
-      "siteUrl": "https://www.youtube.com/channel/UCk01c4Lhpc-nyzkckS-gTIA",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=0lVDG8hpyp4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=0lVDG8hpyp4",
-          "publishedOn": "2024-10-29T16:30:00.000Z",
-          "wordCount": null,
-          "title": "unplug and don’t feel bad about it | digital detox",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
-      "title": "Stacked Homes",
-      "feedUrl": "https://youtube.com/feeds/videos.xml?channel_id=UCiVWjDbSQMGFddqRwToBRbg",
-      "siteUrl": "https://www.youtube.com/channel/UCiVWjDbSQMGFddqRwToBRbg",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=hVY0hXoOits",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=hVY0hXoOits",
-          "publishedOn": "2024-10-31T12:00:53.000Z",
-          "wordCount": null,
-          "title": "Inside A Modern 113 Sqm 5-Room Home Designed For Family Planning | Singapore",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=D3erClX8S2c",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=D3erClX8S2c",
-          "publishedOn": "2024-10-27T09:00:17.000Z",
-          "wordCount": null,
-          "title": "Designing A Functional Sanctuary Home For His Semi-Retired Parents | Singapore",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
-      "title": "Sun Knudsen",
-      "feedUrl": "https://youtube.com/feeds/videos.xml?channel_id=UCkHN7h7CFeYL6Y1N5JcEZug",
-      "siteUrl": "https://www.youtube.com/channel/UCkHN7h7CFeYL6Y1N5JcEZug",
-      "articles": []
-    },
-    {
-      "title": "TechLinked",
-      "feedUrl": "https://youtube.com/feeds/videos.xml?channel_id=UCeeFfhMcJa1kjtfZAGskOCA",
-      "siteUrl": "https://www.youtube.com/channel/UCeeFfhMcJa1kjtfZAGskOCA",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=SXgDDwkmZqU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=SXgDDwkmZqU",
-          "publishedOn": "2024-11-02T04:11:39.000Z",
-          "wordCount": null,
-          "title": "I’m Never Leaving Windows 10",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=h0wWddmkCRc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=h0wWddmkCRc",
-          "publishedOn": "2024-10-31T02:50:39.000Z",
-          "wordCount": null,
-          "title": "Apple, Stop Putting Things On the Bottom Please",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Uejpeop4LH4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Uejpeop4LH4",
-          "publishedOn": "2024-10-29T02:18:40.000Z",
-          "wordCount": null,
-          "title": "Here They Come…",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=_HOD9QJOCEk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=_HOD9QJOCEk",
-          "publishedOn": "2024-10-26T04:21:45.000Z",
-          "wordCount": null,
-          "title": "Intel’s Ultra-Bad Launch",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
-      "title": "The Modern House",
-      "feedUrl": "https://youtube.com/feeds/videos.xml?channel_id=UCNZ1H42l5IzQFvIIJZYC08w",
-      "siteUrl": "https://www.youtube.com/channel/UCNZ1H42l5IzQFvIIJZYC08w",
-      "articles": []
-    },
-    {
-      "title": "Tofu's Taste",
-      "feedUrl": "https://youtube.com/feeds/videos.xml?channel_id=UCdrpY4M9Auo0csXo6XJTo3w",
-      "siteUrl": "https://www.youtube.com/channel/UCdrpY4M9Auo0csXo6XJTo3w",
-      "articles": []
-    },
-    {
-      "title": "toka",
-      "feedUrl": "https://youtube.com/feeds/videos.xml?channel_id=UC4hSJgj8TMuOBmsgHRmE-VA",
-      "siteUrl": "https://www.youtube.com/channel/UC4hSJgj8TMuOBmsgHRmE-VA",
-      "articles": []
-    },
-    {
-      "title": "TopAnimeWeekly",
-      "feedUrl": "https://youtube.com/feeds/videos.xml?channel_id=UCedG6psZXqBIaguc41k-GVQ",
-      "siteUrl": "https://www.youtube.com/channel/UCedG6psZXqBIaguc41k-GVQ",
-      "articles": []
-    },
-    {
-      "title": "Xíu House",
-      "feedUrl": "https://youtube.com/feeds/videos.xml?channel_id=UCZCe6AEqZhDPnzaJoj85BuA",
-      "siteUrl": "https://www.youtube.com/channel/UCZCe6AEqZhDPnzaJoj85BuA",
-      "articles": []
     },
     {
       "title": "ヒゲとわたし",
