@@ -44,10 +44,6 @@
                         {{#if imageUrl}}
                           <img src="{{imageUrl}}" loading="lazy" class="media-object__media article-image" />
                         {{/if}}
-                        <span class="media-object__text">
-                          <li class="video-item-layout video-list-layout__item js-horizontal-scroll__item">
-                          <lite-youtube watchUrl="{{link}}"></lite-youtube>
-                          <a class="video-title" href={{link}}>{{title}}</a>
                           <span>{{description}}</span>
                           {{#if readingTimeInMin}}
                             &ensp;<span class="article-reading-time">(&hairsp;{{readingTimeInMin}} min&hairsp;)</span>
