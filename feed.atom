@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tinykings.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-03T23:40:33.624Z</updated>
+    <updated>2024-11-04T00:48:14.101Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://tinykings.github.io/rss/index.html"/>
     <link rel="self" href="https://tinykings.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Perplexity debuts an AI-powered election information hub]]></title>
+        <id>https://www.theverge.com/2024/11/3/24287157/perplexity-ai-election-voting-information-tracking-hub-us-presidential-election-2024-trump-harris</id>
+        <link href="https://www.theverge.com/2024/11/3/24287157/perplexity-ai-election-voting-information-tracking-hub-us-presidential-election-2024-trump-harris"/>
+        <updated>2024-11-04T00:36:12.000Z</updated>
+        <summary type="html"><![CDATA[The Verge
+    
+
+  
+AI search company Perplexity is putting to the test whether it’s a good idea to use AI to serve crucial voting information with a new Election Information Hub it announced on Friday. The hub offers things like AI-generated answers to voting questions and summaries of candidates, and on November 5th, Election Day, the company says it will track vote counts live, using data from The Associated Press. 
+Perplexity says its voter information, which includes polling requirements, locations, and times, is based on data from Democracy Works. (The same group powers similar features from Google). And that its election-related answers come from “a curated set of the most trustworthy and informative sources.” 
+Perplexity spokesperson Sara Plotnick confirmed in an email to The Verge …]]></summary>
+        <author>
+            <name>The Verge -  Front Pages</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Donald Trump’s Latest Violent Fantasy]]></title>
         <id>https://www.theatlantic.com/politics/archive/2024/11/trump-fantasizes-about-reporters-being-shot/680514/?utm_source=feed</id>
@@ -282,6 +298,44 @@ My favorite feature of the Spectre is the sound it makes. As an EV, it doesn’t
         <summary type="html"><![CDATA[What a growing pro-Trump Christian movement tells viewers of its premier news show.]]></summary>
         <author>
             <name>The Atlantic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shangri-La Frontier Season 2 - Episode 4 discussion]]></title>
+        <id>https://www.reddit.com/r/anime/comments/1giien2/shangrila_frontier_season_2_episode_4_discussion/</id>
+        <link href="https://www.reddit.com/r/anime/comments/1giien2/shangrila_frontier_season_2_episode_4_discussion/"/>
+        <updated>2024-11-03T08:32:21.000Z</updated>
+        <summary type="html"><![CDATA[Shangri-La Frontier Season 2, episode 4
+ Reminder: Please do not discuss plot points not yet seen or skipped in the show. Failing to follow the rules may result in a ban.
+  
+Streams
+  
+Crunchyroll
+  
+Show information
+  
+MyAnimeList
+ AniList
+ AniDB
+ Anime-Planet
+ Official Website
+ /r/ShangriLaFrontier
+  
+ All discussions
+  
+ Episode Link 
+  
+ 1 Link 
+  2 Link 
+  3 Link 
+  4 Link 
+ 
+  
+This post was created by a bot. Message the mod team for feedback and comments. The original source code can be found on GitHub.
+    submitted by    /u/AutoLovepon  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : anime</name>
         </author>
     </entry>
     <entry>
@@ -1842,6 +1896,17 @@ Microsoft is once again delaying the roll out of its controversial Recall featur
         <summary type="html"><![CDATA[They don’t want to talk about how President Biden’s policies have created an EV-manufacturing boom.]]></summary>
         <author>
             <name>The Atlantic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['A lot of demoralized people': Ghost jobs wreaking havoc on tech workers]]></title>
+        <id>https://www.reddit.com/r/technology/comments/1ggjo54/a_lot_of_demoralized_people_ghost_jobs_wreaking/</id>
+        <link href="https://www.reddit.com/r/technology/comments/1ggjo54/a_lot_of_demoralized_people_ghost_jobs_wreaking/"/>
+        <updated>2024-10-31T17:12:35.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/abrownn  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : technology</name>
         </author>
     </entry>
     <entry>

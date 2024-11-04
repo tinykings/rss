@@ -12,6 +12,16 @@
       "siteUrl": "https://www.theverge.com/",
       "articles": [
         {
+          "id": "https://www.theverge.com/2024/11/3/24287157/perplexity-ai-election-voting-information-tracking-hub-us-presidential-election-2024-trump-harris",
+          "author": null,
+          "description": "The Verge\n    \n\n  \nAI search company Perplexity is putting to the test whether it’s a good idea to use AI to serve crucial voting information with a new Election Information Hub it announced on Friday. The hub offers things like AI-generated answers to voting questions and summaries of candidates, and on November 5th, Election Day, the company says it will track vote counts live, using data from The Associated Press. \nPerplexity says its voter information, which includes polling requirements, locations, and times, is based on data from Democracy Works. (The same group powers similar features from Google). And that its election-related answers come from “a curated set of the most trustworthy and informative sources.” \nPerplexity spokesperson Sara Plotnick confirmed in an email to The Verge …",
+          "link": "https://www.theverge.com/2024/11/3/24287157/perplexity-ai-election-voting-information-tracking-hub-us-presidential-election-2024-trump-harris",
+          "publishedOn": "2024-11-04T00:36:12.000Z",
+          "wordCount": 4226,
+          "title": "Perplexity debuts an AI-powered election information hub",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/bS3xG7M2DJO0pJ98E_PHQY8X6aw=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25472503/STK271_PERPLEXITY_C.jpg"
+        },
+        {
           "id": "https://www.theverge.com/2024/11/3/24286842/nintendo-alarmo-doom-hack-usb-custom-firmware-instructions",
           "author": null,
           "description": "This, but blasting demons. | Photo by Chris Welch / The Verge\n    \n\n  \nWhat do John Deere tractors, Ikea smart bulbs, Lego bricks, and the MacBook Pro Touch Bar have in common? They can all run Doom, and naturally, so can Nintendo’s adorable Alarmo alarm clock. It was only a matter of time before someone pulled that off, but what I didn’t expect was that when it happened, it would be playable.\nThat’s exactly what hacker GaryOberNicht, who recently figured out how to run custom firmware on the Alarmo, did in a video posted to Mastodon and their X account yesterday. In it, they play by turning or pressing the mushroom-shaped blob on top of the Alarmo to move and pressing the other buttons to shoot or open doors. Here, have a look:\n\n\nGary said it’s “possible to load the shareware version of Doom entirely from USB, without modifying the Alarmo.” And they’ve put the software and instructions for running it on Github, so almost any sufficiently knowledgeable and determined Alarmo owner can do it, too. Best of all, it can be done without opening the clock up at all.\nHow did they pull this off? Gary explains in a blog post that after another person called Spinda hacked the Alarmo (with a Flipper Zero) and dumped the firmware from memory, Gary worked out a method that uses a USB mode and the USB-C port to point the Alarmo to custom external firmware, instead. \n\n\nGiven how easy it appears to be reproduce what Gary has done, Alarmo software modding almost certainly won’t just stop at Doom. Of course, how far any online community efforts to turn the Alarmo into a bizarro game console will get probably depends on how Nintendo, which has been particularly active with its copyright disputes lately, feels about it.",
@@ -2991,6 +3001,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.reddit.com/r/anime/comments/1giien2/shangrila_frontier_season_2_episode_4_discussion/",
+          "author": null,
+          "description": "Shangri-La Frontier Season 2, episode 4\n Reminder: Please do not discuss plot points not yet seen or skipped in the show. Failing to follow the rules may result in a ban.\n  \nStreams\n  \nCrunchyroll\n  \nShow information\n  \nMyAnimeList\n AniList\n AniDB\n Anime-Planet\n Official Website\n /r/ShangriLaFrontier\n  \n All discussions\n  \n Episode Link \n  \n 1 Link \n  2 Link \n  3 Link \n  4 Link \n \n  \nThis post was created by a bot. Message the mod team for feedback and comments. The original source code can be found on GitHub.\n    submitted by    /u/AutoLovepon  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/anime/comments/1giien2/shangrila_frontier_season_2_episode_4_discussion/",
+          "publishedOn": "2024-11-03T08:32:21.000Z",
+          "wordCount": null,
+          "title": "Shangri-La Frontier Season 2 - Episode 4 discussion",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.reddit.com/r/anime/comments/1giasby/ken_takai_mean_okarun_dandadan/",
           "author": null,
           "description": "submitted by    /u/Noirnib  \n [link]   [comments]",
@@ -3812,6 +3832,16 @@
           "publishedOn": "2024-10-31T18:37:17.000Z",
           "wordCount": null,
           "title": "Zuckerberg: The AI Slop Will Continue Until Morale Improves",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/technology/comments/1ggjo54/a_lot_of_demoralized_people_ghost_jobs_wreaking/",
+          "author": null,
+          "description": "submitted by    /u/abrownn  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/technology/comments/1ggjo54/a_lot_of_demoralized_people_ghost_jobs_wreaking/",
+          "publishedOn": "2024-10-31T17:12:35.000Z",
+          "wordCount": null,
+          "title": "'A lot of demoralized people': Ghost jobs wreaking havoc on tech workers",
           "imageUrl": null
         },
         {
