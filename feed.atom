@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tinykings.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-04T00:48:14.101Z</updated>
+    <updated>2024-11-04T02:28:40.241Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://tinykings.github.io/rss/index.html"/>
     <link rel="self" href="https://tinykings.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Here are the best Apple Watch deals right now]]></title>
+        <id>https://www.theverge.com/21289209/best-apple-watch-deals</id>
+        <link href="https://www.theverge.com/21289209/best-apple-watch-deals"/>
+        <updated>2024-11-04T01:25:19.000Z</updated>
+        <summary type="html"><![CDATA[The Apple Watch Series 10 isn’t a dramatic update over the prior model, but it does offer a few notable upgrades. | Photo by Amelia Holowaty Krales / The Verge
+    
+
+  
+In September, Apple launched its latest smartwatch, introducing the Apple Watch Series 10 alongside a black rendition of the Apple Watch Ultra 2. Each wearable has its own pros and cons, as does the second-gen Apple Watch SE, but the recent introduction of the new wearables also means there are now more Apple Watch models on the market than ever before — and a lot more deals to be had.
+
+
+
+But with all of those options, which one should you pick? Generally speaking, you want to buy the newest watch you can afford so that it continues to receive software updates from Apple. The latest update, watchOS 11, launched in September…]]></summary>
+        <author>
+            <name>The Verge -  Front Pages</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Perplexity debuts an AI-powered election information hub]]></title>
         <id>https://www.theverge.com/2024/11/3/24287157/perplexity-ai-election-voting-information-tracking-hub-us-presidential-election-2024-trump-harris</id>
@@ -40,6 +58,17 @@ Perplexity spokesperson Sara Plotnick confirmed in an email to The Verge …]]><
         <summary type="html"><![CDATA[A relatively new ransomware operation named Interlock attacks organizations worldwide, taking the unusual approach of creating an encryptor to target FreeBSD servers. [...]]]></summary>
         <author>
             <name>Lawrence Abrams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Touchscreens are out, and tactile controls are back]]></title>
+        <id>https://www.reddit.com/r/technology/comments/1giwmlj/touchscreens_are_out_and_tactile_controls_are_back/</id>
+        <link href="https://www.reddit.com/r/technology/comments/1giwmlj/touchscreens_are_out_and_tactile_controls_are_back/"/>
+        <updated>2024-11-03T20:38:37.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/hl3official  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : technology</name>
         </author>
     </entry>
     <entry>
@@ -5014,27 +5043,6 @@ This post was created by a bot. Message the mod team for feedback and comments. 
         <summary type="html"><![CDATA[Twister was one of the first DVDs ever released. Now it's stuck in still-functioning Redbox machines.]]></summary>
         <author>
             <name>Jason Koebler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 10 Anime of the Week #4 - Fall 2024 (Anime Corner)]]></title>
-        <id>https://www.reddit.com/r/anime/comments/1gbul3v/top_10_anime_of_the_week_4_fall_2024_anime_corner/</id>
-        <link href="https://www.reddit.com/r/anime/comments/1gbul3v/top_10_anime_of_the_week_4_fall_2024_anime_corner/"/>
-        <updated>2024-10-25T13:43:51.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/Kezja  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : anime</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Console-to-Code: Convert UI actions into Infrastructure-as-Code (IaC)]]></title>
-        <id>https://4sysops.com/?p=1588068</id>
-        <link href="https://4sysops.com/archives/aws-console-to-code-convert-ui-actions-into-infrastructure-as-code-iac/"/>
-        <updated>2024-10-25T13:14:38.000Z</updated>
-        <summary type="html"><![CDATA[AWS has recently launched the general availability of Console-to-Code. This feature allows you to convert actions performed in the AWS console into reusable Infrastructure-as-Code (IaC), such as AWS CLI commands or CloudFormation templates. In this article, I will demonstrate AWS Console-to-Code with a straightforward example to generate CloudFormation code.]]></summary>
-        <author>
-            <name>Amr Essam</name>
         </author>
     </entry>
 </feed>
