@@ -2,10 +2,524 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tinykings.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-15T00:49:24.450Z</updated>
+    <updated>2024-11-16T00:48:05.463Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://tinykings.github.io/rss/index.html"/>
     <link rel="self" href="https://tinykings.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[18 states want the SEC to stop enforcing crypto regulation]]></title>
+        <id>https://www.theverge.com/2024/11/15/24297696/crypto-states-jurisdiction-sec-assets</id>
+        <link href="https://www.theverge.com/2024/11/15/24297696/crypto-states-jurisdiction-sec-assets"/>
+        <updated>2024-11-15T23:41:54.000Z</updated>
+        <summary type="html"><![CDATA[In which various government bodies fight over “permissionless” assets | Illustration by Alex Castro / The Verge
+    
+
+  
+The US Securities and Exchange Commission wants to  “unilaterally wrest regulatory authority away from the States” when it comes to crypto, according to a lawsuit from 18 states.  These states want to halt the SEC’s enforcement actions, so they can manage crypto regulation instead. Also named as a plaintiff on the suit is the DeFi Education Fund, a special interest lobbyist.
+Controversial SEC chair Gary Gensler is named in the suit, along with other SEC commissioners. Gensler’s treatment of crypto during his time as chair has made him a punching bag for the industry — and for Republicans such as president-elect Donald Trump.
+There has been an ongoing turf war over crypto…]]></summary>
+        <author>
+            <name>The Verge -  Front Pages</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The RFK Jr. Effect]]></title>
+        <id>https://www.theatlantic.com/newsletters/archive/2024/11/the-rfk-jr-effect/680683/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/newsletters/archive/2024/11/the-rfk-jr-effect/680683/?utm_source=feed"/>
+        <updated>2024-11-15T23:14:00.000Z</updated>
+        <summary type="html"><![CDATA[His views could damage Americans’ trust in public health—whether he is confirmed or not.]]></summary>
+        <author>
+            <name>The Atlantic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WhatsApp now lets you save message drafts]]></title>
+        <id>https://www.theverge.com/2024/11/15/24297690/whatsapp-message-drafts-feature</id>
+        <link href="https://www.theverge.com/2024/11/15/24297690/whatsapp-message-drafts-feature"/>
+        <updated>2024-11-15T23:11:19.000Z</updated>
+        <summary type="html"><![CDATA[Illustration: The Verge
+    
+
+  
+WhatsApp dropped the most “I can’t believe this wasn’t already there” feature this week: message drafts. Now, WhatsApp lets you know if you have unsent messages typed up in chats so you know to get back to them later.
+To let you know about a draft, messages you’ve started writing will show a green and bold “Draft” word followed by what you’ve typed up. That way, you can ponder about finishing it when you open the app and not accidentally ignore your friends (though you still purposefully could, I guess.)
+
+
+
+
+Drafts also end up at the top of the chats list, so you don’t have to scroll to search for lost ones. The feature is now available in the app worldwide, Engadget reports.
+WhatsApp announced in July that it had hit 100 million monthly active users, and it recently gained some useful new features, including its own built-in address book and custom lists to organize your chats.]]></summary>
+        <author>
+            <name>The Verge -  Front Pages</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Bluesky Bubble]]></title>
+        <id>https://www.theatlantic.com/technology/archive/2024/11/bluesky-bubble-twitter-replacement/680679/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/technology/archive/2024/11/bluesky-bubble-twitter-replacement/680679/?utm_source=feed"/>
+        <updated>2024-11-15T22:57:22.000Z</updated>
+        <summary type="html"><![CDATA[This is a relapse, not a fix.]]></summary>
+        <author>
+            <name>The Atlantic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Half-Life 2 is getting a huge 20th anniversary update]]></title>
+        <id>https://www.theverge.com/2024/11/15/24297691/half-life-2-20th-anniversary-update-documentary</id>
+        <link href="https://www.theverge.com/2024/11/15/24297691/half-life-2-20th-anniversary-update-documentary"/>
+        <updated>2024-11-15T22:33:55.000Z</updated>
+        <summary type="html"><![CDATA[Image: Valve
+    
+
+  
+Half-Life 2 is getting a major update in celebration of the classic title’s 20th anniversary. In addition to Steam Workshop support directly within the game, Valve has fixed bugs and restored some content, added new graphics settings, updated gamepad controls, and a whole lot more. You’ll also be able to get the game for free on Steam through November 18th at 1PM ET. After that, it will cost $9.99.
+Valve is also now including the Episode One and Episode Two expansions with the base game. They’ll be accessible from the Half-Life 2 menu, and Valve says that “you will automatically advance to the next expansion after completing each one.” You’ll also be able to access the Steam Workshop within the Extras menu, which means you’ll no longer have to leave the game to enable…]]></summary>
+        <author>
+            <name>The Verge -  Front Pages</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NSO Group used another WhatsApp zero-day after being sued, court docs say]]></title>
+        <id>https://www.bleepingcomputer.com/news/security/nso-group-used-another-whatsapp-zero-day-after-being-sued-court-docs-say/</id>
+        <link href="https://www.bleepingcomputer.com/news/security/nso-group-used-another-whatsapp-zero-day-after-being-sued-court-docs-say/"/>
+        <updated>2024-11-15T22:04:18.000Z</updated>
+        <summary type="html"><![CDATA[Israeli surveillance firm NSO Group reportedly used multiple zero-day exploits, including an unknown one named "Erised," that leveraged WhatsApp vulnerabilities to deploy Pegasus spyware in zero-click attacks, even after getting sued. [...]]]></summary>
+        <author>
+            <name>Sergiu Gatlan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alex Jones Just Went Somewhere Else]]></title>
+        <id>https://www.theatlantic.com/technology/archive/2024/11/alex-jones-infowars-onion/680682/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/technology/archive/2024/11/alex-jones-infowars-onion/680682/?utm_source=feed"/>
+        <updated>2024-11-15T21:55:00.000Z</updated>
+        <summary type="html"><![CDATA[The Infowars founder is already broadcasting his conspiracy theories on a new site.]]></summary>
+        <author>
+            <name>The Atlantic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ESPN is testing a generative AI avatar called ‘FACTS’]]></title>
+        <id>https://www.theverge.com/2024/11/15/24297606/espn-generative-ai-avatar-facts</id>
+        <link href="https://www.theverge.com/2024/11/15/24297606/espn-generative-ai-avatar-facts"/>
+        <updated>2024-11-15T21:51:39.000Z</updated>
+        <summary type="html"><![CDATA[Image: ESPN
+    
+
+  
+ESPN is testing an AI-generated avatar with the Saturday college football show SEC Nation. Dubbed FACTS, it’s going to be “...promoting education and fun around sports analytics” with information drawn from ESPN Analytics, which includes data like the Football Power Index (FPI), player and team statistics, and game schedules. We haven’t seen the avatar in action, but it sounds like a bot-ified version of stats encyclopedia Howie Schwab, who was ESPN’s first statistician and eventually the star of a mid-2000s game show, Stump the Schwab.
+
+
+ESPN has already brought generative AI to its website with AI-written game recaps. FACTS is still in development, and there’s no word on when it could make its first appearance on the network. 
+FACTS uses Nvidia’s ACE (Avatar Cloud Engine), an Azure OpenAI integration to power language processing, and ElevenLabs for its text-to-speech capabilities.
+In the announcement from its ESPN Edge Innovation Conference, the network claims FACTS is “absolutely not” made to replace journalists or other talent. “FACTS is designed to test innovations out in the market and create an outlet for ESPN Analytics’ data to be accessible to fans in an engaging and enjoyable segment,” the company writes.]]></summary>
+        <author>
+            <name>The Verge -  Front Pages</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI’s Fingerprints Were All Over the Election]]></title>
+        <id>https://www.theatlantic.com/technology/archive/2024/11/ai-election-propaganda/680677/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/technology/archive/2024/11/ai-election-propaganda/680677/?utm_source=feed"/>
+        <updated>2024-11-15T21:45:10.000Z</updated>
+        <summary type="html"><![CDATA[But deepfakes and disinformation weren’t the main issues.]]></summary>
+        <author>
+            <name>The Atlantic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google will let you make AI clip art for your documents]]></title>
+        <id>https://www.theverge.com/2024/11/15/24297524/google-docs-gemini-ai-image-generator-clip-art</id>
+        <link href="https://www.theverge.com/2024/11/15/24297524/google-docs-gemini-ai-image-generator-clip-art"/>
+        <updated>2024-11-15T20:57:47.000Z</updated>
+        <summary type="html"><![CDATA[Illustration: The Verge
+    
+
+  
+Google Workspace is rolling out a Gemini-powered AI image generator directly in Google Docs that lets you quickly whip up visuals for your writeups. Essentially, it's a clip art maker that follows in the footsteps of Microsoft’s AI-generated art feature in its Office products.
+Google’s image generator in Docs is available to paid Workspace accounts that include the Gemini Business, Enterprise, Education, Education Premium, or Google One AI Premium add-ons.
+Those with the new feature can find it under Insert > Image > Help me create an image, which results in a “Create an image” sidebar where you can type in a description of what you’d like to make. It also provides a drop-down to select an art style with options such as “Photography” or “Sketch.”
+GIF: Google
+      How to use “Create an image” in Google Docs.
+  
+You can choose square, horizontal, or vertical aspect ratios for the images to best fit into the layout of your flier, brochure, menu, or whatever you’re trying to make. You can also create full-bleed cover images that span the width of a pageless document.
+“Create an image” uses Google’s latest Imagen 3 generator that promises “better detail, richer lighting, and fewer distracting artifacts” from its previous models. Last year, Google Slides got a built-in presentation slide generator powered by Google’s Clippy-like Duet AI tools.
+
+
+The feature will roll out first to rapid release schedule domains beginning today and could take up to 15 days to appear. Meanwhile, domains on scheduled release will see a gradual rollout starting December 16th.]]></summary>
+        <author>
+            <name>The Verge -  Front Pages</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RFK Jr. Collects His Reward]]></title>
+        <id>https://www.theatlantic.com/politics/archive/2024/11/trump-health-human-services-nomination/680674/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/politics/archive/2024/11/trump-health-human-services-nomination/680674/?utm_source=feed"/>
+        <updated>2024-11-15T20:40:00.000Z</updated>
+        <summary type="html"><![CDATA[The conspiratorial and chaotic independent is poised to join the government that he claims is lying to you.]]></summary>
+        <author>
+            <name>The Atlantic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Disney has reportedly pulled a Moon Girl and Devil Dinosaur episode for telling a trans-inclusive story]]></title>
+        <id>https://www.theverge.com/2024/11/15/24297438/moon-girl-and-devil-dinosaur-the-gatekeeper</id>
+        <link href="https://www.theverge.com/2024/11/15/24297438/moon-girl-and-devil-dinosaur-the-gatekeeper"/>
+        <updated>2024-11-15T19:50:37.000Z</updated>
+        <summary type="html"><![CDATA[Disney
+    
+
+  
+Though the remainder of Moon Girl and Devil Dinosaur’s final season is set to hit the Disney Channel and Disney Plus some time next year, the studio is reportedly keeping one episode from airing because of its focus on a transgender character.
+Moon Girl and Devil Dinosaur has often touched on ideas about race, class, and issues like gentrification as it followed the adventures of genius 13-year-old Lunella Lafatette (Diamond White) and her pet dinosaur, Devil (Fred Tatasciore). But according to now-deleted social media posts from animators who worked on “The Gatekeeper” — an episode about Lunella and other members of her school’s volleyball team being terrorized by a transphobic adult — Disney has chosen to keep the episode from officially debuting because of its subject ma…]]></summary>
+        <author>
+            <name>The Verge -  Front Pages</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In case you needed another example of Google Search going down the drain, Search is now serving a malicious sponsored ad pretending to be Maps]]></title>
+        <id>https://www.reddit.com/r/sysadmin/comments/1gs4r7i/in_case_you_needed_another_example_of_google/</id>
+        <link href="https://www.reddit.com/r/sysadmin/comments/1gs4r7i/in_case_you_needed_another_example_of_google/"/>
+        <updated>2024-11-15T19:39:19.000Z</updated>
+        <summary type="html"><![CDATA[I ran into this with a client just now, and have recreated it across multiple machines and networks to be sure they were not compromised in a different way. In my testing so far, this also only appears to happen in Chrome. 
+ First open Chrome and disable any ad blockers. Then search "google maps" on Google. The first result will likely be a sponsored ad purporting to be for Google maps. Mousing over it will even show maps.google.com in the bottom left corner. However, clicking on this link will take you to a poor mock-up of maps hosted on sites.google.com. clicking anywhere on this mockup will then redirect to a scareware page.
+ That Google has no safeguards to protect against this for their own products in their own ad platform seems insane to me.
+ Edit: seems Google may have killed it finally, here are some screenshots though: https://imgur.com/a/HaqTBV2
+    submitted by    /u/Corrupt_Power  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : sysadmin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Botnet exploits GeoVision zero-day to install Mirai malware]]></title>
+        <id>https://www.bleepingcomputer.com/news/security/botnet-exploits-geovision-zero-day-to-install-mirai-malware/</id>
+        <link href="https://www.bleepingcomputer.com/news/security/botnet-exploits-geovision-zero-day-to-install-mirai-malware/"/>
+        <updated>2024-11-15T19:39:01.000Z</updated>
+        <summary type="html"><![CDATA[A malware botnet is exploiting a zero-day vulnerability in end-of-life GeoVision devices to compromise and recruit them for likely DDoS or cryptomining attacks. [...]]]></summary>
+        <author>
+            <name>Bill Toulas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple quietly gave the M4 MacBook Pro a quantum dot display]]></title>
+        <id>https://www.reddit.com/r/apple/comments/1gs4lfm/apple_quietly_gave_the_m4_macbook_pro_a_quantum/</id>
+        <link href="https://www.reddit.com/r/apple/comments/1gs4lfm/apple_quietly_gave_the_m4_macbook_pro_a_quantum/"/>
+        <updated>2024-11-15T19:32:08.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/favicondotico  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : apple</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Latest from Comfort Zone, Magic Rays of Light, and MacStories Unwind]]></title>
+        <id>https://www.macstories.net/?p=77259</id>
+        <link href="https://www.macstories.net/news/the-latest-from-comfort-zone-magic-rays-of-light-and-macstories-unwind-8/"/>
+        <updated>2024-11-15T19:14:39.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the latest episodes from MacStories’ family of podcasts: Comfort Zone Niléane has a fancy new way to block ads and annoyances, Chris has our first look at a bunch of Final Cut Pro updates, and then we all judge the best apps on the App Store with Orange icons. Sponsored this week by: Inoreader: […]]]></summary>
+        <author>
+            <name>John Voorhees</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The M4 MacBook Pro features a quantum dot display]]></title>
+        <id>https://www.theverge.com/2024/11/15/24297414/m4-macbook-pro-quantum-dot-display</id>
+        <link href="https://www.theverge.com/2024/11/15/24297414/m4-macbook-pro-quantum-dot-display"/>
+        <updated>2024-11-15T18:52:43.000Z</updated>
+        <summary type="html"><![CDATA[Photo by Antonio G. Di Benedetto / The Verge
+    
+
+  
+The new M4 MacBook Pros that launched last month have an unadvertised change with new quantum dot displays, according to display industry analyst Ross Young and reported by 9to5Mac.
+Young posted on X that Apple is adopting quantum dot displays for the first time and that it's using a version of the film that is free of cadmium, which is toxic to humans. “In the past, Apple went with the KSF solution due to better efficiency and lack of cadmium (Cd),” writes Ross. TV manufacturers have been using a version of quantum dot displays with no cadmium traces for years.
+The operator of the display motion blur testing website Blur Busters, which features flying UFO animations to help nitpick at display tech, also noted the M4 display’s improvement, writing that "Pixel response is pretty clearly significantly faster." The new displays also feature “as good or better color gamut and better motion performance,” according to Ross.
+Big Apple display news, they have adopted quantum dots for the first time. The latest MacBook Pro's (M4) use a quantum dot (QD) film rather than a red KSF phosphor film. 
+In the past, Apple went with the KSF solution due to better efficiency and lack of cadmium (Cd), but the… pic.twitter.com/5olq9lEHs9
+— Ross Young (@DSCCRoss) November 14, 2024
+
+
+
+
+The M4 MacBook Pro’s underlying technology is still an IPS panel with Mini LED backlighting, meaning you get the same brightness and contrast improvements that debuted with the M1 Pro and M1 Max MacBook Pros in 2021.]]></summary>
+        <author>
+            <name>The Verge -  Front Pages</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FTC reports 50% drop in unwanted call complaints since 2021]]></title>
+        <id>https://www.bleepingcomputer.com/news/security/ftc-reports-50-percent-drop-in-unwanted-call-complaints-since-2021/</id>
+        <link href="https://www.bleepingcomputer.com/news/security/ftc-reports-50-percent-drop-in-unwanted-call-complaints-since-2021/"/>
+        <updated>2024-11-15T18:50:46.000Z</updated>
+        <summary type="html"><![CDATA[On Friday, the U.S. Federal Trade Commission (FTC) reported that the number of consumer complaints about unwanted telemarketing phone calls has dropped over 50% since 2021, continuing a trend that started three years ago. [...]]]></summary>
+        <author>
+            <name>Sergiu Gatlan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bluesky says it won’t train AI on your posts]]></title>
+        <id>https://www.theverge.com/2024/11/15/24297442/bluesky-no-intention-train-generative-ai-posts</id>
+        <link href="https://www.theverge.com/2024/11/15/24297442/bluesky-no-intention-train-generative-ai-posts"/>
+        <updated>2024-11-15T18:44:09.000Z</updated>
+        <summary type="html"><![CDATA[Image: Cath Virginia / The Verge
+    
+
+  
+Social network Bluesky, in a post on Friday, says that it has “no intention” of taking user content to train generative AI tools. It made the statement the same day X’s new terms of service that spell out how it can analyze user text and other information to train its generative AI tools go into effect.
+“A number of artists and creators have made their home on Bluesky, and we hear their concerns with other platforms training on their data,” Bluesky says in a post. “We do not use any of your content to train generative AI, and have no intention of doing so.”
+A number of artists and creators have made their home on Bluesky, and we hear their concerns with other platforms training on their data. We do not use any of your content to train generative AI…]]></summary>
+        <author>
+            <name>The Verge -  Front Pages</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Senator to Valve: what’s with all the Nazis on Steam?]]></title>
+        <id>https://www.theverge.com/2024/11/15/24297364/steam-extremist-content-moderation-us-senator-warner-letter</id>
+        <link href="https://www.theverge.com/2024/11/15/24297364/steam-extremist-content-moderation-us-senator-warner-letter"/>
+        <updated>2024-11-15T18:24:26.000Z</updated>
+        <summary type="html"><![CDATA[Image: The Verge
+    
+
+  
+US Senator Mark Warner (D-VA) has sent a letter to Valve CEO Gabe Newell asking if the company intends to take measures to curtail extremist content on Steam. The letter references a report by the Anti-Defamation League that identified a large number of user accounts and user-created groups “that glorified antisemitic, Nazi, white supremacist, gender- and sexuality-based hate, and other extremist ideologies” on the PC gaming platform. 
+The letter features a high-level view of the kind of hateful content the ADL found on Steam. That includes “40,000 groups with names that included hateful words, with the most prominent being ‘1488,’ ‘shekel,’ and ‘white power’.” Warner’s letter highlights how the apparent preponderance of hateful content on Steam is in violation of…]]></summary>
+        <author>
+            <name>The Verge -  Front Pages</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Get Ready for Higher Food Prices]]></title>
+        <id>https://www.theatlantic.com/family/archive/2024/11/food-prices-trump-presidency/680670/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/family/archive/2024/11/food-prices-trump-presidency/680670/?utm_source=feed"/>
+        <updated>2024-11-15T18:08:31.000Z</updated>
+        <summary type="html"><![CDATA[Trump vowed to lower food prices. His policies will almost certainly do the opposite.]]></summary>
+        <author>
+            <name>The Atlantic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Haul Is an Omen]]></title>
+        <id>https://www.theatlantic.com/technology/archive/2024/11/amazon-haul/680668/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/technology/archive/2024/11/amazon-haul/680668/?utm_source=feed"/>
+        <updated>2024-11-15T17:47:01.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the slop era of online shopping.]]></summary>
+        <author>
+            <name>The Atlantic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Behind the Blog: Political Perspectives and Platforms]]></title>
+        <id>67377f4a3c831d0001d2bef0</id>
+        <link href="https://www.404media.co/behind-the-blog-political-perspectives-and-platforms/"/>
+        <updated>2024-11-15T17:45:35.000Z</updated>
+        <summary type="html"><![CDATA[This is Behind the Blog, where we share our behind-the-scenes thoughts about how a few of our top stories of the week came together. This week, we talk about data storage, political perspectives and platforms.]]></summary>
+        <author>
+            <name>Samantha Cole</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<em>The Onion</em>’s Most Trenchant Headline]]></title>
+        <id>https://www.theatlantic.com/culture/archive/2024/11/onion-infowars-acquisition-satire/680667/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/culture/archive/2024/11/onion-infowars-acquisition-satire/680667/?utm_source=feed"/>
+        <updated>2024-11-15T17:31:00.000Z</updated>
+        <summary type="html"><![CDATA[The satirical site’s announcement that it is acquiring Alex Jones’s Infowars created confusion—and perfectly captured the media world we’re living in.]]></summary>
+        <author>
+            <name>The Atlantic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[X Sues to Block California Election Deepfake Law ‘In Conflict’ With First Amendment]]></title>
+        <id>https://www.reddit.com/r/technology/comments/1gs0kw4/x_sues_to_block_california_election_deepfake_law/</id>
+        <link href="https://www.reddit.com/r/technology/comments/1gs0kw4/x_sues_to_block_california_election_deepfake_law/"/>
+        <updated>2024-11-15T16:42:40.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/cmaia1503  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : technology</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitfinex hacker gets 5 years in prison for 120,000 bitcoin heist]]></title>
+        <id>https://www.bleepingcomputer.com/news/security/bitfinex-hacker-gets-5-years-in-prison-for-120-000-bitcoin-heist/</id>
+        <link href="https://www.bleepingcomputer.com/news/security/bitfinex-hacker-gets-5-years-in-prison-for-120-000-bitcoin-heist/"/>
+        <updated>2024-11-15T16:36:42.000Z</updated>
+        <summary type="html"><![CDATA[A hacker responsible for stealing 119,754 Bitcoin in a 2016 hack on the Bitfinex cryptocurrency exchange was sentenced to five years in prison by U.S. authorities. [...]]]></summary>
+        <author>
+            <name>Bill Toulas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What the Internet Age Is Taking Away From Writers]]></title>
+        <id>https://www.theatlantic.com/newsletters/archive/2024/11/books-briefing-internet-age-taking-writers-privacy/680665/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/newsletters/archive/2024/11/books-briefing-internet-age-taking-writers-privacy/680665/?utm_source=feed"/>
+        <updated>2024-11-15T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Authors tirelessly self-market online, but I find myself wishing that they still had the option to disappear.]]></summary>
+        <author>
+            <name>The Atlantic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Photos of the Week: Blue Pond, Camel Fair, Embracing Peace]]></title>
+        <id>https://www.theatlantic.com/photo/2024/11/photos-of-the-week-blue-pond-camel-fair-embracing-peace/680654/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/photo/2024/11/photos-of-the-week-blue-pond-camel-fair-embracing-peace/680654/?utm_source=feed"/>
+        <updated>2024-11-15T15:52:45.000Z</updated>
+        <summary type="html"><![CDATA[Speed climbing in Saudi Arabia, wildfires in California and New Jersey, a blanket of smog in New Delhi, a celebration of rural life in Turkey, Veterans Day in Seattle, and much more]]></summary>
+        <author>
+            <name>The Atlantic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft pulls Exchange security updates over mail delivery issues]]></title>
+        <id>https://www.bleepingcomputer.com/news/microsoft/microsoft-pulls-exchange-security-updates-over-mail-delivery-issues/</id>
+        <link href="https://www.bleepingcomputer.com/news/microsoft/microsoft-pulls-exchange-security-updates-over-mail-delivery-issues/"/>
+        <updated>2024-11-15T15:23:42.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft has pulled the November 2024 Exchange security updates released during this month's Patch Tuesday because of email delivery issues on servers using custom mail flow rules. [...]]]></summary>
+        <author>
+            <name>Sergiu Gatlan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AS400 migration]]></title>
+        <id>https://www.reddit.com/r/sysadmin/comments/1gry0uh/as400_migration/</id>
+        <link href="https://www.reddit.com/r/sysadmin/comments/1gry0uh/as400_migration/"/>
+        <updated>2024-11-15T14:50:22.000Z</updated>
+        <summary type="html"><![CDATA[Our organization has been using AS400 for payroll, financial, and HR for the past 30 years. However, we’ve realized that this system is no longer viable for their needs. I’m looking for a modern software solution that provides similar functionality to AS400. We’ve already tried ADP and Kronos, but faced issues with data compatibility, as the data from AS400 couldn’t be seamlessly integrated. Can anyone recommend software that allows for smooth data migration from AS400?
+    submitted by    /u/Charming-Tomato-4455  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : sysadmin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Palo Alto Networks warns of critical RCE zero-day exploited in attacks]]></title>
+        <id>https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-critical-rce-zero-day-exploited-in-attacks/</id>
+        <link href="https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-critical-rce-zero-day-exploited-in-attacks/"/>
+        <updated>2024-11-15T14:44:42.000Z</updated>
+        <summary type="html"><![CDATA[Palo Alto Networks is warning that a critical zero-day vulnerability on Next-Generation Firewalls (NGFW) management interfaces, currently tracked as 'PAN-SA-2024-0015,' is actively being exploited in attacks. [...]]]></summary>
+        <author>
+            <name>Bill Toulas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Great Migration to Bluesky Gives Me Hope for the Future of the Internet]]></title>
+        <id>67363a7d2547650001bd95e8</id>
+        <link href="https://www.404media.co/the-great-migration-to-bluesky-gives-me-hope-for-the-future-of-the-internet/"/>
+        <updated>2024-11-15T14:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Or: Why Threads is not it.]]></summary>
+        <author>
+            <name>Jason Koebler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 10 Anime of the Week #7 - Fall 2024 (Anime Corner)]]></title>
+        <id>https://www.reddit.com/r/anime/comments/1grxmro/top_10_anime_of_the_week_7_fall_2024_anime_corner/</id>
+        <link href="https://www.reddit.com/r/anime/comments/1grxmro/top_10_anime_of_the_week_7_fall_2024_anime_corner/"/>
+        <updated>2024-11-15T14:31:53.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Kezja  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : anime</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dandadan gets an increased view count on Netflix Top 10 (November 4th - 10th) with 3.2M views.]]></title>
+        <id>https://www.reddit.com/r/anime/comments/1grwd87/dandadan_gets_an_increased_view_count_on_netflix/</id>
+        <link href="https://www.reddit.com/r/anime/comments/1grwd87/dandadan_gets_an_increased_view_count_on_netflix/"/>
+        <updated>2024-11-15T13:29:58.000Z</updated>
+        <summary type="html"><![CDATA[It ranks #3 and is on a 5-week streak.
+    submitted by    /u/NathLWX  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : anime</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Receive SMS messages in Microsoft Teams]]></title>
+        <id>https://4sysops.com/?p=1588639</id>
+        <link href="https://4sysops.com/archives/receive-sms-messages-in-microsoft-teams/"/>
+        <updated>2024-11-15T13:04:40.000Z</updated>
+        <summary type="html"><![CDATA[In my latest article, I demonstrated how to use PowerAutomate to send SMS messages. I briefly mentioned that you can also receive SMS messages in Microsoft Teams, and in this article, I will outline a straightforward method for doing so.]]></summary>
+        <author>
+            <name>Robert Pearman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What the Band Eats]]></title>
+        <id>https://www.theatlantic.com/magazine/archive/2024/12/grateful-dead-tour-food/680390/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/magazine/archive/2024/12/grateful-dead-tour-food/680390/?utm_source=feed"/>
+        <updated>2024-11-15T12:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Memories of the meals I ate growing up with the Grateful Dead]]></summary>
+        <author>
+            <name>The Atlantic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stephen King leaves X, describing atmosphere as "too toxic"]]></title>
+        <id>https://www.reddit.com/r/technology/comments/1grv1g8/stephen_king_leaves_x_describing_atmosphere_as/</id>
+        <link href="https://www.reddit.com/r/technology/comments/1grv1g8/stephen_king_leaves_x_describing_atmosphere_as/"/>
+        <updated>2024-11-15T12:16:09.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/RunDNA  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : technology</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Israel Is Fighting a Different War Now]]></title>
+        <id>https://www.theatlantic.com/international/archive/2024/11/israel-hamas-war-changing/680651/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/international/archive/2024/11/israel-hamas-war-changing/680651/?utm_source=feed"/>
+        <updated>2024-11-15T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Israeli high command now sees all of its conflicts as elements of a single, multifront war with Iran.]]></summary>
+        <author>
+            <name>The Atlantic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What's is your career's end goal in IT?]]></title>
+        <id>https://www.reddit.com/r/sysadmin/comments/1grsx63/whats_is_your_careers_end_goal_in_it/</id>
+        <link href="https://www.reddit.com/r/sysadmin/comments/1grsx63/whats_is_your_careers_end_goal_in_it/"/>
+        <updated>2024-11-15T09:50:13.000Z</updated>
+        <summary type="html"><![CDATA[24M currently working as a network engineer. 
+ My end goal, personally, is to become a solutions/network architect or a CTO in a S&P 500 company.
+ What's about yours? or.. Have you achieved your goal?
+    submitted by    /u/VNiqkco  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : sysadmin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Interview With the Target & Home Depot Hacker]]></title>
+        <id>https://krebsonsecurity.com/?p=69482</id>
+        <link href="https://krebsonsecurity.com/2024/11/an-interview-with-the-target-home-depot-hacker/"/>
+        <updated>2024-11-15T04:45:32.000Z</updated>
+        <summary type="html"><![CDATA[In December 2023, KrebsOnSecurity revealed the real-life identity of Rescator, the nickname used by a Russian cybercriminal who sold more than 100 million payment cards stolen from Target and Home Depot between 2013 and 2014. Moscow resident Mikhail Shefel, who confirmed using the Rescator identity in a recent interview, also admitted reaching out because he is broke and seeking publicity for several new money making schemes.]]></summary>
+        <author>
+            <name>BrianKrebs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bluesky says 1 million people signed up for the platform in last 24 hours | TechCrunch]]></title>
+        <id>https://www.reddit.com/r/technology/comments/1grnx2q/bluesky_says_1_million_people_signed_up_for_the/</id>
+        <link href="https://www.reddit.com/r/technology/comments/1grnx2q/bluesky_says_1_million_people_signed_up_for_the/"/>
+        <updated>2024-11-15T04:08:25.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/ATXJames  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : technology</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Apple security feature reboots iPhones after 3 days, researchers confirm]]></title>
+        <id>https://www.reddit.com/r/apple/comments/1grkyhb/new_apple_security_feature_reboots_iphones_after/</id>
+        <link href="https://www.reddit.com/r/apple/comments/1grkyhb/new_apple_security_feature_reboots_iphones_after/"/>
+        <updated>2024-11-15T01:30:04.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/ControlCAD  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : apple</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The world’s biggest battery maker says Elon Musk’s 4680 cell ‘is going to fail’]]></title>
         <id>https://www.theverge.com/2024/11/14/24296777/tesla-catl-ev-battery-maker-elon-musk-4860-cell</id>
@@ -25,6 +539,49 @@ Zeng also commented that Musk’s problem is “overpromising” timelines, whic
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[802.1x]]></title>
+        <id>https://www.reddit.com/r/sysadmin/comments/1grjuba/8021x/</id>
+        <link href="https://www.reddit.com/r/sysadmin/comments/1grjuba/8021x/"/>
+        <updated>2024-11-15T00:34:17.000Z</updated>
+        <summary type="html"><![CDATA[Is this like having sex in high school? Everyone's talking about it, but nobody is actually doing it. In an argument with my boss, he doesn't believe that most large companies do 802.1x or have strong NAC in place. Is he right? Am I insane for wanting to authenticate devices on our network? 
+    submitted by    /u/SarcasticThug  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : sysadmin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[M4 MacBook Pro Uses Quantum Dot Display Technology]]></title>
+        <id>https://www.reddit.com/r/apple/comments/1grjp6c/m4_macbook_pro_uses_quantum_dot_display_technology/</id>
+        <link href="https://www.reddit.com/r/apple/comments/1grjp6c/m4_macbook_pro_uses_quantum_dot_display_technology/"/>
+        <updated>2024-11-15T00:27:19.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/ValidPrestige  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : apple</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Smells Blood in the Water]]></title>
+        <id>https://www.reddit.com/r/apple/comments/1grj5f7/apple_smells_blood_in_the_water/</id>
+        <link href="https://www.reddit.com/r/apple/comments/1grj5f7/apple_smells_blood_in_the_water/"/>
+        <updated>2024-11-15T00:00:59.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/fatpat  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : apple</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NEWS RELEASES | 2024 “Declare the Good News!” Special Conventions Conclude in Santiago, Chile]]></title>
+        <id>df893e171624c867acc10894c8eeb8a9</id>
+        <link href="https://www.jw.org/en/news/region/global/2024-Declare-the-Good-News-Special-Conventions-Conclude-in-Santiago-Chile/"/>
+        <updated>2024-11-15T00:00:00.000Z</updated>
+        <author>
+            <name>JW.ORG Newsroom</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[What Crypto Wants From Trump]]></title>
         <id>https://www.theatlantic.com/newsletters/archive/2024/11/crypto-trump-congress-normalization/680664/?utm_source=feed</id>
         <link href="https://www.theatlantic.com/newsletters/archive/2024/11/crypto-trump-congress-normalization/680664/?utm_source=feed"/>
@@ -32,6 +589,16 @@ Zeng also commented that Musk’s problem is “overpromising” timelines, whic
         <summary type="html"><![CDATA[With a crypto-friendly president-elect and a Congress stacked with crypto supporters, the industry is getting closer to its ultimate goals.]]></summary>
         <author>
             <name>The Atlantic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft just killed the Windows 10 Beta Channel for good]]></title>
+        <id>https://www.bleepingcomputer.com/news/microsoft/microsoft-just-killed-the-windows-10-beta-channel-for-good/</id>
+        <link href="https://www.bleepingcomputer.com/news/microsoft/microsoft-just-killed-the-windows-10-beta-channel-for-good/"/>
+        <updated>2024-11-14T23:39:12.000Z</updated>
+        <summary type="html"><![CDATA[Five months after reviving it in June, ​Microsoft has shut down the Windows 10 Beta Channel and will move all enrolled Windows Insiders to the Release Preview Channel. [...]]]></summary>
+        <author>
+            <name>Sergiu Gatlan</name>
         </author>
     </entry>
     <entry>
@@ -128,6 +695,17 @@ As of November 7th, Pokémon TCG Pocket has been downloaded more than 30 million
         <summary type="html"><![CDATA[CISA warned today that two more critical security vulnerabilities in Palo Alto Networks' Expedition migration tool are now actively exploited in attacks. [...]]]></summary>
         <author>
             <name>Sergiu Gatlan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Computer Scientists: Breaches of Voting System Software Warrant Recounts to Ensure Election Verification]]></title>
+        <id>https://www.reddit.com/r/technology/comments/1grg9r4/computer_scientists_breaches_of_voting_system/</id>
+        <link href="https://www.reddit.com/r/technology/comments/1grg9r4/computer_scientists_breaches_of_voting_system/"/>
+        <updated>2024-11-14T21:49:47.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/SunshineAndSquats  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : technology</name>
         </author>
     </entry>
     <entry>
@@ -267,6 +845,28 @@ Rapper Ice Spice has also officially joined the game as part of its remixed Chap
         <summary type="html"><![CDATA[And what it means for the future of Palestinians and Israelis]]></summary>
         <author>
             <name>The Atlantic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The ultimate competition; no rules, only risk and reward. [REDLINE]]]></title>
+        <id>https://www.reddit.com/r/anime/comments/1grd9g1/the_ultimate_competition_no_rules_only_risk_and/</id>
+        <link href="https://www.reddit.com/r/anime/comments/1grd9g1/the_ultimate_competition_no_rules_only_risk_and/"/>
+        <updated>2024-11-14T19:39:32.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Background_Bard  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : anime</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exclusive: Trump's transition team aims to kill Biden EV tax credit]]></title>
+        <id>https://www.reddit.com/r/technology/comments/1grd0zm/exclusive_trumps_transition_team_aims_to_kill/</id>
+        <link href="https://www.reddit.com/r/technology/comments/1grd0zm/exclusive_trumps_transition_team_aims_to_kill/"/>
+        <updated>2024-11-14T19:29:33.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Positivismus  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : technology</name>
         </author>
     </entry>
     <entry>
@@ -525,6 +1125,48 @@ This post was created by a bot. Message the mod team for feedback and comments. 
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Dungeon ni Deai wo Motomeru no wa Machigatteiru no Darou ka V: Houjou no Megami-hen • Is It Wrong to Try to Pick Up Girls in a Dungeon? Season 5: Goddess of Fertility Arc - Episode 7 discussion]]></title>
+        <id>https://www.reddit.com/r/anime/comments/1gr4bqp/dungeon_ni_deai_wo_motomeru_no_wa_machigatteiru/</id>
+        <link href="https://www.reddit.com/r/anime/comments/1gr4bqp/dungeon_ni_deai_wo_motomeru_no_wa_machigatteiru/"/>
+        <updated>2024-11-14T13:05:33.000Z</updated>
+        <summary type="html"><![CDATA[Dungeon ni Deai wo Motomeru no wa Machigatteiru no Darou ka V: Houjou no Megami-hen, episode 7
+ Alternative names: Danmachi Season 5, Is It Wrong to Try to Pick Up Girls in a Dungeon? Season 5
+ Reminder: Please do not discuss plot points not yet seen or skipped in the show. Failing to follow the rules may result in a ban.
+  
+Streams
+  
+Crunchyroll
+  
+Show information
+  
+MyAnimeList
+ AniList
+ AniDB
+ Anime-Planet
+ Official Website
+ /r/DanMachi
+  
+ All discussions
+  
+ Episode Link 
+  
+ 1 Link 
+  2 Link 
+  3 Link 
+  4 Link 
+  5 Link 
+  6 Link 
+  7 Link 
+ 
+  
+This post was created by a bot. Message the mod team for feedback and comments. The original source code can be found on GitHub.
+    submitted by    /u/AutoLovepon  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : anime</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Abandon the Empty Nest. Instead, Try the Open Door.]]></title>
         <id>https://www.theatlantic.com/family/archive/2024/11/empty-nest-open-door/680646/?utm_source=feed</id>
         <link href="https://www.theatlantic.com/family/archive/2024/11/empty-nest-open-door/680646/?utm_source=feed"/>
@@ -548,6 +1190,17 @@ This post was created by a bot. Message the mod team for feedback and comments. 
  [link]   [comments]]]></summary>
         <author>
             <name>top scoring links : sysadmin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dandadan/Men in black Fanart!]]></title>
+        <id>https://www.reddit.com/r/anime/comments/1gr42cb/dandadanmen_in_black_fanart/</id>
+        <link href="https://www.reddit.com/r/anime/comments/1gr42cb/dandadanmen_in_black_fanart/"/>
+        <updated>2024-11-14T12:51:42.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Sea_Rooster5820  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : anime</name>
         </author>
     </entry>
     <entry>
@@ -1056,6 +1709,36 @@ There’s uncertainty about how much Spotify plans to pay video creators, howeve
         <summary type="html"><![CDATA[Prepare for government by meme.]]></summary>
         <author>
             <name>The Atlantic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why the fuck does ICS software suck so hard?]]></title>
+        <id>https://www.reddit.com/r/sysadmin/comments/1gqi3rr/why_the_fuck_does_ics_software_suck_so_hard/</id>
+        <link href="https://www.reddit.com/r/sysadmin/comments/1gqi3rr/why_the_fuck_does_ics_software_suck_so_hard/"/>
+        <updated>2024-11-13T17:19:35.000Z</updated>
+        <summary type="html"><![CDATA[Why is it that software coming from the likes of Siemens, Honeywell, trane etc such a fucking shit show? 
+ Please repost me in shittysysadmin if it’s obvious but why do these programs need to be run as admin? Why in the fuck does the software need admin privileges to just launch? Why when I’m installing a critical piece of software one of my techs needs (/s ) called cscape, does it also require the installation of 20+year old dependencies? (C++ 2005)
+ Why is it that certain embedded applications in these shitty apps also require an actual local, local admin user name and pw to launch. It can’t be just a part of administrators, it can’t be an web account/entra id local admin, it has to be a separate local local admin. It doesn’t even need admin privs, it just needs the login. I’ve used delinea to create a local admin without any privs and it just works. 
+ Why. 
+ Please make it make sense.
+    submitted by    /u/hey_highler  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : sysadmin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[what you Guys do with the Users who have have Big mailbox size, <50GB]]></title>
+        <id>https://www.reddit.com/r/sysadmin/comments/1gqhrt8/what_you_guys_do_with_the_users_who_have_have_big/</id>
+        <link href="https://www.reddit.com/r/sysadmin/comments/1gqhrt8/what_you_guys_do_with_the_users_who_have_have_big/"/>
+        <updated>2024-11-13T17:06:08.000Z</updated>
+        <summary type="html"><![CDATA[So some Users in Our Company have a bigger mailbox. Of course, as per the License, they are allowed to have 100GB, but for some reason, Windows doesn't allow a more than 50GB ost file. The First thing that comes to mind is telling the User to delete some F*** old emails, but they always resist.
+ so how are you guys managing those Other than deleting some emails?
+ Are you archiving emails older than a certain date or playing with Registry to allow for a bigger OST file or something else?
+    submitted by    /u/Academic-Meat-1687  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : sysadmin</name>
         </author>
     </entry>
     <entry>
@@ -5638,754 +6321,6 @@ This post was created by a bot. Message the mod team for feedback and comments. 
  [link]   [comments]]]></summary>
         <author>
             <name>top scoring links : sysadmin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Latest from NPC: Next Portable Console and AppStories]]></title>
-        <id>https://www.macstories.net/?p=77165</id>
-        <link href="https://www.macstories.net/news/the-latest-from-npc-next-portable-console-and-appstories-7/"/>
-        <updated>2024-11-06T12:46:52.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the latest episodes from MacStories’ family of podcasts: AppStories This week, Federico and I are joined by Jonathan Reed to check in on the parts of watchOS 11 that he’s still using, talk about browsing the web from an Apple Watch, and dig into the apps he uses day-to-day. NPC: Next Portable Console On […]]]></summary>
-        <author>
-            <name>John Voorhees</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Night They Hadn’t Prepared For]]></title>
-        <id>https://www.theatlantic.com/politics/archive/2024/11/kamala-harris-election-party-howard/680553/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/politics/archive/2024/11/kamala-harris-election-party-howard/680553/?utm_source=feed"/>
-        <updated>2024-11-06T12:38:00.000Z</updated>
-        <summary type="html"><![CDATA[As the evening wore on, the news got worse—and the guest of honor never showed.]]></summary>
-        <author>
-            <name>The Atlantic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Love my job]]></title>
-        <id>https://www.reddit.com/r/sysadmin/comments/1gkxg43/love_my_job/</id>
-        <link href="https://www.reddit.com/r/sysadmin/comments/1gkxg43/love_my_job/"/>
-        <updated>2024-11-06T12:33:36.000Z</updated>
-        <summary type="html"><![CDATA[So today boss come to me with a brand new urgent problem: 
- "We need to allow access only to a specific web page and block everything else!"
- Ok, just a firewall rule or a proxy server comes to mind (we use pfsense so squid could work?)
- "Also it's only for some users laptops, from different departments, during a period of 3 weeks, only for 4 hours a day. It could be in the morning or afternoon, I'm not sure"
- Ok fuck that, I don't think it would be ideal to use a proxy server for this. Right? I mean, I don't even know if a proxy server is a good idea in 2024.
- Read in the internet that IT people are using endpoint application for web filtering. But there are no open source options for that that I know of, that would be ideal to corporate as they don't like spending money lol.
- We are a small business with no more than 70 computers.
- What would you do in this situation? Besides quitting
-    submitted by    /u/diodot  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : sysadmin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Donald Trump Could Weaponize US Surveillance in a Second Term]]></title>
-        <id>https://www.reddit.com/r/technology/comments/1gkxdh8/how_donald_trump_could_weaponize_us_surveillance/</id>
-        <link href="https://www.reddit.com/r/technology/comments/1gkxdh8/how_donald_trump_could_weaponize_us_surveillance/"/>
-        <updated>2024-11-06T12:29:35.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/Bohnerific69_  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : technology</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iOS 18 could soon show you how long it will take for your iPhone to charge]]></title>
-        <id>https://www.reddit.com/r/apple/comments/1gkwu05/ios_18_could_soon_show_you_how_long_it_will_take/</id>
-        <link href="https://www.reddit.com/r/apple/comments/1gkwu05/ios_18_could_soon_show_you_how_long_it_will_take/"/>
-        <updated>2024-11-06T11:59:13.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/chrisdh79  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : apple</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Also seeing Server 2025 offered on a Server 2019 machine this morning]]></title>
-        <id>https://www.reddit.com/r/sysadmin/comments/1gkwo1s/also_seeing_server_2025_offered_on_a_server_2019/</id>
-        <link href="https://www.reddit.com/r/sysadmin/comments/1gkwo1s/also_seeing_server_2025_offered_on_a_server_2019/"/>
-        <updated>2024-11-06T11:49:08.000Z</updated>
-        <summary type="html"><![CDATA[Same as the Server 2022 one yesterday. It's separate section like the feature updates on desktops.
-    submitted by    /u/sccmjd  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : sysadmin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Democracy Is Not Over]]></title>
-        <id>https://www.theatlantic.com/newsletters/archive/2024/11/trump-victory-democracy/680549/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/newsletters/archive/2024/11/trump-victory-democracy/680549/?utm_source=feed"/>
-        <updated>2024-11-06T11:39:00.000Z</updated>
-        <summary type="html"><![CDATA[Americans who care about democracy have every right to feel appalled and frightened. But then they have work to do.]]></summary>
-        <author>
-            <name>The Atlantic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pulseway 9.9 remote monitoring and management with new Mobile Device Management]]></title>
-        <id>https://4sysops.com/?p=1588459</id>
-        <link href="https://4sysops.com/archives/pulseway-99-remote-monitoring-and-management-with-new-mobile-device-management/"/>
-        <updated>2024-11-06T11:08:53.000Z</updated>
-        <summary type="html"><![CDATA[Mobile Device Management (MDM) is now a critical focus for IT administrators, providing essential tools to manage user endpoints centrally, ensuring they remain secure and up-to-date in a hybrid workforce. Pulseway 9.9 has just launched, introducing a new range of MDM features and automation enhancements.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Podcast: The Plan to Use AI to Purge Voter Rolls]]></title>
-        <id>672ab88c94858b00018261e5</id>
-        <link href="https://www.404media.co/podcast-the-plan-to-use-ai-to-purge-voter-rolls/"/>
-        <updated>2024-11-06T11:00:13.000Z</updated>
-        <summary type="html"><![CDATA[This week we have Jason on EagleAI, Sam on Microsoft's gender AI mistake, and Joseph on the infostealer industry.]]></summary>
-        <author>
-            <name>Joseph Cox</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trump Won. Now What?]]></title>
-        <id>https://www.theatlantic.com/politics/archive/2024/11/trump-wins-second-term-presidency/680546/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/politics/archive/2024/11/trump-wins-second-term-presidency/680546/?utm_source=feed"/>
-        <updated>2024-11-06T10:45:00.000Z</updated>
-        <summary type="html"><![CDATA[The United States is about to become a different kind of country.]]></summary>
-        <author>
-            <name>The Atlantic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Democrats’ Dashed Hopes in Iowa]]></title>
-        <id>https://www.theatlantic.com/politics/archive/2024/11/iowa-election-democrats-selzer-poll/680552/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/politics/archive/2024/11/iowa-election-democrats-selzer-poll/680552/?utm_source=feed"/>
-        <updated>2024-11-06T07:23:00.000Z</updated>
-        <summary type="html"><![CDATA[As in many other areas across the country, Kamala Harris could not match Joe Biden’s 2020 performance.]]></summary>
-        <author>
-            <name>The Atlantic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Everyone was right, Steins Gate is goated]]></title>
-        <id>https://www.reddit.com/r/anime/comments/1gkqzqk/everyone_was_right_steins_gate_is_goated/</id>
-        <link href="https://www.reddit.com/r/anime/comments/1gkqzqk/everyone_was_right_steins_gate_is_goated/"/>
-        <updated>2024-11-06T05:17:36.000Z</updated>
-        <summary type="html"><![CDATA[I tried to watch Steins Gate about two years ago, and couldn't make it past the 2nd episode. So many people on here and in my life were like, try again, try again, it's worth it! Well, I have watched all of season 1 the extra alternate ending episode that leads into SG0, and I have watched 8 episodes of that just today. It's so worth it. It's such a ride, and I think it's up there as one of my favorites EVER. Definitely top 10, gotta see how everything plays out. But anyway, I just wanted to say thank you to everyone who kept saying, try it!
-    submitted by    /u/beerantula  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : anime</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Understand the Election Returns So Far]]></title>
-        <id>https://www.theatlantic.com/politics/archive/2024/11/election-results-trump-harris-polarization/680548/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/politics/archive/2024/11/election-results-trump-harris-polarization/680548/?utm_source=feed"/>
-        <updated>2024-11-06T05:15:06.000Z</updated>
-        <summary type="html"><![CDATA[In the three crucial swing states, a large majority of voters were fiercely discontented.]]></summary>
-        <author>
-            <name>The Atlantic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Tyranny of the Election Needle]]></title>
-        <id>https://www.theatlantic.com/technology/archive/2024/11/election-needle-tyranny/680547/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/technology/archive/2024/11/election-needle-tyranny/680547/?utm_source=feed"/>
-        <updated>2024-11-06T04:13:29.000Z</updated>
-        <summary type="html"><![CDATA[There is no good way to consume Election Night information anymore.]]></summary>
-        <author>
-            <name>The Atlantic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple Continues Working to Get Blood Oxygen Sensing Back in U.S. Apple Watches as Next Masimo Trial Begins]]></title>
-        <id>https://www.reddit.com/r/apple/comments/1gkpdqa/apple_continues_working_to_get_blood_oxygen/</id>
-        <link href="https://www.reddit.com/r/apple/comments/1gkpdqa/apple_continues_working_to_get_blood_oxygen/"/>
-        <updated>2024-11-06T03:39:25.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/Drtysouth205  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : apple</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Suzuki teams up with Toyota on its first EV: the E Vitara]]></title>
-        <id>https://www.theverge.com/2024/11/5/24289169/suzuki-e-vitara-ev-electric-suv-toyota-launch</id>
-        <link href="https://www.theverge.com/2024/11/5/24289169/suzuki-e-vitara-ev-electric-suv-toyota-launch"/>
-        <updated>2024-11-06T00:37:52.000Z</updated>
-        <summary type="html"><![CDATA[Suzuki is finally making an EV. | Image: Suzuki
-    
-
-  
-Suzuki and Toyota have been working together on a new 4WD-capable electric SUV, and in Italy yesterday, Suzuki revealed the fruits of the collaboration: a new compact called the E Vitara. It’s the automaker’s first EV, and it’s scheduled for production at Suzuki Motor Gujarat in India starting next spring.
-The E Vitara will launch in Europe, India, and Japan “around” the summer of next year, and there will be a Toyota-badged version, which will probably look a lot like the Urban SUV Concept Toyota revealed in 2023. Toyota similarly shares its mediocre bZ4X EV with Subaru, which is rebadged as the Solterra EV.
-Image: Suzuki
-  
-Toyota and Suzuki have been slow to adopt EVs into their lineups, with Toyota refocusing on building more hybrids and a three-row electric SUV for the US market. As reported by Autocar, Suzuki’s previously announced target of launching multiple EVs by 2030 is on hold, with President Toshihiro Suzuki saying the company will “monitor the situation” due to cooling EV demand.
-Image: Suzuki
-  
-As for the E Vitara, the vehicle will be powered by a lithium iron phosphate battery in either 49 kWh or 60 kWh capacities. Both batteries can be offered in 2WD drivetrains, but 4WD versions only come with the larger one. According to The Japan Times, Suzuki said the E Vitara can get up to 400km (about 248 miles) on a single charge.
-At its peak, the E Vitara motor is capable of 135 kW output. It’s fairly underpowered compared to the 150 kW output of the similarly-sized Chevy Bolt, which is just 130mm shorter in length than the 4,275mm E Vitara.
-There’s currently no pricing for the E Vitara, and like Hyundai’s Inster, the US market is not in the launch plans for this tiny EV.]]></summary>
-        <author>
-            <name>The Verge -  Front Pages</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NEWS RELEASES | Devastating Flash Floods Pummel Southeastern Spain]]></title>
-        <id>a3404ce62f081eef2617615add1c3de0</id>
-        <link href="https://www.jw.org/en/news/region/spain/Devastating-Flash-Floods-Pummel-Southeastern-Spain/"/>
-        <updated>2024-11-06T00:00:00.000Z</updated>
-        <author>
-            <name>JW.ORG Newsroom</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NEWS RELEASES | Hurricane Oscar Brings Destruction to Cuba]]></title>
-        <id>f2cf1897b50e40d5195b39870bb8a10c</id>
-        <link href="https://www.jw.org/en/news/region/cuba/Hurricane-Oscar-Brings-Destruction-to-Cuba/"/>
-        <updated>2024-11-06T00:00:00.000Z</updated>
-        <author>
-            <name>JW.ORG Newsroom</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Elon Musk is being sued over his $1 million giveaway to voters — again]]></title>
-        <id>https://www.theverge.com/2024/11/5/24289173/elon-musk-america-pac-class-action-lawsuit-fraud</id>
-        <link href="https://www.theverge.com/2024/11/5/24289173/elon-musk-america-pac-class-action-lawsuit-fraud"/>
-        <updated>2024-11-05T23:55:53.000Z</updated>
-        <summary type="html"><![CDATA[Image: Kristen Radtke / The Verge; Getty Images
-    
-
-  
-Arizona resident Jacqueline McAferty is suing Elon Musk and his pro-Trump America PAC in a Texas federal court, alleging that the PAC’s $1 million-a-day lottery to registered voters in swing states was fraud. The proposed class-action lawsuit was filed a day after a Philadelphia judge denied the city’s request to order Musk to end the lottery — and seems to have been spurred by Musk’s legal defense in the Philadelphia case.
-The complaint, filed in a federal court in Austin, alleges that Musk falsely claimed the PAC would choose sweepstakes winners randomly when the selections were, in fact, predetermined. The complaint cites comments made yesterday by Chris Gober, a Republican lawyer CNBC identified as America PAC’s former treasurer. 
-“The $1 million recipients are not chosen by chance,” Gober said during the Monday hearing in the Philadelphia case. “We know exactly who will be announced as the $1 million recipient today and tomorrow.” Grober’s testimony contradicted Musk’s own claim that the funds were awarded “randomly,” as he said when he announced the contest at a political rally in Pennsylvania.
-
-
-McAferty signed the petition on October 20th, the day Musk announced the contest, according to the complaint. Musk “made the false statements with the intention of inducing individuals to sign the America PAC petition,” which was a scheme to obtain users’ data, the complaint alleges. McAferty is accusing Musk of fraud and breach of contract.
-To sign the petition, voters had to provide their first and last name, email address, mailing address, and cell phone number. “The America PAC petition places no limitations on America PAC’s use of or sale of the personal data it collects, nor does it provide any additional information about the planned use of data,” the complaint claims.
-The suit also claims that Musk used the lottery to drive “significant traffic to Musk’s X platform.”]]></summary>
-        <author>
-            <name>The Verge -  Front Pages</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[X Is a White-Supremacist Site - The Atlantic]]></title>
-        <id>https://www.reddit.com/r/technology/comments/1gkkxt1/x_is_a_whitesupremacist_site_the_atlantic/</id>
-        <link href="https://www.reddit.com/r/technology/comments/1gkkxt1/x_is_a_whitesupremacist_site_the_atlantic/"/>
-        <updated>2024-11-05T23:45:09.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/rejs7  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : technology</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Steam’s built-in game recording is now available to all]]></title>
-        <id>https://www.theverge.com/2024/11/5/24289138/steam-game-recording-now-available-all-users</id>
-        <link href="https://www.theverge.com/2024/11/5/24289138/steam-game-recording-now-available-all-users"/>
-        <updated>2024-11-05T23:27:12.000Z</updated>
-        <summary type="html"><![CDATA[Image: The Verge
-    
-
-  
-Steam Game Recording is officially out of beta and available to all users, giving PC, Mac, and Steam Deck players a built-in way to record and share audio and video from their gaming sessions. It joins many other ways PC gamers have been able to record their highlights, including as a feature of tools like the Xbox Game Bar, Nvidia GeForce, and AMD’s Adrenalin.
-This version of the Steam client is also the first to drop support for Windows 7 and 8 machines, as well as Macs running macOS 10.13 and 10.14 after Valve announced the move at the beginning of this year. 
-Image: Valve
-  
-After an automatic update, players can start recordings manually using a hotkey (Ctrl + F11 is the default) or set it to trigger automatically, with options to restrict the length, quality, and storage space that Steam can use. Valve says it works with any game, including non-Steam games that allow Steam Overlay to run. Recording is off by default — you’ll find its settings in a new Game Recording tab in Steam’s settings. 
-
-
-Valve has updated Steam Game Recording with a handful of new features that weren’t there when the beta period began in June, including adding “advanced” export options and the ability to configure game-specific settings. The company also added Session View, which includes a “Recordings & Screenshots manager with game-specific tags and data.”]]></summary>
-        <author>
-            <name>The Verge -  Front Pages</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google CEO says the company should be a ‘trusted source’ in the election]]></title>
-        <id>https://www.theverge.com/2024/11/5/24289170/google-ceo-election-memo-employees-trump-harris</id>
-        <link href="https://www.theverge.com/2024/11/5/24289170/google-ceo-election-memo-employees-trump-harris"/>
-        <updated>2024-11-05T23:19:11.000Z</updated>
-        <summary type="html"><![CDATA[Sundar Pichai. | Image: Laura Normand / The Verge
-    
-
-  
-Google CEO Sundar Pichai told employees ahead of Election Day to make sure “the products we build” are “a trusted source of information to people of every background and belief.”
-“As with other elections, the outcome will be a major topic of conversation in living rooms and other places around the world,” Pichai said in an internal memo on November 4th obtained by The Verge and first reported on by The Washington Post. “And of course, the outcome will have important consequences.”
-“Whomever the voters entrust, let’s remember the role we play at work, through the products we build and as a business: to be a trusted source of information to people of every background and belief. We will and must maintain that.”
-Naturally, Google has …]]></summary>
-        <author>
-            <name>The Verge -  Front Pages</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon’s CEO defends return-to-office policy]]></title>
-        <id>https://www.theverge.com/2024/11/5/24289159/amazon-ceo-andy-jassy-defends-return-to-office-policy</id>
-        <link href="https://www.theverge.com/2024/11/5/24289159/amazon-ceo-andy-jassy-defends-return-to-office-policy"/>
-        <updated>2024-11-05T23:15:37.000Z</updated>
-        <summary type="html"><![CDATA[Illustration by Laura Normand / The Verge
-    
-
-  
-Amazon CEO Andy Jassy is pushing back on claims that his return-to-office mandate was a “backdoor layoff.” In a transcript of an all-hands staff meeting seen by Reuters and CNBC, Jassy said the move “is very much about our culture and strengthening our culture.”
-In September, Amazon announced that it would start making employees return to the office five days per week starting January 2nd, 2025. The e-commerce giant previously required employees to work in the office three days per week. Some speculated that the five-day-per-week mandate is a “layoff in disguise,” intended to push out employees who couldn’t or wouldn’t make the full return.
-“A number of people I’ve seen theorized that the reason we were doing this is, it’s a backdoor layoff, or we made some sort of deal with city or cities,” Jassy said during the meeting, according to Reuters. “I can tell you both of those are not true. You know, this was not a cost play for us.” Amazon has laid off more than 27,000 workers since 2022.
-Recent reports suggest many Amazon employees aren’t happy with the return to office mandate, with some even threatening to quit, according to a report from Fortune. Last month, hundreds of employees signed a letter in protest of comments from Amazon Web Services head Matt Garman, who said “there are other companies around” for workers who don’t want to come in five days per week.]]></summary>
-        <author>
-            <name>The Verge -  Front Pages</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[When the Show Is Over]]></title>
-        <id>https://www.theatlantic.com/newsletters/archive/2024/11/what-comes-after-all-the-political-theater/680545/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/newsletters/archive/2024/11/what-comes-after-all-the-political-theater/680545/?utm_source=feed"/>
-        <updated>2024-11-05T22:59:00.000Z</updated>
-        <summary type="html"><![CDATA[Much of the campaigning has felt like an elaborate traveling circus. But the spectacle is coming to an end.]]></summary>
-        <author>
-            <name>The Atlantic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mozilla is eliminating its advocacy division, which fought for a free and open web]]></title>
-        <id>https://www.theverge.com/2024/11/5/24289124/mozilla-foundation-layoffs-advocacy-global-programs</id>
-        <link href="https://www.theverge.com/2024/11/5/24289124/mozilla-foundation-layoffs-advocacy-global-programs"/>
-        <updated>2024-11-05T22:19:25.000Z</updated>
-        <summary type="html"><![CDATA[Illustration by Alex Castro / The Verge
-    
-
-  
-The Mozilla Foundation laid off 30 percent of its workforce and completely eliminated its advocacy and global programs divisions, TechCrunch reports. 
-While Mozilla is best known for its Firefox web browser, the Mozilla Foundation — the parent of the Mozilla Corporation — describes itself as standing up “for the health of the internet.” With its advocacy and global programs divisions gone, its impact may be lessened going forward.
-“Fighting for a free and open internet will always be core to our mission, and advocacy continues to be a critical tool in that work. We’re revisiting how we pursue that work, not stopping it,” Brandon Borrman, the Mozilla Foundation’s communications chief, said in an email to The Verge. Borrman declined to confirm exactly how many people were laid off, but said it was about “30% of the current team.”
-This is Mozilla’s second round of layoffs this year. In February, the Mozilla Corporation laid off around 60 workers said it would be making a “strategic correction” that would involve involve cutting back its work on a Mastodon instance. Mozilla shut down its virtual 3D platform and refocused its efforts on Firefox and AI. The Mozilla Foundation had around 120 employees before this more recent round of layoffs, according to TechCrunch.
-In an email sent to all employees on October 30th, Nabhia Syed, the foundation’s executive director, said that the advocacy and global programs divisions “are no longer part of our structure.”
-“Navigating this topsy-turvy, distracting time requires laser focus — and sometimes saying goodbye to the excellent work that has gotten us this far because it won’t get us to the next peak,” wrote Syed, who previously worked as the chief executive of The Markup, an investigative news site. “Lofty goals demand hard choices.”]]></summary>
-        <author>
-            <name>The Verge -  Front Pages</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple reportedly facing first-ever EU fine over App Store rules]]></title>
-        <id>https://www.theverge.com/2024/11/5/24289067/apple-eu-fine-digital-markets-act-app-store</id>
-        <link href="https://www.theverge.com/2024/11/5/24289067/apple-eu-fine-digital-markets-act-app-store"/>
-        <updated>2024-11-05T22:01:15.000Z</updated>
-        <summary type="html"><![CDATA[Image: Cath Virginia / The Verge
-    
-
-  
-Apple will soon become the first company to incur a fine for violating the European Union’s Digital Markets Act (DMA), reports Bloomberg. Sources tell the outlet that the Commission is getting ready to levy the penalty after it found that Apple’s “anti-steering” practices harmed competition on the App Store.
-This follows the EU’s €1.84 billion (around $2 billion) fine imposed on Apple in March. After investigating a complaint from Spotify, the EU Commission ruled that Apple restricted developers’ ability to point users to cheaper purchases outside the App Store in March — a practice that’s illegal under the DMA.
-We still don’t know how much the EU will fine Apple, but the DMA rules say companies can be charged up to 10 percent of annual global revenue and up to 20 percent for repeat offenses. Based on Apple’s revenue last year, the EU’s initial fine could add up to as much as $38 billion. The Commission may announce the fine as soon as this month before competition head Margrethe Vestager leaves office, Bloomberg reports.
-The Verge reached out to Apple with a request for comment but didn’t immediately hear back.
-Apple is also facing an investigation over whether it’s undermining alternative app stores in the EU. In September, the EU won its fight to make Apple pay €13 billion (about $14.4 billion) in unpaid taxes. Apple CEO Tim Cook even allegedly called former President Donald Trump to complain about the fines his company has accrued.]]></summary>
-        <author>
-            <name>The Verge -  Front Pages</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sony is discontinuing its $9,000 Airpeak S1 pro photography drone]]></title>
-        <id>https://www.theverge.com/2024/11/5/24288933/sony-airpeak-s1-camera-drone-discontinued</id>
-        <link href="https://www.theverge.com/2024/11/5/24288933/sony-airpeak-s1-camera-drone-discontinued"/>
-        <updated>2024-11-05T21:37:03.000Z</updated>
-        <summary type="html"><![CDATA[Sony will stop selling its Airpeak S1 drone on March 31st, 2025. | Image: Sony
-    
-
-  
-Almost four years after teasing it at CES 2021, Sony is discontinuing the Airpeak S1 drone that was designed to work with Sony’s mirrorless cameras. According to a notice posted to Sony Japan’s website on November 1st, sales of the $9,000 drone will end on March 31st, 2025, while all support will end five years later, as reported previously by PetaPixel.
-Sony will also stop selling Airpeak S1 accessories like the drone’s gimbal, battery charger, and remote control next year. However, it will continue to sell replacement batteries and propellers until March 31st, 2026, and will offer inspections, repairs, and software maintenance until March 31st, 2030.
-The AirPeak S1 promised capabilities including a top speed of 55.9mph, flight times up to 12 minutes with a camera and gimbal attached, and an ability to maintain a stable flight in winds up to 44.7mph when it was officially announced in 2021. However, the drone struggled to compete with offerings from companies like DJI, and early reviews were not positive. PetaPixel reviewed the Airpeak S1 in 2022 and concluded it was “not ready for commercial use.”
-Sony eventually improved the drone’s capabilities with software updates that added advanced flight mapping, the ability for the aircraft to return to a home point autonomously, and improved flight path recreation. The company also introduced a lighter camera gimbal and a larger battery that extended flight times to 20 minutes with a payload. However, when Sony announced its ILX-LR1 61-megapixel full-frame drone camera in 2023 that wasn’t compatible with the Airpeak S1, it indicated the drone’s days were numbered. That is now confirmed.]]></summary>
-        <author>
-            <name>The Verge -  Front Pages</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iOS 18.2 could finally estimate your iPhone’s charging time]]></title>
-        <id>https://www.theverge.com/2024/11/5/24288986/ios-18-2-could-finally-estimate-your-iphones-charging-time</id>
-        <link href="https://www.theverge.com/2024/11/5/24288986/ios-18-2-could-finally-estimate-your-iphones-charging-time"/>
-        <updated>2024-11-05T21:23:41.000Z</updated>
-        <summary type="html"><![CDATA[Photo by Amelia Holowaty Krales / The Verge
-    
-
-  
-The iPhone could finally show you how long it’ll take to finish charging. Code spotted in the second iOS 18.2 beta by 9to5Mac shows a new “BatteryIntelligence” feature that will let you receive a notification with the iPhone’s estimated charging time.
-Some Android phones already show how long it takes to charge — a feature that has become increasingly helpful considering the many different types of chargers, cables, and charging protocols that are available. The iPhone’s “BatteryIntelligence” feature still appears to be a work in progress, though, which means might have to wait a little longer until its official release, according to 9to5Mac.
-
-
-Newer iPhones already have some helpful battery health features. Last year, Apple added a new optimized charging setting for the iPhone 15 and up, which lets you charge the battery up to 80 percent to help it last longer. There’s also a new way to see your iPhone’s battery cycle count.]]></summary>
-        <author>
-            <name>The Verge -  Front Pages</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What's the dumbest thing you've had to do, because you're boss said so...?]]></title>
-        <id>https://www.reddit.com/r/sysadmin/comments/1gkhr03/whats_the_dumbest_thing_youve_had_to_do_because/</id>
-        <link href="https://www.reddit.com/r/sysadmin/comments/1gkhr03/whats_the_dumbest_thing_youve_had_to_do_because/"/>
-        <updated>2024-11-05T21:23:35.000Z</updated>
-        <summary type="html"><![CDATA[For me, it's been leaving the secondary domain controller offline... After nearly 12 months of gently bringing it up every now and then saying things like 'oh, I think that's supposed to be on.'...
-    submitted by    /u/corruptboomerang  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : sysadmin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Three Tips for Following Election Results Without Losing Your Mind]]></title>
-        <id>https://www.theatlantic.com/politics/archive/2024/11/three-tips-to-watch-elections/680542/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/politics/archive/2024/11/three-tips-to-watch-elections/680542/?utm_source=feed"/>
-        <updated>2024-11-05T20:58:20.000Z</updated>
-        <summary type="html"><![CDATA[How to watch the election without falling for conspiracy theories]]></summary>
-        <author>
-            <name>The Atlantic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Voting tech isn’t perfect, but so far it’s holding up]]></title>
-        <id>https://www.theverge.com/2024/11/5/24288940/election-day-voting-machines</id>
-        <link href="https://www.theverge.com/2024/11/5/24288940/election-day-voting-machines"/>
-        <updated>2024-11-05T20:53:58.000Z</updated>
-        <summary type="html"><![CDATA[Cath Virginia / The Verge | Photo by Stephen Morton, Getty Images
-    
-
-  
-The technology that powers Election Day has hit some expected hiccups, but as of early afternoon on Tuesday, nonpartisan groups say that the voting system is mostly holding up. Where it has faltered, they stress, there are robust backup plans that will ensure voters can still cast their ballots and that their votes will be counted.
-Members of the nonpartisan Election Protection coalition, which runs a hotline for voters seeking information or help at the polls, said they’re so far seeing reports of pretty standard tech issues. That includes spotty Wi-Fi connections impacting electronic poll books used to check voters in more efficiently, imprecise calibration on voting machine touchscreens, and ballot scanners that …]]></summary>
-        <author>
-            <name>The Verge -  Front Pages</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Lessons of 1800]]></title>
-        <id>https://www.theatlantic.com/politics/archive/2024/11/2024-election-precedent/680541/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/politics/archive/2024/11/2024-election-precedent/680541/?utm_source=feed"/>
-        <updated>2024-11-05T20:46:19.000Z</updated>
-        <summary type="html"><![CDATA[Two key components of a contentious presidential election are speaking loudly to the present.]]></summary>
-        <author>
-            <name>The Atlantic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mozilla Foundation lays off 30% staff, drops advocacy division.]]></title>
-        <id>https://www.reddit.com/r/technology/comments/1gkgiyb/mozilla_foundation_lays_off_30_staff_drops/</id>
-        <link href="https://www.reddit.com/r/technology/comments/1gkgiyb/mozilla_foundation_lays_off_30_staff_drops/"/>
-        <updated>2024-11-05T20:31:34.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/SUPRVLLAN  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : technology</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Cloud to make MFA mandatory by the end of 2025]]></title>
-        <id>https://www.bleepingcomputer.com/news/security/google-cloud-to-make-mfa-mandatory-by-the-end-of-2025/</id>
-        <link href="https://www.bleepingcomputer.com/news/security/google-cloud-to-make-mfa-mandatory-by-the-end-of-2025/"/>
-        <updated>2024-11-05T20:07:18.000Z</updated>
-        <summary type="html"><![CDATA[Google has announced that multi-factor authentication (MFA) will be mandatory on all Cloud accounts by the end of 2025 to enhance security. [...]]]></summary>
-        <author>
-            <name>Bill Toulas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Tiny Petrostate Is Running the World’s Climate Talks]]></title>
-        <id>https://www.theatlantic.com/science/archive/2024/11/cop29-azerbaijan/680537/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/science/archive/2024/11/cop29-azerbaijan/680537/?utm_source=feed"/>
-        <updated>2024-11-05T20:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Again.]]></summary>
-        <author>
-            <name>The Atlantic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[X Is a White-Supremacist Site]]></title>
-        <id>https://www.theatlantic.com/technology/archive/2024/11/x-white-supremacist-site/680538/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/technology/archive/2024/11/x-white-supremacist-site/680538/?utm_source=feed"/>
-        <updated>2024-11-05T19:41:17.000Z</updated>
-        <summary type="html"><![CDATA[Elon Musk has made one of Twitter’s most glaring problems into a core feature on X.]]></summary>
-        <author>
-            <name>The Atlantic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Misleading ‘pro-Harris’ texts are bombarding swing state voters | As Election Day approached, Democratic voters in Michigan and Pennsylvania were flooded with suspicious messages about Harris’ stance on Israel.]]></title>
-        <id>https://www.reddit.com/r/technology/comments/1gkep9o/misleading_proharris_texts_are_bombarding_swing/</id>
-        <link href="https://www.reddit.com/r/technology/comments/1gkep9o/misleading_proharris_texts_are_bombarding_swing/"/>
-        <updated>2024-11-05T19:14:25.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/chrisdh79  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : technology</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Been part of my email signature for years...]]></title>
-        <id>https://www.reddit.com/r/sysadmin/comments/1gkeh95/been_part_of_my_email_signature_for_years/</id>
-        <link href="https://www.reddit.com/r/sysadmin/comments/1gkeh95/been_part_of_my_email_signature_for_years/"/>
-        <updated>2024-11-05T19:05:16.000Z</updated>
-        <summary type="html"><![CDATA[If I am permitted to - I would like to add a small piece of levity (with two appropriate links) to today's flow in this subreddit...
- Last week, the Treasurer called me laughing -
- One of our overseas / Asian cohorts wanted to tell him - That my email was "not professional".
- Specifically - The image that is part of my email signature got his attention...
- As the post title says; I have been using this same image in my signature for YEARS... And No - I am not changing anything.
- Here it is - I posted it to imgur: https://imgur.com/gallery/been-part-of-email-signature-years-YBzt5mY
- The original is from the 'The System Is Down' HSR episode - THIS image includes transparencies for the tape, and the shadow.
- As a corporate systems admin - This works well for me...
- Here is the HSR episode - For the curious...
- https://www.youtube.com/watch?v=q1F4W8-DqjE
-    submitted by    /u/richie65  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : sysadmin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Interpol disrupts cybercrime activity on 22,000 IP addresses, arrests 41]]></title>
-        <id>https://www.bleepingcomputer.com/news/security/interpol-disrupts-cybercrime-activity-on-22-000-ip-addresses-arrests-41/</id>
-        <link href="https://www.bleepingcomputer.com/news/security/interpol-disrupts-cybercrime-activity-on-22-000-ip-addresses-arrests-41/"/>
-        <updated>2024-11-05T18:55:16.000Z</updated>
-        <summary type="html"><![CDATA[Interpol announced it arrested 41 individuals and taken down 1,037 servers and infrastructure running on 22,000 IP addresses facilitating cybercrime in an international law enforcement action titled Operation Synergia II. [...]]]></summary>
-        <author>
-            <name>Bill Toulas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Users keep forgetting their keyboards]]></title>
-        <id>https://www.reddit.com/r/sysadmin/comments/1gke4j9/users_keep_forgetting_their_keyboards/</id>
-        <link href="https://www.reddit.com/r/sysadmin/comments/1gke4j9/users_keep_forgetting_their_keyboards/"/>
-        <updated>2024-11-05T18:50:43.000Z</updated>
-        <summary type="html"><![CDATA[I get 2 to 3 requests a week from users stopping by telling me they forgot their keyboards, I give them keyboards and then they’re back next month with another lost keyboard. How the **** do you lose your keyboard??? 
- I want the SD card reader back too. He knows who he is. 
-    submitted by    /u/ididtheneedful  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : sysadmin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The M4 Mac mini could be the best offer Apple has ever made PC switchers]]></title>
-        <id>https://www.reddit.com/r/apple/comments/1gkdjry/the_m4_mac_mini_could_be_the_best_offer_apple_has/</id>
-        <link href="https://www.reddit.com/r/apple/comments/1gkdjry/the_m4_mac_mini_could_be_the_best_offer_apple_has/"/>
-        <updated>2024-11-05T18:27:14.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/iMacmatician  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : apple</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Love to Drive Fast, and I Cannot Stop]]></title>
-        <id>https://www.theatlantic.com/culture/archive/2024/11/dear-james-i-love-drive-fast-and-i-cannot-stop/680518/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/culture/archive/2024/11/dear-james-i-love-drive-fast-and-i-cannot-stop/680518/?utm_source=feed"/>
-        <updated>2024-11-05T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Is my bad habit going to be my demise?]]></summary>
-        <author>
-            <name>The Atlantic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[On Election Night, Stare Into the Abyss]]></title>
-        <id>https://www.theatlantic.com/science/archive/2024/11/election-night-cosmos/680519/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/science/archive/2024/11/election-night-cosmos/680519/?utm_source=feed"/>
-        <updated>2024-11-05T17:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Ponder the creative violence of the cosmos.]]></summary>
-        <author>
-            <name>The Atlantic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[It's been 10 years since Mario Kart 8 launched, and it still managed to outsell every single first-party new Nintendo Switch game in 2024]]></title>
-        <id>https://www.reddit.com/r/technology/comments/1gkbzdf/its_been_10_years_since_mario_kart_8_launched_and/</id>
-        <link href="https://www.reddit.com/r/technology/comments/1gkbzdf/its_been_10_years_since_mario_kart_8_launched_and/"/>
-        <updated>2024-11-05T17:21:43.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/a_Ninja_b0y  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : technology</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Most Underrated Anime for Beginners Chart]]></title>
-        <id>https://www.reddit.com/r/anime/comments/1gkbz1s/most_underrated_anime_for_beginners_chart/</id>
-        <link href="https://www.reddit.com/r/anime/comments/1gkbz1s/most_underrated_anime_for_beginners_chart/"/>
-        <updated>2024-11-05T17:21:21.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/BeatrizBittencourt  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : anime</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple Silicon Unified Memory: How Much Mac RAM Do You Need?]]></title>
-        <id>https://www.reddit.com/r/apple/comments/1gkbuon/apple_silicon_unified_memory_how_much_mac_ram_do/</id>
-        <link href="https://www.reddit.com/r/apple/comments/1gkbuon/apple_silicon_unified_memory_how_much_mac_ram_do/"/>
-        <updated>2024-11-05T17:16:25.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/kinglucent  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : apple</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Elon Musk’s false and misleading election claims have been viewed 2 billion times on X]]></title>
-        <id>https://www.reddit.com/r/technology/comments/1gkbuho/elon_musks_false_and_misleading_election_claims/</id>
-        <link href="https://www.reddit.com/r/technology/comments/1gkbuho/elon_musks_false_and_misleading_election_claims/"/>
-        <updated>2024-11-05T17:16:11.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/a_Ninja_b0y  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : technology</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Canadian Man Arrested in Snowflake Data Extortions]]></title>
-        <id>https://krebsonsecurity.com/?p=67735</id>
-        <link href="https://krebsonsecurity.com/2024/11/canadian-man-arrested-in-snowflake-data-extortions/"/>
-        <updated>2024-11-05T17:10:04.000Z</updated>
-        <summary type="html"><![CDATA[A 26-year-old man in Ontario, Canada has been arrested for allegedly stealing data from and extorting more than 160 companies that used the cloud data service Snowflake.
-
-On October 30, Canadian authorities arrested Alexander Moucka, a.k.a. Connor Riley Moucka of Kitchener, Ontario, on a provisional arrest warrant from the United States. Bloomberg first reported Moucka's alleged ties to the Snowflake hacks on Monday.
-
-At the end of 2023, malicious hackers learned that many large companies had uploaded huge volumes of sensitive customer data to Snowflake accounts that were protected with little more than a username and password (no multi-factor authentication required). After scouring darknet markets for stolen Snowflake account credentials, the hackers began raiding the data storage repositories used by some of the world’s largest corporations.]]></summary>
-        <author>
-            <name>BrianKrebs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MAGA Goes to Mars]]></title>
-        <id>https://www.theatlantic.com/science/archive/2024/11/musk-trump-mars-spacex/680529/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/science/archive/2024/11/musk-trump-mars-spacex/680529/?utm_source=feed"/>
-        <updated>2024-11-05T17:07:56.000Z</updated>
-        <summary type="html"><![CDATA[Elon Musk wants to give Donald Trump the presidency. Trump wants to give Musk the universe.]]></summary>
-        <author>
-            <name>The Atlantic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Vatican’s Anime Mascot Is Now an AI Porn Sensation]]></title>
-        <id>672a4e5a94858b00018246e0</id>
-        <link href="https://www.404media.co/luce-porn-vatican/"/>
-        <updated>2024-11-05T17:07:03.000Z</updated>
-        <summary type="html"><![CDATA[AI and Rule 34 have inevitably turned the Catholic Church’s cute Luce mascot into very graphic pornography.]]></summary>
-        <author>
-            <name>Emanuel Maiberg</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Freedom of Quincy Jones]]></title>
-        <id>https://www.theatlantic.com/culture/archive/2024/11/quincy-jones-obituary-future/680536/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/culture/archive/2024/11/quincy-jones-obituary-future/680536/?utm_source=feed"/>
-        <updated>2024-11-05T16:29:06.000Z</updated>
-        <summary type="html"><![CDATA[The late producer came from hardship and knew his history, which allowed him to see—and invent—the future of music.]]></summary>
-        <author>
-            <name>The Atlantic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why GM is ditching Apple CarPlay, with software boss Baris Cetinok]]></title>
-        <id>https://www.reddit.com/r/apple/comments/1gkal5x/why_gm_is_ditching_apple_carplay_with_software/</id>
-        <link href="https://www.reddit.com/r/apple/comments/1gkal5x/why_gm_is_ditching_apple_carplay_with_software/"/>
-        <updated>2024-11-05T16:23:44.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/HeavyHearing  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : apple</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[US warns of last-minute Iranian and Russian election influence ops]]></title>
-        <id>https://www.bleepingcomputer.com/news/security/us-warns-of-last-minute-iranian-and-russian-election-influence-ops/</id>
-        <link href="https://www.bleepingcomputer.com/news/security/us-warns-of-last-minute-iranian-and-russian-election-influence-ops/"/>
-        <updated>2024-11-05T16:23:13.000Z</updated>
-        <summary type="html"><![CDATA[The U.S. Cybersecurity & Infrastructure Security Agency is warning about last-minute influence operations conducted by Iranian and Russian actors to undermine the public trust in the integrity and fairness of the upcoming presidential election. [...]]]></summary>
-        <author>
-            <name>Bill Toulas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenSSH 9.9 new features: Enhanced security with post-quantum key exchange (mlkem768x25519-sha256) and DSA removal]]></title>
-        <id>https://4sysops.com/?p=1588602</id>
-        <link href="https://4sysops.com/archives/openssh-99-new-features-enhanced-security-with-post-quantum-key-exchange-mlkem768x25519-sha256-and-dsa-removal/"/>
-        <updated>2024-11-05T15:58:55.000Z</updated>
-        <summary type="html"><![CDATA[OpenSSH 9.9 is now available. It features security enhancements, the discontinuation of DSA support, and, notably, a new hybrid post-quantum key exchange designed to protect data exchange against potential threats from classical and quantum computing.]]></summary>
-        <author>
-            <name>Mercy Bassey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dave Lee Reveals the Old-School Technology and Flaws Behind the tinyPod]]></title>
-        <id>https://www.macstories.net/?p=77158</id>
-        <link href="https://www.macstories.net/linked/dave-lee-reveals-the-old-school-technology-and-flaws-behind-the-tinypod/"/>
-        <updated>2024-11-05T15:41:32.000Z</updated>
-        <summary type="html"><![CDATA[Announced back in May, the tinyPod is a plastic case that turns your strapless Apple Watch into an iPod-like phone. The company claims the case can make a cellular Apple Watch your “phone away from phone” with core apps like Messages, Phone, Music, Maps, and more. You can even use an app like μBrowser – […]]]></summary>
-        <author>
-            <name>Jonathan Reed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【軽バン生活】イベントお疲れ様ライブ！]]></title>
-        <id>https://www.youtube.com/watch?v=DzV6cxqKfcQ</id>
-        <link href="https://www.youtube.com/watch?v=DzV6cxqKfcQ"/>
-        <updated>2024-11-05T15:40:09.000Z</updated>
-        <author>
-            <name>軽バン生活</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alleged Snowflake Hacker Appears in Court, Says Prison in Lockdown]]></title>
-        <id>672a377394858b0001824155</id>
-        <link href="https://www.404media.co/alleged-snowflake-hacker-appears-in-court-says-prison-in-lockdown/"/>
-        <updated>2024-11-05T15:34:40.000Z</updated>
-        <summary type="html"><![CDATA[Connor Moucka said he didn't have a lawyer yet. He was arrested at the request of the U.S.]]></summary>
-        <author>
-            <name>Joseph Cox</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Suspect behind Snowflake data-theft attacks arrested in Canada]]></title>
-        <id>https://www.bleepingcomputer.com/news/security/suspect-behind-snowflake-data-theft-attacks-arrested-in-canada/</id>
-        <link href="https://www.bleepingcomputer.com/news/security/suspect-behind-snowflake-data-theft-attacks-arrested-in-canada/"/>
-        <updated>2024-11-05T15:20:09.000Z</updated>
-        <summary type="html"><![CDATA[Canadian authorities have arrested a man suspected of having stolen the data of hundreds of millions after targeting over 165 organizations, all of them customers of cloud storage company Snowflake. [...]]]></summary>
-        <author>
-            <name>Sergiu Gatlan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<em>The Magic Mountain</em> Saved My Life]]></title>
-        <id>https://www.theatlantic.com/magazine/archive/2024/12/thomas-mann-magic-mountain-cultural-political-relevance/680400/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/magazine/archive/2024/12/thomas-mann-magic-mountain-cultural-political-relevance/680400/?utm_source=feed"/>
-        <updated>2024-11-05T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[When I was young and adrift, Thomas Mann’s novel gave me a sense of purpose. Today, its vision is startlingly relevant.]]></summary>
-        <author>
-            <name>The Atlantic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Do Wives Want?]]></title>
-        <id>https://www.theatlantic.com/politics/archive/2024/11/harris-campaign-privately-liberal-wives/680528/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/politics/archive/2024/11/harris-campaign-privately-liberal-wives/680528/?utm_source=feed"/>
-        <updated>2024-11-05T14:59:11.000Z</updated>
-        <summary type="html"><![CDATA[Democrats are guessing that some nominally conservative married women will vote for Harris so long as they are certain their votes will be kept secret.]]></summary>
-        <author>
-            <name>The Atlantic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inside the Plan to Use AI to Purge Voter Rolls]]></title>
-        <id>672a30e594858b00018150b5</id>
-        <link href="https://www.404media.co/inside-the-plan-to-use-ai-to-purge-voter-rolls/"/>
-        <updated>2024-11-05T14:57:01.000Z</updated>
-        <summary type="html"><![CDATA[Audio obtained from board of elections meetings in Georgia show how a tool called EagleAI was pitched to election officials.]]></summary>
-        <author>
-            <name>Jason Koebler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google fixes two Android zero-days used in targeted attacks]]></title>
-        <id>https://www.bleepingcomputer.com/news/security/google-fixes-two-android-zero-days-used-in-targeted-attacks/</id>
-        <link href="https://www.bleepingcomputer.com/news/security/google-fixes-two-android-zero-days-used-in-targeted-attacks/"/>
-        <updated>2024-11-05T14:30:58.000Z</updated>
-        <summary type="html"><![CDATA[Google fixed two actively exploited Android zero-day flaws as part of its November security updates, addressing a total of 51 vulnerabilities. [...]]]></summary>
-        <author>
-            <name>Bill Toulas</name>
         </author>
     </entry>
 </feed>
