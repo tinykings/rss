@@ -12,6 +12,96 @@
       "siteUrl": "https://www.theverge.com/",
       "articles": [
         {
+          "id": "https://www.theverge.com/2024/11/16/24298338/netflix-mike-ttyson-vs-jake-paul-fight-netflix-60-million-households-streaming-quality-buffering",
+          "author": null,
+          "description": "Netflix had a very big night. | Photo: Al Bello / Getty Images for Netflix\n    \n\n  \nNetflix peaked at “65 million concurrent streams” during the boxing match between Mike Tyson and Jake Paul last night, according to Most Valuable Promotions, the promoter for the fight. Those streams went out to 60 million households globally, the group said in a press release shared with The Verge via email. That’s more than twice the traffic Netflix could see for its Christmas Day NFL stream this year, if everyone who watched last year streamed it.\nThe crush of people trying to watch Tyson vs. Paul seemed to be more than Netflix’s servers could easily handle, as the social web was awash with complaints about the quality of the stream, which many found to be muddy, or plagued with buffering and dropped connections. Downdetector recorded more than 100,000 complaints of Netflix streaming issues during the event, according to Bloomberg.\n60 million households around the world tuned in live to watch Paul vs. Tyson!\nThe boxing mega-event dominated social media, shattered records, and even had our buffering systems on the ropes. pic.twitter.com/kA8LjfAJSk\n— Netflix (@netflix) November 16, 2024\n\n\n\n\nThat’s also just a massive number of people streaming a single live event at the same time. Disney served 59 million concurrent streams of a World Cup cricket match through its Disney Plus Hotstar service last year. It hit similar numbers a few days earlier, and again in June this year. \n\n\n\n\nNetflix CTO Elizabeth Stone told employees that the company dealt with this “unprecedented scale” by prioritizing keeping the stream stable “for the majority of viewers,” according to Bloomberg’s Mark Gurman. \n“We don’t want to dismiss the poor experience of some members, and know we have room for improvement, but still consider this event a huge success,” Stone reportedly wrote. \nUpdate November 16th: Added Disney Plus Hotstar streaming numbers for additional context.",
+          "link": "https://www.theverge.com/2024/11/16/24298338/netflix-mike-ttyson-vs-jake-paul-fight-netflix-60-million-households-streaming-quality-buffering",
+          "publishedOn": "2024-11-16T22:48:19.000Z",
+          "wordCount": 3527,
+          "title": "Netflix served the Tyson vs. Paul fight to 60 million households",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/T1QxKo_BuKPKHXyMGQXgTBY7510=/0x0:2000x1333/1200x628/filters:focal(1000x667:1001x668)/cdn.vox-cdn.com/uploads/chorus_asset/file/25737195/AB4_6911_Q2mnYmjN.JPG"
+        },
+        {
+          "id": "https://www.theverge.com/2024/11/16/24298278/ftc-illegal-scam-call-robocall-telemarketer-complaints-down-50-percent-since-2021",
+          "author": null,
+          "description": "Image: Cath Virginia / The Verge; Getty Images\n    \n\n  \nComplaints about unwanted telemarketing calls have dropped for the third straight year, the Federal Trade Commission announced yesterday. Reports of such calls have fallen by over 50 percent versus 2021, according to the FTC — a decline that could be thanks in no small part to stepped-up government efforts to fight irritating telemarketing and phone scams.\nThere were about 33,000 fewer unwanted call complaints during the 2024 fiscal year versus the year prior, writes the FTC. The drop affected all sorts of unwanted calls, although the agency writes that reports about debt reduction calls had jumped “more than 85 percent from last year.”\nFTC Bureau of Consumer Protection Director Sam Levine said that while illegal calls are still “a scourge,” he credited “the FTC’s strategy to pursue upstream players and equip the agency to confront emerging threats” with the reduction in complaints.\n\n\nAs for what the FTC has actually been doing, it points to its crackdowns on illegal telemarketing last year, and its rules that ban the impersonation of governments or businesses. The agency also cites its Telemarketing Sales Rule (TSR), which places a number of restrictions on telemarketers — like when they can make their calls — and its clarification that the TSR applies to scam calls that use AI, too. \nLast year, the FTC banned those extended vehicle warranty scams that many of us are familiar with. That ban followed the Federal Communication Commission’s proposal of a $300 million fine over one such campaign. \nThe FCC has played a part in other ways, too. The biggest US mobile carriers started complying with a new anti-spoofing protocol aimed at verifying that the phone number shown on consumers’ caller ID was actually the one that called them. The FCC also banned AI-generated robocalls, has cracked down on robocallers / robotexters that don’t let people opt out, and requires cell carriers to block likely-illegal robotexts.",
+          "link": "https://www.theverge.com/2024/11/16/24298278/ftc-illegal-scam-call-robocall-telemarketer-complaints-down-50-percent-since-2021",
+          "publishedOn": "2024-11-16T22:24:47.000Z",
+          "wordCount": 3764,
+          "title": "The FTC says spam call complaints are way down since 2021",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/BjCNwfZ02FIu042652WOvuCQutQ=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25545709/STK481_STK432_CONGRESS_GOVERNMENT_CIVRGINIA_A.jpg"
+        },
+        {
+          "id": "https://www.theverge.com/22985108/best-fitness-tracker",
+          "author": null,
+          "description": "Photo illustration by Alex Castro / The Verge\n    \n\n\n  \nFrom simple fitness bands and rugged sports watches to rings, these are the best trackers you can get.\n Fitness trackers have come a long way from the simple bands that tracked steps and little else. Modern trackers can monitor everything from your heart health to how well you’ve recovered from a hard bout of training. Even flagship smartwatches, which used to be lackluster trackers, have become pretty adept workout companions. Whatever your fitness goals are, there’s probably a fitness tracker that can help you achieve them.\n\n\nCompared to some other gadgets, wearables are incredibly personal, which means there are a few extra considerations you’ll have to take into account before reaching for your wallet. It makes it hard to say that…",
+          "link": "https://www.theverge.com/22985108/best-fitness-tracker",
+          "publishedOn": "2024-11-16T20:38:47.000Z",
+          "wordCount": 29744,
+          "title": "The best fitness trackers to buy right now",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/lW_NZsRNmHhVkrQkd_lsPAKeS4w=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23336503/acastro_220321_5092_0001.jpg"
+        },
+        {
+          "id": "https://www.theverge.com/23505846/best-magsafe-magnetic-chargers-apple-iphone",
+          "author": null,
+          "description": "Image: Cath Virginia / The Verge\n    \n\n\n  \nThanks to Qi2, there are way more great chargers for your MagSafe phone than ever before.\n Wireless charging is less efficient than plugging in a wire, but it’s certainly convenient — especially when you add magnets. Most people who have an iPhone 12 or later and want a magnetic charger should get a Qi2 charger. Any Qi2-certified charger will charge a MagSafe iPhone at up to 15W — just as fast as MagSafe on any phone but the iPhone 16. Qi2 chargers are also less expensive than MagSafe-certified ones, and there are many more options. And unlike MagSafe, Qi2 is an open standard. There’s only one Qi2-compatible Android phone right now — the HMD Skyline — but we expect Google, and maybe Samsung, to add Qi2 to phones in 2025.\n\n\n\nQi2 adds some much-need…",
+          "link": "https://www.theverge.com/23505846/best-magsafe-magnetic-chargers-apple-iphone",
+          "publishedOn": "2024-11-16T20:00:21.000Z",
+          "wordCount": 13818,
+          "title": "The best MagSafe and Qi2 chargers for your iPhone",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/tnjNNGIWQQiTkldeTRub0nwpibY=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25645812/247290_Buying_Guide_MagSafe_Charger_CVirginia.jpg"
+        },
+        {
+          "id": "https://www.theverge.com/2024/11/16/24297331/narwal-freo-x-ultra-robot-vacuum-mop-sony-wh-1000xm4-deal-sale",
+          "author": null,
+          "description": "The Freo X Ultra packs a lot of features for the price, including the ability to automatically remop your floors when necessary. | Photo by Jennifer Pattison Tuohy / The Verge\n    \n\n  \nHosting Thanksgiving dinner is fun and all, but the amount of cleaning you have to do afterward can be exhausting. The Narwal Freo X Ultra robot vacuum / mop hybrid can help speed things up, though, and it’s currently down to an all-time low of $849.99 (about $690 off) at Best Buy and Amazon (when you apply the on-page coupon).\n\n\nThe Narwal Freo X Ultra is one of our favorite robot vacuums for mopping. It features a commendable 8,200Pa of suction power and a host of welcome features, including a set of spinning triangular mops that allow it to clean hard surfaces exceptionally well. It can adjust the amount …",
+          "link": "https://www.theverge.com/2024/11/16/24297331/narwal-freo-x-ultra-robot-vacuum-mop-sony-wh-1000xm4-deal-sale",
+          "publishedOn": "2024-11-16T18:19:51.000Z",
+          "wordCount": 4583,
+          "title": "Narwal’s Freo X Ultra, the best mopping robot available, is on sale for a new low price",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/_SRNDH1o6M1Rfg487W8LYdT-qcU=/0x0:5137x3425/1200x628/filters:focal(2569x1713:2570x1714)/cdn.vox-cdn.com/uploads/chorus_asset/file/25350531/8A0A1086.jpeg"
+        },
+        {
+          "id": "https://www.theverge.com/2024/11/16/24298091/gabe-newell-half-life-2-documentary-why-hl-3-never-happened",
+          "author": null,
+          "description": "Concept art for Half-Life 2: Episode 3, from the Half-Life 2 20th Anniversary Documentary. | Screenshot: YouTube\n    \n\n  \nUnsurprisingly, yesterday’s big Half-Life release wasn’t the sequel to Half-Life 2 or even the third Half-Life 2: Episode entry, but a 20th-anniversary update to Valve’s legendary 2004 game. And given what studio co-founder Gabe Newell has to say on the subject in a 2-hour documentary that the company released in tandem with the update, it seems less likely than ever that we’ll be seeing either follow-up anytime soon.\nNewell explains what he calls his “personal failure” near the end of the video (at this timestamp):\nYou can’t get lazy and say, “oh, we’re moving the story forward.” That’s copping out of your obligatiion to gamers, right? Yes, of course they love the stor…",
+          "link": "https://www.theverge.com/2024/11/16/24298091/gabe-newell-half-life-2-documentary-why-hl-3-never-happened",
+          "publishedOn": "2024-11-16T17:55:24.000Z",
+          "wordCount": 3747,
+          "title": "Gabe Newell says Half-Life 2: Episode 3 didn’t happen because he was ‘stumped’",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/GGZbrmyQHB6TmRVrVhwc1s7hA9U=/0x0:1452x1021/1200x628/filters:focal(726x511:727x512)/cdn.vox-cdn.com/uploads/chorus_asset/file/25736844/Screenshot_2024_11_16_at_11.47.41_AM.png"
+        },
+        {
+          "id": "https://www.theverge.com/2024/11/16/24298026/mike-tyson-jake-paul-netflix-livestream-quality-issues-buffering-dropped-stream",
+          "author": null,
+          "description": "Photo: Sarah Stier / Getty Images for Netflix\n    \n\n  \nNetflix’s livestream of the Mike Tyson and Jake Paul boxing match was a mess. I’m not talking about the bout itself — although people had their qualms with that, too — it’s the livestream, which people across the internet complained was plagued by buffering, unstable, and unwatchable muddiness. That doesn’t bode well for Netflix’s live sports ambitions, especially its upcoming Christmas Day NFL games. \nI had the same experience, having tuned in a few minutes before Paul showed up in the back of a lowrider truck. For the vast majority of the 8-round match, I had to lean heavily on my brain’s ability to construct a cohesive picture from very little information to have an idea of what was going on. The X post below was very much what the …",
+          "link": "https://www.theverge.com/2024/11/16/24298026/mike-tyson-jake-paul-netflix-livestream-quality-issues-buffering-dropped-stream",
+          "publishedOn": "2024-11-16T15:11:17.000Z",
+          "wordCount": 3929,
+          "title": "NFL fans worry Netflix’s bad Tyson vs. Paul stream means it can’t handle football",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/SVx9TTNSNPEvUwkyLHrLNdLdc5Q=/0x0:2000x1448/1200x628/filters:focal(1000x724:1001x725)/cdn.vox-cdn.com/uploads/chorus_asset/file/25736630/SS2_0106_eWtsAlhn.JPG"
+        },
+        {
+          "id": "https://www.theverge.com/24295933/bluesky-social-network-custom-how-to",
+          "author": null,
+          "description": "Image: Samar Haddad / The Verge\n    \n\n  \nSo, you’ve finally decided to give Bluesky a shot. The social network has come a long way since the early bare-bones days of invite-only signups and recently grew past the 15 million user mark. Along the way, it’s gathered a lot of familiar posting platform features, like direct messages, pinned posts, and the ability to post videos up to 60 seconds in length. \nBut there’s a lot more to it than that, and I’m not only talking about lore. (Yes, Bluesky has lore, and that’s probably the most classic Twitter thing about it.) It’s also got a number of features and settings you won’t find on X or Threads, like the ability to choose your own algorithm or moderation tools. These serve not just as a fast lane to getting the platform to feel lively but can al…",
+          "link": "https://www.theverge.com/24295933/bluesky-social-network-custom-how-to",
+          "publishedOn": "2024-11-16T15:00:00.000Z",
+          "wordCount": 9349,
+          "title": "Here’s some cool stuff you can do with Bluesky",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/LGWXNN4PvdjVnDifo7Oe2CEWbC8=/0x0:3000x2000/1200x628/filters:focal(1500x1000:1501x1001)/cdn.vox-cdn.com/uploads/chorus_asset/file/25735437/HT057_BLUESKY_CVirginia_A.jpg"
+        },
+        {
+          "id": "https://www.theverge.com/24295956/the-rise-of-the-golden-idol-review-pc-playstation-xbox-netflix-mobile",
+          "author": null,
+          "description": "Image: Playstack / Color Gray Games\n    \n\n  \nThe Case of the Golden Idol was a rewarding series of point-and-click murder mysteries that became one of my favorite games of 2022. And while I felt there was more story to explore about the titular golden idol, I wasn’t sure if a potential sequel could live up to its clever puzzles and fascinating, slowly unfolding story. Turns out, I had nothing to fear: The Rise of the Golden Idol, the newly launched sequel, easily surpasses the original by improving on just about everything.\nAt its core, Rise is a very similar game to Case. The new game takes place in the 1970s, around 200 years after the events of the original, and each of Rise’s cases drops you into a specific moment in time, typically during or shortly after a murder. You’re tasked with …",
+          "link": "https://www.theverge.com/24295956/the-rise-of-the-golden-idol-review-pc-playstation-xbox-netflix-mobile",
+          "publishedOn": "2024-11-16T13:00:00.000Z",
+          "wordCount": 5932,
+          "title": "The Rise of the Golden Idol makes a great puzzle game even better",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/7_x7lq2G3BHQv613t4TkS0pN5wI=/0x0:1920x1080/1200x628/filters:focal(1067x556:1068x557)/cdn.vox-cdn.com/uploads/chorus_asset/file/25733957/ss_d07481f7aae963c3135529b4d96053f13359d947.jpg"
+        },
+        {
           "id": "https://www.theverge.com/2024/11/15/24297696/crypto-states-jurisdiction-sec-assets",
           "author": null,
           "description": "In which various government bodies fight over “permissionless” assets | Illustration by Alex Castro / The Verge\n    \n\n  \nThe US Securities and Exchange Commission wants to  “unilaterally wrest regulatory authority away from the States” when it comes to crypto, according to a lawsuit from 18 states.  These states want to halt the SEC’s enforcement actions, so they can manage crypto regulation instead. Also named as a plaintiff on the suit is the DeFi Education Fund, a special interest lobbyist.\nControversial SEC chair Gary Gensler is named in the suit, along with other SEC commissioners. Gensler’s treatment of crypto during his time as chair has made him a punching bag for the industry — and for Republicans such as president-elect Donald Trump.\nThere has been an ongoing turf war over crypto…",
@@ -850,106 +940,6 @@
           "wordCount": 3576,
           "title": "David Zaslav says Trump will fuel big media mergers",
           "imageUrl": "https://cdn.vox-cdn.com/thumbor/-MCX37JA-ZPEixsYb6zo7_x1cEI=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25531810/STK175_DONALD_TRUMP_CVIRGINIA_D.jpg"
-        },
-        {
-          "id": "https://www.theverge.com/2024/11/6/24289932/take-two-private-division-publisher-sale",
-          "author": null,
-          "description": "Pokemon developer Game Freak’s unreleased Project Bloom game is included in the sale. | Image: Private Division\n    \n\n  \nTake-Two Interactive is selling off its indie games label Private Division, which published titles such as The Outer Worlds and OlliOlli World, following rumors over the summer that Take-Two laid off most of Private Division’s staff.\nTake-Two did not disclose the buyer of Private Division or how much they paid. In an emailed statement to The Verge, Take-Two spokesperson Alan Lewis wrote:\nWe recently made the strategic decision to sell our Private Division label to focus our resources on growing our core and mobile businesses for the long-term. As part of this transaction, the buyer purchased our rights to substantially all of Private Division’s live and unreleased titles. \nTake-Two will continue to support No Rest for the Wicked, which launched in Early Access on PC in April. We are grateful for the contributions that the Private Division team has made to our company and are confident that they will continue to achieve success in their new home.\nAccording to Bloomberg, the label has been plagued by “a string of flops, including Kerbal Space Program 2, which was full of bugs and panned by fans.” Private Division games, including the upcoming The Lord of the Rings farm simulator Tales of the Shire, as well as Pokémon developer Game Freak’s untitled game known as Project Bloom, will move over to the new buyer. However, Private Divison’s buyer won’t get the rights to No Rest for the Wicked.\nTake-Two CEO Strauss Zelnick told GamesIndustry.biz that the buyer would be named soon and said, “The team of Private Division did a great job supporting independent developers and, almost to a one, every project they supported did well. However, the scale of those projects was, candidly, on the smaller side, and we’re in the business of making great big hits,” like the upcoming Grand Theft Auto VI.",
-          "link": "https://www.theverge.com/2024/11/6/24289932/take-two-private-division-publisher-sale",
-          "publishedOn": "2024-11-06T23:52:17.000Z",
-          "wordCount": 3019,
-          "title": "Take-Two is selling its indie games label Private Division",
-          "imageUrl": "https://cdn.vox-cdn.com/thumbor/hysTO5IAdY8UAg46acHK3dUqeZU=/0x0:3840x2160/1200x628/filters:focal(1920x1080:1921x1081)/cdn.vox-cdn.com/uploads/chorus_asset/file/24643486/PD_GF_ProjectBloom_ConceptArt_3840x2160__1_.jpg"
-        },
-        {
-          "id": "https://www.theverge.com/2024/11/6/24289857/ftc-fake-review-order-sitejabber-misleading-product-ratings",
-          "author": null,
-          "description": "Image: Cath Virginia / The Verge\n    \n\n  \nThe Federal Trade Commission has charged Sitejabber, an online review platform, with violating its new fake reviews rules by using point-of-sale reviews to misrepresent what customers think about products. In one of its first enforcement actions under new rules banning companies from making or selling fake reviews, the FTC is ordering the company to stop.\nThe FTC says Sitejabber “deceptively” punched up businesses’ review counts by incorporating responses to point-of-sale questionnaires asking customers to rate and review their shopping experience, before they’d actually gotten any products or services. It also alleges that by giving its clients tools to publish that feedback on their own sites, Sitejabber enabled them to mislead people to think the ratings and reviews were based on actual experience with what the companies were selling. \n\n\nThe FTC now forbids Sitejabber from “misrepresenting, or assisting anyone else in misrepresenting” that such reviews are based on customer experience with a product or service. The company is also barred from helping other companies misrepresent the reviews that “it collects, moderates, or displays.” \nThe regulator’s new anti-fake review rules, which went into effect last month, aim to address AI-generated reviews online, including on Amazon and other e-commerce sites. The FTC prohibits a swath of deceptive practices, such as offering incentives to leave feedback or creating a fake review website that seems independent but is actually owned by the very company that makes the products being reviewed. Or at least, it will for the next couple of months, after which the next US President will be sworn in and (probably) replace its leadership — and we’ll see what happens next.",
-          "link": "https://www.theverge.com/2024/11/6/24289857/ftc-fake-review-order-sitejabber-misleading-product-ratings",
-          "publishedOn": "2024-11-06T22:52:08.000Z",
-          "wordCount": 3209,
-          "title": "The FTC orders Sitejabber to stop faking product reviews",
-          "imageUrl": "https://cdn.vox-cdn.com/thumbor/4PO01s2FBE2YAOjuEmCHslk_OVE=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25262997/STK461_INTERNET_CHILD_SAFETY_E_Stock_CVirginia.jpg"
-        },
-        {
-          "id": "https://www.theverge.com/2024/11/6/24289937/nyt-tech-workers-strike-games-wordle",
-          "author": null,
-          "description": "Striking New York Times tech workers have created a “Guild Builds” page dedicated to strike-themed games you can play, including a spin on Wordle, a word search, and the custom Connections I reported on earlier today.\nAs part of its strike announcement on Monday, the New York Times Tech Guild requested that people don’t cross the digital picket line to play the NYT’s daily puzzle games. This collection of five other games offers an alternative if you want to support the striking workers but also do some brain teasers. \nThere are currently five games on the page:\nStrikle, the twist on Wordle\n\n\nConnections: Strike Edition, which is a puzzle made in a Connections creator\n\nWord Search\nMatch Strike, a memory game\nFrogger 8th Avenue\nThey aren’t super fancy, but I’ve had fun messing around with them. The games will be updated “when they can be,” Jen Sheehan, spokesperson for the NewsGuild of New York, tells The Verge, so you might want to check back every once in awhile to see if there’s a new version of a puzzle to play. Sheehan also says that guild members created all of the games but Strikle, which was made by an external supporter.\nThe New York Times didn’t immediately reply to a request for comment.\nThe striking workers have also asked people not to use NYT Cooking, so the Guild Builds page also includes some strike-themed recipes you can make instead. I’m personally intrigued by “‘We’ve got beef with management’ Stuffed Mushrooms,” though Solidarity Soup sounds pretty good, too.",
-          "link": "https://www.theverge.com/2024/11/6/24289937/nyt-tech-workers-strike-games-wordle",
-          "publishedOn": "2024-11-06T22:48:27.000Z",
-          "wordCount": 2786,
-          "title": "NYT tech workers are making their own games while on strike",
-          "imageUrl": "https://cdn.vox-cdn.com/thumbor/RL5lKOr3l22gqrtrill92fHwQIQ=/0x0:7752x5171/1200x628/filters:focal(3876x2586:3877x2587)/cdn.vox-cdn.com/uploads/chorus_asset/file/25718619/2182236802.jpg"
-        },
-        {
-          "id": "https://www.theverge.com/2024/11/6/24289844/microsoft-windows-on-arm-emulator-prism-update",
-          "author": null,
-          "description": "Photo by Chris Welch / The Verge\n    \n\n  \nMicrosoft is testing a big Windows on Arm update to let more x64 software and games run under Prism emulation on Copilot Plus PC with Qualcomm’s Snapdragon X Elite or X Plus processors. The capability comes as part of the Windows 11 Insider Preview Build 27744, rolling out to testers in the Canary Channel.\nThis way, Qualcomm’s new chips can run more kinds of apps that don’t have native ARM64 versions and, until now, weren’t usable with emulation. It could even enable games that use AVX2, like Starfield and Helldivers 2, to work on Windows on Arm.\n\n\nWith this update, Microsoft’s emulator will open up support for 64-bit x86 software to use processor extensions like AVX, AVX2, BMI, FMA, and F16C. However, it says 32-bit software still won’t be able to detect the new emulator support, so some programs still might have trouble.\nWhile many apps, including Photoshop, Hulu, and Chrome, already have native ARM64 versions for Windows, others require emulation, and some still won’t work at all. According to Microsoft, the new emulator is already enabled “in limited use” on retail PCs, allowing Premiere Pro 25 to run on Arm — after it was initially blocked — while Adobe works on a native version.\nCorrection, November 6th: A previous version of the article incorrectly stated Blender needed to be emulated. It now has an ARM64 version.",
-          "link": "https://www.theverge.com/2024/11/6/24289844/microsoft-windows-on-arm-emulator-prism-update",
-          "publishedOn": "2024-11-06T22:41:46.000Z",
-          "wordCount": 2980,
-          "title": "Microsoft’s new emulator could bring more games to Windows on Arm",
-          "imageUrl": "https://cdn.vox-cdn.com/thumbor/ouE2rb4yyoGkShEVw6CWSaDTJYw=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25503644/DSCF7817_Enhanced_NR.jpg"
-        },
-        {
-          "id": "https://www.theverge.com/2024/11/6/24289837/roblox-banning-preteens-social-hangout-spaces",
-          "author": null,
-          "description": "Illustration: The Verge\n    \n\n  \nRoblox is going to block kids from accessing certain types of experiences following reports alleging that the platform has enabled child abuse.\nOne new measure will stop kids under 13 from accessing experiences with “certain types of interactive features,” Roblox says in a post on its developer forum. Those include “social hangouts,” where the primary purpose is to communicate with others over text or voice chat, and “free-form 2D user creation” experiences, where players can do things like draw on a chalkboard or whiteboard. This change goes into effect beginning November 18th.\n\n\nAnother change stops kids under 13 from playing, searching for, or being able to discover unrated experiences. This change goes into effect after December 3rd. If a creator wants to let a player under 13 access their game, they will have to complete a questionnaire and make sure that all of the information regarding their experience meets Roblox’s requirements for its current All Ages or 9 plus ratings. Roblox says it will start enforcing those requirements “next year.”\nThere have been multiple recent stories about Roblox’ allegedly poor protections for children, including a Bloomberg article titled “Roblox’s Pedophile Problem.” In October, the company announced changes for pre-teen users and a new type of account to let parents manage their kids on Roblox.\n“We’re constantly strengthening our safety systems and policies — we shipped over 30 improvements this year and we have more to come,” spokesperson Juliet Chaitin-Lefcourt says in a statement to The Verge. “As a company that’s transparent with our community of developers, we needed to share key information about the upcoming changes prior to launch. The DevForum has all the information on the upcoming changes that we’re sharing at this time. It’s important to know that at Roblox, we’re constantly innovating Safety and we’ll never STOP.” (Emphasis Chaitin-Lefcourt’s.)\nUpdate, November 6th: Added statement from Roblox.",
-          "link": "https://www.theverge.com/2024/11/6/24289837/roblox-banning-preteens-social-hangout-spaces",
-          "publishedOn": "2024-11-06T21:37:32.000Z",
-          "wordCount": 2859,
-          "title": "Roblox is banning kids from ‘social hangout’ spaces",
-          "imageUrl": "https://cdn.vox-cdn.com/thumbor/W9jQ4vTT6yHPcy1GfAQcSdEITB0=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24785223/STK146_Roblox_New_01.jpg"
-        },
-        {
-          "id": "https://www.theverge.com/2024/11/6/24289757/samsung-galaxy-s25-slim-iphone-17-rumor-sm-s937u",
-          "author": null,
-          "description": "Illustration by Alex Castro / The Verge\n    \n\n  \nSamsung might be working on a “Galaxy S25 Slim” model, with similar rumors to the ones about a “Slim” iPhone 17 in 2025 that may replace the iPhone Plus. South Korea’s ET news first reported on it, saying Samsung might release a slim smartphone during the second quarter of 2025 (April – June) as a follow-up a few months after the rest of the Galaxy S25 family makes their debut. \nAnd now Smartprix has shown the listing for a smartphone with the market name “Galaxy” and model number SM-S937U in the GSMA IMEI database. Smartprix says Samsung typically adds smartphones it’s working on testing internally to the database before launching it six to seven months later, and this model number lines up with others that line up with the usual Galaxy standard, Plus, and Ultra phones.\n\n\nOther details are unknown, besides that the U indicates it should see a release in the US.  The iPhone’s slim variant, however, could debut in the third quarter and cost more than even Apple’s current most expensive model, the iPhone Pro Max, with a 6.6-inch display and just one rear-facing camera, according to reports from The Information and others.\nSamsung might have to change a few parts to accommodate a different design, so it’s possible a slim Galaxy could cut back on the processor, display, battery, and camera capabilities. So, if the AI features in the Galaxy S24 and iPhone 16 weren’t enough to make you upgrade, maybe next year we’ll find out if making it really thin can do the trick.",
-          "link": "https://www.theverge.com/2024/11/6/24289757/samsung-galaxy-s25-slim-iphone-17-rumor-sm-s937u",
-          "publishedOn": "2024-11-06T21:30:09.000Z",
-          "wordCount": 3114,
-          "title": "Galaxy S25 ‘Slim’ rumors suggest a skinny phone showdown next year",
-          "imageUrl": "https://cdn.vox-cdn.com/thumbor/o2GqvKyE3kKUW1FjroWARW-Oh2g=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24000090/acastro_STK075_02.jpg"
-        },
-        {
-          "id": "https://www.theverge.com/23942597/notes-text-evernote-onenote-keep-apps",
-          "author": null,
-          "description": "Photo by James Bareham / The Verge\n    \n\n  \nThese days, we are all dealing with huge amounts of information, from meeting notes to social media, to photos and videos, to whatever else we’ve collected — and we are all trying to find some way to store it, organize it, and find it when we need it. \nIf you want to get really basic, you can use a spreadsheet or create a simple set of word-processing documents. Otherwise, you can try what is somewhat inaccurately described as a note-taking app. These apps, at their simplest, store your notes and other thoughts and, at their more complex, are capable of manipulating any and all content you want to drop into them. \nOne of the most well-known has been Evernote, which has gone through quite a few changes over the years, both financially and in its f…",
-          "link": "https://www.theverge.com/23942597/notes-text-evernote-onenote-keep-apps",
-          "publishedOn": "2024-11-06T21:07:10.000Z",
-          "wordCount": 19350,
-          "title": "The best note-taking apps for collecting your thoughts and data",
-          "imageUrl": "https://cdn.vox-cdn.com/thumbor/eNyyCrECf0wpLpzdmDEgX3eTV7s=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/15961654/jbareham_190314_3294_0011_2.jpg"
-        },
-        {
-          "id": "https://www.theverge.com/2024/11/6/24289768/openai-chat-chatgpt-sam-altman-hubspot",
-          "author": null,
-          "description": "Image: OpenAI\n    \n\n  \nOn Wednesday, OpenAI CEO Sam Altman posted a simple URL on X: chat.com. It automatically routes to ChatGPT.\nPreviously, the domain was owned by Dharmesh Shah, the founder and CTO of HubSpot. In early 2023, Shah purchased chat.com for $15.5 million. However, just a few months later, he announced that he had sold the domain, though he wouldn’t disclose the details of the sale or the buyer. Notably, he did confirm that he sold the domain for more than he had originally paid for it.\n“The reason I bought chat.com is simple: I think Chat-based UX (#ChatUX) is the next big thing in software. Communicating with computers/software through a natural language interface is much more intuitive. This is made possible by Generative A.I,” Shah wrote in a LinkedIn post announcing the…",
-          "link": "https://www.theverge.com/2024/11/6/24289768/openai-chat-chatgpt-sam-altman-hubspot",
-          "publishedOn": "2024-11-06T20:22:17.000Z",
-          "wordCount": 2892,
-          "title": "Did OpenAI just spend more than $10 million on a URL?",
-          "imageUrl": "https://cdn.vox-cdn.com/thumbor/AhMKtXCq37T2-zlrZMpaO59AB2k=/0x0:1820x1213/1200x628/filters:focal(910x607:911x608)/cdn.vox-cdn.com/uploads/chorus_asset/file/24247717/lp_logo_3.0.jpg"
-        },
-        {
-          "id": "https://www.theverge.com/21420196/best-budget-smartphone-cheap",
-          "author": null,
-          "description": "You can get a great device for less than $500 these days if you know how to pick your priorities. | Image: The Verge\n    \n\n\n  \nYou can’t have everything at this price, but you can get a great smartphone. Whether you want an iPhone, a 120Hz screen, or water resistance, you’ve got options.\n Some of us take a kind of “I eat to live” rather than an “I live to eat” approach to gadgets. They’re tools that help you get things done, not something you want to invest a lot of time or money in. If that’s you — and there’s no judgment here from a certifiable gadget nerd — then you can probably think of more worthwhile ways to spend $1,000 than on a phone.\nBudget phones to the rescue. These devices are roughly $500 or under, and they’re more capable than ever before. You won’t get all the bells and whi…",
-          "link": "https://www.theverge.com/21420196/best-budget-smartphone-cheap",
-          "publishedOn": "2024-11-06T20:17:50.000Z",
-          "wordCount": 15847,
-          "title": "The best smartphone you can buy for under $500",
-          "imageUrl": "https://cdn.vox-cdn.com/thumbor/DtXEQ6z2TnVVn7tq6y8vtagN8hY=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24222843/226422_K_Radtke_budget_phone_buying_guide.jpg"
-        },
-        {
-          "id": "https://www.theverge.com/21345733/best-noise-canceling-headphones",
-          "author": null,
-          "description": "Image: Cath Virginia / The Verge\n    \n\n\n  \nGet some peace and quiet with any of our top picks for noise-canceling headphones. Sony’s still the best overall, but there are reasons to go elsewhere, too.\n Whether you’re wearing them for the morning commute, while traveling, or if you’re simply trying to find some peace and quiet while working at home, noise-canceling headphones are a more essential piece of kit nowadays than ever before. And you’ve got a slew of great options to pick from; it’s hard to make a bad choice.\n\n\nThere are longtime heavyweights like Bose and Sony to pick from. Apple has quickly carved into the market with the luxurious AirPods Max. And if you’ve got an ear that demands the best audio quality, headphones from Bowers & Wilkins and Sennheiser might appeal to you more t…",
-          "link": "https://www.theverge.com/21345733/best-noise-canceling-headphones",
-          "publishedOn": "2024-11-06T19:51:30.000Z",
-          "wordCount": 15011,
-          "title": "The best noise-canceling headphones to buy right now",
-          "imageUrl": "https://cdn.vox-cdn.com/thumbor/KXwKqk7nlOnw6vPTdAqW5oQmOjA=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25594581/247231_Buying_Guide_Headphones_CVirginia.jpg"
         }
       ]
     },
@@ -958,6 +948,86 @@
       "feedUrl": "https://www.theatlantic.com/feed/all/",
       "siteUrl": "https://www.theatlantic.com/",
       "articles": [
+        {
+          "id": "https://www.theatlantic.com/ideas/archive/2024/11/musa-al-gharbi-wokeness-elite/680347/?utm_source=feed",
+          "author": null,
+          "description": "Behind much social-justice discourse is a self-interested struggle for power.",
+          "link": "https://www.theatlantic.com/ideas/archive/2024/11/musa-al-gharbi-wokeness-elite/680347/?utm_source=feed",
+          "publishedOn": "2024-11-16T16:00:00.000Z",
+          "wordCount": 5767,
+          "title": "Is Wokeness One Big Power Grab?",
+          "imageUrl": "https://cdn.theatlantic.com/thumbor/hbEeplaAbbEhAsJgcW3Vwn_xlaQ=/12x1640:5086x4283/1200x625/media/img/mt/2024/10/HR_20241020_AlGharbi_128/original.jpg"
+        },
+        {
+          "id": "https://www.theatlantic.com/national/archive/2024/11/trump-cabinet-picks-washington-week/680687/?utm_source=feed",
+          "author": null,
+          "description": "Trump’s nominees share two main attributes: loyalty and loathing.",
+          "link": "https://www.theatlantic.com/national/archive/2024/11/trump-cabinet-picks-washington-week/680687/?utm_source=feed",
+          "publishedOn": "2024-11-16T15:52:31.000Z",
+          "wordCount": 983,
+          "title": "What’s Behind Trump’s Controversial Cabinet Picks",
+          "imageUrl": "https://cdn.theatlantic.com/thumbor/gn4sUr5GGhcVxjro5_2jrNExHbI=/0x58:1917x1056/1200x625/media/img/mt/2024/11/still1_1/original.jpg"
+        },
+        {
+          "id": "https://www.theatlantic.com/politics/archive/2024/11/american-kakistocracy-donald-trump-berlusconi/680675/?utm_source=feed",
+          "author": null,
+          "description": "Italy knows a thing or two about what the United States faces—but there are key differences between the two countries’ experiences.",
+          "link": "https://www.theatlantic.com/politics/archive/2024/11/american-kakistocracy-donald-trump-berlusconi/680675/?utm_source=feed",
+          "publishedOn": "2024-11-16T15:00:00.000Z",
+          "wordCount": 2521,
+          "title": "American Kakistocracy",
+          "imageUrl": "https://cdn.theatlantic.com/thumbor/zT4Qr1OoT6JBzKViZie6xeMrzvw=/0x43:2000x1085/1200x625/media/img/mt/2024/11/Berlusconi/original.jpg"
+        },
+        {
+          "id": "https://www.theatlantic.com/newsletters/archive/2024/11/grateful-dead-musicians-inner-lives/680686/?utm_source=feed",
+          "author": null,
+          "description": "Learning where famous artists sleep and what they eat is like finally glimpsing the unknowable.",
+          "link": "https://www.theatlantic.com/newsletters/archive/2024/11/grateful-dead-musicians-inner-lives/680686/?utm_source=feed",
+          "publishedOn": "2024-11-16T14:41:00.000Z",
+          "wordCount": 989,
+          "title": "The Inner Lives of Musicians",
+          "imageUrl": "https://cdn.theatlantic.com/thumbor/eHy4pz8IkjOMAGE-LzVJtaCmgdk=/208x158:5129x2721/1200x625/media/img/mt/2024/11/WR1116lead/original.jpg"
+        },
+        {
+          "id": "https://www.theatlantic.com/magazine/archive/2024/12/nick-cave-bad-seeds-wild-god-album-grief-masculinity/680396/?utm_source=feed",
+          "author": null,
+          "description": "On his new album, he seems to want to help men cope with feelings of insecurity and irrelevance.",
+          "link": "https://www.theatlantic.com/magazine/archive/2024/12/nick-cave-bad-seeds-wild-god-album-grief-masculinity/680396/?utm_source=feed",
+          "publishedOn": "2024-11-16T14:00:00.000Z",
+          "wordCount": 5270,
+          "title": "Nick Cave’s Revised Rules for Men",
+          "imageUrl": "https://cdn.theatlantic.com/thumbor/ktzHlQDtHE2v9twG98Mkks1Taxw=/0x10:2000x1052/1200x625/media/img/2024/10/Nick_final_HP/original.png"
+        },
+        {
+          "id": "https://www.theatlantic.com/culture/archive/2024/11/emilia-perez-review-netflix-controversy/680673/?utm_source=feed",
+          "author": null,
+          "description": "<em>Emilia Pérez</em> is messy, excessive, and manipulative—and spectacular because of it.",
+          "link": "https://www.theatlantic.com/culture/archive/2024/11/emilia-perez-review-netflix-controversy/680673/?utm_source=feed",
+          "publishedOn": "2024-11-16T13:30:00.000Z",
+          "wordCount": 2702,
+          "title": "A Film Impossible to Have Mild Feelings About",
+          "imageUrl": "https://cdn.theatlantic.com/thumbor/bmKRTNX15LRRBD3jFLtLmCFlhso=/0x70:3300x1789/1200x625/media/img/mt/2024/11/HR_EmiliaPerez/original.jpg"
+        },
+        {
+          "id": "https://www.theatlantic.com/ideas/archive/2024/11/making-government-efficient-again/680672/?utm_source=feed",
+          "author": null,
+          "description": "An incoming Trump administration plans to ransack the civil service. But it needs reform, not demolition.",
+          "link": "https://www.theatlantic.com/ideas/archive/2024/11/making-government-efficient-again/680672/?utm_source=feed",
+          "publishedOn": "2024-11-16T12:30:00.000Z",
+          "wordCount": 3433,
+          "title": "Making Government Efficient Again",
+          "imageUrl": "https://cdn.theatlantic.com/thumbor/9ZfXyJsQAJLPlRuFtIJUzlUhmec=/0x0:2876x1498/1200x625/media/img/mt/2024/11/MAEA_efficiency/original.jpg"
+        },
+        {
+          "id": "https://www.theatlantic.com/politics/archive/2024/11/donald-trump-appoint-gaetz-gabbard-rfk/680684/?utm_source=feed",
+          "author": null,
+          "description": "The sheer quantity of individually unqualified selections might make blocking any of them harder.",
+          "link": "https://www.theatlantic.com/politics/archive/2024/11/donald-trump-appoint-gaetz-gabbard-rfk/680684/?utm_source=feed",
+          "publishedOn": "2024-11-16T12:00:00.000Z",
+          "wordCount": 2272,
+          "title": "The Perverse Logic of Trump’s Nomination Circus",
+          "imageUrl": "https://cdn.theatlantic.com/thumbor/WZOpOSQjp4CeSDTOalb5thJmCKQ=/0x0:2000x1042/1200x625/media/img/mt/2024/11/elephant/original.jpg"
+        },
         {
           "id": "https://www.theatlantic.com/newsletters/archive/2024/11/the-rfk-jr-effect/680683/?utm_source=feed",
           "author": null,
@@ -2087,126 +2157,6 @@
           "wordCount": 2725,
           "title": "America Got the Father It Wanted",
           "imageUrl": "https://cdn.theatlantic.com/thumbor/ko0k_z-MtUIqXRAGN6Zk4sH_Lqs=/0x53:2496x1353/1200x625/media/img/mt/2024/11/GettyImages_2182728325/original.jpg"
-        },
-        {
-          "id": "https://www.theatlantic.com/politics/archive/2024/11/abortion-rights-ballot-measures/680567/?utm_source=feed",
-          "author": null,
-          "description": "Voters seemed willing to back both state referenda enshrining reproductive rights and the candidate whose Supreme Court appointees overturned <em>Roe</em>.",
-          "link": "https://www.theatlantic.com/politics/archive/2024/11/abortion-rights-ballot-measures/680567/?utm_source=feed",
-          "publishedOn": "2024-11-07T12:45:00.000Z",
-          "wordCount": 2192,
-          "title": "How Trump Neutralized His Abortion Problem",
-          "imageUrl": "https://cdn.theatlantic.com/thumbor/LWZXYLkwoYBuckzY6OUgX6euPHE=/0x61:2866x1554/1200x625/media/img/mt/2024/11/GettyImages_2182519106/original.jpg"
-        },
-        {
-          "id": "https://www.theatlantic.com/ideas/archive/2024/11/dealing-with-disappointment/680520/?utm_source=feed",
-          "author": null,
-          "description": "Not getting what you want is an unavoidable part of life. The way you choose to handle it is what you can control.",
-          "link": "https://www.theatlantic.com/ideas/archive/2024/11/dealing-with-disappointment/680520/?utm_source=feed",
-          "publishedOn": "2024-11-07T12:30:00.000Z",
-          "wordCount": 3479,
-          "title": "How to Deal With Disappointment",
-          "imageUrl": "https://cdn.theatlantic.com/thumbor/dP91M_3yjhVsQNiqLyb2d6CTowU=/0x64:2995x1624/1200x625/media/img/mt/2024/11/HowToBuildALife214-1/original.jpg"
-        },
-        {
-          "id": "https://www.theatlantic.com/podcasts/archive/2024/11/are-we-living-in-a-different-america/680565/?utm_source=feed",
-          "author": null,
-          "description": "A postelection conversation with staff writers Anne Applebaum and McKay Coppins",
-          "link": "https://www.theatlantic.com/podcasts/archive/2024/11/are-we-living-in-a-different-america/680565/?utm_source=feed",
-          "publishedOn": "2024-11-07T12:00:00.000Z",
-          "wordCount": 12069,
-          "title": "Are We Living in a Different America?",
-          "imageUrl": "https://cdn.theatlantic.com/thumbor/hi3ii2tWkrTcGFXB5GojwhIG2J0=/0x80:4000x2163/1200x625/media/img/mt/2024/11/RA_TrumpsAmerica/original.jpg"
-        },
-        {
-          "id": "https://www.theatlantic.com/politics/archive/2024/11/biden-harris-2024-election/680560/?utm_source=feed",
-          "author": null,
-          "description": "Embedded in their autopsies was their own unstated faith that they could have done better.",
-          "link": "https://www.theatlantic.com/politics/archive/2024/11/biden-harris-2024-election/680560/?utm_source=feed",
-          "publishedOn": "2024-11-07T11:00:00.000Z",
-          "wordCount": 1792,
-          "title": "Why Biden’s Team Thinks Harris Lost",
-          "imageUrl": "https://cdn.theatlantic.com/thumbor/Q8Mhfk2-HXUk9NDKELoBUVTXVW4=/0x0:2000x1042/1200x625/media/img/mt/2024/11/Biden_postmortem/original.jpg"
-        },
-        {
-          "id": "https://www.theatlantic.com/newsletters/archive/2024/11/trump-voters-got-what-they-wanted/680564/?utm_source=feed",
-          "author": null,
-          "description": "Those who expect that Donald Trump will hurt others, and not them, are likely to be unpleasantly surprised.",
-          "link": "https://www.theatlantic.com/newsletters/archive/2024/11/trump-voters-got-what-they-wanted/680564/?utm_source=feed",
-          "publishedOn": "2024-11-06T23:12:00.000Z",
-          "wordCount": 3429,
-          "title": "Trump Voters Got What They Wanted",
-          "imageUrl": "https://cdn.theatlantic.com/thumbor/3jl39z8MrFMH-0dN8yX5Iv-ZbWA=/5x19:3564x1873/1200x625/media/img/mt/2024/11/GettyImages_2181343786/original.jpg"
-        },
-        {
-          "id": "https://www.theatlantic.com/politics/archive/2024/11/trump-blue-wall-victory/680561/?utm_source=feed",
-          "author": null,
-          "description": "So much for the “Blue Wall.”",
-          "link": "https://www.theatlantic.com/politics/archive/2024/11/trump-blue-wall-victory/680561/?utm_source=feed",
-          "publishedOn": "2024-11-06T21:49:00.000Z",
-          "wordCount": 2715,
-          "title": "Watching It All Fall Apart in Pennsylvania",
-          "imageUrl": "https://cdn.theatlantic.com/thumbor/0KJxp3i3r7c1C3vOgv2-6vwRqU8=/0x102:4792x2598/1200x625/media/img/mt/2024/11/HP_Opener_DSC3882_2/original.jpg"
-        },
-        {
-          "id": "https://www.theatlantic.com/politics/archive/2024/11/trump-election-presidential-term/680562/?utm_source=feed",
-          "author": null,
-          "description": "And now we all must suffer through it.",
-          "link": "https://www.theatlantic.com/politics/archive/2024/11/trump-election-presidential-term/680562/?utm_source=feed",
-          "publishedOn": "2024-11-06T21:14:28.000Z",
-          "wordCount": 1618,
-          "title": "America Did This to Itself",
-          "imageUrl": "https://cdn.theatlantic.com/thumbor/8xwxPXCqMf6dAgnK2xQxex_o20c=/0x102:4792x2598/1200x625/media/img/mt/2024/11/HR_GettyImages_2182537136/original.jpg"
-        },
-        {
-          "id": "https://www.theatlantic.com/politics/archive/2024/11/donald-trump-covid-election/680559/?utm_source=feed",
-          "author": null,
-          "description": "This was the second COVID election.",
-          "link": "https://www.theatlantic.com/politics/archive/2024/11/donald-trump-covid-election/680559/?utm_source=feed",
-          "publishedOn": "2024-11-06T20:05:00.000Z",
-          "wordCount": 2684,
-          "title": "How Donald Trump Won Everywhere",
-          "imageUrl": "https://cdn.theatlantic.com/thumbor/RFGJdZnwz1S3odQY5aEuM1EM-Ho=/0x43:2000x1085/1200x625/media/img/mt/2024/11/covid_election_2/original.jpg"
-        },
-        {
-          "id": "https://www.theatlantic.com/politics/archive/2024/11/kamala-harris-donald-trump-inflation/680557/?utm_source=feed",
-          "author": null,
-          "description": "Kamala Harris couldn’t outrun inflation.",
-          "link": "https://www.theatlantic.com/politics/archive/2024/11/kamala-harris-donald-trump-inflation/680557/?utm_source=feed",
-          "publishedOn": "2024-11-06T19:15:00.000Z",
-          "wordCount": 2117,
-          "title": "Voters Wanted Lower Prices at Any Cost",
-          "imageUrl": "https://cdn.theatlantic.com/thumbor/EPW2ZhzH_46lSOUsYiwR49xfmRA=/0x57:2696x1461/1200x625/media/img/mt/2024/11/2024_11_05_kamala_inflation_2181447380-1/original.jpg"
-        },
-        {
-          "id": "https://www.theatlantic.com/politics/archive/2024/11/harris-campaign-limitations-biden/680556/?utm_source=feed",
-          "author": null,
-          "description": "Harris was probably doomed from the jump.",
-          "link": "https://www.theatlantic.com/politics/archive/2024/11/harris-campaign-limitations-biden/680556/?utm_source=feed",
-          "publishedOn": "2024-11-06T19:13:00.000Z",
-          "wordCount": 2707,
-          "title": "Blame Biden",
-          "imageUrl": "https://cdn.theatlantic.com/thumbor/OGsF_nqtaQxaMTBH_XYLeiXg12A=/0x102:4792x2598/1200x625/media/img/mt/2024/11/HR_15426102/original.jpg"
-        },
-        {
-          "id": "https://www.theatlantic.com/ideas/archive/2024/11/trump-election-self-determination-constitution/680554/?utm_source=feed",
-          "author": null,
-          "description": "No matter what the Supreme Court says, the president is not a king.",
-          "link": "https://www.theatlantic.com/ideas/archive/2024/11/trump-election-self-determination-constitution/680554/?utm_source=feed",
-          "publishedOn": "2024-11-06T16:18:24.000Z",
-          "wordCount": 2208,
-          "title": "There Is No Constitutional Mandate for Fascism",
-          "imageUrl": "https://cdn.theatlantic.com/thumbor/iXIhAjrivXZvSc-d-HE4-W_QOmc=/0x0:2000x1042/1200x625/media/img/mt/2024/11/Trump2/original.jpg"
-        },
-        {
-          "id": "https://www.theatlantic.com/politics/archive/2024/11/why-trump-won/680555/?utm_source=feed",
-          "author": null,
-          "description": "The former and future president got one big thing right.",
-          "link": "https://www.theatlantic.com/politics/archive/2024/11/why-trump-won/680555/?utm_source=feed",
-          "publishedOn": "2024-11-06T14:55:24.000Z",
-          "wordCount": 2156,
-          "title": "What Trump Understood, and Harris Did Not",
-          "imageUrl": "https://cdn.theatlantic.com/thumbor/HiuyCpKHmJsEdrbz_3jNWfjuUyQ=/0x0:4265x2221/1200x625/media/img/mt/2024/11/GettyImages_2182526071/original.jpg"
         }
       ]
     },
@@ -2292,6 +2242,36 @@
       "feedUrl": "https://www.bleepingcomputer.com/feed/",
       "siteUrl": "https://www.bleepingcomputer.com/",
       "articles": [
+        {
+          "id": "https://www.bleepingcomputer.com/news/security/fake-ai-video-generators-infect-windows-macos-with-infostealers/",
+          "author": "Lawrence Abrams",
+          "description": "Fake AI image and video generators infect Windows and macOS with the Lumma Stealer and AMOS information-stealing malware, used to steal credentials and cryptocurrency wallets from infected devices. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/fake-ai-video-generators-infect-windows-macos-with-infostealers/",
+          "publishedOn": "2024-11-16T20:14:21.000Z",
+          "wordCount": 2305,
+          "title": "Fake AI video generators infect Windows, macOS with infostealers",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2023/01/11/ai-robot-hacker-disiintegratin.jpg"
+        },
+        {
+          "id": "https://www.bleepingcomputer.com/news/security/t-mobile-confirms-it-was-hacked-in-recent-wave-of-telecom-breaches/",
+          "author": "Lawrence Abrams",
+          "description": "T-Mobile confirms it was hacked in the wave of recently reported telecom breaches conducted by Chinese threat actors to gain access to private communications, call records, and law enforcement information requests. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/t-mobile-confirms-it-was-hacked-in-recent-wave-of-telecom-breaches/",
+          "publishedOn": "2024-11-16T17:47:00.000Z",
+          "wordCount": 2424,
+          "title": "T-Mobile confirms it was hacked in recent wave of telecom breaches",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2021/08/23/tmobile-header-glitch.jpg"
+        },
+        {
+          "id": "https://www.bleepingcomputer.com/news/security/github-projects-targeted-with-malicious-commits-to-frame-researcher/",
+          "author": "Ax Sharma",
+          "description": "GitHub projects have been targeted with malicious commits and pull requests, in an attempt to inject backdoors into these projects. Most recently, the GitHub repository of Exo Labs, an AI and machine learning startup, was targeted in the attack, which has left many wondering about the attacker's true intentions. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/github-projects-targeted-with-malicious-commits-to-frame-researcher/",
+          "publishedOn": "2024-11-16T15:30:29.000Z",
+          "wordCount": 2688,
+          "title": "GitHub projects targeted with malicious commits to frame researcher",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2024/06/10/GitHub.jpg"
+        },
         {
           "id": "https://www.bleepingcomputer.com/news/security/nso-group-used-another-whatsapp-zero-day-after-being-sued-court-docs-say/",
           "author": "Sergiu Gatlan",
@@ -2871,66 +2851,6 @@
           "wordCount": 2223,
           "title": "HPE warns of critical RCE flaws in Aruba Networking access points",
           "imageUrl": "https://www.bleepstatic.com/content/hl-images/2024/02/05/HPE.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/hackers-increasingly-use-winos40-post-exploitation-kit-in-attacks/",
-          "author": "Bill Toulas",
-          "description": "Hackers are increasingly targeting Windows users with the malicious Winos4.0 framework, distributed via seemingly benign game-related apps. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/hackers-increasingly-use-winos40-post-exploitation-kit-in-attacks/",
-          "publishedOn": "2024-11-06T21:25:23.000Z",
-          "wordCount": 2276,
-          "title": "Hackers increasingly use Winos4.0 post-exploitation kit in attacks",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2024/07/12/hacker.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/microsoft/microsoft-notepad-to-get-ai-powered-rewriting-tool-on-windows-11/",
-          "author": "Sergiu Gatlan",
-          "description": "Microsoft has started testing AI-powered Notepad text rewriting and Paint image generation tools four decades after the two programs were released in the 1980s. [...]",
-          "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-notepad-to-get-ai-powered-rewriting-tool-on-windows-11/",
-          "publishedOn": "2024-11-06T20:53:32.000Z",
-          "wordCount": 2253,
-          "title": "Microsoft Notepad to get AI-powered rewriting tool on Windows 11",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2024/02/23/AI_robot_Windows_11.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/cisco-bug-lets-hackers-run-commands-as-root-on-uwrb-access-points/",
-          "author": "Sergiu Gatlan",
-          "description": "Cisco has fixed a maximum severity vulnerability that allows attackers to run commands with root privileges on vulnerable Ultra-Reliable Wireless Backhaul (URWB) access points that provide connectivity for industrial wireless automation. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/cisco-bug-lets-hackers-run-commands-as-root-on-uwrb-access-points/",
-          "publishedOn": "2024-11-06T19:34:13.000Z",
-          "wordCount": 2199,
-          "title": "Cisco bug lets hackers run commands as root on UWRB access points",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2024/07/01/Cisco-logo.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/new-steelfox-malware-hijacks-windows-pcs-using-vulnerable-driver/",
-          "author": "Bill Toulas",
-          "description": "A new malicious package called 'SteelFox' mines for cryptocurrency and steals credit card data by using the \"bring your own vulnerable driver\" technique to get SYSTEM privileges on Windows machines. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/new-steelfox-malware-hijacks-windows-pcs-using-vulnerable-driver/",
-          "publishedOn": "2024-11-06T17:53:57.000Z",
-          "wordCount": 2394,
-          "title": "New SteelFox malware hijacks Windows PCs using vulnerable driver",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2024/11/06/steelfox.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/washington-courts-systems-offline-following-weekend-cyberattack/",
-          "author": "Sergiu Gatlan",
-          "description": "​​Court systems across Washington state have been down since Sunday when officials said \"unauthorized activity\" was detected on their networks. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/washington-courts-systems-offline-following-weekend-cyberattack/",
-          "publishedOn": "2024-11-06T17:28:10.000Z",
-          "wordCount": 2215,
-          "title": "Washington courts' systems offline following weekend cyberattack",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2023/10/16/Court-gavel.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/germany-drafts-law-to-protect-researchers-who-find-security-flaws/",
-          "author": "Bill Toulas",
-          "description": "The Federal Ministry of Justice in Germany has drafted a law to provide legal protection to security researchers who discover and responsibly report security vulnerabilities to vendors. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/germany-drafts-law-to-protect-researchers-who-find-security-flaws/",
-          "publishedOn": "2024-11-06T15:17:30.000Z",
-          "wordCount": 2387,
-          "title": "Germany drafts law to protect researchers who find security flaws",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2021/05/01/hacking.jpg"
         }
       ]
     },
@@ -3231,16 +3151,6 @@
           "wordCount": 3604,
           "title": "Building a Downtime Home Screen Featuring Louie Mantia’s Retro Gaming Icons",
           "imageUrl": "https://cdn.macstories.net/img_0583-1730929754966.PNG"
-        },
-        {
-          "id": "https://www.macstories.net/?p=77168",
-          "author": "John Voorhees",
-          "description": "Raycast has always been more than an app launcher. From the start, it has included a multitude of other handy utilities, including Floating Notes. I’ve used Floating Notes now and then to park a bit of text where I knew I’d be able to find it later. Because the note floated above other windows, it […]",
-          "link": "https://www.macstories.net/reviews/raycast-overhauls-its-notes-feature/",
-          "publishedOn": "2024-11-06T14:52:16.000Z",
-          "wordCount": 3499,
-          "title": "Raycast Overhauls Its Notes Feature",
-          "imageUrl": "https://cdn.macstories.net/cleanshot-2024-11-06-at-08-59-02-2x-1730901904653.png"
         }
       ]
     },
@@ -3249,6 +3159,16 @@
       "feedUrl": "https://blog.thenewoil.org/feed/",
       "siteUrl": "https://blog.thenewoil.org/",
       "articles": [
+        {
+          "id": "https://blog.thenewoil.org/black-friday-2024-privacy-deals",
+          "author": null,
+          "description": "Black Friday is quickly bearing down upon us. For those not in the know, Black Friday is the day after Thanksgiving in the US, and tradit...",
+          "link": "https://blog.thenewoil.org/black-friday-2024-privacy-deals?pk_campaign=rss-feed",
+          "publishedOn": "2024-11-16T19:21:56.000Z",
+          "wordCount": 1282,
+          "title": "Black Friday 2024 Privacy Deals",
+          "imageUrl": "https://i.snap.as/L0p25luC.jpg"
+        },
         {
           "id": "https://blog.thenewoil.org/five-privacy-respecting-gift-ideas-0dc8",
           "author": null,
@@ -3266,6 +3186,16 @@
       "feedUrl": "https://www.404media.co/rss/",
       "siteUrl": "https://www.404media.co/",
       "articles": [
+        {
+          "id": "67376b2b3c831d0001d2bc3e",
+          "author": "Becky Ferreira",
+          "description": "An anomalous encounter with Uranus, a lost world preserved in Antarctic amber, ChatGPT at the poetry slam, and an exceptional nudibranch.",
+          "link": "https://www.404media.co/weve-got-uranus-all-wrong/",
+          "publishedOn": "2024-11-16T14:00:13.000Z",
+          "wordCount": 2359,
+          "title": "We’ve Got Uranus All Wrong",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2024/11/image2-1.jpg"
+        },
         {
           "id": "67377f4a3c831d0001d2bef0",
           "author": "Samantha Cole",
@@ -3455,36 +3385,6 @@
           "wordCount": 1513,
           "title": "Reddit’s ‘Interesting as Fuck’ Community Rules That AI-Generated Video Is Not Interesting",
           "imageUrl": "https://www.404media.co/content/images/size/w1200/2024/11/Copy-of-Screenshot-as-Lede-Image.jpg"
-        },
-        {
-          "id": "672a6f4694858b0001825239",
-          "author": "Joseph Cox",
-          "description": "Phantom Secure started legitimate before turning into a tech company for organized crime. Its owner, Vincent Ramos, is now out of prison.",
-          "link": "https://www.404media.co/vincent-ramos-ceo-of-encrypted-phone-company-that-sold-to-sinaloa-cartel-freed-from-prison/",
-          "publishedOn": "2024-11-07T12:35:52.000Z",
-          "wordCount": 1154,
-          "title": "Vincent Ramos, CEO of Encrypted Phone Company That Sold to Sinaloa Cartel, Freed From Prison",
-          "imageUrl": "https://www.404media.co/content/images/size/w1200/2024/11/phantom-art.jpg"
-        },
-        {
-          "id": "6728ee4094858b0001811f2f",
-          "author": "Joseph Cox",
-          "description": "Voting rolls are technically public records but can be laborious to get hold of. A right-wing site weaponizes that information by allowing anyone, anywhere, to search for a voter’s physical address and party affiliation.",
-          "link": "https://www.404media.co/voted-in-america-this-site-doxed-you/",
-          "publishedOn": "2024-11-06T14:03:53.000Z",
-          "wordCount": 1103,
-          "title": "Voted in America? This Site Doxed You",
-          "imageUrl": "https://www.404media.co/content/images/size/w1200/2024/11/voteref-3.png"
-        },
-        {
-          "id": "672bd8b718c5b000015e0e09",
-          "author": "Samantha Cole",
-          "description": "After getting hit with a 4 a.m. emergency alert about a shooting hundreds of miles away from where they were sleeping, a lot of Texans were very pissed.",
-          "link": "https://www.404media.co/texas-blue-alert-emergency-notification/",
-          "publishedOn": "2024-11-06T14:00:00.000Z",
-          "wordCount": 2380,
-          "title": "'Scared the Life Out of Me': Here Are the FCC Complaints After Texas 'Blue Alert' Blast",
-          "imageUrl": "https://www.404media.co/content/images/size/w1200/2024/11/texas.png"
         }
       ]
     },
@@ -3494,6 +3394,26 @@
       "siteUrl": "https://www.reddit.com/r/apple/top?t=week",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/apple/comments/1gsseho/psa_iphone_users_receiving_applecare_refunds/",
+          "author": null,
+          "description": "submitted by    /u/ControlCAD  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/apple/comments/1gsseho/psa_iphone_users_receiving_applecare_refunds/",
+          "publishedOn": "2024-11-16T17:35:08.000Z",
+          "wordCount": null,
+          "title": "PSA: iPhone users receiving AppleCare+ refunds multiple years after Apple trade-in",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/apple/comments/1gseoax/hide_iphone_find_my_location_without_raising/",
+          "author": null,
+          "description": "submitted by    /u/ControlCAD  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/apple/comments/1gseoax/hide_iphone_find_my_location_without_raising/",
+          "publishedOn": "2024-11-16T03:42:35.000Z",
+          "wordCount": null,
+          "title": "Hide iPhone Find My Location Without Raising Suspicion",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.reddit.com/r/apple/comments/1gs4lfm/apple_quietly_gave_the_m4_macbook_pro_a_quantum/",
           "author": null,
           "description": "submitted by    /u/favicondotico  \n [link]   [comments]",
@@ -3501,6 +3421,16 @@
           "publishedOn": "2024-11-15T19:32:08.000Z",
           "wordCount": null,
           "title": "Apple quietly gave the M4 MacBook Pro a quantum dot display",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/apple/comments/1gs0xqz/apple_adds_iphone_xs_max_and_more_to/",
+          "author": null,
+          "description": "submitted by    /u/ControlCAD  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/apple/comments/1gs0xqz/apple_adds_iphone_xs_max_and_more_to/",
+          "publishedOn": "2024-11-15T16:57:56.000Z",
+          "wordCount": null,
+          "title": "Apple Adds iPhone XS Max and More to Vintage/Obsolete Product Lists",
           "imageUrl": null
         },
         {
@@ -3842,26 +3772,6 @@
           "wordCount": null,
           "title": "The M4 Mac Mini is Incredible!",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/apple/comments/1gljbva/macos_sequoia_152_beta_adds_new_airplay_options/",
-          "author": null,
-          "description": "submitted by    /u/iMacmatician  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/apple/comments/1gljbva/macos_sequoia_152_beta_adds_new_airplay_options/",
-          "publishedOn": "2024-11-07T05:29:05.000Z",
-          "wordCount": null,
-          "title": "macOS Sequoia 15.2 Beta Adds New AirPlay Options",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/apple/comments/1gl5fkz/apple_intelligent_servers_expected_to_start_using/",
-          "author": null,
-          "description": "Apple Intelligence Servers Expected to Start Using M4 Chips Next Year After M2 Ultra This Year\n    submitted by    /u/Drtysouth205  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/apple/comments/1gl5fkz/apple_intelligent_servers_expected_to_start_using/",
-          "publishedOn": "2024-11-06T18:31:52.000Z",
-          "wordCount": null,
-          "title": "Apple intelligent servers expected to start using M4 chips next year after M2 ultra this year.",
-          "imageUrl": null
         }
       ]
     },
@@ -3870,6 +3780,26 @@
       "feedUrl": "https://www.reddit.com/r/anime/top.rss?t=week",
       "siteUrl": "https://www.reddit.com/r/anime/top?t=week",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/anime/comments/1gsp5t7/studying_for_exams_can_be_difficult_gushing_over/",
+          "author": null,
+          "description": "submitted by    /u/I_Cognito  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/anime/comments/1gsp5t7/studying_for_exams_can_be_difficult_gushing_over/",
+          "publishedOn": "2024-11-16T15:05:34.000Z",
+          "wordCount": null,
+          "title": "Studying for exams can be difficult [Gushing over Magical Girls]",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/anime/comments/1gsohfm/bleach_sennen_kessenhen_soukokutan_bleach/",
+          "author": null,
+          "description": "Bleach: Sennen Kessen-hen - Soukoku-tan, episode 7\n Alternative names: Bleach: Thousand-Year Blood War\n Reminder: Please do not discuss plot points not yet seen or skipped in the show. Failing to follow the rules may result in a ban.\n  \nStreams\n  \nDisney\n Hulu\n  \nShow information\n  \nMyAnimeList\n AniList\n AniDB\n Anime-Planet\n Official Website\n /r/bleach\n  \n All discussions\n  \n Episode Link \n  \n 1 Link \n  2 Link \n  3 Link \n  4 Link \n  5 Link \n  6 Link \n  7 Link \n \n  \nThis post was created by a bot. Message the mod team for feedback and comments. The original source code can be found on GitHub.\n    submitted by    /u/AutoLovepon  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/anime/comments/1gsohfm/bleach_sennen_kessenhen_soukokutan_bleach/",
+          "publishedOn": "2024-11-16T14:32:24.000Z",
+          "wordCount": null,
+          "title": "Bleach: Sennen Kessen-hen - Soukoku-tan • Bleach: Thousand-Year Blood War - The Conflict - Episode 7 discussion",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/anime/comments/1grxmro/top_10_anime_of_the_week_7_fall_2024_anime_corner/",
           "author": null,
@@ -3908,6 +3838,16 @@
           "publishedOn": "2024-11-14T16:05:26.000Z",
           "wordCount": null,
           "title": "Dandadan - Episode 7 discussion",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/anime/comments/1gr58d4/voice_industry_opposes_genai_in_foreign_film_dubs/",
+          "author": null,
+          "description": "submitted by    /u/Saltedline  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/anime/comments/1gr58d4/voice_industry_opposes_genai_in_foreign_film_dubs/",
+          "publishedOn": "2024-11-14T13:52:28.000Z",
+          "wordCount": null,
+          "title": "Voice industry opposes gen-AI in foreign film dubs and anime",
           "imageUrl": null
         },
         {
@@ -4229,46 +4169,6 @@
           "wordCount": null,
           "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru no Darou ka V: Houjou no Megami-hen • Is It Wrong to Try to Pick Up Girls in a Dungeon? Season 5: Goddess of Fertility Arc - Episode 6 discussion",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/anime/comments/1glez9b/momo_ayase_dandadan_is_such_a_refreshing_female/",
-          "author": null,
-          "description": "I’ve been watching shounen’s for over 2 decades and Momo is such a good character. Her chemistry with Okarun (the other Co lead) is amazing, her design sick (gives her multiple outfits), she’s headstrong and stubborn but also very endearing and goofy. She’s relatable (actually acts like a highschool student) but is also mature and apologizes for her mistakes. I can’t think of another female shounen character that has so much charisma as Momo does. What does everyone else think? \n    submitted by    /u/iamkwang  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/anime/comments/1glez9b/momo_ayase_dandadan_is_such_a_refreshing_female/",
-          "publishedOn": "2024-11-07T01:29:42.000Z",
-          "wordCount": null,
-          "title": "Momo Ayase (Dandadan) is such a refreshing female lead",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/anime/comments/1gl6c9b/a_conversation_regarding_the_flaws_of_democracy/",
-          "author": null,
-          "description": "submitted by    /u/Tenshous  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/anime/comments/1gl6c9b/a_conversation_regarding_the_flaws_of_democracy/",
-          "publishedOn": "2024-11-06T19:09:26.000Z",
-          "wordCount": null,
-          "title": "A conversation regarding the flaws of Democracy vs an ideal Dictatorship [Legend of the Galactic Heroes]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/anime/comments/1gl0s8v/serious_punch_onepunch_man/",
-          "author": null,
-          "description": "submitted by    /u/DeXTeR-Fr  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/anime/comments/1gl0s8v/serious_punch_onepunch_man/",
-          "publishedOn": "2024-11-06T15:14:44.000Z",
-          "wordCount": null,
-          "title": "SERIOUS PUNCH [One-Punch Man]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/anime/comments/1gkzytg/rezero_kara_hajimeru_isekai_seikatsu_season_3/",
-          "author": null,
-          "description": "Re:Zero kara Hajimeru Isekai Seikatsu Season 3, episode 6\n Reminder: Please do not discuss plot points not yet seen or skipped in the show. Failing to follow the rules may result in a ban.\n  \nStreams\n  \nCrunchyroll\n  \nShow information\n  \nMyAnimeList\n AniList\n AniDB\n Anime-Planet\n Official Website\n /r/Re_Zero\n  \n All discussions\n  \n Episode Link \n  \n 1 Link \n  2 Link \n  3 Link \n  4 Link \n  5 Link \n  6 Link \n \n  \nThis post was created by a bot. Message the mod team for feedback and comments. The original source code can be found on GitHub.\n    submitted by    /u/AutoLovepon  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/anime/comments/1gkzytg/rezero_kara_hajimeru_isekai_seikatsu_season_3/",
-          "publishedOn": "2024-11-06T14:38:16.000Z",
-          "wordCount": null,
-          "title": "Re:Zero kara Hajimeru Isekai Seikatsu Season 3 • Re:Zero: Starting Life in Another World Season 3 - Episode 6 discussion",
-          "imageUrl": null
         }
       ]
     },
@@ -4277,6 +4177,46 @@
       "feedUrl": "https://www.reddit.com/r/sysadmin/top.rss?t=week",
       "siteUrl": "https://www.reddit.com/r/sysadmin/top?t=week",
       "articles": [
+        {
+          "id": "https://www.reddit.com/r/sysadmin/comments/1gsugl4/worst_electrician_ever/",
+          "author": null,
+          "description": "Honest to God this is a true story. \n We had an electrician come in recently to put some power plugs on a new dividing wall. No problem, quick job. \n The next work day, we immediately started getting calls from this user about her computer dying, then coming back on if she pushed the power button. \n Long story short, the electrician had run the power from a switched line that controlled the office lights! Our office lights are on motion sensors, so will go off after about 15 minutes of no activity. So if she went to lunch or was just very still for any reason, everything on her desk would die. As soon as she moved to check it out, everything would power up again (except the computer, where she had to push the button). \n I'm just so amused, I can't even really be mad. \n    submitted by    /u/Otto-Korrect  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/sysadmin/comments/1gsugl4/worst_electrician_ever/",
+          "publishedOn": "2024-11-16T19:07:39.000Z",
+          "wordCount": null,
+          "title": "Worst Electrician EVER?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/sysadmin/comments/1gsn0bo/whats_something_you_did_that_everyone_else/",
+          "author": null,
+          "description": "When I joined my company I was tasked to take over some firewall deployments that a third party subcontractor had created.\n This subcontractor is a really experienced NE and told me that the provisioning has to be really manual because there was no way of accomplishing a Zero Touch Provisioning (ZTP).\n It was my first time working with this product and I promised myself I'd find a way to create a ZTP with whatever it takes.\n They say... the lazy will do whatever it takes to automate everything. Hey.. that's me...\n Everyone, even the vendor itself told me ZTP is not going to be easy or almost impossible to do..\n After long 5 months (remember I had no previous experience with this product) I finally did the impossible and automated the provisioning of new firewalls despite everyone else saying otherwise without using third party programs.. All done with the vendors products.. That day I knew I was capable of going against the wind to achieve something.\n What about you?\n    submitted by    /u/VNiqkco  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/sysadmin/comments/1gsn0bo/whats_something_you_did_that_everyone_else/",
+          "publishedOn": "2024-11-16T13:14:09.000Z",
+          "wordCount": null,
+          "title": "What's something you did that everyone else thought difficult or impossible?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/sysadmin/comments/1gsb2zq/federal_court_strikes_down_rule_raising_salary/",
+          "author": null,
+          "description": "https://www.littler.com/publication-press/publication/federal-court-strikes-down-rule-raising-salary-threshold-white-collar\n While I'm aware a lot (if not most) of folks in the field make more than the $58k cap that was set to take effect in January, there are still a decent chunk of junior admins and public sector workers that this is a painful blow to.\n    submitted by    /u/GaiaFisher  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/sysadmin/comments/1gsb2zq/federal_court_strikes_down_rule_raising_salary/",
+          "publishedOn": "2024-11-16T00:27:56.000Z",
+          "wordCount": null,
+          "title": "Federal Court Strikes Down Rule Raising Salary Threshold for White Collar Overtime Exemptions",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/sysadmin/comments/1gs9zdg/pet_peeve_when_a_user_says_oh_of_course_its_going/",
+          "author": null,
+          "description": "Rant over.\n    submitted by    /u/Loose-Beat478  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/sysadmin/comments/1gs9zdg/pet_peeve_when_a_user_says_oh_of_course_its_going/",
+          "publishedOn": "2024-11-15T23:33:49.000Z",
+          "wordCount": null,
+          "title": "Pet Peeve: When a user says \"Oh, of course it's going to work for you\" instead of saying \"Thank you\".",
+          "imageUrl": null
+        },
         {
           "id": "https://www.reddit.com/r/sysadmin/comments/1gs4r7i/in_case_you_needed_another_example_of_google/",
           "author": null,
@@ -4616,36 +4556,6 @@
           "wordCount": null,
           "title": "Reminder: It's always DNS",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/sysadmin/comments/1glcoen/wrote_20_knowledge_base_articles_this_week/",
-          "author": null,
-          "description": "Been feeling super motivated recently I wrote 20 knowledge articles this week. Which brings me to almost 78 for the past month. I plan on doing a deep dive into AD DS tomorrow, and avd user profile / golden image along with conditional access policy’s. \n On the other bring side 3 of them knowledge base articles I finished today I was able to use to knock out tickets in sub 5 minutes. \n Unfortunately I still have over 400 groups left to document / remove / archive along with almost 60 intune policies to breakdown and decipher, not to mention figure out 50+ enterprise applications and if they do anything or why are they linked. \n    submitted by    /u/Ragepower529  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/sysadmin/comments/1glcoen/wrote_20_knowledge_base_articles_this_week/",
-          "publishedOn": "2024-11-06T23:40:35.000Z",
-          "wordCount": null,
-          "title": "Wrote 20 knowledge base articles this week",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/sysadmin/comments/1gl6jsw/fell_asleep_to_windows_server_2022_woke_up_on_2025/",
-          "author": null,
-          "description": "I just got a nice Zabbix Warning - \"Operating system description has changed\" - and thought, okay, might be a Ubuntu update, had that before. No big deal.\n But no, 2022 updated to 2025. On 14 VMs. Unwanted.\n I mean, i am going to roll back via backup, but... why even? How? Where did i go wrong?\n I am second guessing all my life choices now.\n EDIT: I am clearly shocked that some people on this sub do not know how RMM Patching works, why it is required in some fields and still continue to say \"iTs tHe SySaDmInS fAuLt.\" Wow. It was designated as a security update, soo...\n    submitted by    /u/JoeyFromMoonway  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/sysadmin/comments/1gl6jsw/fell_asleep_to_windows_server_2022_woke_up_on_2025/",
-          "publishedOn": "2024-11-06T19:18:16.000Z",
-          "wordCount": null,
-          "title": "Fell asleep to Windows Server 2022, woke up on 2025.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/sysadmin/comments/1gkz4ot/windows_server_20192022_upgrading_to_2025_any_way/",
-          "author": null,
-          "description": "I've seen that KB5044284 is upgrading servers automatically to 2025.\n We've had 2 client servers (one running 2019, one running 2022) automatically upgrade to 2025 overnight. We've blocked the offending update in our RMM but we now need to get the servers which have upgraded rolled back.\n Anyone had any success with this or am I going to be spending tonight restoring from backup?\n    submitted by    /u/Toby_7243  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/sysadmin/comments/1gkz4ot/windows_server_20192022_upgrading_to_2025_any_way/",
-          "publishedOn": "2024-11-06T13:59:30.000Z",
-          "wordCount": null,
-          "title": "Windows Server 2019/2022 upgrading to 2025 - any way to roll back?",
-          "imageUrl": null
         }
       ]
     },
@@ -4655,6 +4565,36 @@
       "siteUrl": "https://www.reddit.com/r/technology/top?t=week",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/technology/comments/1gs83t3/vaccine_maker_stocks_fall_as_trump_chooses_rfk_jr/",
+          "author": null,
+          "description": "submitted by    /u/esporx  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/technology/comments/1gs83t3/vaccine_maker_stocks_fall_as_trump_chooses_rfk_jr/",
+          "publishedOn": "2024-11-15T22:07:08.000Z",
+          "wordCount": null,
+          "title": "Vaccine maker stocks fall as Trump chooses RFK Jr. to lead HHS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/technology/comments/1gs5z97/the_great_migration_to_bluesky_gives_me_hope_for/",
+          "author": null,
+          "description": "submitted by    /u/Well_Socialized  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/technology/comments/1gs5z97/the_great_migration_to_bluesky_gives_me_hope_for/",
+          "publishedOn": "2024-11-15T20:33:33.000Z",
+          "wordCount": null,
+          "title": "The Great Migration to Bluesky Gives Me Hope for the Future of the Internet",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/technology/comments/1gs50u9/bluesky_mocks_x_has_no_intention_of_training_ai/",
+          "author": null,
+          "description": "submitted by    /u/cmaia1503  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/technology/comments/1gs50u9/bluesky_mocks_x_has_no_intention_of_training_ai/",
+          "publishedOn": "2024-11-15T19:50:54.000Z",
+          "wordCount": null,
+          "title": "Bluesky Mocks X, Has ‘No Intention’ of Training AI With User Data",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.reddit.com/r/technology/comments/1gs0kw4/x_sues_to_block_california_election_deepfake_law/",
           "author": null,
           "description": "submitted by    /u/cmaia1503  \n [link]   [comments]",
@@ -4662,6 +4602,16 @@
           "publishedOn": "2024-11-15T16:42:40.000Z",
           "wordCount": null,
           "title": "X Sues to Block California Election Deepfake Law ‘In Conflict’ With First Amendment",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/technology/comments/1grwbo3/proharris_tiktok_felt_safe_in_an_algorithmic/",
+          "author": null,
+          "description": "submitted by    /u/Wagamaga  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/technology/comments/1grwbo3/proharris_tiktok_felt_safe_in_an_algorithmic/",
+          "publishedOn": "2024-11-15T13:27:50.000Z",
+          "wordCount": null,
+          "title": "Pro-Harris TikTok felt safe in an algorithmic bubble — until Election Day",
           "imageUrl": null
         },
         {
@@ -4992,46 +4942,6 @@
           "publishedOn": "2024-11-07T14:04:29.000Z",
           "wordCount": null,
           "title": "Before the Election, Tech C.E.O.s Were Quietly Courting Trump",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/technology/comments/1glfoxb/trump_plans_to_dismantle_biden_ai_safeguards/",
-          "author": null,
-          "description": "submitted by    /u/chrisdh79  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/technology/comments/1glfoxb/trump_plans_to_dismantle_biden_ai_safeguards/",
-          "publishedOn": "2024-11-07T02:05:27.000Z",
-          "wordCount": null,
-          "title": "Trump plans to dismantle Biden AI safeguards after victory | Trump plans to repeal Biden's 2023 order and levy tariffs on GPU imports.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/technology/comments/1gl9cil/trumps_60_tariffs_could_push_china_to_hobble_tech/",
-          "author": null,
-          "description": "submitted by    /u/Positivismus  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/technology/comments/1gl9cil/trumps_60_tariffs_could_push_china_to_hobble_tech/",
-          "publishedOn": "2024-11-06T21:15:12.000Z",
-          "wordCount": null,
-          "title": "Trump’s 60% tariffs could push China to hobble tech industry growth",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/technology/comments/1gl3tgh/what_a_trump_win_means_for_the_fcc_and_telecom/",
-          "author": null,
-          "description": "submitted by    /u/TommyAdagio  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/technology/comments/1gl3tgh/what_a_trump_win_means_for_the_fcc_and_telecom/",
-          "publishedOn": "2024-11-06T17:24:23.000Z",
-          "wordCount": null,
-          "title": "What a Trump win means for the FCC and telecom policy",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/technology/comments/1gl3t59/konami_finally_confirms_that_metal_gear_solid_3s/",
-          "author": null,
-          "description": "submitted by    /u/a_Ninja_b0y  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/technology/comments/1gl3t59/konami_finally_confirms_that_metal_gear_solid_3s/",
-          "publishedOn": "2024-11-06T17:24:03.000Z",
-          "wordCount": null,
-          "title": "Konami finally confirms that Metal Gear Solid 3's Eva is the same actor as The Little Mermaid, who kept this \"deep, dark secret\" for 20 years to protect her family-friendly image",
           "imageUrl": null
         }
       ]
