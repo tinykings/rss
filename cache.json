@@ -12,6 +12,86 @@
       "siteUrl": "https://www.theverge.com/",
       "articles": [
         {
+          "id": "https://www.theverge.com/2024/11/21/24302767/snap-new-mexico-attorney-general-motion-dismiss-child-exploitation",
+          "author": null,
+          "description": "Illustration by Alex Castro / The Verge\n    \n\n  \nSnap says the basis of a scathing lawsuit suggesting it systematically recommends teens’ accounts to child predators is backwards — the company is now accusing the New Mexico attorney general of intentionally seeking out such accounts before recommendations were made. The company says the AG’s case is based on “gross misrepresentations” and cherry picks from Snap’s internal documents. \n\n\nIn a motion to dismiss filed Thursday, Snap says AG Raúl Torrez’s complaint makes “patently false” allegations, and particularly misrepresents its own undercover investigation, in which the AG’s office created a decoy 14-year-old account. Torrez alleges Snap violated the state’s unfair practices and public nuisance laws by misleading users’ about the safety …",
+          "link": "https://www.theverge.com/2024/11/21/24302767/snap-new-mexico-attorney-general-motion-dismiss-child-exploitation",
+          "publishedOn": "2024-11-22T00:08:08.000Z",
+          "wordCount": 3912,
+          "title": "Snap says New Mexico intentionally friended alleged child predators, then blamed the company",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/BgReAXdHJwGNA68gB-pkYpmXCGU=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23982579/acastro_STK466_01.jpg"
+        },
+        {
+          "id": "https://www.theverge.com/23618862/best-iphone-camera-battery-screen-guide",
+          "author": null,
+          "description": "New iPhones for the AI era. | Image: Cath Virginia / The Verge\n    \n\n\n  \nWhether you want a battery that lasts for days or the very best deal, we’ve got some recommendations for an iPhone you’ll love.\n The wait is over — kind of. Apple’s iPhone 16 series is out, and its much-hyped Apple Intelligence has arrived courtesy of iOS 18.1. But if you’re expecting an entirely new kind of iPhone experience, well, I have some bad news for you. The AI features in iOS 18.1, including the writing tools and email summaries, are pretty standard fare at this point. And although Siri has a new coat of paint, it’s basically the same old Siri.\nApple has promised much more, though, and what we’ve been able to preview in the iOS 18.2 developer beta looks pretty good. But the Apple Intelligence rollout is going…",
+          "link": "https://www.theverge.com/23618862/best-iphone-camera-battery-screen-guide",
+          "publishedOn": "2024-11-21T23:57:53.000Z",
+          "wordCount": 14146,
+          "title": "The best iPhones",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/Ert0djYK8bso4_YTb8kG9d6eM58=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25652775/247288_iPhone_Buying_Guides_2_CVirginia.jpg"
+        },
+        {
+          "id": "https://www.theverge.com/2024/11/21/24302733/fcc-cv2x-cellular-vehicle-everything-spectrum-rules-final",
+          "author": null,
+          "description": "Image: Department of Transportation\n    \n\n  \nThe Federal Communications Commission (FCC) has voted to finalize new spectrum rules that will push cellular vehicle-to-everything (C-V2X) communications technology forward. \nC-V2X will use existing cellular networks to send messages from vehicle to vehicle, vehicle to infrastructure, vehicle to cyclists, or vehicle to pedestrians to warn of each other's presence for safety purposes. It could cross-alert for hazardous road conditions, including speeding cars, weather, or traffic congestion.\nFCC Chairwoman Jessica Rosenworcel said the agency’s efforts will drive innovation in wireless and transportation economies and “keep us safe on our roadways when we walk, ride, and drive.” The decision on the proposed rule promotes “efficient use of 30 megahertz of spectrum” dedicated to Intelligent Transportation Systems, or ITS, in the 5.9GHz band. And it also codifies C-V2X technical parameters, including power and emission limits, technical parameters, and message priorities.\nCompanies like Ford have been chasing C-V2X technology for years with the idea that its cars and trucks could audibly alert drivers of a cyclist approaching or vice versa — assuming a cyclist is paying attention to their phone.\nIn 2022, the FCC won control over what should happen to the spectrum in the 5.9GHz band, which could be partially used for other technologies, such as Wi-Fi expansion. Automotive industry petitioners wanted the entire band, but the ruling judge determined they failed to point out any “significant developments in the field of yet-to-arrive technologies.”",
+          "link": "https://www.theverge.com/2024/11/21/24302733/fcc-cv2x-cellular-vehicle-everything-spectrum-rules-final",
+          "publishedOn": "2024-11-21T23:19:00.000Z",
+          "wordCount": 2711,
+          "title": "FCC passes auto safety spectrum rules",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/LkXbMw6BwFq1t-UwdzV1c5-RJBQ=/0x0:682x366/1200x628/filters:focal(341x183:342x184)/cdn.vox-cdn.com/uploads/chorus_asset/file/24035514/Fcyv3EnWQAEQFMm.png"
+        },
+        {
+          "id": "https://www.theverge.com/2024/11/21/24302600/rabbit-r1-ai-agent-teach-mode-tasks",
+          "author": null,
+          "description": "Photo: David Pierce / The Verge\n    \n\n  \nRabbit is rolling out “teach mode” to its R1 devices, allowing you to create an AI agent that can perform tasks for you. The feature works by “learning” a task you demonstrate, such as retrieving updates from a content creator you follow, or helping you draft a post on social media.\nYou can access the feature by logging into the Rabbithole, the web interface for managing an R1 device. From there, you’ll create a “lesson” by describing a task and then recording yourself performing it. Once you show the AI agent what you want it to do, you can then ask it to recall what it’s learned and have it complete the task. It seems straightforward, but Rabbit acknowledges that teach mode is experimental and results may not always be what you expect.\n\n\n\n\nRabbit says you can use this feature across “all websites,” such as Spotify, X, YouTube, Discord, and others, but that you may encounter issues with sites that use CAPTCHAs — a roadblock R1 users have run into before when trying to connect to certain websites. \nTeach mode is the latest new feature designed to expand the Rabbit R1’s capabilities. Last month, the company rolled out its large action model (LAM) that attempts to navigate websites on your behalf. Owners can also now customize the device’s user interface with AI prompts.",
+          "link": "https://www.theverge.com/2024/11/21/24302600/rabbit-r1-ai-agent-teach-mode-tasks",
+          "publishedOn": "2024-11-21T22:04:15.000Z",
+          "wordCount": 2538,
+          "title": "Rabbit now lets you teach the R1 to perform tasks for you",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/GUmoaJAYVMbUa5vlbh_0jddxwds=/0x0:6000x4000/1200x628/filters:focal(3000x2000:3001x2001)/cdn.vox-cdn.com/uploads/chorus_asset/file/25429565/Rabbit_R1_Settings.JPG"
+        },
+        {
+          "id": "https://www.theverge.com/2024/11/21/24302685/apple-llm-siri-compete-chatgpt",
+          "author": null,
+          "description": "Image: Cath Virginia / The Verge\n    \n\n  \nApple is planning a major AI overhaul of Siri that will make the digital assistant more like OpenAI’s ChatGPT and Google’s Gemini Live, according to a report from Bloomberg’s Mark Gurman. The assistant, reportedly called “LLM Siri,” will be powered by Apple’s AI models and will let users have more conversational, natural-sounding interactions with Siri.\nAs part of Apple’s plan to infuse its iPhones with AI, Bloomberg says the company will make Siri better at handling more advanced tasks. The assistant will have an “expanded” ability to use App Intents to interact with third-party apps, while also using Apple Intelligence to summarize and write text, too. \nThough Apple could announce these plans as soon as next year, the company intends to replace Siri’s underlying software with the new system in the spring of 2026, according to Bloomberg. During an interview with The Wall Street Journal last month, Apple senior vice president of software Craig Federighi hinted at how an AI-enhanced Siri will stand out from ChatGPT:\nThe properties of something like OpenAI advanced voice mode and Siri are quite different. That OpenAI mode is great if you want to go ask a question about quantum mechanics and have it write a poem for you about it... It’s not going to open your garage. It’s not going to help you send a text message. There are many, many useful things Siri does for you every day, does them quickly and locally on your device. There’s a spectrum here, there’s a tradeoff across capabilities. Will these worlds converge? Of course, that’s where the direction is going.\n\nSo far, Apple has taken its AI rollout rather slowly, as the company only added a ChatGPT integration into Siri last month as part of the iOS 18.2 beta. The company has several other features for Siri on tap, including the ability for Siri to “understand” what’s on your screen and perform actions within apps, which are coming next year.",
+          "link": "https://www.theverge.com/2024/11/21/24302685/apple-llm-siri-compete-chatgpt",
+          "publishedOn": "2024-11-21T22:01:35.000Z",
+          "wordCount": 3064,
+          "title": "Apple is reportedly working on ‘LLM Siri’ to compete with ChatGPT",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/6JQsnqzVW_mmlWA1sJ_LTy1KNvU=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25697397/STK071_APPLE_N.jpg"
+        },
+        {
+          "id": "https://www.theverge.com/2024/11/21/24302606/openai-erases-evidence-in-training-data-lawsuit",
+          "author": null,
+          "description": "Image: The Verge\n    \n\n  \nIn a stunning misstep, OpenAI engineers accidentally erased critical evidence gathered by The New York Times and other major newspapers in their lawsuit over AI training data, according to a court filing Wednesday.\nThe newspapers’ legal teams had spent over 150 hours searching through OpenAI’s AI training data to find instances where their news articles were included, the filing claims. But it doesn’t explain how this mistake occurred or what precisely the data included. While the filing says OpenAI admitted to the error and tried to recover the data, what it managed to salvage was incomplete and unreliable — so what was recovered cannot help properly trace how the news organizations’ articles were used in building OpenAI’s AI models. While OpenAI’s lawyers charac…",
+          "link": "https://www.theverge.com/2024/11/21/24302606/openai-erases-evidence-in-training-data-lawsuit",
+          "publishedOn": "2024-11-21T21:46:13.000Z",
+          "wordCount": 3050,
+          "title": "OpenAI accidentally erases potential evidence in training data lawsuit",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/2e0-IzeyJ7KzcdVPwSc9wHJt9zc=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25462005/STK155_OPEN_AI_CVirginia_B.jpg"
+        },
+        {
+          "id": "https://www.theverge.com/2024/11/21/24302592/trump-ev-tax-credit-auto-alliance-av-framework",
+          "author": null,
+          "description": "Image: Laura Normand / The Verge\n    \n\n  \nThe auto industry is sending an urgent message to President-elect Donald Trump: spare the $7,500 electric vehicle tax credit. \nIn a November 14th letter to Trump and his transition team, the auto industry’s main lobbying group urges the new administration to preserve incentives for EV buyers and manufacturers that were enacted under President Joe Biden, arguing these policies keep the US competitive globally while also creating “good jobs.” \nThe Alliance for Automotive Innovation, which represents the Big Three automakers — Ford, General Motors, and Stellantis — as well as foreign car companies that sell in the US, are calling on Trump to “promote stability and predictability in auto-related emissions standards.” But at the same time, the group end…",
+          "link": "https://www.theverge.com/2024/11/21/24302592/trump-ev-tax-credit-auto-alliance-av-framework",
+          "publishedOn": "2024-11-21T21:15:49.000Z",
+          "wordCount": 5552,
+          "title": "Automakers plead with Trump: don’t kill the EV tax credit",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/VnGw9t2CWLMuJgal2cKUuFGoEfU=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23951553/VRG_Illo_STK175_L_Normand_DonaldTrump_Negative.jpg"
+        },
+        {
+          "id": "https://www.theverge.com/2024/11/21/24302562/android-restore-credentials-transfer-restore-key",
+          "author": null,
+          "description": "Illustration by Alex Castro / The Verge\n    \n\n  \nTransferring your data from your old Android device to a new one will soon be less daunting, thanks to “Restore Credentials,” a new developer feature for Android which can keep you logged into your apps when you make the switch. While some apps already did this, Google is making it easier for developers to include this experience by implementing a “restore key” that automatically transfers to the new phone and logs you back into the app.\nThe change should help make going from one Android phone to another more like upgrading an iPhone. Apple users who move from one iPhone to another are used to having everything from email accounts to app credentials transfer to the new phone, but it hasn’t always been so seamless for Android users.\nVerge smartphone reviewer Allison Johnson says “This is great news for me, personally.”\nImage: Google\n      Restore Credentials experience flowchart.\n  \nRestore Credentials requires less work than the previous approach on Android, and can automatically check if a restore key is available and log you back in at the first app launch. A restore key is a public key that uses existing passkey infrastructure to move about your credentials.\nRestore keys can also be backed up to the cloud, although developers can opt out. For that reason, transferring directly from device to device will still likely be more thorough than restoring from the cloud, as is the case with Apple devices today. Notably, Google says restore keys do not transfer if you delete an app and reinstall it.",
+          "link": "https://www.theverge.com/2024/11/21/24302562/android-restore-credentials-transfer-restore-key",
+          "publishedOn": "2024-11-21T21:05:54.000Z",
+          "wordCount": 2973,
+          "title": "It will soon be easier than ever for Android apps to stay signed in on a new phone",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/Slbltj1n_UWkt8RcKa0S1iJoU-g=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24007892/acastro_STK112_android_01.jpg"
+        },
+        {
           "id": "https://www.theverge.com/2024/11/20/24301810/nvidia-blackwell-ai-b200-gb200-full-production-q3-2025-earnings",
           "author": null,
           "description": "The Blackwell B200 GPU. | Image: Nvidia\n    \n\n  \nNvidia has become the world’s most valuable company on the back of AI chips, passing Microsoft and Apple along the way, and in today’s Q3 2025 earnings, the company suggested its record AI revenue and profits are only the beginning. \nWhile The Information recently reported that its new flagship Blackwell AI servers might have cooling issues, the company didn’t address that on today’s call — instead, Nvidia assured investors that Blackwell is in “full production,” is “full steam” ahead, and that the company would continue to deliver more of the chips each quarter from here on out. \nNvidia has already shipped 13,000 Blackwell samples to its customers this quarter, said CFO Colette Kress, and Nvidia CEO Jensen Huang claimed Blackwell’s success …",
@@ -830,106 +910,6 @@
           "wordCount": 6004,
           "title": "VW and Rivian officially kick off $5.8 billion joint venture, announce leadership",
           "imageUrl": "https://cdn.vox-cdn.com/thumbor/nIBYGb--zpkxsjOJN26X3cOuqAI=/0x0:3000x2001/1200x628/filters:focal(1500x1001:1501x1002)/cdn.vox-cdn.com/uploads/chorus_asset/file/25325052/01_Rivian_Family.jpg"
-        },
-        {
-          "id": "https://www.theverge.com/2024/11/11/24293891/google-learn-about-ai-search-educational",
-          "author": null,
-          "description": "Google’s Learn About website. | Image: Google\n    \n\n  \nGoogle has launched an experimental new AI tool called Learn About, which is different from the chatbots we’re used to, like Gemini and ChatGPT. It’s built on the LearnLM AI model that Google introduced this spring, saying it’s “grounded in educational research and tailored to how people learn.” The answers it provides have more visual and interactive elements with educational formatting.\nWe tested Learn About and Google Gemini with a simple prompt: “How big is the universe?” Both answered that “the observable universe” is “about 93 billion light-years in diameter.”\nHowever, while Gemini opted to show a Wikipedia-provided diagram of the universe and a two-paragraph summary with links to sources, Learn About emphasized an image from the educational site Physics Forums and added related content that was similarly focused more on learning than simply offering facts and definitions.\nScreenshot: Jake Kastrenakes / The Verge\n      Learn About’s answer to “How big is the universe?”\n  \n\n        \n      Screenshot: Jake Kastrenakes / The Verge\n      Gemini’s answer to “How big is the universe?”\n  \nLearn About’s response also created textbook-style boxes that give you additional context like “why it matters” and ones that help you “Build your vocab” with word definitions. In the sidebar, additional topics appear to continue exploring using the tool.\nWe also asked Learn About “What’s the best kind of glue to put on a pizza?” (Google’s AI search overviews have struggled with this one in the past), and it managed to get that one right, even if the “common misconception” sticker makes us wonder how many times this question has been asked.\nScreenshot: Richard Lawler / The Verge\n      Learn About tries to explain why you shouldn’t put glue on pizza.",
-          "link": "https://www.theverge.com/2024/11/11/24293891/google-learn-about-ai-search-educational",
-          "publishedOn": "2024-11-11T23:36:44.000Z",
-          "wordCount": 3337,
-          "title": "Google’s AI ‘learning companion’ takes chatbot answers a step further",
-          "imageUrl": "https://cdn.vox-cdn.com/thumbor/jjBLwwkZAEaTxEJAfNnx6IUZBcQ=/0x0:3322x2215/1200x628/filters:focal(1661x1108:1662x1109)/cdn.vox-cdn.com/uploads/chorus_asset/file/25727343/Screenshot_2024_11_11_at_3.53.01_PM.jpeg"
-        },
-        {
-          "id": "https://www.theverge.com/2024/11/11/24294106/valve-white-steam-deck",
-          "author": null,
-          "description": "Image: Valve\n    \n\n  \nNearly three years to the day after teasing the world with a white version of the Steam Deck, Valve has finally decided to release the normally black handheld gaming PC in that color too. The limited-edition white model is going on sale for $679 on November 18th at 3PM PT / 6PM ET, everywhere the handheld is sold, including Australia and the various regions of Asia served by Komodo. \nIt’s no different on the inside than a normal model, says Valve: \nSteam Deck OLED: Limited Edition White has all the same specs as the Steam Deck OLED 1TB model, but in white and grey. It also comes with an exclusive white carrying case and white microfiber cleaning cloth.\n\nSince the 1TB OLED normally costs $649, you’re effectively paying $30 for the color. Valve says it’s allocated stock proportionally across each region, but once it’s sold out, it won’t be making any more. \nBelow, find a few more images of it direct from Valve.\nI still highly recommend the Steam Deck OLED, though I could see some buyers picking an Asus ROG Ally X instead for its notable performance and decent battery life advantages, particularly if they decide to dual-boot the Bazzite operating system (which makes it feel a lot like a Steam Deck) alongside Windows. \n(Yes, the ROG Ally X is a black variant of an originally white handheld, and this Steam Deck is the opposite.)\nHere’s what the old Valve prototype looked like, straight out of Portal with an Aperture Science logo on the back:\nGIF by Sean Hollister / The Verge\n      It’s not for sale.\n  \nHere’s hoping someone will print up some high quality Portal stickers, and perhaps we can add our own orange and blue Portal thumbstick covers or something.",
-          "link": "https://www.theverge.com/2024/11/11/24294106/valve-white-steam-deck",
-          "publishedOn": "2024-11-11T23:32:15.000Z",
-          "wordCount": 3513,
-          "title": "Valve finally made a white Steam Deck that you can actually buy",
-          "imageUrl": "https://cdn.vox-cdn.com/thumbor/uO_irQp0i3vzrArMyweZ-ELw2KE=/0x0:2400x1350/1200x628/filters:focal(1445x937:1446x938)/cdn.vox-cdn.com/uploads/chorus_asset/file/25727587/steam_deck_white_001.jpg"
-        },
-        {
-          "id": "https://www.theverge.com/2024/11/11/24294023/new-york-times-tech-workers-strike-end",
-          "author": null,
-          "description": "Photo by Erik McGregor/LightRocket via Getty Images\n    \n\n  \nThe New York Times’ tech employees, who are behind Wordle and Connections among other games and features, will go back to work on Tuesday following a weeklong strike. In a statement published on Monday, the New York Times Tech Guild said union members will “march into the office together in the morning as a symbol of what’s to come for The Times.”\nThe Tech Guild represents the over 600 workers who manage technology across the digital paper. Union members went on strike the day before the US election, raising concerns about whether the NYT’s vote-tracking tech, like the Needle, would hold up on Election Day. The union and the NYT will continue negotiating on a contract.\n“The systems and digital products that worked over the electi…",
-          "link": "https://www.theverge.com/2024/11/11/24294023/new-york-times-tech-workers-strike-end",
-          "publishedOn": "2024-11-11T22:34:09.000Z",
-          "wordCount": 3593,
-          "title": "The NYT Tech Guild’s election week strike is over",
-          "imageUrl": "https://cdn.vox-cdn.com/thumbor/yP6wrL6qoB-nG3MI_-q5H64Clxc=/0x0:3100x2063/1200x628/filters:focal(1900x951:1901x952)/cdn.vox-cdn.com/uploads/chorus_asset/file/25727434/2182725205.jpg"
-        },
-        {
-          "id": "https://www.theverge.com/2024/11/11/24293920/bluesky-700000-new-users-week-x-threads",
-          "author": null,
-          "description": "Image: Bluesky\n    \n\n  \nBluesky gained more than 700,000 new users in the last week and now has more than 14.5 million users total, Bluesky COO Rose Wang confirmed to The Verge. The “majority” of the new users on the decentralized social network are from the US, Wang says. The app is currently the number two free social networking app in the US App Store, only trailing Meta’s Threads.\nPeople posting on Threads, on the other hand, have raised complaints about engagement bait, moderation issues, and, as of late, misinformation, reports Taylor Lorenz. And like our very own Tom Warren, I’ve come to dislike the algorithmic “For You” feed that you can’t permanently escape, and it certainly seems like we’re not alone in that opinion.\nBut the Instagram-bootstrapped Threads, which recently crossed 275 million monthly users, is still significantly larger than Bluesky.\nThe independent platform has seen a lot of growth in recent weeks — on October 24th, Bluesky announced it had 13 million users. After X’s recent announcement that it would let blocked users still see posts from the person that blocked them, for example, Bluesky said it added 500,000 new users in one day.\n\n\nThe results of the US presidential election could be part of Bluesky’s new influx of users. People may be looking to use a platform that’s not owned by Musk or, like some Taylor Swift fans, may be looking for a new platform following an increase in hate speech on X.\nBluesky is also becoming an increasingly better app, with recently added features like pinned posts, support for posting videos, and the ability to send DMs to bring it up to what you might expect from X. It also allows users to custom create and select feeds to follow, and allows for building starter packs to quickly find posters who you may be already familiar with — here’s a list of Verge staffers on the platform.",
-          "link": "https://www.theverge.com/2024/11/11/24293920/bluesky-700000-new-users-week-x-threads",
-          "publishedOn": "2024-11-11T22:30:52.000Z",
-          "wordCount": 2905,
-          "title": "Bluesky adds 700,000 new users in a week",
-          "imageUrl": "https://cdn.vox-cdn.com/thumbor/nJ73fnF5AY-1_0RlnCNBimXUD0M=/0x0:2400x1260/1200x628/filters:focal(1200x630:1201x631)/cdn.vox-cdn.com/uploads/chorus_asset/file/25269608/bluesky_media_kit_banner_4.png"
-        },
-        {
-          "id": "https://www.theverge.com/2024/11/11/24293604/super-nintendo-world-theme-park-donkey-kong-country-osaka-date",
-          "author": null,
-          "description": "Image: Nintendo\n    \n\n  \nNintendo is finally ready to show off the next phase of Super Nintendo World at Universal Studios Japan in Osaka. In a Nintendo Direct today, the company gave the first proper look at the Donkey Kong Country-themed expansion for the theme park, which includes a mine cart rollercoaster and a real-life, three-player version of the Donkey Konga rhythm game. The expansion opens on December 11th.\nTo get to the new area, attendees go through a tunnel seemingly made with rocks, that leads to a jungle-themed locale. There’s a towering tree house, a golden temple spewing steam, and lots of banana-flavored deserts. And just like in the games, you can find — and collect — giant letters hidden around the area using the park’s NFC bracelet. Naturally, there are now Donkey Kong-…",
-          "link": "https://www.theverge.com/2024/11/11/24293604/super-nintendo-world-theme-park-donkey-kong-country-osaka-date",
-          "publishedOn": "2024-11-11T22:15:05.000Z",
-          "wordCount": 3513,
-          "title": "Super Nintendo World’s new Donkey Kong area has a rollercoaster and rhythm games",
-          "imageUrl": "https://cdn.vox-cdn.com/thumbor/f7xPFbFS-lRgNmktVOWz3Vztu9Q=/0x0:1992x1068/1200x628/filters:focal(996x534:997x535)/cdn.vox-cdn.com/uploads/chorus_asset/file/25727472/Screenshot_2024_11_11_at_5.09.13_PM.png"
-        },
-        {
-          "id": "https://www.theverge.com/2024/11/11/24293873/signal-calls-work-like-meet-zoom",
-          "author": null,
-          "description": "Illustration by Alex Castro / The Verge\n    \n\n  \nSignal is making a bunch of improvements to calls so they are more competitive with Zoom and Google Meet, including the ability to share a link to a call.\nPreviously, you could only initiate a call from a Signal group chat, so this new feature should make it much easier to hop on the phone with a friend or co-worker by sending them a link inside or outside of Signal. You can also re-use call links, which could be handy for recurring work meetings or a weekly chat you have with your family.\nImage: Signal\n  \nWithin calls, Signal is getting some upgrades, too, including a “raise hand” button to let people know that you have something to say and emoji reactions so you can spam your emoji feelings. And the app now has a tab just for keeping track of your calls, which could be useful if you want to look back on your call history.\nThe new call features are available on the newest version of Signal on Android, iOS, and desktop.",
-          "link": "https://www.theverge.com/2024/11/11/24293873/signal-calls-work-like-meet-zoom",
-          "publishedOn": "2024-11-11T21:30:06.000Z",
-          "wordCount": 2327,
-          "title": "Signal calls now work a lot more like Meet and Zoom",
-          "imageUrl": "https://cdn.vox-cdn.com/thumbor/o4OpBlek8qhrux3vLSgmMiyU3zI=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23999417/acastro_STK459.jpg"
-        },
-        {
-          "id": "https://www.theverge.com/2024/11/11/24293817/amazon-employee-emails-phone-numbers-moveit-data-breach",
-          "author": null,
-          "description": "Photo by Amelia Holowaty Krales / The Verge\n    \n\n  \nAmazon says a data breach exposed the email addresses, phone numbers, and building locations linked to its employees, as reported earlier by 404 Media. In a statement to The Verge, Amazon spokesperson Adam Montgomery said the company was “notified about a security event at one of our property management vendors that impacted several of its customers, including Amazon.”\nThe confirmation follows a report from the cybercrime firm Hudson Rock saying that information posted on the hacking forum includes data from Amazon and 25 other entities, including MetLife, HP, HSBC, and Canada Post. \nHudson Rock says the leaked info dates back to May 2023, and it’s related to the major security vulnerability in the MOVEit file transfer system that came to light last year, adding Amazon to a list of affected organizations that already included the BBC, British Airways, Sony, the US Department of Energy, and many others. They also note that the person who posted the information claimed it’s “just a tiny portion of the data they have.”\n“Amazon and AWS systems remain secure, and we have not experienced a security event,” Montgomery said. “The only Amazon information involved was employee work contact information, for example work email addresses, desk phone numbers, and building locations.”\nIt’s unclear how many employees were affected by the breach, but a screenshot of the hacking forum post shows more than 2.8 million lines in the purported Amazon dataset. Montgomery told The Verge that the breach didn’t involve employee social security numbers, government identity documents, or financial data.",
-          "link": "https://www.theverge.com/2024/11/11/24293817/amazon-employee-emails-phone-numbers-moveit-data-breach",
-          "publishedOn": "2024-11-11T20:22:05.000Z",
-          "wordCount": 2751,
-          "title": "Amazon confirms employee data breach, but says it’s limited to contact info",
-          "imageUrl": "https://cdn.vox-cdn.com/thumbor/sgwpsAC9aHj27oD5UdEXD04TLA0=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23318436/akrales_220309_4977_0258.jpg"
-        },
-        {
-          "id": "https://www.theverge.com/24293448/x-twitter-musk-deactivate-how-to",
-          "author": null,
-          "description": "Illustration by Samar Haddad / The Verge\n    \n\n  \nOnce upon a time, Twitter — now X — was the place to get your memes, world news, and pop culture. However, even at the time, being an active Twitter user also required sifting through a daily deluge of toxic characters, bots, and deepfakes. Then the Elon Musk circus came to town and began steadily altering the formerly popular social network, to the point that many of its adherents began bailing by moving to one or more of the new social networks, such as Threads, Bluesky, or Mastodon. \n\n\nNow that the 2024 US presidential election is over, Musk looks like he’s going to be at least one of the powers behind the throne. Add to that recent changes that have made X less safe to use, and it’s no surprise that there is now a new wave of X users lo…",
-          "link": "https://www.theverge.com/24293448/x-twitter-musk-deactivate-how-to",
-          "publishedOn": "2024-11-11T18:38:00.000Z",
-          "wordCount": 6493,
-          "title": "How to deactivate your X account",
-          "imageUrl": "https://cdn.vox-cdn.com/thumbor/R_nSPesHjwqdTS6ZdFVVF98Vmuw=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23952457/HT027_twitter_0006.jpg"
-        },
-        {
-          "id": "https://www.theverge.com/2024/11/11/24293749/what-if-season-three-premiere-date-x-men-storm-secret-wars",
-          "author": null,
-          "description": "Though it’s going to be a while before X-Men ‘97 returns to Disney Plus, the third and final season of What If…? is about to bring one of Marvel’s mutants to the MCU in the flashiest way possible.\nAhead of What If…?’s season 3 premiere on December 22nd, Disney Plus has dropped a trailer spotlighting some of the new alternate universe stories featuring slightly different versions of previously-introduced MCU characters. The season will see Shang-Chi (Simu Liu) reimagined as a cowboy, Agatha Harkness (Kathryn Hahn) in a cosmic flapper guise, and the Avengers become a super sentai team with interconnecting mechs. That all feels like the exact kind of madness that has already made the show a fun, whiz-bang watch, but what’s really surprising to see is Storm (Alison Sealy-Smith) showing up as a hammer-wielding Thor.\nIn Marvel’s Secret Wars comics event, Storm spent some time as a member of the Thor Corps — a group of people recruited from different universes by Doctor Doom to serve as the police in his Battleworld reality. When What If…? first debuted, the show seemed like a collection of out-there stories that might not have all that much to do with what’s going on in Marvel’s films. But with Doctor Doom on the way and a Secret Wars feature in the works, it’s looking more and more like What If…? might end up being a pretty important piece of the franchise’s ongoing story.",
-          "link": "https://www.theverge.com/2024/11/11/24293749/what-if-season-three-premiere-date-x-men-storm-secret-wars",
-          "publishedOn": "2024-11-11T18:06:37.000Z",
-          "wordCount": 3412,
-          "title": "The final season of What If...? storms its way onto Disney Plus this December",
-          "imageUrl": "https://cdn.vox-cdn.com/thumbor/iR1ygngnrPtqDE9oO9Z4clDdXNg=/0x0:1895x1237/1200x628/filters:focal(1075x527:1076x528)/cdn.vox-cdn.com/uploads/chorus_asset/file/25726669/Screenshot_2024_11_11_at_12.15.27_PM.png"
-        },
-        {
-          "id": "https://www.theverge.com/2024/11/11/24293609/boox-palma-apple-airtags-fitbit-ace-lte-deal-sale",
-          "author": null,
-          "description": "The smartphone-sized Boox Palma is highly portable and lets you read in a variety of apps. | Image: Boox\n    \n\n  \n\n\nAmazon announced a slew of new Kindles recently, but if you’re not already locked into Amazon’s ecosystem they may not be the best options. If you’re looking for an e-reader that offers more flexibility, our readers can currently buy the Boox Palma at a new all-time low of $234.99 ($45 off) from Wellbots with a free flip-cover case (valued at $16) when you apply the code VERGEBFBOOX45. \n\n\nUnlike many other e-readers, the Boox Palma runs on Android 11 and comes with the Google Play Store built-in, so you can read in a wide range of apps. That’s really convenient, as all you need to do is, say, download Amazon’s Kindle app, and you’ll be able to access your entirely digital lib…",
-          "link": "https://www.theverge.com/2024/11/11/24293609/boox-palma-apple-airtags-fitbit-ace-lte-deal-sale",
-          "publishedOn": "2024-11-11T17:30:15.000Z",
-          "wordCount": 4953,
-          "title": "The Boox Palma e-reader is down to a new low price for Verge readers",
-          "imageUrl": "https://cdn.vox-cdn.com/thumbor/WPF6Ptj2a3YfPORMxU9xRkIr_Q0=/0x0:1600x900/1200x628/filters:focal(800x450:801x451)/cdn.vox-cdn.com/uploads/chorus_asset/file/25503688/Boox_Palma_lead.jpeg"
         }
       ]
     },
@@ -938,6 +918,116 @@
       "feedUrl": "https://www.theatlantic.com/feed/all/",
       "siteUrl": "https://www.theatlantic.com/",
       "articles": [
+        {
+          "id": "https://www.theatlantic.com/newsletters/archive/2024/11/trump-education-federal-states-power/680767/?utm_source=feed",
+          "author": null,
+          "description": "He says he wants to give power back to the states, but has also signaled his intention to align American schools with his own cultural agenda.",
+          "link": "https://www.theatlantic.com/newsletters/archive/2024/11/trump-education-federal-states-power/680767/?utm_source=feed",
+          "publishedOn": "2024-11-22T00:04:00.000Z",
+          "wordCount": 2950,
+          "title": "Trump Wants to Have it Both Ways on Education",
+          "imageUrl": "https://cdn.theatlantic.com/thumbor/Dtr6V6nrbUxjY-3PNTXwErGd4GY=/0x248:3758x2205/1200x625/media/newsletters/2024/11/GettyImages_2182692820/original.jpg"
+        },
+        {
+          "id": "https://www.theatlantic.com/newsletters/archive/2024/11/give-beans-a-chance/680749/?utm_source=feed",
+          "author": null,
+          "description": "The bean has the potential to remake American diets, but it has an image problem.",
+          "link": "https://www.theatlantic.com/newsletters/archive/2024/11/give-beans-a-chance/680749/?utm_source=feed",
+          "publishedOn": "2024-11-21T20:12:00.000Z",
+          "wordCount": 1723,
+          "title": "One Food to Change the World",
+          "imageUrl": "https://cdn.theatlantic.com/thumbor/JHuajIlgYGj1Zp0bxlkXgQlnFrM=/0x42:2000x1084/1200x625/media/newsletters/2024/11/Time_Travel_Thursdays_Beans/original.jpg"
+        },
+        {
+          "id": "https://www.theatlantic.com/ideas/archive/2024/11/trumps-first-defeat/680748/?utm_source=feed",
+          "author": null,
+          "description": "Matt Gaetz has officially withdrawn from being considered for attorney general.",
+          "link": "https://www.theatlantic.com/ideas/archive/2024/11/trumps-first-defeat/680748/?utm_source=feed",
+          "publishedOn": "2024-11-21T19:14:50.000Z",
+          "wordCount": 1888,
+          "title": "Trump’s First Defeat",
+          "imageUrl": "https://cdn.theatlantic.com/thumbor/qJCeBYhCOA7JES3M1MqvkWw6wuI=/0x57:2696x1461/1200x625/media/img/mt/2024/11/2024_11_21_gaetz_16177539/original.jpg"
+        },
+        {
+          "id": "https://www.theatlantic.com/technology/archive/2024/11/celebrity-look-alike-contest-boom/680742/?utm_source=feed",
+          "author": null,
+          "description": "Suddenly, these events are everywhere. What’s going on?",
+          "link": "https://www.theatlantic.com/technology/archive/2024/11/celebrity-look-alike-contest-boom/680742/?utm_source=feed",
+          "publishedOn": "2024-11-21T17:33:20.000Z",
+          "wordCount": 1905,
+          "title": "The Celebrity Look-Alike Contest Boom",
+          "imageUrl": "https://cdn.theatlantic.com/thumbor/xhJG1XjdOnVBU5HFuhhnUzumNaM=/0x43:2000x1085/1200x625/media/img/mt/2024/11/celeb_lookalikes/original.jpg"
+        },
+        {
+          "id": "https://www.theatlantic.com/politics/archive/2024/11/pete-hegseth-books-trump/680744/?utm_source=feed",
+          "author": null,
+          "description": "Pete Hegseth considers himself to be at war with basically everybody to Trump’s left, and it is by no means clear that he means <em>war</em> metaphorically.",
+          "link": "https://www.theatlantic.com/politics/archive/2024/11/pete-hegseth-books-trump/680744/?utm_source=feed",
+          "publishedOn": "2024-11-21T17:33:00.000Z",
+          "wordCount": 4922,
+          "title": "Donald Trump’s Most Dangerous Cabinet Pick",
+          "imageUrl": "https://cdn.theatlantic.com/thumbor/qlnIRZlQvyQuBSliqVNpC_nFlnY=/0x43:2000x1085/1200x625/media/img/mt/2024/11/1124_Pete/original.png"
+        },
+        {
+          "id": "https://www.theatlantic.com/ideas/archive/2024/11/sound-of-one-hand-clapping/680699/?utm_source=feed",
+          "author": null,
+          "description": "You don’t have to become a Buddhist monk to realize the value of contemplating hard questions without clear answers.",
+          "link": "https://www.theatlantic.com/ideas/archive/2024/11/sound-of-one-hand-clapping/680699/?utm_source=feed",
+          "publishedOn": "2024-11-21T17:00:00.000Z",
+          "wordCount": 3897,
+          "title": "Three Ways to Become a Deeper Thinker",
+          "imageUrl": "https://cdn.theatlantic.com/thumbor/CgP_SfTMYQnQI8CS9_3Al6dKKuw=/4x0:2999x1560/1200x625/media/img/mt/2024/11/HowToBuildALife216/original.jpg"
+        },
+        {
+          "id": "https://www.theatlantic.com/politics/archive/2024/11/anti-semitism-donald-trumps-cabinet-picks/680741/?utm_source=feed",
+          "author": null,
+          "description": "Donald Trump has vowed to “defeat anti-Semitism.” His Cabinet picks tell a very different story.",
+          "link": "https://www.theatlantic.com/politics/archive/2024/11/anti-semitism-donald-trumps-cabinet-picks/680741/?utm_source=feed",
+          "publishedOn": "2024-11-21T16:51:00.000Z",
+          "wordCount": 2443,
+          "title": "Trump Is Building the Most Anti-Semitic Cabinet in Decades",
+          "imageUrl": "https://cdn.theatlantic.com/thumbor/37xI70Hwti7jvTEGBMHJGr2XYCc=/0x43:2000x1085/1200x625/media/img/mt/2024/11/trump_cabinet/original.jpg"
+        },
+        {
+          "id": "https://www.theatlantic.com/books/archive/2024/11/sister-deborah-scholastique-mukasonga-novel-review/680718/?utm_source=feed",
+          "author": null,
+          "description": "Scholastique Mukasonga’s <em>Sister Deborah</em> suggests that some people must look outside the traditional bounds of Christianity to find true spiritual freedom.",
+          "link": "https://www.theatlantic.com/books/archive/2024/11/sister-deborah-scholastique-mukasonga-novel-review/680718/?utm_source=feed",
+          "publishedOn": "2024-11-21T15:00:00.000Z",
+          "wordCount": 3758,
+          "title": "In Search of a Faith Beyond Religion",
+          "imageUrl": "https://cdn.theatlantic.com/thumbor/-lRBLWUCqbZcuDNXgIS_UivHpZc=/0x788:2160x1913/1200x625/media/img/mt/2024/11/HR_10347n24/original.jpg"
+        },
+        {
+          "id": "https://www.theatlantic.com/culture/archive/2024/11/cher-memoir-review/680726/?utm_source=feed",
+          "author": null,
+          "description": "The singer has long stood for a brassy, strutting kind of survival. Her new account of her early life explains how that came to be.",
+          "link": "https://www.theatlantic.com/culture/archive/2024/11/cher-memoir-review/680726/?utm_source=feed",
+          "publishedOn": "2024-11-21T13:30:00.000Z",
+          "wordCount": 3491,
+          "title": "Cher Has a History Lesson for Us All",
+          "imageUrl": "https://cdn.theatlantic.com/thumbor/vcT1LLItUkbD0ZbbB8zOmCMXQK4=/0x102:4792x2598/1200x625/media/img/mt/2024/11/Horiz_HR_MG136460/original.jpg"
+        },
+        {
+          "id": "https://www.theatlantic.com/books/archive/2024/11/publishers-marketplace-book-screenshot/680724/?utm_source=feed",
+          "author": null,
+          "description": "It’s what proves you’re a “real” writer.",
+          "link": "https://www.theatlantic.com/books/archive/2024/11/publishers-marketplace-book-screenshot/680724/?utm_source=feed",
+          "publishedOn": "2024-11-21T12:30:00.000Z",
+          "wordCount": 3353,
+          "title": "The Most Coveted Screenshot in the Literary World",
+          "imageUrl": "https://cdn.theatlantic.com/thumbor/gmM77Fj3RyoyPstVMjnJMhslKf0=/110x88:1842x990/1200x625/media/img/mt/2024/11/PM_Award_horz1/original.jpg"
+        },
+        {
+          "id": "https://www.theatlantic.com/podcasts/archive/2024/11/trump-military-pete-hegseth-tulsi-gabbard-cabinet/680725/?utm_source=feed",
+          "author": null,
+          "description": "Revenge on the military is just the start of it.",
+          "link": "https://www.theatlantic.com/podcasts/archive/2024/11/trump-military-pete-hegseth-tulsi-gabbard-cabinet/680725/?utm_source=feed",
+          "publishedOn": "2024-11-21T11:00:00.000Z",
+          "wordCount": 10192,
+          "title": "What Pete Hegseth’s Nomination Is Really About",
+          "imageUrl": "https://cdn.theatlantic.com/thumbor/vL8JhSD8AQNeXTvXOtmSNYN7G_w=/0x81:4000x2164/1200x625/media/img/mt/2024/11/TrumpMilitary_Radio_Atlantic/original.jpg"
+        },
         {
           "id": "https://www.theatlantic.com/newsletters/archive/2024/11/why-oz-is-the-doctor-trump-ordered/680727/?utm_source=feed",
           "author": null,
@@ -1927,156 +2017,6 @@
           "wordCount": 4555,
           "title": "Richard Price’s Radical, Retrograde Novel",
           "imageUrl": "https://cdn.theatlantic.com/thumbor/-E-_J7m1cSCHk747BahIs5eMJDM=/0x760:1379x1478/1200x625/media/img/2024/10/atlantic_lazarus_final_re/original.jpg"
-        },
-        {
-          "id": "https://www.theatlantic.com/health/archive/2024/11/dna-genetic-discrimination-insurance-privacy/680626/?utm_source=feed",
-          "author": null,
-          "description": "Insurers are refusing to cover Americans whose DNA reveals health risks. It’s perfectly legal.",
-          "link": "https://www.theatlantic.com/health/archive/2024/11/dna-genetic-discrimination-insurance-privacy/680626/?utm_source=feed",
-          "publishedOn": "2024-11-12T12:30:00.000Z",
-          "wordCount": 4149,
-          "title": "Genetic Discrimination Is Coming for Us All",
-          "imageUrl": "https://cdn.theatlantic.com/thumbor/14d16yKYNmuxq0gReri_n3VIq5Q=/0x83:2000x1125/1200x625/media/img/mt/2024/11/genetic_discrimation_final-1/original.jpg"
-        },
-        {
-          "id": "https://www.theatlantic.com/books/archive/2024/11/mourning-author-dorothy-allison-a-guide-to-queer-survival/680630/?utm_source=feed",
-          "author": null,
-          "description": "Dorothy Allison, the <em>Bastard Out of Carolina</em> author who died last week, modeled the power of honesty in her writing and her life.",
-          "link": "https://www.theatlantic.com/books/archive/2024/11/mourning-author-dorothy-allison-a-guide-to-queer-survival/680630/?utm_source=feed",
-          "publishedOn": "2024-11-12T12:00:00.000Z",
-          "wordCount": 2510,
-          "title": "The Queer Author Who Spoke the Plain Truth",
-          "imageUrl": "https://cdn.theatlantic.com/thumbor/hJ5_6P2winztxnLkmgfSSLlG1dI=/0x57:2676x1451/1200x625/media/img/mt/2024/11/2024_11_11_dorothy_allison_1282513047/original.jpg"
-        },
-        {
-          "id": "https://www.theatlantic.com/podcasts/archive/2024/11/democrats-presidential-election-kamala-harris/680633/?utm_source=feed",
-          "author": null,
-          "description": "Inflation, moderation, and candidate effects",
-          "link": "https://www.theatlantic.com/podcasts/archive/2024/11/democrats-presidential-election-kamala-harris/680633/?utm_source=feed",
-          "publishedOn": "2024-11-12T11:00:00.000Z",
-          "wordCount": 15475,
-          "title": "A Former Republican Strategist on Why Harris Lost",
-          "imageUrl": "https://cdn.theatlantic.com/thumbor/bV3M1YZtVW85JPDsWjhZnRoF7gg=/0x61:2876x1559/1200x625/media/img/mt/2024/11/GOP_episode_post_election_horizontal-2/original.jpg"
-        },
-        {
-          "id": "https://www.theatlantic.com/newsletters/archive/2024/11/what-the-democrats-do-now/680631/?utm_source=feed",
-          "author": null,
-          "description": "Party leaders have spent much of the past six days dissecting what went wrong. Now they’re pitching their vision for the future.",
-          "link": "https://www.theatlantic.com/newsletters/archive/2024/11/what-the-democrats-do-now/680631/?utm_source=feed",
-          "publishedOn": "2024-11-11T23:42:00.000Z",
-          "wordCount": 2840,
-          "title": "What the Democrats Do Now",
-          "imageUrl": "https://cdn.theatlantic.com/thumbor/QO_jiitEn3o1Wks4jhAQZ0eQfSY=/0x448:7806x4514/1200x625/media/img/mt/2024/11/GettyImages_2167299514/original.jpg"
-        },
-        {
-          "id": "https://www.theatlantic.com/politics/archive/2024/11/trump-staff-picks-stephen-miller-tom-homan/680629/?utm_source=feed",
-          "author": null,
-          "description": "These are not the staff picks of someone who doesn’t mean what he says.",
-          "link": "https://www.theatlantic.com/politics/archive/2024/11/trump-staff-picks-stephen-miller-tom-homan/680629/?utm_source=feed",
-          "publishedOn": "2024-11-11T22:15:04.000Z",
-          "wordCount": 1998,
-          "title": "Trump Signals That He’s Serious About Mass Deportation",
-          "imageUrl": "https://cdn.theatlantic.com/thumbor/4atMEAFb7Wlci-iFSMu9ySlRjNc=/0x85:3974x2155/1200x625/media/img/mt/2024/11/GettyImages_2165909629/original.jpg"
-        },
-        {
-          "id": "https://www.theatlantic.com/technology/archive/2024/11/elon-musk-stole-election/680628/?utm_source=feed",
-          "author": null,
-          "description": "Elon Musk didn’t “steal” the election.",
-          "link": "https://www.theatlantic.com/technology/archive/2024/11/elon-musk-stole-election/680628/?utm_source=feed",
-          "publishedOn": "2024-11-11T21:53:39.000Z",
-          "wordCount": 2572,
-          "title": "The Great Conspiracy-Theorist Flip-Flop",
-          "imageUrl": "https://cdn.theatlantic.com/thumbor/-SWOm9P7ijEqiGjoQXwDQcu26MI=/0x102:4792x2598/1200x625/media/img/mt/2024/11/HR_AP24279819547125/original.jpg"
-        },
-        {
-          "id": "https://www.theatlantic.com/ideas/archive/2024/11/biden-harris-economy-election-loss/680592/?utm_source=feed",
-          "author": null,
-          "description": "The economy under Biden looked good but felt bad.",
-          "link": "https://www.theatlantic.com/ideas/archive/2024/11/biden-harris-economy-election-loss/680592/?utm_source=feed",
-          "publishedOn": "2024-11-11T19:56:00.000Z",
-          "wordCount": 3009,
-          "title": "The Cost-of-Living Crisis Explains Everything",
-          "imageUrl": "https://cdn.theatlantic.com/thumbor/5b6qRRltibC4Y5woqXkKtqbneJA=/0x43:2000x1085/1200x625/media/img/mt/2024/11/delivering_dems_2/original.jpg"
-        },
-        {
-          "id": "https://www.theatlantic.com/health/archive/2024/11/deep-state-public-health-trump-kennedy/680621/?utm_source=feed",
-          "author": null,
-          "description": "It’s nothing like what Donald Trump says it is.",
-          "link": "https://www.theatlantic.com/health/archive/2024/11/deep-state-public-health-trump-kennedy/680621/?utm_source=feed",
-          "publishedOn": "2024-11-11T19:13:00.000Z",
-          "wordCount": 2863,
-          "title": "There Really Is a Deep State",
-          "imageUrl": "https://cdn.theatlantic.com/thumbor/QD9-g4meZ8soTwX0Qe8of0ZQB70=/0x43:2000x1085/1200x625/media/img/mt/2024/11/Eagle_Stethoscope_illo/original.jpg"
-        },
-        {
-          "id": "https://www.theatlantic.com/press-releases/archive/2024/11/jonathan-chait-joins-atlantic-staff-writer/680622/?utm_source=feed",
-          "author": null,
-          "description": "Chait will write about politics and the second Trump administration from Washington, D.C.",
-          "link": "https://www.theatlantic.com/press-releases/archive/2024/11/jonathan-chait-joins-atlantic-staff-writer/680622/?utm_source=feed",
-          "publishedOn": "2024-11-11T19:03:49.000Z",
-          "wordCount": 810,
-          "title": "Jonathan Chait Joins <em>The Atlantic</em> as a Staff Writer",
-          "imageUrl": "https://cdn.theatlantic.com/thumbor/TYgO50A2fY3VtdnpmIVJJOtA0Bg=/0x43:2000x1085/1200x625/media/img/mt/2024/11/1862_AtlanticImage/original.jpg"
-        },
-        {
-          "id": "https://www.theatlantic.com/politics/archive/2024/11/democrats-senate-nightmare/680620/?utm_source=feed",
-          "author": null,
-          "description": "<span>If the party doesn’t figure out how to compete in more states, perpetual GOP dominance is all but assured.</span>",
-          "link": "https://www.theatlantic.com/politics/archive/2024/11/democrats-senate-nightmare/680620/?utm_source=feed",
-          "publishedOn": "2024-11-11T17:15:00.000Z",
-          "wordCount": 2047,
-          "title": "The Democrats’ Senate Nightmare Is Only Beginning",
-          "imageUrl": "https://cdn.theatlantic.com/thumbor/FXrpY4gbQNeGHE1lyiOgDj7JTO4=/0x0:4792x2496/1200x625/media/img/mt/2024/11/HR_15728598/original.jpg"
-        },
-        {
-          "id": "https://www.theatlantic.com/magazine/archive/2024/12/los-angeles-lowrider-scene-photographs-owen-harvey/680391/?utm_source=feed",
-          "author": null,
-          "description": "Photographs of Los Angeles’s lowriding scene",
-          "link": "https://www.theatlantic.com/magazine/archive/2024/12/los-angeles-lowrider-scene-photographs-owen-harvey/680391/?utm_source=feed",
-          "publishedOn": "2024-11-11T17:00:00.000Z",
-          "wordCount": 1270,
-          "title": "Hydraulic Revolution",
-          "imageUrl": "https://cdn.theatlantic.com/thumbor/FxVw88oVkjWAE_gcyPzx3b6i0NU=/0x530:3377x2289/1200x625/media/img/2024/10/LA_1stAug_OwenHarvey_0129_copy/original.jpg"
-        },
-        {
-          "id": "https://www.theatlantic.com/photo/2024/11/winners-european-wildlife-photographer-year-2024/680618/?utm_source=feed",
-          "author": null,
-          "description": "Some of the winning and honored photographs from this year’s competition",
-          "link": "https://www.theatlantic.com/photo/2024/11/winners-european-wildlife-photographer-year-2024/680618/?utm_source=feed",
-          "publishedOn": "2024-11-11T16:59:07.000Z",
-          "wordCount": 4990,
-          "title": "Winners of the European Wildlife Photographer of the Year 2024",
-          "imageUrl": "https://cdn.theatlantic.com/thumbor/-rDpQ6oP95_9wMBwNG4BBjzDY8o=/0x94:2000x1136/960x500/media/img/photo/2024/11/winners-european-wildlife-photograp/a01_K2_02_fernandez-1/original.jpg"
-        },
-        {
-          "id": "https://www.theatlantic.com/books/archive/2024/11/didion-and-babitz-book-fails-to-find-the-complicated-truth/680617/?utm_source=feed",
-          "author": null,
-          "description": "A new book compares the authors and frenemies Joan Didion and Eve Babitz, but its fixation on their rivalry obscures the complicated truth.",
-          "link": "https://www.theatlantic.com/books/archive/2024/11/didion-and-babitz-book-fails-to-find-the-complicated-truth/680617/?utm_source=feed",
-          "publishedOn": "2024-11-11T16:09:00.000Z",
-          "wordCount": 5003,
-          "title": "Why Gossip Is Fatal to Good Writing",
-          "imageUrl": "https://cdn.theatlantic.com/thumbor/QpbasHmK6Z56SVu_F1lywFyGvrA=/0x57:2696x1461/1200x625/media/img/mt/2024/11/2024_11_08_didion_2/original.jpg"
-        },
-        {
-          "id": "https://www.theatlantic.com/science/archive/2024/11/cambrian-explosion-tectonic-plates-mountains-evolution/680544/?utm_source=feed",
-          "author": null,
-          "description": "The key to complex life might be hiding miles below our feet.",
-          "link": "https://www.theatlantic.com/science/archive/2024/11/cambrian-explosion-tectonic-plates-mountains-evolution/680544/?utm_source=feed",
-          "publishedOn": "2024-11-11T14:00:00.000Z",
-          "wordCount": 2930,
-          "title": "To Find Alien Intelligence, Start With the Mountains",
-          "imageUrl": "https://cdn.theatlantic.com/thumbor/lkVmarleeyCY-TxyvY0a5pgzYjM=/0x20:2000x1062/1200x625/media/img/mt/2024/11/EarthV1/original.jpg"
-        },
-        {
-          "id": "https://www.theatlantic.com/ideas/archive/2024/11/praise-clarity/680616/?utm_source=feed",
-          "author": null,
-          "description": "There is no ambiguity here.",
-          "link": "https://www.theatlantic.com/ideas/archive/2024/11/praise-clarity/680616/?utm_source=feed",
-          "publishedOn": "2024-11-11T13:53:00.000Z",
-          "wordCount": 2193,
-          "title": "In Praise of Clarity",
-          "imageUrl": "https://cdn.theatlantic.com/thumbor/VEV6sEUbUBjBj4CH8WKT5N5CJmM=/0x102:4792x2598/1200x625/media/img/mt/2024/11/HR_MG1159874/original.jpg"
         }
       ]
     },
@@ -2085,6 +2025,16 @@
       "feedUrl": "https://4sysops.com/feed/",
       "siteUrl": "https://4sysops.com",
       "articles": [
+        {
+          "id": "https://4sysops.com/?p=1589096",
+          "author": "Baki Onur Okutucu",
+          "description": "Azure Copilot, now in preview, introduces AI capabilities to streamline tasks across the Azure platform. Given that Copilot can execute substantial actions within Azure, limiting access to authorized administrators is essential. This responsibility mainly falls on Global Administrators (GAs) in Microsoft Entra ID. The following is a step-by-step guide for managing Azure Copilot access through PowerShell to ensure secure and controlled usage.\nSource",
+          "link": "https://4sysops.com/archives/restrict-access-to-microsoft-copilot-in-azure-with-powershell/",
+          "publishedOn": "2024-11-21T12:52:54.000Z",
+          "wordCount": null,
+          "title": "Restrict access to Microsoft Copilot in Azure with PowerShell",
+          "imageUrl": null
+        },
         {
           "id": "https://4sysops.com/?p=1589010",
           "author": "Edem Afenyo",
@@ -2162,6 +2112,106 @@
       "feedUrl": "https://www.bleepingcomputer.com/feed/",
       "siteUrl": "https://www.bleepingcomputer.com/",
       "articles": [
+        {
+          "id": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5046740-update-released-with-14-changes-and-fixes/",
+          "author": "Sergiu Gatlan",
+          "description": "​Microsoft has released the November 2024 preview cumulative update for Windows 11 24H2, with 14 improvements and fixes for multiple issues, including some affecting File Explorer, the Clipboard history, and secondary displays. [...]",
+          "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5046740-update-released-with-14-changes-and-fixes/",
+          "publishedOn": "2024-11-21T21:00:47.000Z",
+          "wordCount": 2392,
+          "title": "Windows 11 KB5046740 update released with 14 changes and fixes",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2024/07/18/Windows--11.jpg"
+        },
+        {
+          "id": "https://www.bleepingcomputer.com/news/security/chinese-gelsemium-hackers-use-new-wolfsbane-linux-malware/",
+          "author": "Bill Toulas",
+          "description": "A new Linux backdoor called 'WolfsBane' has been discovered, believed to be a port of Windows malware used by the Chinese 'Gelsemium' hacking group. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/chinese-gelsemium-hackers-use-new-wolfsbane-linux-malware/",
+          "publishedOn": "2024-11-21T20:06:45.000Z",
+          "wordCount": 2354,
+          "title": "Chinese hackers target Linux with new WolfsBane malware",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2023/06/22/Linux.jpg"
+        },
+        {
+          "id": "https://www.bleepingcomputer.com/news/security/over-2-000-palo-alto-firewalls-hacked-using-recently-patched-bugs/",
+          "author": "Sergiu Gatlan",
+          "description": "Hackers have already compromised thousands of Palo Alto Networks firewalls in attacks exploiting two recently patched zero-day vulnerabilities. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/over-2-000-palo-alto-firewalls-hacked-using-recently-patched-bugs/",
+          "publishedOn": "2024-11-21T19:46:48.000Z",
+          "wordCount": 2278,
+          "title": "Over 2,000 Palo Alto firewalls hacked using recently patched bugs",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2024/11/08/Palo-Alto-Networks.jpg"
+        },
+        {
+          "id": "https://www.bleepingcomputer.com/news/microsoft/microsoft-pulls-winappsdk-update-breaking-windows-10-app-uninstalls/",
+          "author": "Sergiu Gatlan",
+          "description": "Microsoft has confirmed that, since November 12, some Windows 10 users have been unable to update or uninstall packaged applications like Microsoft Teams. [...]",
+          "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-pulls-winappsdk-update-breaking-windows-10-app-uninstalls/",
+          "publishedOn": "2024-11-21T18:58:34.000Z",
+          "wordCount": 2255,
+          "title": "Microsoft pulls WinAppSDK update breaking Windows 10 app uninstalls",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2024/05/02/Windows.jpg"
+        },
+        {
+          "id": "https://www.bleepingcomputer.com/news/security/cisa-says-bianlian-ransomware-now-focuses-only-on-data-theft/",
+          "author": "Bill Toulas",
+          "description": "The BianLian ransomware operation has shifted its tactics, becoming primarily a data theft extortion group, according to an updated advisory from the U.S. Cybersecurity & Infrastructure Security Agency, the FBI, and the Australian Cyber Security Centre. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/cisa-says-bianlian-ransomware-now-focuses-only-on-data-theft/",
+          "publishedOn": "2024-11-21T18:38:05.000Z",
+          "wordCount": 2332,
+          "title": "CISA says BianLian ransomware now focuses only on data theft",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2022/10/28/hand-sifting-data.jpg"
+        },
+        {
+          "id": "https://www.bleepingcomputer.com/news/security/microsoft-disrupts-onnx-phishing-as-a-service-infrastructure/",
+          "author": "Sergiu Gatlan",
+          "description": "​Microsoft has seized 240 domains used by customers of ONNX, a phishing-as-a-service (PhaaS) platform, to target companies and individuals across the United States and worldwide since at least 2017. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/microsoft-disrupts-onnx-phishing-as-a-service-infrastructure/",
+          "publishedOn": "2024-11-21T17:00:00.000Z",
+          "wordCount": 2445,
+          "title": "Microsoft disrupts ONNX phishing-as-a-service infrastructure",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2023/10/19/Microsoft_headpic.jpg"
+        },
+        {
+          "id": "https://www.bleepingcomputer.com/news/legal/us-seizes-popeyetools-cybercrime-marketplace-charges-administrators/",
+          "author": "Bill Toulas",
+          "description": "The U.S. has seized the cybercrime website 'PopeyeTools' and unsealed charges against three of its administrators, Abdul Ghaffar, Abdul Sami, and Javed Mirza, for selling stolen data. [...]",
+          "link": "https://www.bleepingcomputer.com/news/legal/us-seizes-popeyetools-cybercrime-marketplace-charges-administrators/",
+          "publishedOn": "2024-11-21T15:44:07.000Z",
+          "wordCount": 2213,
+          "title": "US seizes PopeyeTools cybercrime marketplace, charges administrators",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2024/01/18/doj-header.jpg"
+        },
+        {
+          "id": "https://www.bleepingcomputer.com/news/security/fortinet-vpn-design-flaw-hides-successful-brute-force-attacks/",
+          "author": "Ionut Ilascu",
+          "description": "A design flaw in the Fortinet VPN server's logging mechanism can be leveraged to conceal the successful verification of credentials during a brute-force attack without tipping off defenders of compromised logins. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/fortinet-vpn-design-flaw-hides-successful-brute-force-attacks/",
+          "publishedOn": "2024-11-21T14:38:24.000Z",
+          "wordCount": 2511,
+          "title": "Fortinet VPN design flaw hides successful brute-force attacks",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2022/10/14/Fortinet.jpg"
+        },
+        {
+          "id": "https://www.bleepingcomputer.com/news/security/now-bluesky-hit-with-crypto-scams-as-it-crosses-20-million-users/",
+          "author": "Ax Sharma",
+          "description": "As users are flocking to BlueSky from social media platforms like X/Twitter, so are threat actors. BleepingComputer has spotted cryptocurrency scams popping up on BlueSky just as the decentralized microblogging service surpassed 20 million users this week. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/now-bluesky-hit-with-crypto-scams-as-it-crosses-20-million-users/",
+          "publishedOn": "2024-11-21T10:28:36.000Z",
+          "wordCount": 2736,
+          "title": "Now BlueSky hit with crypto scams as it crosses 20 million users",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2024/11/21/bluesky-1600-900.jpg"
+        },
+        {
+          "id": "https://www.bleepingcomputer.com/news/security/cyberattack-at-french-hospital-exposes-health-data-of-750-000-patients/",
+          "author": "Bill Toulas",
+          "description": "A data breach at an unnamed French hospital exposed the medical records of 750,000 patients after a threat actor gained access to its electronic patient record system. [...]",
+          "link": "https://www.bleepingcomputer.com/news/security/cyberattack-at-french-hospital-exposes-health-data-of-750-000-patients/",
+          "publishedOn": "2024-11-21T02:20:19.000Z",
+          "wordCount": 2356,
+          "title": "Cyberattack at French hospital exposes health data of 750,000 patients",
+          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2024/09/18/Hospital.jpg"
+        },
         {
           "id": "https://www.bleepingcomputer.com/news/security/fintech-giant-finastra-investigates-data-breach-after-sftp-hack/",
           "author": "Bill Toulas",
@@ -2821,76 +2871,6 @@
           "wordCount": 2305,
           "title": "North Korean hackers create Flutter apps to bypass macOS security",
           "imageUrl": "https://www.bleepstatic.com/content/hl-images/2023/09/11/apple_triangle.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/iphones-now-auto-restart-to-block-access-to-encrypted-data-after-long-idle-times/",
-          "author": "Sergiu Gatlan",
-          "description": "Apple has added a new security feature with the iOS 18.1 update released last month to ensure that iPhones automatically reboot after long idle periods to re-encrypt data and make it harder to extract. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/iphones-now-auto-restart-to-block-access-to-encrypted-data-after-long-idle-times/",
-          "publishedOn": "2024-11-12T00:19:08.000Z",
-          "wordCount": 2224,
-          "title": "iPhones now auto-restart to block access to encrypted data after long idle times",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2024/06/10/apple-iphone.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/software/vmware-makes-workstation-and-fusion-free-for-everyone/",
-          "author": "Sergiu Gatlan",
-          "description": "​VMware has announced that its VMware Fusion and VMware Workstation desktop hypervisors are now free to everyone for commercial, educational, and personal use. [...]",
-          "link": "https://www.bleepingcomputer.com/news/software/vmware-makes-workstation-and-fusion-free-for-everyone/",
-          "publishedOn": "2024-11-11T22:59:17.000Z",
-          "wordCount": 2103,
-          "title": "VMware makes Workstation and Fusion free for everyone",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2024/11/11/VMware.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/new-ymir-ransomware-partners-with-rustystealer-in-attacks/",
-          "author": "Bill Toulas",
-          "description": "A new ransomware family called 'Ymir' has been spotted in the wild, being introduced onto systems that were previously compromised by the RustyStealer info-stealer malware. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/new-ymir-ransomware-partners-with-rustystealer-in-attacks/",
-          "publishedOn": "2024-11-11T22:46:14.000Z",
-          "wordCount": 2337,
-          "title": "New Ymir ransomware partners with RustyStealer in attacks",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2024/02/20/ransomware.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/hibp-notifies-57-million-people-of-hot-topic-data-breach/",
-          "author": "Bill Toulas",
-          "description": "Have I Been Pwned warns that an alleged data breach exposed the personal information of 56,904,909 accounts for Hot Topic, Box Lunch, and Torrid customers. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/hibp-notifies-57-million-people-of-hot-topic-data-breach/",
-          "publishedOn": "2024-11-11T21:23:49.000Z",
-          "wordCount": 2271,
-          "title": "HIBP notifies 57 million people of Hot Topic data breach",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2024/03/28/HOT_TOPIC_STORE.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/amazon-confirms-employee-data-breach-after-vendor-hack/",
-          "author": "Sergiu Gatlan",
-          "description": "Amazon confirmed a data breach involving employee information after data allegedly stolen during the May 2023 MOVEit attacks was leaked on a hacking forum. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/amazon-confirms-employee-data-breach-after-vendor-hack/",
-          "publishedOn": "2024-11-11T19:10:58.000Z",
-          "wordCount": 2444,
-          "title": "Amazon confirms employee data breach after vendor hack",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2023/07/21/Amazon_headpic.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-windows-server-2025-automatic-upgrades-on-third-party-tools/",
-          "author": "Sergiu Gatlan",
-          "description": "Microsoft has finally confirmed that some Windows Server 2019 and 2022 systems were \"unexpectedly\" upgraded to Windows Server 2025 on devices if updates were managed using third-party patch management tools. [...]",
-          "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-windows-server-2025-automatic-upgrades-on-third-party-tools/",
-          "publishedOn": "2024-11-11T16:36:44.000Z",
-          "wordCount": 2769,
-          "title": "Microsoft blames Windows Server 2025 automatic upgrades on 3rd-party tools",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2024/05/14/Windows-Server.jpg"
-        },
-        {
-          "id": "https://www.bleepingcomputer.com/news/security/halliburton-reports-35-million-loss-after-ransomware-attack/",
-          "author": "Bill Toulas",
-          "description": "Halliburton has revealed that an August ransomware attack has led to $35 million in losses after the breach caused the company to shut down IT systems and disconnect customers. [...]",
-          "link": "https://www.bleepingcomputer.com/news/security/halliburton-reports-35-million-loss-after-ransomware-attack/",
-          "publishedOn": "2024-11-11T15:21:59.000Z",
-          "wordCount": 2225,
-          "title": "Halliburton reports $35 million loss after ransomware attack",
-          "imageUrl": "https://www.bleepstatic.com/content/hl-images/2024/08/23/Halliburton.jpg"
         }
       ]
     },
@@ -2905,6 +2885,16 @@
       "feedUrl": "https://krebsonsecurity.com/feed/",
       "siteUrl": "https://krebsonsecurity.com",
       "articles": [
+        {
+          "id": "https://krebsonsecurity.com/?p=69568",
+          "author": "BrianKrebs",
+          "description": "Federal prosecutors in Los Angeles this week unsealed criminal charges against five men alleged to be members of a hacking group responsible for dozens of cyber intrusions at major U.S. technology companies between 2021 and 2023, including LastPass, MailChimp, Okta, T-Mobile and Twilio.",
+          "link": "https://krebsonsecurity.com/2024/11/feds-charge-five-men-in-scattered-spider-roundup/",
+          "publishedOn": "2024-11-21T20:13:08.000Z",
+          "wordCount": 1835,
+          "title": "Feds Charge Five Men in ‘Scattered Spider’ Roundup",
+          "imageUrl": null
+        },
         {
           "id": "https://krebsonsecurity.com/?p=69538",
           "author": "BrianKrebs",
@@ -2942,6 +2932,16 @@
       "feedUrl": "https://www.apple.com/newsroom/rss-feed.rss",
       "siteUrl": "https://www.apple.com/newsroom/rss-feed.rss",
       "articles": [
+        {
+          "id": "https://www.apple.com/newsroom/2024/11/billie-eilish-is-apple-musics-artist-of-the-year-for-2024/",
+          "author": null,
+          "description": "Billie Eilish was announced today as Apple Music’s Artist of the Year, recognizing the singer-songwriter’s extraordinary impact throughout 2024.",
+          "link": "https://www.apple.com/newsroom/2024/11/billie-eilish-is-apple-musics-artist-of-the-year-for-2024/",
+          "publishedOn": "2024-11-21T15:59:26.213Z",
+          "wordCount": 3558,
+          "title": "Billie Eilish is Apple Music’s Artist of the Year for 2024",
+          "imageUrl": "https://www.apple.com/newsroom/images/2024/11/billie-eilish-is-apple-musics-artist-of-the-year-for-2024/tile/Apple-Music-2024-Artist-of-the-Year-Billie-Eilish-lp.jpg.og.jpg?202411212033"
+        },
         {
           "id": "https://www.apple.com/newsroom/2024/11/shazam-hits-100-billion-song-recognitions/",
           "author": null,
@@ -2991,16 +2991,6 @@
           "wordCount": 3812,
           "title": "Apple Arcade unwraps new games for the holiday season",
           "imageUrl": "https://www.apple.com/newsroom/images/2024/11/apple-arcade-unwraps-new-games-for-the-holiday-season/tile/Apple-Arcade-hero-lp.jpg.og.jpg?202411132301"
-        },
-        {
-          "id": "https://www.apple.com/newsroom/2024/11/apples-find-my-enables-sharing-location-of-lost-items-with-third-parties/",
-          "author": null,
-          "description": "Share Item Location helps users locate and recover misplaced items by securely sharing the location of an AirTag or Find My network accessory.",
-          "link": "https://www.apple.com/newsroom/2024/11/apples-find-my-enables-sharing-location-of-lost-items-with-third-parties/",
-          "publishedOn": "2024-11-11T15:58:35.867Z",
-          "wordCount": 5148,
-          "title": "Apple’s Find My enables sharing location of lost items with third parties",
-          "imageUrl": "https://www.apple.com/newsroom/images/2024/11/apples-find-my-enables-sharing-location-of-lost-items-with-third-parties/tile/Apple-Share-Item-Location-Find-My-AirTag-lp.jpg.og.jpg?202411111558"
         }
       ]
     },
@@ -3038,16 +3028,6 @@
           "wordCount": 706,
           "title": "NEWS RELEASES | Revised New World Translation of the Holy Scriptures Released in Kirghiz",
           "imageUrl": "https://cms-imgp.jw-cdn.org/img/p/702024140/univ/art/702024140_univ_lsr_lg.jpg"
-        },
-        {
-          "id": "e00150203b43e7fe591793bfef7a810b",
-          "author": null,
-          "description": "",
-          "link": "https://www.jw.org/en/news/region/global/Twenty-Five-Years-of-Accelerated-Kingdom-Hall-Construction-in-East-Africa-Branch-Territory/",
-          "publishedOn": "2024-11-12T00:00:00.000Z",
-          "wordCount": 1137,
-          "title": "Twenty-Five Years of Accelerated Kingdom Hall Construction in East Africa Branch Territory",
-          "imageUrl": "https://cms-imgp.jw-cdn.org/img/p/702024208/univ/art/702024208_univ_lsr_lg.jpg"
         }
       ]
     },
@@ -3062,6 +3042,16 @@
       "feedUrl": "https://www.macstories.net/feed/",
       "siteUrl": "https://www.macstories.net",
       "articles": [
+        {
+          "id": "https://www.macstories.net/?p=77297",
+          "author": "John Voorhees",
+          "description": "Riley Walz has created a marvelous couch potato project that peeks into a different era of the iPhone and YouTube. The idea behind Walz’s project, which I stumbled upon thanks to a story written by Umar Shakir at The Verge, is simple. The project is called ‘IMG_0001,’ because, as Walz explains: Between 2009 and 2012, […]",
+          "link": "https://www.macstories.net/news/a-peek-into-the-past-through-the-lens-of-the-early-iphones-camera/",
+          "publishedOn": "2024-11-21T18:06:32.000Z",
+          "wordCount": 3052,
+          "title": "A Peek into the Past Through the Lens of the Early iPhone’s Camera",
+          "imageUrl": "https://cdn.macstories.net/cleanshot-2024-11-21-at-06-30-50-2x-1732188742702.png"
+        },
         {
           "id": "https://www.macstories.net/?p=77294",
           "author": "John Voorhees",
@@ -3201,46 +3191,6 @@
           "wordCount": 3467,
           "title": "The Latest from AppStories and Ruminate",
           "imageUrl": "https://cdn.macstories.net/untitled-1729034532202.png"
-        },
-        {
-          "id": "https://www.macstories.net/?p=77217",
-          "author": "John Voorhees",
-          "description": "Apple Music has teamed up with Assouline, a book publisher based in Paris and London, to sell a $450 book that commemorates Apple Music’s 100 Best Albums of all time. If you haven’t heard of Assouline before, it’s known for its high-end books and other items: Today, through its exceptionally crafted books, home fragrances, and […]",
-          "link": "https://www.macstories.net/news/pre-orders-begin-for-book-commemorating-apple-musics-100-best-albums/",
-          "publishedOn": "2024-11-11T22:23:23.000Z",
-          "wordCount": 3513,
-          "title": "Pre-Orders Begin for Book Commemorating Apple Music’s 100 Best Albums",
-          "imageUrl": "https://cdn.macstories.net/img_0298-1731362960919.webp"
-        },
-        {
-          "id": "https://www.macstories.net/?p=77191",
-          "author": "Niléane",
-          "description": "In 2024, web browsers mostly all look the same. Their user interfaces always feature an address bar at the top of the window and horizontal tabs that allow you to navigate through multiple websites. So whenever a new browser tries to shake things up and innovate on this basic premise, it’s inevitable that it will […]",
-          "link": "https://www.macstories.net/reviews/horse-browser-tries-its-hooves-at-a-new-take-on-tabs/",
-          "publishedOn": "2024-11-11T17:41:39.000Z",
-          "wordCount": 4606,
-          "title": "Horse Browser Tries Its Hooves at a New Take on Tabs",
-          "imageUrl": "https://cdn.macstories.net/horsebrowser-1731258483993.png"
-        },
-        {
-          "id": "https://www.macstories.net/?p=77210",
-          "author": "Federico Viticci",
-          "description": "Denim’s Spotify integration. I don’t remember exactly when I started using Denim, but it was years ago, and I was looking for a way to spruce up the covers of my playlists. I was using Apple Music at the time, and it was before Apple added basic playlist cover generation features to the Music app. […]",
-          "link": "https://www.macstories.net/ios/denim-adds-direct-spotify-integration-to-customize-playlist-artwork/",
-          "publishedOn": "2024-11-11T16:07:39.000Z",
-          "wordCount": 3417,
-          "title": "Denim Adds Direct Spotify Integration to Customize Playlist Artwork",
-          "imageUrl": "https://cdn.macstories.net/image-1731340169259.png"
-        },
-        {
-          "id": "https://www.macstories.net/?p=77205",
-          "author": "MacStories Team",
-          "description": "Inoreader, a trusted platform for content discovery and organization, has introduced a comprehensive redesign of its web application to enhance how users find, manage, and share content online. With a fresh and intuitive interface, this update brings powerful tools for organizing feeds, saved items, and automation—all within one centralized hub. The redesign features an updated […]",
-          "link": "https://www.macstories.net/sponsored/inoreader-a-smarter-way-to-discover-manage-and-streamline-content/",
-          "publishedOn": "2024-11-11T12:55:24.000Z",
-          "wordCount": 3276,
-          "title": "Inoreader: A Smarter Way to Discover, Manage, and Streamline Content [Sponsor]",
-          "imageUrl": "https://cdn.macstories.net/1-macstories-inoreader-hero-1731018718021.png"
         }
       ]
     },
@@ -3266,6 +3216,26 @@
       "feedUrl": "https://www.404media.co/rss/",
       "siteUrl": "https://www.404media.co/",
       "articles": [
+        {
+          "id": "673f5f5329396200014bc148",
+          "author": "Samantha Cole",
+          "description": "Playlists and \"podcast\" episode descriptions are hiding malware and piracy sites in plain sight on the streaming platform.",
+          "link": "https://www.404media.co/spotify-pirated-software-free-download-license-key-cracks/",
+          "publishedOn": "2024-11-21T16:34:39.000Z",
+          "wordCount": 1186,
+          "title": "Spotify Has A Pirated Software Problem",
+          "imageUrl": "https://images.unsplash.com/photo-1551817958-795f9440ce4d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDI5fHxzcG90aWZ5fGVufDB8fHx8MTczMjIwNjQwNHww&ixlib=rb-4.0.3&q=80&w=2000"
+        },
+        {
+          "id": "673e30fe29396200014aaf7c",
+          "author": "Joseph Cox",
+          "description": "A small tech company called Cape has been selling a privacy-focused cellphone service to the U.S. military. Now Cape will be offering its product to high-risk members of the public.",
+          "link": "https://www.404media.co/i-dont-own-a-cellphone-can-this-privacy-focused-network-change-that/",
+          "publishedOn": "2024-11-21T14:00:27.000Z",
+          "wordCount": 1150,
+          "title": "I Don't Own a Cellphone. Can This Privacy-Focused Network Change That?",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2024/11/cape-art-1.png"
+        },
         {
           "id": "673d18d74ed599000166018c",
           "author": "Joseph Cox",
@@ -3435,36 +3405,6 @@
           "wordCount": 1218,
           "title": "'FYI. A Warrant Isn’t Needed': Secret Service Says You Agreed To Be Tracked With Location Data",
           "imageUrl": "https://www.404media.co/content/images/size/w1200/2024/11/secert-service-foia.png"
-        },
-        {
-          "id": "67326aa6ba20af00012d30fa",
-          "author": "Joseph Cox",
-          "description": "The indictment also charges a second hacker that 404 Media previously reported as being linked to the AT&T breach.",
-          "link": "https://www.404media.co/heres-the-indictment-against-the-alleged-snowflake-and-at-t-hacker/",
-          "publishedOn": "2024-11-11T20:40:48.000Z",
-          "wordCount": 1051,
-          "title": "Here’s the Indictment Against the Alleged Snowflake and AT&T Hacker",
-          "imageUrl": "https://www.404media.co/content/images/size/w1200/2024/11/snowflake.png"
-        },
-        {
-          "id": "67324228ba20af00012d2702",
-          "author": "Joseph Cox",
-          "description": "The breach includes the employees’ name, work contact information, and what location they work at.",
-          "link": "https://www.404media.co/amazon-confirms-breach-of-employee-data/",
-          "publishedOn": "2024-11-11T17:46:02.000Z",
-          "wordCount": 1117,
-          "title": "Amazon Confirms Breach of Employee Data",
-          "imageUrl": "https://www.404media.co/content/images/size/w1200/2024/11/boliviainteligente-rK3ySpKgUmI-unsplash.jpg"
-        },
-        {
-          "id": "67321215ba20af00012c1799",
-          "author": "Jason Koebler",
-          "description": "DeFlock has mapped the locations of more than a thousand ALPRs around the United States and thousands more around the world.",
-          "link": "https://www.404media.co/the-open-source-project-deflock-is-mapping-license-plate-surveillance-cameras-all-over-the-world/",
-          "publishedOn": "2024-11-11T14:24:00.000Z",
-          "wordCount": 1775,
-          "title": "The Open Source Project DeFlock Is Mapping License Plate Surveillance Cameras All Over the World",
-          "imageUrl": "https://www.404media.co/content/images/size/w1200/2024/11/Screen-Shot-2024-11-11-at-6.11.18-AM.png"
         }
       ]
     },
@@ -3474,6 +3414,36 @@
       "siteUrl": "https://www.reddit.com/r/apple/top?t=week",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/apple/comments/1gwgnxg/apple_pay_to_be_treated_like_a_bank_with_federal/",
+          "author": null,
+          "description": "submitted by    /u/chrisdh79  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/apple/comments/1gwgnxg/apple_pay_to_be_treated_like_a_bank_with_federal/",
+          "publishedOn": "2024-11-21T13:47:41.000Z",
+          "wordCount": null,
+          "title": "Apple Pay to Be Treated Like a Bank With Federal Scrutiny in the U.S.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/apple/comments/1gw3nd6/shazam_hits_100_billion_song_recognitions/",
+          "author": null,
+          "description": "\"That’s 12 songs identified for every person on Earth\"\n    submitted by    /u/ControlCAD  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/apple/comments/1gw3nd6/shazam_hits_100_billion_song_recognitions/",
+          "publishedOn": "2024-11-21T00:57:38.000Z",
+          "wordCount": null,
+          "title": "Shazam hits 100 billion song recognitions",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/apple/comments/1gvu9xu/musi_has_been_removed/",
+          "author": null,
+          "description": "submitted by    /u/Corvette_77  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/apple/comments/1gvu9xu/musi_has_been_removed/",
+          "publishedOn": "2024-11-20T17:02:12.000Z",
+          "wordCount": null,
+          "title": "Musi has been removed.",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.reddit.com/r/apple/comments/1gvk6ff/leaked_documents_show_what_phones_secretive_tech/",
           "author": null,
           "description": "submitted by    /u/favicondotico  \n [link]   [comments]",
@@ -3481,6 +3451,16 @@
           "publishedOn": "2024-11-20T07:29:16.000Z",
           "wordCount": null,
           "title": "Leaked Documents Show What Phones Secretive Tech ‘Graykey’ Can Unlock",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/apple/comments/1gvg1v5/apple_is_selling_apple_news_ads_directly_for_the/",
+          "author": null,
+          "description": "submitted by    /u/A-Dog22  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/apple/comments/1gvg1v5/apple_is_selling_apple_news_ads_directly_for_the/",
+          "publishedOn": "2024-11-20T03:18:05.000Z",
+          "wordCount": null,
+          "title": "Apple is selling Apple News ads directly for the first time",
           "imageUrl": null
         },
         {
@@ -3792,56 +3772,6 @@
           "wordCount": null,
           "title": "Apple Music Classical Updated With CarPlay and Siri Support",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/apple/comments/1gpi2rp/kuo_apple_to_release_its_own_smart_home_camera_in/",
-          "author": null,
-          "description": "submitted by    /u/chrisdh79  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/apple/comments/1gpi2rp/kuo_apple_to_release_its_own_smart_home_camera_in/",
-          "publishedOn": "2024-11-12T10:53:21.000Z",
-          "wordCount": null,
-          "title": "Kuo: Apple to release its own smart home camera in 2026, with AI features",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/apple/comments/1gphpqn/apple_teams_up_with_airlines_for_new_share_item/",
-          "author": null,
-          "description": "submitted by    /u/stanxv  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/apple/comments/1gphpqn/apple_teams_up_with_airlines_for_new_share_item/",
-          "publishedOn": "2024-11-12T10:26:14.000Z",
-          "wordCount": null,
-          "title": "Apple teams up with airlines for new ‘Share Item Location’ AirTags feature in iOS 18.2",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/apple/comments/1gp7foo/ios_182_fixes_one_of_the_most_annoying_aspects_of/",
-          "author": null,
-          "description": "submitted by    /u/SUPRVLLAN  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/apple/comments/1gp7foo/ios_182_fixes_one_of_the_most_annoying_aspects_of/",
-          "publishedOn": "2024-11-12T00:07:08.000Z",
-          "wordCount": null,
-          "title": "iOS 18.2 fixes one of the most annoying aspects of the Photos app.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/apple/comments/1gp31rt/apple_releases_third_betas_of_ios_182_and_more/",
-          "author": null,
-          "description": "submitted by    /u/ControlCAD  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/apple/comments/1gp31rt/apple_releases_third_betas_of_ios_182_and_more/",
-          "publishedOn": "2024-11-11T21:00:33.000Z",
-          "wordCount": null,
-          "title": "Apple Releases Third Betas of iOS 18.2 and More With Genmoji, Image Playground and ChatGPT Integration",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/apple/comments/1goubzx/iphone_17_air_may_not_be_much_thinner_than_iphone/",
-          "author": null,
-          "description": "submitted by    /u/ControlCAD  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/apple/comments/1goubzx/iphone_17_air_may_not_be_much_thinner_than_iphone/",
-          "publishedOn": "2024-11-11T15:08:37.000Z",
-          "wordCount": null,
-          "title": "iPhone 17 'Air' May Not Be Much Thinner Than iPhone 6",
-          "imageUrl": null
         }
       ]
     },
@@ -3851,6 +3781,36 @@
       "siteUrl": "https://www.reddit.com/r/anime/top?t=week",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/anime/comments/1gwio6p/dandadan_episode_8_discussion/",
+          "author": null,
+          "description": "Dandadan, episode 8\n Alternative names: DAN DA DAN\n Reminder: Please do not discuss plot points not yet seen or skipped in the show. Failing to follow the rules may result in a ban.\n  \nStreams\n  \nCrunchyroll\n Hulu\n  \nShow information\n  \nMyAnimeList\n AniList\n AniDB\n Anime-Planet\n Official Website\n /r/Dandadan\n  \n All discussions\n  \n Episode Link \n  \n 1 Link \n  2 Link \n  3 Link \n  4 Link \n  5 Link \n  6 Link \n  7 Link \n  8 Link \n \n  \nThis post was created by a bot. Message the mod team for feedback and comments. The original source code can be found on GitHub.\n    submitted by    /u/AutoLovepon  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/anime/comments/1gwio6p/dandadan_episode_8_discussion/",
+          "publishedOn": "2024-11-21T16:02:26.000Z",
+          "wordCount": null,
+          "title": "Dandadan - Episode 8 discussion",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/anime/comments/1gw62oq/twisted_wonderland_the_animation_new_visual/",
+          "author": null,
+          "description": "submitted by    /u/Turbostrider27  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/anime/comments/1gw62oq/twisted_wonderland_the_animation_new_visual/",
+          "publishedOn": "2024-11-21T02:52:05.000Z",
+          "wordCount": null,
+          "title": "Twisted Wonderland: The Animation New Visual",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/anime/comments/1gw3505/reinhard_amazing_abilities_isekai_quartet/",
+          "author": null,
+          "description": "submitted by    /u/kidmedia  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/anime/comments/1gw3505/reinhard_amazing_abilities_isekai_quartet/",
+          "publishedOn": "2024-11-21T00:34:05.000Z",
+          "wordCount": null,
+          "title": "Reinhard amazing abilities [isekai quartet]",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.reddit.com/r/anime/comments/1gvrf8a/rezero_starting_life_in_another_world_season_3/",
           "author": null,
           "description": "submitted by    /u/Turbostrider27  \n [link]   [comments]",
@@ -3858,6 +3818,16 @@
           "publishedOn": "2024-11-20T15:00:39.000Z",
           "wordCount": null,
           "title": "Re:ZERO -Starting Life in Another World- Season 3 New Visual",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/anime/comments/1gvrey0/the_darwin_incident_key_visual/",
+          "author": null,
+          "description": "submitted by    /u/zenzen_0  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/anime/comments/1gvrey0/the_darwin_incident_key_visual/",
+          "publishedOn": "2024-11-20T15:00:17.000Z",
+          "wordCount": null,
+          "title": "“The Darwin Incident” Key Visual",
           "imageUrl": null
         },
         {
@@ -3871,6 +3841,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.reddit.com/r/anime/comments/1gvoexn/kadokawa_corporation_has_published_a_statement/",
+          "author": null,
+          "description": "submitted by    /u/Curious_North_8479  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/anime/comments/1gvoexn/kadokawa_corporation_has_published_a_statement/",
+          "publishedOn": "2024-11-20T12:31:33.000Z",
+          "wordCount": null,
+          "title": "Kadokawa Corporation has published a statement confirming reports that Sony Group Corporation has expressed the intent to acquire Kadokawa Corporation, but a decision has not yet been made.",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.reddit.com/r/anime/comments/1gvnbf3/she_got_horny_in_his_bed_the_fruit_of_grisaia/",
           "author": null,
           "description": "submitted by    /u/Hitman7128  \n [link]   [comments]",
@@ -3878,6 +3858,16 @@
           "publishedOn": "2024-11-20T11:25:35.000Z",
           "wordCount": null,
           "title": "She got horny in his bed [The Fruit of Grisaia]",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/anime/comments/1gvmps9/the_share_houses_secret_rule_key_visual/",
+          "author": null,
+          "description": "submitted by    /u/mr_beanoz  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/anime/comments/1gvmps9/the_share_houses_secret_rule_key_visual/",
+          "publishedOn": "2024-11-20T10:45:32.000Z",
+          "wordCount": null,
+          "title": "The Share House's Secret Rule key visual",
           "imageUrl": null
         },
         {
@@ -3968,6 +3958,16 @@
           "publishedOn": "2024-11-16T23:14:54.000Z",
           "wordCount": null,
           "title": "Basically every JRPG ever [Bikini Warriors]",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/anime/comments/1gsrqrc/ranma_%C2%BD_2024_episode_7_discussion/",
+          "author": null,
+          "description": "Ranma ½ (2024), episode 7\n Alternative names: Ranma1/2\n Reminder: Please do not discuss plot points not yet seen or skipped in the show. Failing to follow the rules may result in a ban.\n  \nStreams\n None\n Show information\n  \nMyAnimeList\n AniList\n AniDB\n Anime-Planet\n Official Website\n /r/ranma\n  \n All discussions\n  \n Episode Link \n  \n 1 Link \n  2 Link \n  3 Link \n  4 Link \n  5 Link \n  6 Link \n  7 Link \n \n  \nThis post was created by a bot. Message the mod team for feedback and comments. The original source code can be found on GitHub.\n    submitted by    /u/AutoLovepon  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/anime/comments/1gsrqrc/ranma_%C2%BD_2024_episode_7_discussion/",
+          "publishedOn": "2024-11-16T17:05:21.000Z",
+          "wordCount": null,
+          "title": "Ranma ½ (2024) - Episode 7 discussion",
           "imageUrl": null
         },
         {
@@ -4159,56 +4159,6 @@
           "wordCount": null,
           "title": "What if the Fate series had originated from the USA instead? [16bit Sensation: Another Layer]",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/anime/comments/1gpakep/what_are_some_of_your_favorite_funny_moments_in/",
-          "author": null,
-          "description": "submitted by    /u/Kumagawa_Taku  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/anime/comments/1gpakep/what_are_some_of_your_favorite_funny_moments_in/",
-          "publishedOn": "2024-11-12T02:38:46.000Z",
-          "wordCount": null,
-          "title": "What are some of your favorite funny moments in anime?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/anime/comments/1gp7m8y/poke_poke_dan_da_dan/",
-          "author": null,
-          "description": "submitted by    /u/SCVGoodT0GoSir  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/anime/comments/1gp7m8y/poke_poke_dan_da_dan/",
-          "publishedOn": "2024-11-12T00:15:40.000Z",
-          "wordCount": null,
-          "title": "Poke Poke [DAN DA DAN]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/anime/comments/1gp60ax/top_10_anime_of_the_week_5_fall_2024_anime/",
-          "author": null,
-          "description": "submitted by    /u/Nooble5  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/anime/comments/1gp60ax/top_10_anime_of_the_week_5_fall_2024_anime/",
-          "publishedOn": "2024-11-11T23:03:13.000Z",
-          "wordCount": null,
-          "title": "Top 10 Anime of the Week #5 - Fall 2024 (Anime Trending)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/anime/comments/1govkt8/overlord_the_sacred_kingdom_anime_film_earns/",
-          "author": null,
-          "description": "submitted by    /u/Turbostrider27  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/anime/comments/1govkt8/overlord_the_sacred_kingdom_anime_film_earns/",
-          "publishedOn": "2024-11-11T16:01:01.000Z",
-          "wordCount": null,
-          "title": "Overlord: The Sacred Kingdom Anime Film Earns US$1.16 Million in U.S. Opening",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/anime/comments/1got7vc/lucys_wild_ride_cyberpunk_edgerunners/",
-          "author": null,
-          "description": "submitted by    /u/NekoWafers  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/anime/comments/1got7vc/lucys_wild_ride_cyberpunk_edgerunners/",
-          "publishedOn": "2024-11-11T14:18:55.000Z",
-          "wordCount": null,
-          "title": "Lucy's wild ride [Cyberpunk: Edgerunners]",
-          "imageUrl": null
         }
       ]
     },
@@ -4218,6 +4168,46 @@
       "siteUrl": "https://www.reddit.com/r/sysadmin/top?t=week",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/sysadmin/comments/1gwldql/sysinternal_tools_are_very_dangerous_have_to/",
+          "author": null,
+          "description": "Today was a highlight on a german company. Using sysinternal tools for 20 years and 10 years an that company. My new supervisor - he has not learned IT but was placed at that position from the big boss - writes, that the sysinternal tools a very dangerous and after using it I have to delete it immediately from the servers - and before use I have to write him a mail. My Windows Server have uptimes from 99,x the last 10 years - I had never issues using tools like process explorer etc.\n Therefore admins - be very very caryfull with such very dangerous tools, switch on the red lamp before using it and inform all supervisors - very bad things can happen :-)\n    submitted by    /u/michaelxyxy  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/sysadmin/comments/1gwldql/sysinternal_tools_are_very_dangerous_have_to/",
+          "publishedOn": "2024-11-21T17:47:58.000Z",
+          "wordCount": null,
+          "title": "sysinternal tools are very dangerous - have to inform my supervisor before us it :-)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/sysadmin/comments/1gwg7rk/employee_monitoring_software_has_gone_off_the/",
+          "author": null,
+          "description": "Had the pleasure of sitting through a sales pitch for a pretty big \"productivity monitoring\" software suite this morning. Here's the expected basics of what this application does:\n  \nFull keylogging and mouse movement tracking (this has been around for ages)\n \nTakes a screenshot of your desktop every interval (between 10 seconds to 5 minutes), also part of every RMM I know\n \nKeeps track of the programs you open and how often, also standard\n \nCreates real-time recordings and heat maps of where you click in any program (nearly all websites also do this)\n \n Here's where it gets fun:\n  \nIt allows your manager to group you into a \"work category\" along with your coworkers\n \nIt then uses \"AI\" to create a \"productivity graph\" from all your mouse movement data, where you click, how fast you type, h…",
+          "link": "https://www.reddit.com/r/sysadmin/comments/1gwg7rk/employee_monitoring_software_has_gone_off_the/",
+          "publishedOn": "2024-11-21T13:26:12.000Z",
+          "wordCount": null,
+          "title": "Employee monitoring software has gone off the deep end with AI",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/sysadmin/comments/1gw5ejf/i_hate_graph_powershell_as_a_replacement_for_the/",
+          "author": null,
+          "description": "I am updating our user onboarding script to not use the AzureAD module.\n I used to have a very simple check to find groups that are not synced from on-prem and are not mail-enabled security (if so it would go to ExchangeOnline).\n Trying to do this in Graph feels like the wheel was reinvented. Some properties are in -Property, others are buried in .GroupDetails, others require a $_.AdditionalProperties['@odata.type'] -eq '#microsoft.graph.group'. An OnPremisesSyncEnabled can't be retrieved so instead I need to get the last sync time and select ones that are Null.\n Oh and you can't just search for groups the user is a member of, it doesn't find them all so you have to do a Get-MgUserTransitiveMemberOf instead.\n I can't even figure out the GroupType, it outputs \"dynamic\" for a dynamic group, …",
+          "link": "https://www.reddit.com/r/sysadmin/comments/1gw5ejf/i_hate_graph_powershell_as_a_replacement_for_the/",
+          "publishedOn": "2024-11-21T02:19:34.000Z",
+          "wordCount": null,
+          "title": "I hate Graph powershell as a replacement for the AzureAD module",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/sysadmin/comments/1gw0uzg/i_hate_this_job/",
+          "author": null,
+          "description": "I am employed by MSP that has a large client. I'm permanently based on the client's site. The client gives me jobs to solve while refusing to me give me access to the systems that are required to solve these problems.\n  \nGo and fix that secure printer, the whole floor cannot print. I try to print from my laptop and I find out I cannot add the printer because my laptop is not customer's domain. I ask senior technician to check if the print server has some problem. Senior technician who is employed by the client....doesn't have access to the print server. So he contacts someone from Infrastructure team who starts a service that wasn't running. \n  \nWhy was this job given to me?\n  \nGo and install ABC program for that person. I try to get the installer first from the file server only to find ou…",
+          "link": "https://www.reddit.com/r/sysadmin/comments/1gw0uzg/i_hate_this_job/",
+          "publishedOn": "2024-11-20T22:16:19.000Z",
+          "wordCount": null,
+          "title": "I hate this job.",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.reddit.com/r/sysadmin/comments/1gvq1sb/20_plus_years_in_it_and_i_will_be_getting_my/",
           "author": null,
           "description": "Been in every aspect of IT over the yaers. I have always had great reviews and never been written up...until today. \n Yesterday I was migrating VM's from one datastore to a new one in vSphere. It was during the day, but it was a simple vmotion migrate, so no downtime. While I was migrating, I was cleaning up old datastores and getting rid of them. Not sure what happened, but I looked in one datastore that contains swapfiles and it showed no VM's, so I unmounted it (as I had done other datastores earlier in the day). Unfortunatly, I didn't see the files in the fiels section that contained the vswap files of the VM's I hadn't migrated yet. Unmounting the datastore caused a memory issue and sent the host cluster into HA recovery mode, rebooting nearly every VM! Total downtime was less than 10 minutes, but it took down the phone systems and other critical servers in the middle of the day.\n Havn't gotten the write up yet, but I am almost positive it's coming. \n So, lessons learned and a warning to others, don't unmount swap file datastores during a migration.\n    submitted by    /u/Frankaintmyfriend  \n [link]   [comments]",
@@ -4225,6 +4215,16 @@
           "publishedOn": "2024-11-20T13:56:50.000Z",
           "wordCount": null,
           "title": "20 plus years in IT and I will be getting my first write up today",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/sysadmin/comments/1gvo2t5/microsoft_will_be_changing_their_m365_icon_to_the/",
+          "author": null,
+          "description": "https://bsky.app/profile/tomwarren.co.uk/post/3lbcqvzwx2c2y\n Confusion ensues.\n I wonder what those laptops with the CoPilot button are going to launch now?\n I really hope there's a Q&A and someone can get an answer about this decision.\n    submitted by    /u/segagamer  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/sysadmin/comments/1gvo2t5/microsoft_will_be_changing_their_m365_icon_to_the/",
+          "publishedOn": "2024-11-20T12:13:28.000Z",
+          "wordCount": null,
+          "title": "Microsoft will be changing their M365 icon to the same as Copilot, but with a little tag",
           "imageUrl": null
         },
         {
@@ -4566,36 +4566,6 @@
           "wordCount": null,
           "title": "VMware makes Workstation and Fusion free for everyone",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/sysadmin/comments/1gpeixi/does_any_companies_still_use_tape_library_as_the/",
-          "author": null,
-          "description": "Our company is going to spend large budget to purchase tape storage to store backup data without power in a long term but I would like to know is it still needed in 2024?\n    submitted by    /u/ParticularPerfect285  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/sysadmin/comments/1gpeixi/does_any_companies_still_use_tape_library_as_the/",
-          "publishedOn": "2024-11-12T06:26:30.000Z",
-          "wordCount": null,
-          "title": "Does any companies still use tape library as the media for backup?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/sysadmin/comments/1gp6pf7/does_anyone_else_have_millennials_in_their_office/",
-          "author": null,
-          "description": "Every. Damn. Time.\n Thanks Cardi B. \n What other acronyms have been hijacked? \n    submitted by    /u/gageless  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/sysadmin/comments/1gp6pf7/does_anyone_else_have_millennials_in_their_office/",
-          "publishedOn": "2024-11-11T23:33:49.000Z",
-          "wordCount": null,
-          "title": "Does anyone else have Millennials in their office who laugh every time someone says 'WAP'?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/sysadmin/comments/1gouwbn/they_organized_my_storage_closet/",
-          "author": null,
-          "description": "HR guy had his daughter come in while I was out and \"organize\" things. Didn't ask me just did it, HR never goes in there for anything it's just my stuff. Now instead of my chargers being separated by type and wattage, I have 4 very full bins labeled \"cords\"\n It looks nice, but I'll be damned if I know where anything is... \n    submitted by    /u/KillaCacti  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/sysadmin/comments/1gouwbn/they_organized_my_storage_closet/",
-          "publishedOn": "2024-11-11T15:32:13.000Z",
-          "wordCount": null,
-          "title": "They \"organized\" my storage closet",
-          "imageUrl": null
         }
       ]
     },
@@ -4605,6 +4575,26 @@
       "siteUrl": "https://www.reddit.com/r/technology/top?t=week",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/technology/comments/1gwhu76/bbc_news_verified_blue_tick_accounts_on_x_found/",
+          "author": null,
+          "description": "submitted by    /u/tides977  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/technology/comments/1gwhu76/bbc_news_verified_blue_tick_accounts_on_x_found/",
+          "publishedOn": "2024-11-21T14:41:51.000Z",
+          "wordCount": null,
+          "title": "BBC News: 'Verified' blue tick accounts on X found sharing links to sites selling child-sexual abuse videos.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/technology/comments/1gvzhtn/joe_biden_just_trumpproofed_his_hallmark_chips_act/",
+          "author": null,
+          "description": "submitted by    /u/Mynameis__--__  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/technology/comments/1gvzhtn/joe_biden_just_trumpproofed_his_hallmark_chips_act/",
+          "publishedOn": "2024-11-20T20:58:56.000Z",
+          "wordCount": null,
+          "title": "Joe Biden Just Trump-Proofed His Hallmark CHIPS Act",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.reddit.com/r/technology/comments/1gvnyvs/study_suggests_x_turned_right_just_in_time_for/",
           "author": null,
           "description": "submitted by    /u/chrisdh79  \n [link]   [comments]",
@@ -4612,6 +4602,16 @@
           "publishedOn": "2024-11-20T12:06:51.000Z",
           "wordCount": null,
           "title": "Study suggests X turned right just in time for election season",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/technology/comments/1gvn11s/cable_companies_and_trumps_fcc_chair_agree_data/",
+          "author": null,
+          "description": "submitted by    /u/chrisdh79  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/technology/comments/1gvn11s/cable_companies_and_trumps_fcc_chair_agree_data/",
+          "publishedOn": "2024-11-20T11:06:58.000Z",
+          "wordCount": null,
+          "title": "Cable companies and Trump’s FCC chair agree: Data caps are good for you | Data caps reflect \"highly competitive environment,\" cable lobby tells FCC.",
           "imageUrl": null
         },
         {
@@ -4632,6 +4632,16 @@
           "publishedOn": "2024-11-19T14:54:40.000Z",
           "wordCount": null,
           "title": "Bluesky hits 20 million users",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/technology/comments/1guy3ve/trumps_pick_to_run_the_fcc_has_told_us_what_he/",
+          "author": null,
+          "description": "submitted by    /u/Letsbesensibleplease  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/technology/comments/1guy3ve/trumps_pick_to_run_the_fcc_has_told_us_what_he/",
+          "publishedOn": "2024-11-19T14:15:27.000Z",
+          "wordCount": null,
+          "title": "Trump's pick to run the FCC has told us what he plans: TikTok ban, space broadband, and Section 230 reform",
           "imageUrl": null
         },
         {
@@ -4662,6 +4672,16 @@
           "publishedOn": "2024-11-19T00:10:40.000Z",
           "wordCount": null,
           "title": "Did President Biden Just Save the CHIPS Act From Trump?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/technology/comments/1gufojz/more_academics_flee_x_after_election/",
+          "author": null,
+          "description": "submitted by    /u/Well_Socialized  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/technology/comments/1gufojz/more_academics_flee_x_after_election/",
+          "publishedOn": "2024-11-18T21:11:29.000Z",
+          "wordCount": null,
+          "title": "More academics flee X after election",
           "imageUrl": null
         },
         {
@@ -4902,56 +4922,6 @@
           "publishedOn": "2024-11-12T19:43:01.000Z",
           "wordCount": null,
           "title": "Trump expected to try to halt TikTok ban, allies say",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/technology/comments/1gpikhr/russia_issues_ominous_warning_about_undersea/",
-          "author": null,
-          "description": "submitted by    /u/Aggravating_Set_8861  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/technology/comments/1gpikhr/russia_issues_ominous_warning_about_undersea/",
-          "publishedOn": "2024-11-12T11:26:40.000Z",
-          "wordCount": null,
-          "title": "Russia Issues Ominous Warning About Undersea Internet Cables",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/technology/comments/1gpasi8/trump_already_preparing_to_load_up_government/",
-          "author": null,
-          "description": "submitted by    /u/a_Ninja_b0y  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/technology/comments/1gpasi8/trump_already_preparing_to_load_up_government/",
-          "publishedOn": "2024-11-12T02:50:14.000Z",
-          "wordCount": null,
-          "title": "Trump Already Preparing to Load Up Government with Pro-Crypto Officials",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/technology/comments/1gp9nkr/bluesky_adds_700000_new_users_in_a_week_a/",
-          "author": null,
-          "description": "submitted by    /u/mangopear  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/technology/comments/1gp9nkr/bluesky_adds_700000_new_users_in_a_week_a/",
-          "publishedOn": "2024-11-12T01:53:07.000Z",
-          "wordCount": null,
-          "title": "Bluesky adds 700,000 new users in a week / A ‘majority' of the new users are from the US, indicating that people are searching for a new platform as an alternative to X.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/technology/comments/1goyhu9/the_ftcs_clicktocancel_rule_for_subscriptions_is/",
-          "author": null,
-          "description": "submitted by    /u/CrankyBear  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/technology/comments/1goyhu9/the_ftcs_clicktocancel_rule_for_subscriptions_is/",
-          "publishedOn": "2024-11-11T17:58:18.000Z",
-          "wordCount": null,
-          "title": "The FTC’s ‘Click-to-Cancel’ rule for subscriptions is long overdue",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/technology/comments/1gowt9m/free_opensource_photoshop_alternative_finally/",
-          "author": null,
-          "description": "submitted by    /u/gurugabrielpradipaka  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/technology/comments/1gowt9m/free_opensource_photoshop_alternative_finally/",
-          "publishedOn": "2024-11-11T16:52:02.000Z",
-          "wordCount": null,
-          "title": "Free, open-source Photoshop alternative finally enters release candidate testing after 20 years — the transition from GIMP 2.x to GIMP 3.0 took two decades",
           "imageUrl": null
         }
       ]
