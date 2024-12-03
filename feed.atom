@@ -2,10 +2,521 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tinykings.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-02T00:53:00.307Z</updated>
+    <updated>2024-12-03T00:52:04.790Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://tinykings.github.io/rss/index.html"/>
     <link rel="self" href="https://tinykings.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Amazon’s latest Kindles are on sale for up to $30 off for Cyber Monday]]></title>
+        <id>https://www.theverge.com/2024/11/22/24302590/amazon-kindle-paperwhite-2024-black-friday-deal-sale</id>
+        <link href="https://www.theverge.com/2024/11/22/24302590/amazon-kindle-paperwhite-2024-black-friday-deal-sale"/>
+        <updated>2024-12-03T00:27:34.000Z</updated>
+        <summary type="html"><![CDATA[The new Paperwhite is bigger, and the base Kindle comes in a new color. | Image: Amazon
+    
+
+  
+It’s about that time of the year to turn on the heat, warm up some cocoa, and curl up in your reading nook. If you’re running out of space for physical books to enjoy, Amazon’s newest Kindles can hold thousands of digital ones, and some are on sale as part of the retailer’s ongoing Cyber Monday promo. This includes the 2024 Kindle, which has dropped to $84.99 ($25 off) at Amazon, Best Buy, and Target, along with the new Kindle Paperwhite, which is now just $129.99 ($30 off) at Amazon, Best Buy, and Target. 
+
+
+You can also get the new Kindle Kids for $94.99 ($35 off) and the Paperwhite Kids for $149.99 ($40 off), each of which includes a protective case, six months of Amazon Kids Plus, and a two…]]></summary>
+        <author>
+            <name>The Verge -  Front Pages</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GOG’s preservation program lets you keep playing games after they’re delisted]]></title>
+        <id>https://www.theverge.com/2024/12/2/24311537/gog-preservation-program-warcraft-1-2-delisted-support-continues</id>
+        <link href="https://www.theverge.com/2024/12/2/24311537/gog-preservation-program-warcraft-1-2-delisted-support-continues"/>
+        <updated>2024-12-02T23:37:36.000Z</updated>
+        <summary type="html"><![CDATA[Image: Blizzard
+    
+
+  
+GOG has announced that even if games in its recently launched preservation program are delisted from its store, it will maintain compatibility with those games and offer players “a seamless experience and tech support for those titles.” The first games covered are Warcraft I and II, scheduled for delisting on December 13th.
+That promise extends to Windows changes that affect how playable a game is, GOG says.
+
+
+The Preservation Program launched last month, offering ongoing tech support and compatibility updates for some classic games. GOG started it with a list of 100 games, including Diablo and Resident Evil 1-3.
+Warcraft I and Warcraft II are being delisted from GOG “at the publisher’s request,” the company says. Their publisher, Blizzard, released remastered versions of Warcraft I and Warcraft II the same day the preservation program was announced. You can still buy the games before they’re removed, and GOG is offering discount code  MakeWarcraftLiveForever, which shaves a little off the price for those buying a bundle containing both games.]]></summary>
+        <author>
+            <name>The Verge -  Front Pages</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lenovo Legion Go S leak shows renders of the cheaper handheld gaming PC]]></title>
+        <id>https://www.theverge.com/2024/12/2/24311437/lenovo-legion-go-s-leak-pc-gaming-handheld</id>
+        <link href="https://www.theverge.com/2024/12/2/24311437/lenovo-legion-go-s-leak-pc-gaming-handheld"/>
+        <updated>2024-12-02T23:27:43.000Z</updated>
+        <summary type="html"><![CDATA[Looks like an official Lenovo rendering of the Legion Go S. | Image: Windows Central
+    
+
+  
+Lenovo’s Legion Go handheld gaming PC cost $700 when it launched in the spring, and while you can get one for $484.99 right now, there have been rumors about a revised Legion Go S that starts at about $399. Windows Central has a hold of some seemingly genuine renderings of what the upcoming cheaper device will look like.
+A firmware leak last week for the “Legion Go S 8ARP1” indicated the cheaper machine will have AMD’s Rembrandt APU inside. 
+
+
+While it’s based on a new Ryzen Z2 platform, Videocardz points out the chip will have Zen 3-plus cores that aren’t as powerful as the current generation Z1 Extreme with Zen 4 cores inside the current Legion Go.
+From the images, it looks like the Legion Go S will have RGB lights, two USB-C ports up top with none on the bottom, a circular D-Pad instead of the four-way version like on the regular Legion Go, and a TrackPoint style nub mouse as opposed to the other model’s trackpad.
+Image: Sean Hollister / The Verge
+      The current Legion Go
+  
+The Legion Go S leak shows it will come in a white colorway with non-removable grips and triggers that resemble the first Asus ROG Ally. The current Legion Go model has removable controller grips, like the Nintendo Switch’s Joy-Con controllers.]]></summary>
+        <author>
+            <name>The Verge -  Front Pages</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GM sells stake in EV battery plant to partner LG Energy Solutions]]></title>
+        <id>https://www.theverge.com/2024/12/2/24311546/gm-sells-stake-ev-battery-factory-lg-lansing</id>
+        <link href="https://www.theverge.com/2024/12/2/24311546/gm-sells-stake-ev-battery-factory-lg-lansing"/>
+        <updated>2024-12-02T23:25:05.000Z</updated>
+        <summary type="html"><![CDATA[Illustration by Alex Castro / The Verge
+    
+
+  
+General Motors is selling its stake in an electric vehicle battery facility to its partner LG Energy Solutions, the automaker announced Monday. 
+The nearly completed factory in Lansing, Michigan, was being developed by Ultium Cells LLC, a joint venture between GM and South Korea’s LG. Following the non-binding agreement, LG will become the sole owner and complete the plant. The company will then sell the batteries to other customers. GM said it would get back the $1 billion it invested in the factory. 
+GM and LG already jointly develop batteries at factories in Warren, Ohio, and Spring Hill, Tennessee, where they produce batteries for the Cadillac Lyriq and Chevy Equinox EVs. The automaker also has a battery factory in joint ownership with S…]]></summary>
+        <author>
+            <name>The Verge -  Front Pages</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elon Musk’s $56 billion pay package gets rejected  — again]]></title>
+        <id>https://www.theverge.com/2024/12/2/24311526/elon-musk-56-billion-pay-package-rejected-court</id>
+        <link href="https://www.theverge.com/2024/12/2/24311526/elon-musk-56-billion-pay-package-rejected-court"/>
+        <updated>2024-12-02T23:11:23.000Z</updated>
+        <summary type="html"><![CDATA[Image: Cath Virginia / The Verge, Getty Images
+    
+
+  
+Tesla CEO Elon Musk’s $56 billion pay package was struck down once again. In a ruling on Monday, Delaware Chancery Court Judge Kathaleen St. J. McCormick upheld her decision to block the compensation plan over concerns about conflicts of interest following its approval in 2018.
+After warning shareholders in June that Musk could leave the company if his pay package isn’t approved, Tesla held a vote in hopes of reversing the judge’s decision. Shareholders voted to approve the hefty compensation, but this still wasn’t enough to convince the judge to reinstate it.
+The decision states that Musk has “no procedural ground for flipping the outcome of an adverse posttrial decision based on evidence they created after trial.” It also calls claims that shareholders can change the outcome of a court decision “dubious generally and unquestionably false” in this scenario.
+Judge McCormick granted $345 million to the lawyers representing the Tesla shareholders who sued over the $56 billion plan. Musk is expected to appeal the decision.
+Even without the package, Musk still remains the richest man in the world, and Tesla stocks continue to soar following Donald Trump’s win in the US Presidential Election.]]></summary>
+        <author>
+            <name>The Verge -  Front Pages</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Hunter Biden Pardon Is a Strategic Mistake]]></title>
+        <id>https://www.theatlantic.com/newsletters/archive/2024/12/the-hunter-biden-pardon-is-a-strategic-mistake/680855/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/newsletters/archive/2024/12/the-hunter-biden-pardon-is-a-strategic-mistake/680855/?utm_source=feed"/>
+        <updated>2024-12-02T22:39:00.000Z</updated>
+        <summary type="html"><![CDATA[The blunder will haunt Democrats during the next Trump administration.]]></summary>
+        <author>
+            <name>The Atlantic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Threads’ next update is a search feature that finds the post you’re looking for]]></title>
+        <id>https://www.theverge.com/2024/12/2/24311435/threads-search-tool-before-after-date-profile-filters</id>
+        <link href="https://www.theverge.com/2024/12/2/24311435/threads-search-tool-before-after-date-profile-filters"/>
+        <updated>2024-12-02T22:08:33.000Z</updated>
+        <summary type="html"><![CDATA[Illustration: The Verge
+    
+
+  
+Threads is rolling out a search update globally over the next few weeks that will let users filter searches to a specific profile and within date ranges. The existing search built into Threads has been a basic keyword search to find trending topics, posts, or accounts, with “Top” and “Recent” sorting options. 
+The updated version adds a settings icon to the search bar that, when tapped, brings up “After date,” “Before date,” and “From profile” options. 
+
+
+I have the new filters enabled for my account already, and they seem to work as advertised. 
+The addition brings Threads closer to parity with competing platforms X and Bluesky, both of which support more advanced searching than this, but at least it’s a start.
+
+
+
+
+
+Instagram head Adam Mosseri announced Meta would test these filters and other improvements to Threads’ search tools just a few days ago, and now it’s confirmed that they’re rolling out to everyone.
+As its competitor Bluesky has grown amid a flight of users from X, Meta has suddenly started rolling out many long-requested updates. They include custom following feeds, adjustments to the For You feed algorithm to weight posts from accounts you follow more heavily, and a test announced by Mark Zuckerberg that gives some users the choice of defaulting to their Following feed instead of an algorithmically sorted one.]]></summary>
+        <author>
+            <name>The Verge -  Front Pages</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Korea arrests CEO for adding DDoS feature to satellite receivers]]></title>
+        <id>https://www.bleepingcomputer.com/news/security/korea-arrests-ceo-for-adding-ddos-feature-to-satellite-receivers/</id>
+        <link href="https://www.bleepingcomputer.com/news/security/korea-arrests-ceo-for-adding-ddos-feature-to-satellite-receivers/"/>
+        <updated>2024-12-02T21:11:31.000Z</updated>
+        <summary type="html"><![CDATA[South Korean police have arrested a CEO and five employees for manufacturing over 240,000 satellite receivers pre-loaded or later updated to include DDoS attack functionality at a purchaser's request. [...]]]></summary>
+        <author>
+            <name>Bill Toulas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple accused of silencing workers, spying on personal devices]]></title>
+        <id>https://www.reddit.com/r/apple/comments/1h551si/apple_accused_of_silencing_workers_spying_on/</id>
+        <link href="https://www.reddit.com/r/apple/comments/1h551si/apple_accused_of_silencing_workers_spying_on/"/>
+        <updated>2024-12-02T20:36:15.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/heynow941  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : apple</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wallace and Gromit Video Shot on iPhone and Projected onto Battersea Power Station]]></title>
+        <id>https://www.macstories.net/?p=77372</id>
+        <link href="https://www.macstories.net/news/wallace-and-gromit-video-shot-on-iphone-and-projected-onto-battersea-power-station/"/>
+        <updated>2024-12-02T19:48:49.000Z</updated>
+        <summary type="html"><![CDATA[If you were around London’s Battersea Power Station – home to Apple’s UK headquarters – over the weekend, you might have spotted plasticine heroes Wallace and Gromit projected onto the station’s two 101-meter-high chimneys. While this could be dismissed as some giant-sized promotion for the duo’s new film, set to be broadcast on the BBC […]]]></summary>
+        <author>
+            <name>Jonathan Reed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Russia sentences Hydra dark web market leader to life in prison]]></title>
+        <id>https://www.bleepingcomputer.com/news/security/russia-sentences-hydra-dark-web-market-leader-to-life-in-prison/</id>
+        <link href="https://www.bleepingcomputer.com/news/security/russia-sentences-hydra-dark-web-market-leader-to-life-in-prison/"/>
+        <updated>2024-12-02T19:40:44.000Z</updated>
+        <summary type="html"><![CDATA[Russian authorities have sentenced the leader of the criminal group behind the now-closed dark web platform Hydra Market to life in prison. [...]]]></summary>
+        <author>
+            <name>Sergiu Gatlan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Day 2 of the 2024 Space Telescope Advent Calendar]]></title>
+        <id>https://www.theatlantic.com/science/archive/2024/12/day-2-2024-space-telescope-advent-calendar/680845/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/science/archive/2024/12/day-2-2024-space-telescope-advent-calendar/680845/?utm_source=feed"/>
+        <updated>2024-12-02T19:21:48.000Z</updated>
+        <summary type="html"><![CDATA[Inside a stellar nursery]]></summary>
+        <author>
+            <name>The Atlantic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Fall of Aleppo Was Oddly Familiar]]></title>
+        <id>https://www.theatlantic.com/international/archive/2024/12/syria-iran-russia-conflict/680847/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/international/archive/2024/12/syria-iran-russia-conflict/680847/?utm_source=feed"/>
+        <updated>2024-12-02T18:56:00.000Z</updated>
+        <summary type="html"><![CDATA[Syria, like Iraq, allowed itself to become a tool of Iran, and therefore never developed a competent state.]]></summary>
+        <author>
+            <name>The Atlantic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When did Google Search get SO bad?]]></title>
+        <id>https://www.reddit.com/r/sysadmin/comments/1h51rv6/when_did_google_search_get_so_bad/</id>
+        <link href="https://www.reddit.com/r/sysadmin/comments/1h51rv6/when_did_google_search_get_so_bad/"/>
+        <updated>2024-12-02T18:23:10.000Z</updated>
+        <summary type="html"><![CDATA[https://imgur.com/a/IUEhnRX
+ I don't know if it happened slowly or all at once, but when did Google become so anti-user? I remember fondly back in the 00s when Google was dethroning Ask Jeeves and Yahoo because they just gave you search results, and any suggestions or sponsored content was boxed off to the side. In what world is sponsored content taking up 90% of the page acceptable? 
+    submitted by    /u/Superfluxus  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : sysadmin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[America Stopped Cooking With Tallow for a Reason]]></title>
+        <id>https://www.theatlantic.com/health/archive/2024/12/beef-tallow-kennedy-cooking-fat-seed-oil/680848/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/health/archive/2024/12/beef-tallow-kennedy-cooking-fat-seed-oil/680848/?utm_source=feed"/>
+        <updated>2024-12-02T18:17:07.000Z</updated>
+        <summary type="html"><![CDATA[Robert F. Kennedy Jr.’s view on fats is about bucking convention, not promoting health.]]></summary>
+        <author>
+            <name>The Atlantic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thieves targeting Apple customers in Socal]]></title>
+        <id>https://www.reddit.com/r/apple/comments/1h51hrt/thieves_targeting_apple_customers_in_socal/</id>
+        <link href="https://www.reddit.com/r/apple/comments/1h51hrt/thieves_targeting_apple_customers_in_socal/"/>
+        <updated>2024-12-02T18:12:11.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/tfresca  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : apple</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BootKitty UEFI malware exploits LogoFAIL to infect Linux systems]]></title>
+        <id>https://www.bleepingcomputer.com/news/security/bootkitty-uefi-malware-exploits-logofail-to-infect-linux-systems/</id>
+        <link href="https://www.bleepingcomputer.com/news/security/bootkitty-uefi-malware-exploits-logofail-to-infect-linux-systems/"/>
+        <updated>2024-12-02T18:07:03.000Z</updated>
+        <summary type="html"><![CDATA[The recently uncovered 'Bootkitty' UEFI bootkit, the first malware of its kind targeting Linux systems, exploits CVE-2023-40238, aka 'LogoFAIL,' to infect computers running on a vulnerable UEFI firmware. [...]]]></summary>
+        <author>
+            <name>Bill Toulas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Not Just 'David Mayer': ChatGPT Breaks When Asked About Two Law Professors]]></title>
+        <id>674deba17767f600019da2e4</id>
+        <link href="https://www.404media.co/not-just-david-mayer-chatgpt-breaks-when-asked-about-two-law-professors/"/>
+        <updated>2024-12-02T17:37:24.000Z</updated>
+        <summary type="html"><![CDATA[ChatGPT breaks when asked about "Jonathan Zittrain" or "Jonathan Turley."]]></summary>
+        <author>
+            <name>Jason Koebler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[European Federation of Journalists to stop posting content on X]]></title>
+        <id>https://www.reddit.com/r/technology/comments/1h509h0/european_federation_of_journalists_to_stop/</id>
+        <link href="https://www.reddit.com/r/technology/comments/1h509h0/european_federation_of_journalists_to_stop/"/>
+        <updated>2024-12-02T17:22:53.000Z</updated>
+        <summary type="html"><![CDATA[https://www.thelondoneconomic.
+    submitted by    /u/Moonskaraos  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : technology</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to End the War In Gaza]]></title>
+        <id>https://www.theatlantic.com/international/archive/2024/12/israel-gaza-war-lebanon-ceasefire/680846/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/international/archive/2024/12/israel-gaza-war-lebanon-ceasefire/680846/?utm_source=feed"/>
+        <updated>2024-12-02T16:29:34.000Z</updated>
+        <summary type="html"><![CDATA[The cease-fire between Israel and Hezbollah holds lessons for both Israel and the United States.]]></summary>
+        <author>
+            <name>The Atlantic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hot Take - All employees should have basic IT common sense before being allowed into the workforce]]></title>
+        <id>https://www.reddit.com/r/sysadmin/comments/1h4ytce/hot_take_all_employees_should_have_basic_it/</id>
+        <link href="https://www.reddit.com/r/sysadmin/comments/1h4ytce/hot_take_all_employees_should_have_basic_it/"/>
+        <updated>2024-12-02T16:23:33.000Z</updated>
+        <summary type="html"><![CDATA[EDIT - To clarify, im talking about computer fundamentals, not anything which could be considered as "support"
+ The amount of times during projects where I get tasked to help someone do very simple stuff which doesnt require anything other than a amateur amount of knowledge about computers is insane. I can kind of sympathise with the older generations but then I think to myself "You've been using computers for longer than I've been working, how dont you know how to right click"
+ Another thing that grinds my gears, why is it that the more senior you become, the less you need It knowledge? Like you're being paid big bucks yet you dont know how to download a file or send an email?
+ Sorry, just one of those days and had to rant
+    submitted by    /u/chickenbing  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : sysadmin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A ‘Radical’ Approach to Reclaiming Your Attention]]></title>
+        <id>https://www.theatlantic.com/technology/archive/2024/12/strother-school-radical-attention/680830/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/technology/archive/2024/12/strother-school-radical-attention/680830/?utm_source=feed"/>
+        <updated>2024-12-02T15:45:00.000Z</updated>
+        <summary type="html"><![CDATA[It’s not just about putting your phone away.]]></summary>
+        <author>
+            <name>The Atlantic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ChatGPT refuses to say one specific name – and people are worried | Asking the AI bot to write the name ‘David Mayer’ causes it to prematurely end the chat]]></title>
+        <id>https://www.reddit.com/r/technology/comments/1h4xawb/chatgpt_refuses_to_say_one_specific_name_and/</id>
+        <link href="https://www.reddit.com/r/technology/comments/1h4xawb/chatgpt_refuses_to_say_one_specific_name_and/"/>
+        <updated>2024-12-02T15:19:12.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/MetaKnowing  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : technology</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A New Reckoning for Nuclear Energy]]></title>
+        <id>https://www.theatlantic.com/technology/archive/2024/12/america-nuclear-power-revival/680842/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/technology/archive/2024/12/america-nuclear-power-revival/680842/?utm_source=feed"/>
+        <updated>2024-12-02T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The U.S. is softening towards the idea of building a new fleet of nuclear reactors.]]></summary>
+        <author>
+            <name>The Atlantic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Would You Pay $1,000 for a Family Photo?]]></title>
+        <id>https://www.theatlantic.com/family/archive/2024/12/family-photography-expensive/680833/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/family/archive/2024/12/family-photography-expensive/680833/?utm_source=feed"/>
+        <updated>2024-12-02T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Just about anyone can take a picture with their smartphone. But some parents are paying top dollar to capture the perfect image.]]></summary>
+        <author>
+            <name>The Atlantic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enable Windows Server 2025 Hotpatching]]></title>
+        <id>https://4sysops.com/?p=1589223</id>
+        <link href="https://4sysops.com/archives/enable-windows-server-2025-hotpatching/"/>
+        <updated>2024-12-02T14:20:33.000Z</updated>
+        <summary type="html"><![CDATA[Hotpatching in Windows Server 2025 allows admins to apply critical updates without restarting the system. Hotpatching is available in the Standard and Datacenter editions of Windows Server 2025. It can be used in on-premises environments, the Azure cloud, or virtual servers with VMware or Hyper-V, provided that Virtualization-Based Security (VBS) is supported.
+Source]]></summary>
+        <author>
+            <name>Markus Elsberger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BetterTouchTool: Introducing Floating Menus [Sponsor]]]></title>
+        <id>https://www.macstories.net/?p=77367</id>
+        <link href="https://www.macstories.net/sponsored/bettertouchtool-introducing-floating-menus-sponsor-2/"/>
+        <updated>2024-12-02T14:14:08.000Z</updated>
+        <summary type="html"><![CDATA[BetterTouchTool is a powerful macOS application that enables users to completely customize their various input devices such as Keyboards, the (Magic) Mouse and Magic Trackpad, the Touch Bar, the Siri Remote or even things like the Stream Deck. Today let’s have a look at a new feature that has recently been integrated into BetterTouchTool and […]]]></summary>
+        <author>
+            <name>MacStories Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mozilla really wants you to set Firefox as default Windows browser]]></title>
+        <id>https://www.bleepingcomputer.com/news/software/mozilla-really-wants-you-to-set-firefox-as-default-windows-browser/</id>
+        <link href="https://www.bleepingcomputer.com/news/software/mozilla-really-wants-you-to-set-firefox-as-default-windows-browser/"/>
+        <updated>2024-12-02T13:48:38.000Z</updated>
+        <summary type="html"><![CDATA[In an effort to turn the tide, Mozilla is testing a fresh approach that could persuade more people to switch their default browser on Windows during the installation of the browser. [...]]]></summary>
+        <author>
+            <name>Mayank Parmar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why They Lost]]></title>
+        <id>https://www.theatlantic.com/politics/archive/2024/12/harris-team-election/680844/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/politics/archive/2024/12/harris-team-election/680844/?utm_source=feed"/>
+        <updated>2024-12-02T12:50:00.000Z</updated>
+        <summary type="html"><![CDATA[The Harris-campaign leadership believes that the Democrats narrowed the gap on Trump that Biden left—but not by enough.]]></summary>
+        <author>
+            <name>The Atlantic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When a Telescope Is a National-Security Risk]]></title>
+        <id>https://www.theatlantic.com/science/archive/2024/12/vera-rubin-telescope-spy-satellite/680814/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/science/archive/2024/12/vera-rubin-telescope-spy-satellite/680814/?utm_source=feed"/>
+        <updated>2024-12-02T12:30:00.000Z</updated>
+        <summary type="html"><![CDATA[How do you know what you’re not allowed to see?]]></summary>
+        <author>
+            <name>The Atlantic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft 365 Upcoming Changes - Dec 2024 Update]]></title>
+        <id>https://www.reddit.com/r/sysadmin/comments/1h4tpk3/microsoft_365_upcoming_changes_dec_2024_update/</id>
+        <link href="https://www.reddit.com/r/sysadmin/comments/1h4tpk3/microsoft_365_upcoming_changes_dec_2024_update/"/>
+        <updated>2024-12-02T12:20:47.000Z</updated>
+        <summary type="html"><![CDATA[Here’s a monthly Microsoft 365 update! Check out 20 essential changes rolling out this December. 
+  
+Spotlight: 
+  
+MFA grace period removal: The 14-day grace period for MFA registration with Security Defaults will be eliminated. Users must register for MFA on their first login. 
+  
+  Here’s a quick overview of what's coming: 
+  
+New Features: 8 
+ Retirements: 5 
+ Enhancements: 4 
+ Existing Functionality Changes: 4 
+ Action Required: 1 
+  
+New Features: 
+  
+Creation, modification, and deletion of cloud policy configurations will be captured in Microsoft Purview Audit. 
+ Admins can perform purge actions like soft and hard deletes using the Email Response Actions API. 
+ Microsoft will introduce a Conditional Access policy API to analyze the impact of created CA policies. 
+ Data Lifecycle Man…]]></summary>
+        <author>
+            <name>top scoring links : sysadmin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Christian Case for <em>Happy Holidays</em>]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2024/12/christian-case-happy-holidays/680796/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2024/12/christian-case-happy-holidays/680796/?utm_source=feed"/>
+        <updated>2024-12-02T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Well wishes should be addressed in the broadest possible terms.]]></summary>
+        <author>
+            <name>The Atlantic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TV Anime 'Sorairo Utility' Third Key Visual]]></title>
+        <id>https://www.reddit.com/r/anime/comments/1h4smgo/tv_anime_sorairo_utility_third_key_visual/</id>
+        <link href="https://www.reddit.com/r/anime/comments/1h4smgo/tv_anime_sorairo_utility_third_key_visual/"/>
+        <updated>2024-12-02T11:11:22.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Task_Force-191  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : anime</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The End of Democratic Delusions]]></title>
+        <id>https://www.theatlantic.com/magazine/archive/2025/01/trump-reelection-voter-demographic-change/680752/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/magazine/archive/2025/01/trump-reelection-voter-demographic-change/680752/?utm_source=feed"/>
+        <updated>2024-12-02T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Trump Reaction and what comes next]]></summary>
+        <author>
+            <name>The Atlantic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best of <em>How To</em>: Rest]]></title>
+        <id>https://www.theatlantic.com/podcasts/archive/2024/12/best-of-how-to-rest/680746/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/podcasts/archive/2024/12/best-of-how-to-rest/680746/?utm_source=feed"/>
+        <updated>2024-12-02T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Getting rest and going to the dentist aren’t as different as you might think.]]></summary>
+        <author>
+            <name>The Atlantic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Chrome’s AI feature lets you quickly check website trustworthiness]]></title>
+        <id>https://www.bleepingcomputer.com/news/google/google-chromes-ai-feature-lets-you-quickly-check-website-trustworthiness/</id>
+        <link href="https://www.bleepingcomputer.com/news/google/google-chromes-ai-feature-lets-you-quickly-check-website-trustworthiness/"/>
+        <updated>2024-12-02T10:46:34.000Z</updated>
+        <summary type="html"><![CDATA[Google Chrome's upcoming feature uses AI to provide a summary of reviews from independent websites about the store or website you're visiting. [...]]]></summary>
+        <author>
+            <name>Mayank Parmar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["On-call" feeling like extended support hours]]></title>
+        <id>https://www.reddit.com/r/sysadmin/comments/1h4qomi/oncall_feeling_like_extended_support_hours/</id>
+        <link href="https://www.reddit.com/r/sysadmin/comments/1h4qomi/oncall_feeling_like_extended_support_hours/"/>
+        <updated>2024-12-02T08:47:39.000Z</updated>
+        <summary type="html"><![CDATA[Just a rant I think. But want to know if it seems wild or normal to others.
+ The four seniors in our team share the oncall rota. We do Friday 5pm - Friday 08:30am out of hours support for one week every four. So one week of my month is essentially wrote off, which I'm used to. My wife has my schedule well ahead of time and it gets me out of alot of shit events I/We dont want to go to. Great!
+ Now when the week rolls around. I hate it. It's a healthcare setting, so literally a 24/7 service. I think of oncall as emergency out of hours service. For outages and things. But it is not. From 5pm Friday until Monday 08:30, I'm inundated with AD password resets, software (non LDAP) password resets, account lockouts, email MfA queries, VPN token issues.... Maybe once or twice a week I'll get a legit…]]></summary>
+        <author>
+            <name>top scoring links : sysadmin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[These five Apple products are expected to debut next spring]]></title>
+        <id>https://www.reddit.com/r/apple/comments/1h4lcgn/these_five_apple_products_are_expected_to_debut/</id>
+        <link href="https://www.reddit.com/r/apple/comments/1h4lcgn/these_five_apple_products_are_expected_to_debut/"/>
+        <updated>2024-12-02T03:11:45.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/A-Dog22  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : apple</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Biden’s Unpardonable Hypocrisy]]></title>
+        <id>https://www.theatlantic.com/politics/archive/2024/12/hunter-biden-pardon/680843/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/politics/archive/2024/12/hunter-biden-pardon/680843/?utm_source=feed"/>
+        <updated>2024-12-02T02:18:37.000Z</updated>
+        <summary type="html"><![CDATA[The president vowed not to pardon his son Hunter—and then did so anyway.]]></summary>
+        <author>
+            <name>The Atlantic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 10 Anime of the Week #8 - Fall 2024 (Anime Trending)]]></title>
+        <id>https://www.reddit.com/r/anime/comments/1h4iepf/top_10_anime_of_the_week_8_fall_2024_anime/</id>
+        <link href="https://www.reddit.com/r/anime/comments/1h4iepf/top_10_anime_of_the_week_8_fall_2024_anime/"/>
+        <updated>2024-12-02T00:43:21.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Nooble5  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : anime</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Don't you get goosebumps when clicking Delete Snapshot?]]></title>
+        <id>https://www.reddit.com/r/sysadmin/comments/1h4h01g/dont_you_get_goosebumps_when_clicking_delete/</id>
+        <link href="https://www.reddit.com/r/sysadmin/comments/1h4h01g/dont_you_get_goosebumps_when_clicking_delete/"/>
+        <updated>2024-12-01T23:37:09.000Z</updated>
+        <summary type="html"><![CDATA[I'm always afraid of clicking on the wrong one and hitting Revert Snapshot.
+ I hesitate around 10 sec before clicking on that fella.
+ Any horror stories by your side of the fence?
+    submitted by    /u/tecepeipe  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : sysadmin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I can’t get over how good a deal the Pixel 8A is for $399]]></title>
         <id>https://www.theverge.com/good-deals/2024/12/1/24310415/google-pixel-8a-black-friday-cyber-monday-deal</id>
@@ -84,6 +595,17 @@ We’ve combed through all of the Cyber Monday deals to bring together the best 
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Vinyl is crushing CDs as music industry eclipses cinema, report says | The analog sound storage is making an epic comeback]]></title>
+        <id>https://www.reddit.com/r/technology/comments/1h49w5y/vinyl_is_crushing_cds_as_music_industry_eclipses/</id>
+        <link href="https://www.reddit.com/r/technology/comments/1h49w5y/vinyl_is_crushing_cds_as_music_industry_eclipses/"/>
+        <updated>2024-12-01T18:31:40.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/chrisdh79  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : technology</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[2024 Space Telescope Advent Calendar]]></title>
         <id>https://www.theatlantic.com/photo/2024/12/2024-space-telescope-advent-calendar/680839/?utm_source=feed</id>
         <link href="https://www.theatlantic.com/photo/2024/12/2024-space-telescope-advent-calendar/680839/?utm_source=feed"/>
@@ -112,6 +634,27 @@ We’ve combed through all of the Cyber Monday deals to bring together the best 
  [link]   [comments]]]></summary>
         <author>
             <name>top scoring links : anime</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trump’s Cabinet picks are deeply divided over banning TikTok]]></title>
+        <id>https://www.reddit.com/r/technology/comments/1h45r3c/trumps_cabinet_picks_are_deeply_divided_over/</id>
+        <link href="https://www.reddit.com/r/technology/comments/1h45r3c/trumps_cabinet_picks_are_deeply_divided_over/"/>
+        <updated>2024-12-01T15:31:22.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/DomesticErrorist22  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : technology</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Novel phishing campaign uses corrupted Word documents to evade security]]></title>
+        <id>https://www.bleepingcomputer.com/news/security/novel-phishing-campaign-uses-corrupted-word-documents-to-evade-security/</id>
+        <link href="https://www.bleepingcomputer.com/news/security/novel-phishing-campaign-uses-corrupted-word-documents-to-evade-security/"/>
+        <updated>2024-12-01T15:20:30.000Z</updated>
+        <summary type="html"><![CDATA[A novel phishing attack abuses Microsoft's Word file recovery feature by sending corrupted Word documents as email attachments, allowing them to bypass security software due to their damaged state but still be recoverable by the application. [...]]]></summary>
+        <author>
+            <name>Lawrence Abrams</name>
         </author>
     </entry>
     <entry>
@@ -266,6 +809,21 @@ This post was created by a bot. Message the mod team for feedback and comments. 
  [link]   [comments]]]></summary>
         <author>
             <name>top scoring links : apple</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Passed AZ-801 today.]]></title>
+        <id>https://www.reddit.com/r/sysadmin/comments/1h3qrfk/passed_az801_today/</id>
+        <link href="https://www.reddit.com/r/sysadmin/comments/1h3qrfk/passed_az801_today/"/>
+        <updated>2024-12-01T00:33:52.000Z</updated>
+        <summary type="html"><![CDATA[i needed some refresher on the subject of OnPrem windows servers for my new job so i took AZ-800 and will try AZ-801 asap. 
+ AZ-800 was my first exam ever where i had access to Microsoft Learn and i could do research when i was stuck. It was really an interesting experience....
+ i did really stoopid thing though. I spent way too much time going down the rabbit holes of looking for the correct answers on every single question, and as a result, I had to rush through last 20-25 questions in less than 15 min. 
+ i'll have to do better job on managing time when taking AZ-801.
+    submitted by    /u/Visual-Oil-1922  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : sysadmin</name>
         </author>
     </entry>
     <entry>
@@ -688,6 +1246,18 @@ While you browse through the 2024 Black Friday and Cyber Monday deals, be sure t
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Has a user ever wanted RGB in their work machines?]]></title>
+        <id>https://www.reddit.com/r/sysadmin/comments/1h371a3/has_a_user_ever_wanted_rgb_in_their_work_machines/</id>
+        <link href="https://www.reddit.com/r/sysadmin/comments/1h371a3/has_a_user_ever_wanted_rgb_in_their_work_machines/"/>
+        <updated>2024-11-30T07:03:26.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever gotten a ticket asking for unicorn vomit in a work machine?
+    submitted by    /u/Darth_Malgus_1701  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : sysadmin</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Extra Tsun [Bleach: TYBW]]]></title>
         <id>https://www.reddit.com/r/anime/comments/1h34wqf/extra_tsun_bleach_tybw/</id>
         <link href="https://www.reddit.com/r/anime/comments/1h34wqf/extra_tsun_bleach_tybw/"/>
@@ -696,6 +1266,18 @@ While you browse through the 2024 Black Friday and Cyber Monday deals, be sure t
  [link]   [comments]]]></summary>
         <author>
             <name>top scoring links : anime</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wallace & Gromit bring Christmas cheer to London’s Battersea Power Station]]></title>
+        <id>https://www.reddit.com/r/apple/comments/1h33mzu/wallace_gromit_bring_christmas_cheer_to_londons/</id>
+        <link href="https://www.reddit.com/r/apple/comments/1h33mzu/wallace_gromit_bring_christmas_cheer_to_londons/"/>
+        <updated>2024-11-30T03:37:13.000Z</updated>
+        <summary type="html"><![CDATA[🇬🇧🎄 
+    submitted by    /u/Designer-Border-711  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : apple</name>
         </author>
     </entry>
     <entry>
@@ -2158,6 +2740,48 @@ Source]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Ao no Hako • Blue Box - Episode 9 discussion]]></title>
+        <id>https://www.reddit.com/r/anime/comments/1h15h0i/ao_no_hako_blue_box_episode_9_discussion/</id>
+        <link href="https://www.reddit.com/r/anime/comments/1h15h0i/ao_no_hako_blue_box_episode_9_discussion/"/>
+        <updated>2024-11-27T14:24:20.000Z</updated>
+        <summary type="html"><![CDATA[Ao no Hako, episode 9
+ Reminder: Please do not discuss plot points not yet seen or skipped in the show. Failing to follow the rules may result in a ban.
+  
+Streams
+ None
+ Show information
+  
+MyAnimeList
+ AniList
+ AniDB
+ Anime-Planet
+ Official Website
+ /r/BlueBox
+  
+ All discussions
+  
+ Episode Link 
+  
+ 1 Link 
+  2 Link 
+  3 Link 
+  4 Link 
+  5 Link 
+  6 Link 
+  7 Link 
+  8 Link 
+  9 Link 
+  10 Link 
+ 
+  
+This post was created by a bot. Message the mod team for feedback and comments. The original source code can be found on GitHub.
+    submitted by    /u/AutoLovepon  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : anime</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Police bust pirate streaming service making €250 million per month]]></title>
         <id>https://www.bleepingcomputer.com/news/technology/police-bust-pirate-streaming-service-making-250-million-per-month/</id>
         <link href="https://www.bleepingcomputer.com/news/technology/police-bust-pirate-streaming-service-making-250-million-per-month/"/>
@@ -2234,6 +2858,17 @@ Source]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[How many years do we need to be told VR is the future before it actually takes off?]]></title>
+        <id>https://www.reddit.com/r/technology/comments/1h12y1j/how_many_years_do_we_need_to_be_told_vr_is_the/</id>
+        <link href="https://www.reddit.com/r/technology/comments/1h12y1j/how_many_years_do_we_need_to_be_told_vr_is_the/"/>
+        <updated>2024-11-27T12:16:09.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/BlueLightStruct  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : technology</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[“I'm Getting Married to a Girl I Hate in My Class” New Key Visual]]></title>
         <id>https://www.reddit.com/r/anime/comments/1h128y7/im_getting_married_to_a_girl_i_hate_in_my_class/</id>
         <link href="https://www.reddit.com/r/anime/comments/1h128y7/im_getting_married_to_a_girl_i_hate_in_my_class/"/>
@@ -2242,6 +2877,27 @@ Source]]></summary>
  [link]   [comments]]]></summary>
         <author>
             <name>top scoring links : anime</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Daily Advice Thread - November 27, 2024]]></title>
+        <id>https://www.reddit.com/r/apple/comments/1h11rlq/daily_advice_thread_november_27_2024/</id>
+        <link href="https://www.reddit.com/r/apple/comments/1h11rlq/daily_advice_thread_november_27_2024/"/>
+        <updated>2024-11-27T11:00:40.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the Daily Advice Thread for /r/Apple. This thread can be used to ask for technical advice regarding Apple software and hardware, to ask questions regarding the buying or selling of Apple products or to post other short questions.
+ Have a question you need answered? Ask away! Please remember to adhere to our rules, which can be found in the sidebar.
+ Join our Discord and IRC chat rooms for support:
+  
+Discord
+ IRC
+  
+Note: Comments are sorted by /new for your convenience.
+ Here is an archive of all previous Daily Advice Threads. This is best viewed on a browser. If on mobile, type in the search bar [author:"AutoModerator" title:"Daily Advice Thread" or title:"Daily Tech Support Thread"] (without the brackets, and including the quotation marks around the titles and author.)
+ The Daily Advice Thread is posted each day at 06:00 AM EST (Click HERE for other timezones) and then the old one is archived. It is advised to wait for the new thread to post your question if this time is nearing for quickest answer time.
+    submitted by    /u/AutoModerator  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : apple</name>
         </author>
     </entry>
     <entry>
@@ -2554,6 +3210,17 @@ Google’s support page for the extension explains that it first requires linkin
         <summary type="html"><![CDATA[Want the best VPN with a 74% discount? The NordVPN Black Friday deal is live and runs until December 10. This is the perfect chance to lock in a 2-year plan for the low cost of $2.99 per month, with an extra 3 months for free. [...]]]></summary>
         <author>
             <name>Ray Walsh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Michael Tsai - Blog - Mini vMac for iOS Rejected via Notarization]]></title>
+        <id>https://www.reddit.com/r/apple/comments/1h0l9k4/michael_tsai_blog_mini_vmac_for_ios_rejected_via/</id>
+        <link href="https://www.reddit.com/r/apple/comments/1h0l9k4/michael_tsai_blog_mini_vmac_for_ios_rejected_via/"/>
+        <updated>2024-11-26T20:02:27.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/cake-day-on-feb-29  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : apple</name>
         </author>
     </entry>
     <entry>
@@ -4483,454 +5150,6 @@ Part of the interest in Bluesky is that it looks and feels like a better version
         <summary type="html"><![CDATA[Trump’s allies treat every change in social norms as a DEI project gone wrong.]]></summary>
         <author>
             <name>The Atlantic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Right Has a Bluesky Problem]]></title>
-        <id>https://www.theatlantic.com/technology/archive/2024/11/twitter-exodus-bluesky-conservative/680783/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/technology/archive/2024/11/twitter-exodus-bluesky-conservative/680783/?utm_source=feed"/>
-        <updated>2024-11-23T12:30:00.000Z</updated>
-        <summary type="html"><![CDATA[The X exodus is weakening a way for conservatives to speak to the masses.]]></summary>
-        <author>
-            <name>The Atlantic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How are you addressing the move to new outlook this January?]]></title>
-        <id>https://www.reddit.com/r/sysadmin/comments/1gxyds7/how_are_you_addressing_the_move_to_new_outlook/</id>
-        <link href="https://www.reddit.com/r/sysadmin/comments/1gxyds7/how_are_you_addressing_the_move_to_new_outlook/"/>
-        <updated>2024-11-23T12:18:01.000Z</updated>
-        <summary type="html"><![CDATA[We had a team meeting to decide how to treat it. We have notified staff Microsoft has this in the pipeline, if staff ask to be be excluded we will add them to a “do not upgrade list.” That will just become an Intune group with a configuration for the setting(s) attached. Easy, gives people an operant to opt out but stays with the flow of Microsoft. I would love to know what others are doing. 
-    submitted by    /u/notfoundindatabse  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : sysadmin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【残り３県】一瞬の秋を楽しむ車中泊生活。青森旅。]]></title>
-        <id>https://www.youtube.com/watch?v=mT9luA7VuK8</id>
-        <link href="https://www.youtube.com/watch?v=mT9luA7VuK8"/>
-        <updated>2024-11-23T10:45:02.000Z</updated>
-        <author>
-            <name>軽バン生活</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Billionaire food app CEO wants you to pay for the privilege of working with him]]></title>
-        <id>https://www.reddit.com/r/technology/comments/1gxwvkd/billionaire_food_app_ceo_wants_you_to_pay_for_the/</id>
-        <link href="https://www.reddit.com/r/technology/comments/1gxwvkd/billionaire_food_app_ceo_wants_you_to_pay_for_the/"/>
-        <updated>2024-11-23T10:39:32.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/Logical_Welder3467  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : technology</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“Rascal Does Not Dream of Santa Claus” Teaser Visual]]></title>
-        <id>https://www.reddit.com/r/anime/comments/1gxwqkb/rascal_does_not_dream_of_santa_claus_teaser_visual/</id>
-        <link href="https://www.reddit.com/r/anime/comments/1gxwqkb/rascal_does_not_dream_of_santa_claus_teaser_visual/"/>
-        <updated>2024-11-23T10:30:16.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/zenzen_0  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : anime</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The mega-comet hurtling through our solar system is 85, yes 85, miles wide]]></title>
-        <id>https://www.reddit.com/r/technology/comments/1gxuq0t/the_megacomet_hurtling_through_our_solar_system/</id>
-        <link href="https://www.reddit.com/r/technology/comments/1gxuq0t/the_megacomet_hurtling_through_our_solar_system/"/>
-        <updated>2024-11-23T08:05:22.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/Anxious-Depth-7983  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : technology</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Accidental 1st Kiss [Dandadan]]]></title>
-        <id>https://www.reddit.com/r/anime/comments/1gxsjfb/accidental_1st_kiss_dandadan/</id>
-        <link href="https://www.reddit.com/r/anime/comments/1gxsjfb/accidental_1st_kiss_dandadan/"/>
-        <updated>2024-11-23T05:36:36.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/mojo72400  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : anime</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Elon Musk is directing harassment toward individual federal workers]]></title>
-        <id>https://www.theverge.com/2024/11/22/24303594/elon-musk-harassing-federal-workers-x</id>
-        <link href="https://www.theverge.com/2024/11/22/24303594/elon-musk-harassing-federal-workers-x"/>
-        <updated>2024-11-23T00:21:37.000Z</updated>
-        <summary type="html"><![CDATA[Illustration by Lille Allen / The Verge
-    
-
-  
-Elon Musk is, in addition to many other things, now the co-lead of the currently nonexistent Department of Government Efficiency (DOGE) advisory group. Now, before it even gets rolling, he has begun singling out individual government employees he says are emblematic of the government’s bloat and posting about them to his hundreds of millions of followers on X.
-Earlier this week, as first reported by The Wall Street Journal, the X user “datahazard” shared a screenshot on X highlighting the role of Ashley Thomas, the Director of Climate Diversification at the US International Development Finance Corporation, saying, “I don’t think the US Taxpayer should pay for the employment” of that role. Musk reposted it, adding the comment “so many fake jobs” in a post with more than 33 million views. 
-As the WSJ notes, Musk’s followers have responded in exactly the way you’d expect: with a flood of memes and harassment targeting Thomas, whose LinkedIn and Facebook pages are now private. Everett Kelley, president of the American Federation of Government Employees, told the WSJ that the posts “are aimed at sowing terror and fear at federal employees.”
-
-
-Flooding targets with harassment is a tactic Musk has done in the past, including calling caver Vernon Unsworth a “pedo guy,” criticizing a former Twitter exec following his offer to buy the company, and suggesting that head of trust and safety Yoel Roth was sympathetic to pedophilia. All, of course, under the guise of “free speech.”
-The ensuing harassment, of course, is precisely the point: Musk has systematically turned X into a megaphone for his views and has wielded that megaphone to whatever end he finds funny or useful. Musk and DOGE co-lead Vivek Ramaswamy have promised to do much of their work in public (and sometimes by X poll), too, which means this kind of pointed attention is likely headed toward many other civil servants in the near future.]]></summary>
-        <author>
-            <name>The Verge -  Front Pages</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Supreme Court will decide the fate of America’s low-income broadband fund]]></title>
-        <id>https://www.theverge.com/2024/11/22/24303585/supreme-court-fcc-v-consumers-research-universal-service-fund-broadband</id>
-        <link href="https://www.theverge.com/2024/11/22/24303585/supreme-court-fcc-v-consumers-research-universal-service-fund-broadband"/>
-        <updated>2024-11-22T23:49:45.000Z</updated>
-        <summary type="html"><![CDATA[Illustration by Cath Virginia / The Verge | Photos via Getty Images
-    
-
-  
-The Supreme Court agreed to hear arguments on a case involving funding for a major broadband subsidy program, the Universal Service Fund (USF). 
-SCOTUS granted cert in a pair of cases called Federal Communications Commission v. Consumers’ Research, and Schools, Health & Libraries Broadband Coalition v. Consumers’ Research, which were consolidated for oral arguments. They center around whether Congress inappropriately delegated lawmaking function to the FCC by letting it set contribution rates for telecommunications companies to pay into the nonprofit Universal Service Administration Company, which manages the USF. It also asks whether the FCC delegated too much authority to a private entity by letting USAC manage …]]></summary>
-        <author>
-            <name>The Verge -  Front Pages</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Shopping Method That Isn’t Going Anywhere]]></title>
-        <id>https://www.theatlantic.com/newsletters/archive/2024/11/the-shopping-method-that-isnt-going-anywhere/680780/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/newsletters/archive/2024/11/the-shopping-method-that-isnt-going-anywhere/680780/?utm_source=feed"/>
-        <updated>2024-11-22T23:09:00.000Z</updated>
-        <summary type="html"><![CDATA[Some brands are returning to the print catalog in order to sell things on their terms.]]></summary>
-        <author>
-            <name>The Atlantic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DirecTV and Dish’s on-and-off merger saga switches back to off]]></title>
-        <id>https://www.theverge.com/2024/11/22/24303559/directv-dish-merger-deal-abandoned</id>
-        <link href="https://www.theverge.com/2024/11/22/24303559/directv-dish-merger-deal-abandoned"/>
-        <updated>2024-11-22T22:53:30.000Z</updated>
-        <summary type="html"><![CDATA[Illustration by Alex Castro / The Verge
-    
-
-  
-DirecTV has dropped its plans to acquire Dish, the company announced Thursday. The deal would’ve created a TV service megamerger, but it fell through after Dish bondholders rejected the takeover.
-In September, DirecTV reached an agreement to acquire Dish, Sling TV, and EchoStar’s TV business for just one dollar, while also taking on Dish’s $9.75 billion in debt. However, Dish bondholders — or the investors who lend money to a company (and expect to be paid back)  — weren’t happy about the decision, as the transaction would’ve cut the value of their holdings by $1.5 billion.
-
-
-“While we believed a combination of DIRECTV and DISH would have benefitted all stakeholders, we have terminated the transaction because the proposed Exchange Terms were necessary to protect DIRECTV’s balance sheet and our operational flexibility,” DirecTV CEO Bill Morrow said in the press release.
-This isn’t the first time a deal between DirecTV and Dish has soured. The Federal Communications Commission blocked a merger between both companies in 2002. The two companies have flirted with the idea of a merger ever since — and they might’ve had a better chance at success this time under the Trump administration.]]></summary>
-        <author>
-            <name>The Verge -  Front Pages</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows 10 KB5046714 update fixes bug preventing app uninstalls]]></title>
-        <id>https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5046714-update-fixes-bug-preventing-app-uninstalls/</id>
-        <link href="https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5046714-update-fixes-bug-preventing-app-uninstalls/"/>
-        <updated>2024-11-22T22:32:13.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft has released the optional KB5046714 Preview cumulative update for Windows 10 22H2 with six bug fixes, including a fix for a bug preventing users from uninstalling or updating packaged applications. [...]]]></summary>
-        <author>
-            <name>Lawrence Abrams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iPhone 17 and 'iPhone 17 Air' Expected to Lack 5x Optical Zoom Lens]]></title>
-        <id>https://www.reddit.com/r/apple/comments/1gxj6cn/iphone_17_and_iphone_17_air_expected_to_lack_5x/</id>
-        <link href="https://www.reddit.com/r/apple/comments/1gxj6cn/iphone_17_and_iphone_17_air_expected_to_lack_5x/"/>
-        <updated>2024-11-22T21:41:33.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/iMacmatician  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : apple</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Texas attorney general declares war on advertisers who snub X, is ‘investigating a possible coordinated plan or conspiracy to withhold advertising dollars from certain social media platforms’]]></title>
-        <id>https://www.reddit.com/r/technology/comments/1gxithz/texas_attorney_general_declares_war_on/</id>
-        <link href="https://www.reddit.com/r/technology/comments/1gxithz/texas_attorney_general_declares_war_on/"/>
-        <updated>2024-11-22T21:25:48.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/marketrent  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : technology</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Has anyone noticed an odd "Away" status in Teams over the past couple of weeks?]]></title>
-        <id>https://www.reddit.com/r/sysadmin/comments/1gxia55/has_anyone_noticed_an_odd_away_status_in_teams/</id>
-        <link href="https://www.reddit.com/r/sysadmin/comments/1gxia55/has_anyone_noticed_an_odd_away_status_in_teams/"/>
-        <updated>2024-11-22T21:02:05.000Z</updated>
-        <summary type="html"><![CDATA[Multiple users have reported an issue where their Teams status keeps switching to "Away" despite them actively working. I observed one user in a meeting with Zoom open, while Teams was minimized, and their status still showed as "Away." In another instance, a user sent me a Teams message, but their status remained "Away."
-    submitted by    /u/Next-Landscape-9884  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : sysadmin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[QNAP pulls buggy QTS firmware causing widespread NAS issues]]></title>
-        <id>https://www.bleepingcomputer.com/news/technology/qnap-pulls-buggy-qts-firmware-causing-widespread-nas-issues/</id>
-        <link href="https://www.bleepingcomputer.com/news/technology/qnap-pulls-buggy-qts-firmware-causing-widespread-nas-issues/"/>
-        <updated>2024-11-22T20:49:42.000Z</updated>
-        <summary type="html"><![CDATA[​QNAP has pulled a recently released firmware update after widespread customer reports that it's breaking connectivity and, in some cases, locking users out of their devices. [...]]]></summary>
-        <author>
-            <name>Sergiu Gatlan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RAM vs Latency]]></title>
-        <id>https://www.reddit.com/r/sysadmin/comments/1gxh4ot/ram_vs_latency/</id>
-        <link href="https://www.reddit.com/r/sysadmin/comments/1gxh4ot/ram_vs_latency/"/>
-        <updated>2024-11-22T20:11:57.000Z</updated>
-        <summary type="html"><![CDATA[About 6 months ago our company has signed a contract with a third-party Indian company to outsource a lot of our IT staff...
- Today, there was an issue with files taking a long time to upload from one site to another. Latency showed 100ms. I told them this is normal because our standard is hub-spoke topology which means that traffic goes through a hub located in U.S. instead of going from site to site. I then told them that to solve this issue, they need to request for a site-to-site VPN tunnel exception. Somehow this didn't click with them.
- What the geniuses did instead is raise an emergency change to add 12 more gigabytes of RAM to the servers. I told them this won't solve the issue but somehow this change got approved...
- Now, after the change has been completed, they are telling me that the issue hasn't been resolved and latency is still showing 100ms...
- I don't know what to say.
-    submitted by    /u/Professional-Tie47  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : sysadmin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[China Wiretaps Americans in 'Worst Hack in Our Nation's History']]></title>
-        <id>https://www.reddit.com/r/technology/comments/1gxgsk8/china_wiretaps_americans_in_worst_hack_in_our/</id>
-        <link href="https://www.reddit.com/r/technology/comments/1gxgsk8/china_wiretaps_americans_in_worst_hack_in_our/"/>
-        <updated>2024-11-22T19:57:46.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/lurker_bee  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : technology</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hackers breach US firm over Wi-Fi from Russia in 'Nearest Neighbor Attack']]></title>
-        <id>https://www.bleepingcomputer.com/news/security/hackers-breach-us-firm-over-wi-fi-from-russia-in-nearest-neighbor-attack/</id>
-        <link href="https://www.bleepingcomputer.com/news/security/hackers-breach-us-firm-over-wi-fi-from-russia-in-nearest-neighbor-attack/"/>
-        <updated>2024-11-22T19:33:54.000Z</updated>
-        <summary type="html"><![CDATA[Russian state hackers APT28 (Fancy Bear/Forest Blizzard/Sofacy) breached a U.S. company through its enterprise WiFi network while being thousands of miles away, by leveraging a novel technique called "nearest neighbor attack." [...]]]></summary>
-        <author>
-            <name>Bill Toulas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why That Chatbot Is So Good at Imitating Bart Simpson]]></title>
-        <id>https://www.theatlantic.com/newsletters/archive/2024/11/why-that-chatbot-is-so-good-at-imitating-bart-simpson/680775/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/newsletters/archive/2024/11/why-that-chatbot-is-so-good-at-imitating-bart-simpson/680775/?utm_source=feed"/>
-        <updated>2024-11-22T19:09:00.000Z</updated>
-        <summary type="html"><![CDATA[Inside the Hollywood writing that fuels generative AI.]]></summary>
-        <author>
-            <name>The Atlantic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Latest from Comfort Zone, Magic Rays of Light, and MacStories Unwind]]></title>
-        <id>https://www.macstories.net/?p=77302</id>
-        <link href="https://www.macstories.net/news/the-latest-from-comfort-zone-magic-rays-of-light-and-macstories-unwind-9/"/>
-        <updated>2024-11-22T18:52:43.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the latest episodes from MacStories’ family of podcasts: Comfort Zone Matt brings his latest obsession, Niléane wants to talk about Bluesky, and Chris challenges the gang to automate something. Magic Rays of Light Sigmund and Devon highlight the return of Silo, dive in to The Weeknd’s immersive music video for Open Hearts, and share […]]]></summary>
-        <author>
-            <name>John Voorhees</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 10 Anime of the Week #8 - Fall 2024 (Anime Corner)]]></title>
-        <id>https://www.reddit.com/r/anime/comments/1gxf8zd/top_10_anime_of_the_week_8_fall_2024_anime_corner/</id>
-        <link href="https://www.reddit.com/r/anime/comments/1gxf8zd/top_10_anime_of_the_week_8_fall_2024_anime_corner/"/>
-        <updated>2024-11-22T18:52:01.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/Kezja  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : anime</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<em>Gladiator II </em>Is More Than Just a Spectacle]]></title>
-        <id>https://www.theatlantic.com/culture/archive/2024/11/gladiator-2-review/680772/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/culture/archive/2024/11/gladiator-2-review/680772/?utm_source=feed"/>
-        <updated>2024-11-22T18:39:33.000Z</updated>
-        <summary type="html"><![CDATA[Ridley Scott’s ancient-Roman epic manages to find some beauty amid the savagery.]]></summary>
-        <author>
-            <name>The Atlantic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The #MeToo Cabinet]]></title>
-        <id>https://www.theatlantic.com/ideas/archive/2024/11/trump-cabinet-sexual-assault-allegations/680773/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/ideas/archive/2024/11/trump-cabinet-sexual-assault-allegations/680773/?utm_source=feed"/>
-        <updated>2024-11-22T18:29:29.000Z</updated>
-        <summary type="html"><![CDATA[Trump’s choice to begin a new administration with this particular slate of picks represents a remarkable commitment to moral ugliness.]]></summary>
-        <author>
-            <name>The Atlantic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft rolls out Recall to Windows Insiders with Copilot+ PCs]]></title>
-        <id>https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-recall-to-windows-insiders-with-copilot-plus-pcs/</id>
-        <link href="https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-recall-to-windows-insiders-with-copilot-plus-pcs/"/>
-        <updated>2024-11-22T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[​Microsoft announced today that its controversial AI-powered Recall feature is finally rolling out to Windows Insiders in the Dev Channel using Snapdragon-powered Copilot+ PCs. [...]]]></summary>
-        <author>
-            <name>Sergiu Gatlan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Company stuck in the 2000s]]></title>
-        <id>https://www.reddit.com/r/sysadmin/comments/1gxduo2/company_stuck_in_the_2000s/</id>
-        <link href="https://www.reddit.com/r/sysadmin/comments/1gxduo2/company_stuck_in_the_2000s/"/>
-        <updated>2024-11-22T17:53:37.000Z</updated>
-        <summary type="html"><![CDATA[This is my first reddit post so please forgive me lol.
- I work at a fairly large company (1,000-3,000 employees) as a IT Support Tech, there’s one more guy with my same role, a network admin, sys admin, and the IT Manager. 
- I came into this role about 1 year ago thinking it would be a good start for me to get experience, ya know.. help manage exchange accounts, printers, troubleshoot some machines.. oh how I was wrong.
- We still use pop email services for most of our staff, if they aren’t on pop they’re on some jank third party system called “Zimbra” (IT and some others are on this system.) Bat that’s not even the best part, the whole companies emails go through one on-prem server… no DAG no backups no nothing… the network admin nor sys admin know anything about backups or how the mail server even works. The sys admin doesn’t even have a key to the server room!!!
- We have no AD or anything similar to create policies, all computers are set up as administrators, we have email issues constantly and people loose emails often due to them being stored as .PST files… we don’t even use IMAP at the very least. 
- Everyone uses a different IM (Telegram, Teams, Slack) and non are managed by IT.
- Everything that can be is custom made by the IT manager, even our inventory system is a custom database that… guess what… is hosted on the same server as our mail server in the closet.
- We have no access to our internal intranet site, nobody has access to our shared cloud drive other than the IT Manager. (This used to be ghost IT’d by the operations manager, who still has main admin access.)
- Am I the crazy one here, should I not be stressed?
-    submitted by    /u/Acceptable-Ad-2956  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : sysadmin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Behind the Blog: 'I Reject It!']]></title>
-        <id>6740bf0329396200014bdf58</id>
-        <link href="https://www.404media.co/behind-the-blog-world-of-warcraft-kesha-pokemon-go/"/>
-        <updated>2024-11-22T17:47:48.000Z</updated>
-        <summary type="html"><![CDATA[This is Behind the Blog, where we share our behind-the-scenes thoughts about how a few of our top stories of the week came together. This week, we talk about conjuring gaming memories, AI-generated Birkin bags, and a rejection of a certain type of criticism.]]></summary>
-        <author>
-            <name>Samantha Cole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What a 16-Year-Old Doesn’t Yet Know]]></title>
-        <id>https://www.theatlantic.com/newsletters/archive/2024/11/books-briefing-teenager-cher-memoir/680771/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/newsletters/archive/2024/11/books-briefing-teenager-cher-memoir/680771/?utm_source=feed"/>
-        <updated>2024-11-22T17:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Cher’s memoir is a valuable document of a young girl thrust into the adult world.]]></summary>
-        <author>
-            <name>The Atlantic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Cases Against Trump: A Guide]]></title>
-        <id>https://www.theatlantic.com/ideas/archive/2024/11/donald-trump-legal-cases-charges/675531/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/ideas/archive/2024/11/donald-trump-legal-cases-charges/675531/?utm_source=feed"/>
-        <updated>2024-11-22T17:43:00.000Z</updated>
-        <summary type="html"><![CDATA[Thirty-four felony convictions. Charges of fraud, election subversion, and obstruction. One place to keep track of the presidential candidate’s legal troubles.]]></summary>
-        <author>
-            <name>The Atlantic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crooks Allegedly Stole Truck Full of $1.5 Million of Oculus Headsets]]></title>
-        <id>6740bef029396200014bdf53</id>
-        <link href="https://www.404media.co/crooks-allegedly-stole-truck-full-of-1-5-million-of-oculus-headsets/"/>
-        <updated>2024-11-22T17:34:23.000Z</updated>
-        <summary type="html"><![CDATA[The truck thieves also stole trucks hauling electronics from Microsoft and Logitech.]]></summary>
-        <author>
-            <name>Emanuel Maiberg</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Teslas Are Involved in More Fatal Accidents Than Any Other Brand, Study Finds]]></title>
-        <id>https://www.reddit.com/r/technology/comments/1gxd1ey/teslas_are_involved_in_more_fatal_accidents_than/</id>
-        <link href="https://www.reddit.com/r/technology/comments/1gxd1ey/teslas_are_involved_in_more_fatal_accidents_than/"/>
-        <updated>2024-11-22T17:20:13.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/GoMx808-0  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : technology</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EU closes antitrust probe into Apple's e-book and audiobook rules after complaint withdrawn]]></title>
-        <id>https://www.reddit.com/r/apple/comments/1gxcn61/eu_closes_antitrust_probe_into_apples_ebook_and/</id>
-        <link href="https://www.reddit.com/r/apple/comments/1gxcn61/eu_closes_antitrust_probe_into_apples_ebook_and/"/>
-        <updated>2024-11-22T17:03:48.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/ControlCAD  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : apple</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hiring platforms are making it harder to find a job, says HR tech founder: 'It's more soul-crushing than ever']]></title>
-        <id>https://www.reddit.com/r/technology/comments/1gxckwk/hiring_platforms_are_making_it_harder_to_find_a/</id>
-        <link href="https://www.reddit.com/r/technology/comments/1gxckwk/hiring_platforms_are_making_it_harder_to_find_a/"/>
-        <updated>2024-11-22T17:01:25.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/GL4389  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : technology</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pam Bondi’s Comeback]]></title>
-        <id>https://www.theatlantic.com/ideas/archive/2024/11/pam-bondi-nominated-attorney-general/680768/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/ideas/archive/2024/11/pam-bondi-nominated-attorney-general/680768/?utm_source=feed"/>
-        <updated>2024-11-22T16:49:02.000Z</updated>
-        <summary type="html"><![CDATA[In 2017, Pam Bondi was passed over as too scandal-tainted. This time, she’s the safe, acceptable fallback choice.]]></summary>
-        <author>
-            <name>The Atlantic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tatsuki Fujimoto's Look Back anime movie is eligible for consideration for the 2025 Oscars in the Animated Feature film category]]></title>
-        <id>https://www.reddit.com/r/anime/comments/1gxbx5q/tatsuki_fujimotos_look_back_anime_movie_is/</id>
-        <link href="https://www.reddit.com/r/anime/comments/1gxbx5q/tatsuki_fujimotos_look_back_anime_movie_is/"/>
-        <updated>2024-11-22T16:33:09.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/ddiaconu21  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : anime</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Photos of the Week: Bomb Cyclone, Rainbow Hills, Park Hawk]]></title>
-        <id>https://www.theatlantic.com/photo/2024/11/photos-of-the-week-bomb-cyclone-rainbow-hills-park-hawk/680750/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/photo/2024/11/photos-of-the-week-bomb-cyclone-rainbow-hills-park-hawk/680750/?utm_source=feed"/>
-        <updated>2024-11-22T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Christmas decorations in England, a virtual taekwondo championship in Singapore, a mummified saber-toothed tiger cub in Russia,&nbsp; a new volcanic eruption in Iceland, and much more]]></summary>
-        <author>
-            <name>The Atlantic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[It's 2024 and hosting companies are still using RDP on the open Internet?]]></title>
-        <id>https://www.reddit.com/r/sysadmin/comments/1gxahog/its_2024_and_hosting_companies_are_still_using/</id>
-        <link href="https://www.reddit.com/r/sysadmin/comments/1gxahog/its_2024_and_hosting_companies_are_still_using/"/>
-        <updated>2024-11-22T15:32:32.000Z</updated>
-        <summary type="html"><![CDATA[Just this week I learned about the company RightWorks for hosting QuickBooks in the cloud. They use raw RDP over port 3389 directly on the Internet. How are they able to do this securely? I know of another company doing this as well. I learned 10 years ago to never expose 3389 to the Internet. I'm deeply concerned about the safety of my client's financial data.
-    submitted by    /u/calculatetech  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : sysadmin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Case Against Spinning Off Chrome]]></title>
-        <id>https://www.theatlantic.com/technology/archive/2024/11/let-google-keep-chrome/680747/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/technology/archive/2024/11/let-google-keep-chrome/680747/?utm_source=feed"/>
-        <updated>2024-11-22T15:27:21.000Z</updated>
-        <summary type="html"><![CDATA[There are better ways to address Google’s dominance.]]></summary>
-        <author>
-            <name>The Atlantic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hackers breach Andrew Tate's online university, leak data on 800,000 users]]></title>
-        <id>https://www.reddit.com/r/technology/comments/1gx7cdf/hackers_breach_andrew_tates_online_university/</id>
-        <link href="https://www.reddit.com/r/technology/comments/1gx7cdf/hackers_breach_andrew_tates_online_university/"/>
-        <updated>2024-11-22T13:03:49.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/Wagamaga  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : technology</name>
         </author>
     </entry>
 </feed>
