@@ -2,10 +2,675 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tinykings.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-09T00:53:27.793Z</updated>
+    <updated>2024-12-10T00:52:41.772Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://tinykings.github.io/rss/index.html"/>
     <link rel="self" href="https://tinykings.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Most Hyped Bot Since ChatGPT]]></title>
+        <id>https://www.theatlantic.com/technology/archive/2024/12/openai-sora-release/680944/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/technology/archive/2024/12/openai-sora-release/680944/?utm_source=feed"/>
+        <updated>2024-12-10T00:22:00.000Z</updated>
+        <summary type="html"><![CDATA[Remember Sora?]]></summary>
+        <author>
+            <name>The Atlantic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Suicide Squad game’s final season is coming less than a year after launch]]></title>
+        <id>https://www.theverge.com/2024/12/9/24317407/suicide-squad-kill-the-justice-league-final-season-offline-mode</id>
+        <link href="https://www.theverge.com/2024/12/9/24317407/suicide-squad-kill-the-justice-league-final-season-offline-mode"/>
+        <updated>2024-12-09T23:39:32.000Z</updated>
+        <summary type="html"><![CDATA[Image: Warner Bros. Games
+    
+
+  
+Suicide Squad: Kill the Justice League only came out in February, but the game’s final season, which starts tomorrow, is going to be its last. Season 4 Episode 7 launches on Tuesday, and Episode 8, which is set to release on January 14th, 2025, will “serve as the last seasonal Episode for Suicide Squad: Kill the Justice League,” developer Rocksteady announced on Monday.
+After the release of the final content, the game will still be available to play online, according to a WB Games FAQ. But the game is also getting an offline mode tomorrow — which had been previously announced, though without a specific date beyond “2024” — that will let you play the main story and all seasonal story mission content without an internet connection.
+The game has had a troubled history. The game was originally set to release in 2022 before being delayed multiple times. And a largely unsuccessful launch — in our review, we said the game “hides its brash personality under a generic looter shooter” — resulted in Warner Bros. Discovery announcing in May that it would be taking a $200 million loss on the game.]]></summary>
+        <author>
+            <name>The Verge -  Front Pages</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Three Ways to Understand Syria’s Future]]></title>
+        <id>https://www.theatlantic.com/newsletters/archive/2024/12/three-ways-to-understand-syrias-future/680943/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/newsletters/archive/2024/12/three-ways-to-understand-syrias-future/680943/?utm_source=feed"/>
+        <updated>2024-12-09T23:08:00.000Z</updated>
+        <summary type="html"><![CDATA[<em>Atlantic</em> writers on what comes next for the country, its allies, and the U.S.]]></summary>
+        <author>
+            <name>The Atlantic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google reveals quantum computing chip with ‘breakthrough’ achievements]]></title>
+        <id>https://www.theverge.com/2024/12/9/24317382/google-willow-quantum-computing-chip-breakthrough</id>
+        <link href="https://www.theverge.com/2024/12/9/24317382/google-willow-quantum-computing-chip-breakthrough"/>
+        <updated>2024-12-09T23:05:54.000Z</updated>
+        <summary type="html"><![CDATA[Image: Google
+    
+
+  
+Google’s quantum computing lab just achieved a major milestone. On Monday, the company revealed that its new quantum computing chip, Willow, is capable of performing a computing challenge in less than five minutes — a process Google says would take one of the world’s fastest supercomputers 10 septillion years, or longer than the age of the universe.
+That’s a big jump from 2019 when Google announced its quantum processor could complete a mathematical equation in three minutes, as opposed to 10,000 years on a supercomputer. IBM disputed the claim at the time.
+
+
+Along with more powerful performance, researchers also found a way to reduce errors, something Google calls “one of the greatest challenges in quantum computing.” Instead of bits, which represent either 1 or 0, …]]></summary>
+        <author>
+            <name>The Verge -  Front Pages</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ransomware attack hits leading heart surgery device maker]]></title>
+        <id>https://www.bleepingcomputer.com/news/security/ransomware-attack-hits-leading-heart-surgery-device-maker/</id>
+        <link href="https://www.bleepingcomputer.com/news/security/ransomware-attack-hits-leading-heart-surgery-device-maker/"/>
+        <updated>2024-12-09T23:00:51.000Z</updated>
+        <summary type="html"><![CDATA[​Artivion, a leading manufacturer of heart surgery medical devices, has disclosed a November 21 ransomware attack that disrupted its operations and forced it to take some systems offline. [...]]]></summary>
+        <author>
+            <name>Sergiu Gatlan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenWrt Sysupgrade flaw let hackers push malicious firmware images]]></title>
+        <id>https://www.bleepingcomputer.com/news/security/openwrt-sysupgrade-flaw-let-hackers-push-malicious-firmware-images/</id>
+        <link href="https://www.bleepingcomputer.com/news/security/openwrt-sysupgrade-flaw-let-hackers-push-malicious-firmware-images/"/>
+        <updated>2024-12-09T22:33:02.000Z</updated>
+        <summary type="html"><![CDATA[A flaw in OpenWrt's Attended Sysupgrade feature used to build custom, on-demand firmware images could have allowed for the distribution of malicious firmware packages. [...]]]></summary>
+        <author>
+            <name>Bill Toulas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spotify shuts down Car Thing, and now owners have one last chance at a refund]]></title>
+        <id>https://www.theverge.com/2024/12/9/24317379/spotify-car-thing-shut-down-refund-deadline</id>
+        <link href="https://www.theverge.com/2024/12/9/24317379/spotify-car-thing-shut-down-refund-deadline"/>
+        <updated>2024-12-09T22:29:18.000Z</updated>
+        <summary type="html"><![CDATA[Photo by Ashley Carman / The Verge
+    
+
+  
+Spotify has officially shut down its Car Thing accessory that offered simple and slick control over music and playlists while driving, and it’s giving owners just over a month (January 14th) to reach out to the company and get a refund. The device started to display its final words early today as enthusiasts mourn the loss of the device on its dedicated subreddit.
+The final message on the Car Thing reads:
+Car Thing is discontinued and no longer operational. Thank you for being on this journey with us, safe travels. For more information, visit carthing.com. Contact customer service by no later than January 14th, 2025 to discuss your refund options.
+
+Spotify announced in May that it intended the already discontinued devices would shut down in December, and now they have. The company also said, eventually, that it would work to issue refunds, but owners need to contact the company and provide proof of purchase to receive compensation.
+For most users, the Spotify Car Thing is just another piece of e-waste humans will have to deal with later. The company recommends resetting it to factory settings and “safely disposing of your device following local electronic waste guidelines.”
+However, tinkerers are finding new uses for the hardware: Car Thing can be hacked to run custom software that doesn’t require Spotify’s backend. As 9to5Google notes, it’s a bit underpowered to run full-on Android, but some projects like “Desk Thing” can repurpose them as a controller at your computer desk.]]></summary>
+        <author>
+            <name>The Verge -  Front Pages</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta’s new Quest update has faster hand tracking and at-a-glance PC connections]]></title>
+        <id>https://www.theverge.com/2024/12/9/24317237/meta-quest-v72-update-pc-pairing-hand-tracking-keyboard-look</id>
+        <link href="https://www.theverge.com/2024/12/9/24317237/meta-quest-v72-update-pc-pairing-hand-tracking-keyboard-look"/>
+        <updated>2024-12-09T22:15:17.000Z</updated>
+        <summary type="html"><![CDATA[Photo: David Pierce / The Verge
+    
+
+  
+Meta has announced the v72 Quest update, and it’s packed with features like faster hand tracking, an easier way to pair your headset with a Windows 11 PC, and better support for showing your keyboard while you’re in full virtual reality. The update is rolling out gradually, which also goes for certain features so you may not be able to use them immediately.
+Meta says you can now connect to a paired PC with the Quest’s Remote Desktop feature simply by looking at it and tapping the “Connect” button that appears above your keyboard. That’s similar to how it works on the Vision Pro, but here, you’ll need the Mixed Reality Link app installed on your computer before you can pair the devices together from within your Quest headset’s Settings app. The feature requires Windows 11 22H2 and newer.
+Image: Meta
+      Now you can connect to your PC just by looking at it.
+  
+Also, in Quest v72, the company says it’s “rolling out a more general keyboard tracking system” that should detect and let any keyboard around you appear through a passthrough “window” while you’re in a virtual environment, similar to the Vision Pro. Quest headsets have had a feature that shows a virtual version of your keyboard where your real one is since 2021, but that has only ever worked with specific keyboards.
+
+
+Meta also says it has made the hand cursor more stable when navigating, pinching to select things, and pinching and dragging windows. The company also says it’s now easier to use your hands while in confined spaces and that it added a “hand ray visualization” to help find and target things with the cursor.
+There is a little bit more in the update, too, including new live captions for calls from the People app and the addition of direct messaging in the Instagram app. Meta also added a Media Gallery app for viewing your images, videos (spatial included), and screenshots.]]></summary>
+        <author>
+            <name>The Verge -  Front Pages</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Assad’s Opponents Are Building a New Order]]></title>
+        <id>https://www.theatlantic.com/international/archive/2024/12/syrian-militias-ethnic-collaboration/680936/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/international/archive/2024/12/syrian-militias-ethnic-collaboration/680936/?utm_source=feed"/>
+        <updated>2024-12-09T22:06:35.000Z</updated>
+        <summary type="html"><![CDATA[What comes next won’t be easy, but it could be extraordinary.]]></summary>
+        <author>
+            <name>The Atlantic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scientists advise EU to halt solar geoengineering]]></title>
+        <id>https://www.theverge.com/2024/12/9/24317108/solar-geoengineering-european-commission-moratorium</id>
+        <link href="https://www.theverge.com/2024/12/9/24317108/solar-geoengineering-european-commission-moratorium"/>
+        <updated>2024-12-09T21:19:14.000Z</updated>
+        <summary type="html"><![CDATA[A thin layer of ice thaws on a puddle in the sunshine in Bavaria, Marktoberdorf.  | Photo: Getty Images
+    
+
+  
+Scientific advisers to the European Commission are calling for a moratorium across the EU on efforts to artificially cool Earth through solar geoengineering. That includes controversial technologies used to reflect sunlight back into space, primarily by sending reflective particles into the atmosphere or by brightening clouds.
+Proponents argue that this can help in the fight against climate change, especially as planet-heating greenhouse gas emissions continue to climb. But small-scale experiments have triggered backlash over concerns that these technologies could do more harm than good.
+The European Commission asked its Group of Chief Scientific Advisors (GCSA) and European Group on Ethics in Science and New Technologies (EGE) to write up their opinions on solar geoengineering, which were published today alongside a report synthesizing what little we know about how these technologies might work.
+Experiments have triggered backlash over concerns that these technologies could do more harm than good
+There’s “insufficient scientific evidence” to show that solar geoengineering can actually prevent climate change, says the opinion written by the GCSA.
+“Given the currently very high...
+Read the full story at The Verge.]]></summary>
+        <author>
+            <name>The Verge -  Front Pages</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manchester City is letting fans design its new kit with AI]]></title>
+        <id>https://www.theverge.com/2024/12/9/24317157/manchester-city-puma-ai-uniform-design</id>
+        <link href="https://www.theverge.com/2024/12/9/24317157/manchester-city-puma-ai-uniform-design"/>
+        <updated>2024-12-09T21:13:42.000Z</updated>
+        <summary type="html"><![CDATA[Will Manchester City’s next uniform feature AI-generated cats? | Screenshot: Puma AI Creator
+    
+
+  
+Manchester City is holding a competition that asks fans to generate its future kit design with AI. Players will wear the winning design during the 2026-2027 season as City’s official third kit, and it will even be sold to fans.
+The club partnered with Puma to launch a text-to-image uniform generator powered by the AI company DeepObjects. To use the tool, you’ll have to create an account and enter a prompt that describes the look you’re going for. You then have to choose a style the AI will use when generating your design, such as “abstract,” “emotive brushstrokes,” or “dream visions.”
+Screenshot: Puma AI Creator
+      This wasn’t quite what I was envisioning when I entered a prompt for “soccerballs shooting through space like stars on a galaxy background.”
+  
+The Puma AI Creator will then generate four different design options that appear on a virtual uniform, allowing you to customize the collars, trim colors, and badges.
+You get 15 credits to create designs (generating one design costs one credit), but you can only enter two of your creations in the contest, which ends December 20th. Fan ratings, along with experts from Manchester City and Puma will help determine the winner.
+Image: Manchester City
+      City players designed this goalkeeper kit with AI.
+  
+Manchester City says its players, Ederson, Stefan Ortega, and Rico Lewis first used the Puma AI Creator to design a goalkeeper kit “creatively inspired by the net of a football goal.” It will be the first AI-generated soccer uniform to be worn on the pitch, according to the club.
+The announcement comes at an awkward time for City, which is mired in a poor run of form and awaiting the verdict of an investigation into breaching Premier League financial rules.]]></summary>
+        <author>
+            <name>The Verge -  Front Pages</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The best Android phones for everyone]]></title>
+        <id>https://www.theverge.com/23674658/best-android-phone</id>
+        <link href="https://www.theverge.com/23674658/best-android-phone"/>
+        <updated>2024-12-09T21:06:53.000Z</updated>
+        <summary type="html"><![CDATA[Image: Cath Virginia / The Verge
+    
+
+
+  
+Whether you want everything but the kitchen sink or top-tier performance for a midrange price, you’ve got options.
+Read the full story at The Verge.]]></summary>
+        <author>
+            <name>The Verge -  Front Pages</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Pay’s first competitor on the iPhone has arrived in Norway]]></title>
+        <id>https://www.theverge.com/2024/12/9/24317198/apple-pay-iphone-nfc-payment-vipps-norway</id>
+        <link href="https://www.theverge.com/2024/12/9/24317198/apple-pay-iphone-nfc-payment-vipps-norway"/>
+        <updated>2024-12-09T20:40:53.000Z</updated>
+        <summary type="html"><![CDATA[iPhone owners in Norway can now select Vipps as their default mobile payment app. | Image: Vipps
+    
+
+  
+A Norwegian payment app called Vipps is the first service to take advantage of a new, more open iOS ecosystem thanks to EU regulations. Starting today, Norwegians can use Vipps for tap-to-pay transactions and online payments, and they can even set the app as the default payment option on their iPhones, as reported by MacRumors. 
+It’s all thanks to commitments Apple made in response to scrutiny from EU regulators.
+
+
+Since its launch a decade ago, Apple Pay has been the only way to use tap to pay on an iPhone. That’s changing with iOS 18.1, which makes tap-to-pay via NFC available to third-party developers for the first time. Apple committed earlier this year to open up the API after EU regulators ruled Apple Pay anti-competitive. 
+This pressure from the EU has recently forced Apple to open up the famously locked-down iPhone in unprecedented ways, from adding RCS support to letting you delete pretty much any app you want from your phone. But unlocking the NFC chip is a particularly interesting test case since it could usher in a whole bunch of new and helpful ways to use your phone — or create a mess of competing payment and ID storage platforms that don’t cooperate with each other. 
+Either way, it’s going to be a big deal, and the first step forward into that new era comes from a small financial organization in Scandinavia.]]></summary>
+        <author>
+            <name>The Verge -  Front Pages</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ubisoft fixes Windows 11 24H2 conflicts causing game crashes]]></title>
+        <id>https://www.bleepingcomputer.com/news/microsoft/ubisoft-fixes-windows-11-24h2-conflicts-causing-game-crashes/</id>
+        <link href="https://www.bleepingcomputer.com/news/microsoft/ubisoft-fixes-windows-11-24h2-conflicts-causing-game-crashes/"/>
+        <updated>2024-12-09T20:34:03.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft has now partially lifted a compatibility hold blocking the Windows 24H2 update on systems with some Ubisoft games after the French video game publisher has fixed bugs causing crashes, freezes, and audio issues. [...]]]></summary>
+        <author>
+            <name>Sergiu Gatlan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Looks like Microsoft is backtracking on Windows 11 unsupported HW]]></title>
+        <id>https://www.reddit.com/r/sysadmin/comments/1hajhk7/looks_like_microsoft_is_backtracking_on_windows/</id>
+        <link href="https://www.reddit.com/r/sysadmin/comments/1hajhk7/looks_like_microsoft_is_backtracking_on_windows/"/>
+        <updated>2024-12-09T20:28:00.000Z</updated>
+        <summary type="html"><![CDATA[Looks like Microsoft is going to allow the install of Windows 11 on unsupported hw, with a warning that it may not work properly. Cited: https://www.pcworld.com/article/2550265/microsoft-now-allowing-windows-11-on-older-incompatible-pcs.html
+    submitted by    /u/sirjaz  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : sysadmin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Radiant links $50 million crypto heist to North Korean hackers]]></title>
+        <id>https://www.bleepingcomputer.com/news/security/radiant-links-50-million-crypto-heist-to-north-korean-hackers/</id>
+        <link href="https://www.bleepingcomputer.com/news/security/radiant-links-50-million-crypto-heist-to-north-korean-hackers/"/>
+        <updated>2024-12-09T20:25:43.000Z</updated>
+        <summary type="html"><![CDATA[Radiant Capital now says that North Korean threat actors are behind the $50 million cryptocurrency heist that occurred after hackers breached its systems in an October 16 cyberattack. [...]]]></summary>
+        <author>
+            <name>Bill Toulas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[It sure sounds like Trump would be okay with a TikTok sale]]></title>
+        <id>https://www.theverge.com/2024/12/9/24317094/donald-trump-tiktok-ban-sale-meet-the-press-interview</id>
+        <link href="https://www.theverge.com/2024/12/9/24317094/donald-trump-tiktok-ban-sale-meet-the-press-interview"/>
+        <updated>2024-12-09T20:22:11.000Z</updated>
+        <summary type="html"><![CDATA[Donald Trump speaks with Kristen Welker on Meet the Press. | Photo: Peter Kramer / NBC via Getty Images
+    
+
+  
+President-elect Donald Trump gave a murky answer when NBC’s Kristen Welker asked whether he would protect TikTok from its impending ban during a Meet the Press interview on Sunday. He didn’t say he would save the app from its ban but did seem to imply that ByteDance should sell it.
+After its argument that the ban is unconstitutional came up short in the DC Circuit Court of Appeals last week, ByteDance is requesting an injunction to stop the ban from taking effect until the Supreme Court can hear its appeal, and it now faces an uphill legal battle. If ByteDance’s motion isn’t granted, it has to sell TikTok by January 19th or face its expulsion from the US. 
+Welker asked Trump wha…]]></summary>
+        <author>
+            <name>The Verge -  Front Pages</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI is booming on the App Store, and developers are taking advantage of it]]></title>
+        <id>https://www.theverge.com/2024/12/9/24314972/apple-app-store-ai-apps-art-design-photography</id>
+        <link href="https://www.theverge.com/2024/12/9/24314972/apple-app-store-ai-apps-art-design-photography"/>
+        <updated>2024-12-09T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This meat-handed mess was generated using DaVinci AI with the prompt “a photorealistic person looking at their phone with a disgusted expression.” | Image: DaVinci AI / The Verge
+    
+
+
+  
+Many high-ranking AI apps feel like an attempted cash grab, and it’s not easy to spot the trash from the treasure.
+Read the full story at The Verge.]]></summary>
+        <author>
+            <name>The Verge -  Front Pages</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Bizarre Normalcy of Trump 2.0]]></title>
+        <id>https://www.theatlantic.com/politics/archive/2024/12/bizarre-normalcy-trump-transition/680935/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/politics/archive/2024/12/bizarre-normalcy-trump-transition/680935/?utm_source=feed"/>
+        <updated>2024-12-09T19:03:00.000Z</updated>
+        <summary type="html"><![CDATA[In postelection Washington, the mood is calm—and the developments are disturbing.]]></summary>
+        <author>
+            <name>The Atlantic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Outdated Google Workspace Sync blocks Windows 11 24H2 upgrades]]></title>
+        <id>https://www.bleepingcomputer.com/news/microsoft/outdated-google-workspace-sync-blocks-windows-11-24h2-upgrades/</id>
+        <link href="https://www.bleepingcomputer.com/news/microsoft/outdated-google-workspace-sync-blocks-windows-11-24h2-upgrades/"/>
+        <updated>2024-12-09T18:34:56.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft now blocks the Windows 11 24H2 update on computers with outdated Google Workspace Sync installs because they're causing Outlook launch issues. [...]]]></summary>
+        <author>
+            <name>Sergiu Gatlan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A New Bracero Program Is Not the Solution]]></title>
+        <id>https://www.theatlantic.com/politics/archive/2024/12/disturbing-history-bracero-program/680926/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/politics/archive/2024/12/disturbing-history-bracero-program/680926/?utm_source=feed"/>
+        <updated>2024-12-09T17:40:24.000Z</updated>
+        <summary type="html"><![CDATA[An Eisenhower-era initiative holds key lessons for Trump’s immigration policy.]]></summary>
+        <author>
+            <name>The Atlantic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cybercrime gang arrested after turning Airbnbs into fraud centers]]></title>
+        <id>https://www.bleepingcomputer.com/news/security/cybercrime-gang-arrested-after-turning-airbnbs-into-fraud-centers/</id>
+        <link href="https://www.bleepingcomputer.com/news/security/cybercrime-gang-arrested-after-turning-airbnbs-into-fraud-centers/"/>
+        <updated>2024-12-09T16:55:34.000Z</updated>
+        <summary type="html"><![CDATA[Eight members of an international cybercrime network that stole millions of Euros from victims and set up Airbnb fraud centers were arrested in Belgium and the Netherlands. [...]]]></summary>
+        <author>
+            <name>Bill Toulas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Dark and Dusty Galaxy]]></title>
+        <id>https://www.theatlantic.com/science/archive/2024/12/day-9-2024-space-telescope-advent-calendar/680932/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/science/archive/2024/12/day-9-2024-space-telescope-advent-calendar/680932/?utm_source=feed"/>
+        <updated>2024-12-09T16:43:44.000Z</updated>
+        <summary type="html"><![CDATA[Day 9 of the 2024 Space Telescope Advent Calendar:]]></summary>
+        <author>
+            <name>The Atlantic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[404 Media Objects to Texas Attorney General Ken Paxton's Subpoena to Access Our Reporting]]></title>
+        <id>6757116a900b8d00011d9288</id>
+        <link href="https://www.404media.co/404-media-objects-to-texas-attorney-general-ken-paxtons-subpoena-to-access-our-reporting/"/>
+        <updated>2024-12-09T16:39:26.000Z</updated>
+        <summary type="html"><![CDATA[404 Media's reporting on an internal Google privacy violation database has been subpoenaed by the State of Texas. We are fighting it.]]></summary>
+        <author>
+            <name>Jason Koebler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Romanian energy supplier Electrica hit by ransomware attack]]></title>
+        <id>https://www.bleepingcomputer.com/news/security/romanian-energy-supplier-electrica-hit-by-ransomware-attack/</id>
+        <link href="https://www.bleepingcomputer.com/news/security/romanian-energy-supplier-electrica-hit-by-ransomware-attack/"/>
+        <updated>2024-12-09T16:38:50.000Z</updated>
+        <summary type="html"><![CDATA[Electrica Group, a key player in the Romanian electricity distribution and supply market, is investigating a ransomware attack that was still "in progress" earlier today. [...]]]></summary>
+        <author>
+            <name>Sergiu Gatlan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Biden’s Pardon Proves Trump Right]]></title>
+        <id>https://www.theatlantic.com/politics/archive/2024/12/biden-pardon-reversal-hypocrisy/680931/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/politics/archive/2024/12/biden-pardon-reversal-hypocrisy/680931/?utm_source=feed"/>
+        <updated>2024-12-09T16:35:00.000Z</updated>
+        <summary type="html"><![CDATA[By pardoning his son, the president shows he’s a politician after all.]]></summary>
+        <author>
+            <name>The Atlantic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Trump Could End the War in Ukraine]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2024/12/european-troops-ukraine-war/680928/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2024/12/european-troops-ukraine-war/680928/?utm_source=feed"/>
+        <updated>2024-12-09T16:33:39.000Z</updated>
+        <summary type="html"><![CDATA[What matters most is Ukraine’s genuine independence, its security, and its reconstruction.]]></summary>
+        <author>
+            <name>The Atlantic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The End of a 13-Year Nightmare]]></title>
+        <id>https://www.theatlantic.com/international/archive/2024/12/syria-assad-hts-freedom/680929/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/international/archive/2024/12/syria-assad-hts-freedom/680929/?utm_source=feed"/>
+        <updated>2024-12-09T16:14:00.000Z</updated>
+        <summary type="html"><![CDATA[In the first days of Syria’s freedom, the country’s citizens appear to be behaving like traumatized, decent people worthy of their liberty.]]></summary>
+        <author>
+            <name>The Atlantic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Even the Koch Brothers Weren’t This Brazen]]></title>
+        <id>https://www.theatlantic.com/technology/archive/2024/12/tech-billionaires-trump-administration/680930/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/technology/archive/2024/12/tech-billionaires-trump-administration/680930/?utm_source=feed"/>
+        <updated>2024-12-09T16:03:32.000Z</updated>
+        <summary type="html"><![CDATA[Tech billionaires such as Jeff Bezos and Marc Andreessen aren’t even trying to mask their politics anymore.]]></summary>
+        <author>
+            <name>The Atlantic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MacBook Pros With OLED Displays Won't Have a Notch, Roadmap Shows]]></title>
+        <id>https://www.reddit.com/r/apple/comments/1hacxgm/macbook_pros_with_oled_displays_wont_have_a_notch/</id>
+        <link href="https://www.reddit.com/r/apple/comments/1hacxgm/macbook_pros_with_oled_displays_wont_have_a_notch/"/>
+        <updated>2024-12-09T15:58:53.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/favicondotico  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : apple</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celebrate the MacStories Selects App of the Year with the MacStories DS Skins for Delta]]></title>
+        <id>https://www.macstories.net/?p=77424</id>
+        <link href="https://www.macstories.net/news/celebrate-the-macstories-selects-app-of-the-year-with-the-macstories-ds-skins-for-delta/"/>
+        <updated>2024-12-09T15:43:42.000Z</updated>
+        <summary type="html"><![CDATA[This year’s MacStories Selects App of the Year was never in question. No app has had a bigger political, cultural, and competitive impact on the App Store this year than Delta. On top of that, Delta is a beautifully designed, native app that takes advantage of Apple’s latest technologies, putting it head and shoulders above […]]]></summary>
+        <author>
+            <name>John Voorhees</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MacStories Selects 2024: Recognizing the Best Apps of the Year]]></title>
+        <id>https://www.macstories.net/?p=77422</id>
+        <link href="https://www.macstories.net/stories/macstories-selects-2024-recognizing-the-best-apps-of-the-year/"/>
+        <updated>2024-12-09T15:43:28.000Z</updated>
+        <summary type="html"><![CDATA[John: 2024 was a big year for apps, but it was also different from most. More often than not, app innovation is driven by new Apple APIs; that wasn’t the case this year. Instead, it was other trends that shaped the apps we love. Artificial intelligence played a big role, with some apps adopting it […]]]></summary>
+        <author>
+            <name>MacStories Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The MacStories Selects 2024 Lifetime Achievement Award]]></title>
+        <id>https://www.macstories.net/?p=77419</id>
+        <link href="https://www.macstories.net/stories/the-macstories-selects-2024-lifetime-achievement-award/"/>
+        <updated>2024-12-09T15:42:19.000Z</updated>
+        <summary type="html"><![CDATA[Transit Earlier this year, I took the time to step back from the tech news cycle and reflect on one of my favorite iPhone apps of all time, Transit. For the past decade and more — Transit first launched in 2012 — the app has been a powerful way to plan trips and look up […]]]></summary>
+        <author>
+            <name>Niléane</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Takopi's Original Sin Teaser Visual]]></title>
+        <id>https://www.reddit.com/r/anime/comments/1habmet/takopis_original_sin_teaser_visual/</id>
+        <link href="https://www.reddit.com/r/anime/comments/1habmet/takopis_original_sin_teaser_visual/"/>
+        <updated>2024-12-09T15:00:49.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Turbostrider27  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : anime</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iPhone SE 4 Said to Feature 48MP Rear Lens, 12MP TrueDepth Camera]]></title>
+        <id>https://www.reddit.com/r/apple/comments/1habfyg/iphone_se_4_said_to_feature_48mp_rear_lens_12mp/</id>
+        <link href="https://www.reddit.com/r/apple/comments/1habfyg/iphone_se_4_said_to_feature_48mp_rear_lens_12mp/"/>
+        <updated>2024-12-09T14:52:52.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Drtysouth205  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : apple</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ozempic Killed Diet and Exercise]]></title>
+        <id>https://www.theatlantic.com/health/archive/2024/12/diet-exercise-ozempic/680909/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/health/archive/2024/12/diet-exercise-ozempic/680909/?utm_source=feed"/>
+        <updated>2024-12-09T14:47:25.000Z</updated>
+        <summary type="html"><![CDATA[Doctors might be slow to admit it, but Ozempic and other GLP-1s drugs are making diet and exercise obsolete.]]></summary>
+        <author>
+            <name>The Atlantic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why is DP standard on all business PCs but HDMI on all monitors?!]]></title>
+        <id>https://www.reddit.com/r/sysadmin/comments/1haagsb/why_is_dp_standard_on_all_business_pcs_but_hdmi/</id>
+        <link href="https://www.reddit.com/r/sysadmin/comments/1haagsb/why_is_dp_standard_on_all_business_pcs_but_hdmi/"/>
+        <updated>2024-12-09T14:06:23.000Z</updated>
+        <summary type="html"><![CDATA[I work for a large, global company. We used to be a Dell shop, but now we do HP, so I have seen this on both sides. We are looking to standardize our setups, and display cables have always been a pain point. You think you got it, then you need adapters or specialty cables with two different ends.
+ We just did a major upgrade for Intune for around 270 locations and EVERY SINGLE DESKTOP has DP as standard. but some also have HDMI. Yet, when we are looking for a monitor to send with a DP cable in it, all we can find are HDMI and VGA. Even if the monitor supports DP, it only comes with HDMI. WHY?!
+ If DP is so standard that every manufacturer puts it on their system by default (even the old Dell Optiplex XE2s and 990s had a DP) then why aren't monitor manufacturers making it standard? If monitor manufacturers need HDMI to be standard, why aren't Dell and HP making sure every PC has at leat an HDMI port?! This is so dumb....
+ Rant over
+    submitted by    /u/zoenphlux  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : sysadmin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Install and integrate Microsoft AI Shell with a PowerShell module]]></title>
+        <id>https://4sysops.com/?p=1589605</id>
+        <link href="https://4sysops.com/archives/install-and-integrate-microsoft-ai-shell-with-a-powershell-module/"/>
+        <updated>2024-12-09T13:57:56.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft’s new AI Shell integrates AI into command-line workflows, featuring the Azure OpenAI Agent and Copilot in Azure Agent for tasks like PowerShell scripting and cloud automation. You can install AI Shell (aish.exe) as a standalone app or PowerShell module to streamline coding, error resolution, and resource management on Windows, macOS, or Linux.
+Source]]></summary>
+        <author>
+            <name>Markus Elsberger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Automatically Detect and Prevent Secrets Leaked into Code within Azure DevOps]]></title>
+        <id>https://www.thelazyadministrator.com/?p=4022</id>
+        <link href="https://www.thelazyadministrator.com/2024/12/09/automatically-detect-and-prevent-secrets-leaked-into-code-within-azure-devops/"/>
+        <updated>2024-12-09T13:53:06.000Z</updated>
+        <summary type="html"><![CDATA[Objective
+Security vulnerabilities introduced by hardcoded secrets, passwords, or tokens in your source code can significantly compromise the safety of your application and/or infrastructure. A single API key or database connection string committed to a repository can be a gateway for attackers. But how do you ensure sensitive information never enters your codebase? The answer lies in automation.
+In this blog post, you’ll learn how to automate secret detection in Azure DevOps using Gitleaks. We’ll set up a pipeline that listens for pull requests (PRs), fetches the latest code changes, and scans them for leaks — failing the PR if any secrets are found.
+
+
+			
+
+
+Why Do We Need Secret Detection
+According to GitGuardian’s 2024 report, “State of Secrets Sprawl”, nearly 13 million new secrets were discovered in public GitHub commits, marking a 28% increase. Out of the 1.1 billion commits scanned, more than 1 in … Continue... 
+The post Automatically Detect and Prevent Secrets Leaked into Code within Azure DevOps first appeared on The Lazy Administrator.]]></summary>
+        <author>
+            <name>Brad Wyatt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<em>The Atlantic</em>’s December Cover Story: Caitlin Flanagan on What the Poet Seamus Heaney Gave Her]]></title>
+        <id>https://www.theatlantic.com/press-releases/archive/2024/12/atlantic-cover-story-caitlin-flanagan-seamus-heaney/680925/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/press-releases/archive/2024/12/atlantic-cover-story-caitlin-flanagan-seamus-heaney/680925/?utm_source=feed"/>
+        <updated>2024-12-09T13:16:48.000Z</updated>
+        <summary type="html"><![CDATA[For The Atlantic’s January cover story, “Walk on Air Against Your Better Judgment,” staff writer Caitlin Flanagan writes for the first time about growing up with the Nobel Prize–winning Irish poet Seamus Heaney, and what her family’s close friendship with the Heaney family offered her. She writes: “Seamus gave me the one thing I desperately needed growing up in that crazy family: my certificate of belonging.”
+
+
+In 1970, Heaney arrived in California with his family to spend the academic year in the UC Berkeley English department, where Caitlin’s father, Tom, was a professor. Caitlin’s parents were almost 20 years older than the Heaneys, and took the visiting family under their wing. “Berkeley swings like a swing-boat, has all the colour of the fairground and as much incense burning as a h…]]></summary>
+        <author>
+            <name>The Atlantic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Carpetbagger Who Saw Texas’s Future]]></title>
+        <id>https://www.theatlantic.com/books/archive/2024/12/how-edna-ferbers-novel-giant-changed-texas/680910/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/books/archive/2024/12/how-edna-ferbers-novel-giant-changed-texas/680910/?utm_source=feed"/>
+        <updated>2024-12-09T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The notion of political realignment in the Lone Star State is older than you think. It goes back to <em>Giant</em>, an acidic novel by Edna Ferber.]]></summary>
+        <author>
+            <name>The Atlantic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 25 News Photos of 2024]]></title>
+        <id>https://www.theatlantic.com/photo/2024/12/top-25-news-photos-2024/680879/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/photo/2024/12/top-25-news-photos-2024/680879/?utm_source=feed"/>
+        <updated>2024-12-09T12:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Powerful images from the past 12 eventful months]]></summary>
+        <author>
+            <name>The Atlantic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Walk on Air Against Your Better Judgment]]></title>
+        <id>https://www.theatlantic.com/magazine/archive/2025/01/poet-seamus-heaney-berkeley/680757/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/magazine/archive/2025/01/poet-seamus-heaney-berkeley/680757/?utm_source=feed"/>
+        <updated>2024-12-09T12:30:00.000Z</updated>
+        <summary type="html"><![CDATA[What Seamus Heaney gave me]]></summary>
+        <author>
+            <name>The Atlantic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The 10 Best Movies of 2024]]></title>
+        <id>https://www.theatlantic.com/culture/archive/2024/12/best-movies-2024-nickel-boys-challengers-dune/680851/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/culture/archive/2024/12/best-movies-2024-nickel-boys-challengers-dune/680851/?utm_source=feed"/>
+        <updated>2024-12-09T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Another year of existential crisis for Hollywood, and an excellent year for cinema itself]]></summary>
+        <author>
+            <name>The Atlantic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Diamonds can now be created from scratch in the lab in 15 minutes]]></title>
+        <id>https://www.reddit.com/r/technology/comments/1ha7c40/diamonds_can_now_be_created_from_scratch_in_the/</id>
+        <link href="https://www.reddit.com/r/technology/comments/1ha7c40/diamonds_can_now_be_created_from_scratch_in_the/"/>
+        <updated>2024-12-09T11:06:17.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Vailhem  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : technology</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘Assassination Classroom’ 10th Anniversary Visual]]></title>
+        <id>https://www.reddit.com/r/anime/comments/1ha78ov/assassination_classroom_10th_anniversary_visual/</id>
+        <link href="https://www.reddit.com/r/anime/comments/1ha78ov/assassination_classroom_10th_anniversary_visual/"/>
+        <updated>2024-12-09T11:00:15.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/MarvelsGrantMan136  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : anime</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best of<em> How To</em>: The Infrastructure of Community]]></title>
+        <id>https://www.theatlantic.com/podcasts/archive/2024/12/best-of-how-to-the-infrastructure-of-community/680880/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/podcasts/archive/2024/12/best-of-how-to-the-infrastructure-of-community/680880/?utm_source=feed"/>
+        <updated>2024-12-09T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Physical spaces can either encourage or discourage relationships. But people also have to be willing to slow down and connect.]]></summary>
+        <author>
+            <name>The Atlantic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 25 News Photos of 2024]]></title>
+        <id>https://www.theatlantic.com/international/archive/2024/12/2024-news-photos-trump-biden-olympics-park-fire-eclipse/680927/?utm_source=feed</id>
+        <link href="https://www.theatlantic.com/international/archive/2024/12/2024-news-photos-trump-biden-olympics-park-fire-eclipse/680927/?utm_source=feed"/>
+        <updated>2024-12-09T10:59:00.000Z</updated>
+        <summary type="html"><![CDATA[Powerful images from the past 12 eventful months]]></summary>
+        <author>
+            <name>The Atlantic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PSA: If you suddenly have Outlook/Word crashing and have deployed layout templates via group policy or similar, it's that.]]></title>
+        <id>https://www.reddit.com/r/sysadmin/comments/1ha61ch/psa_if_you_suddenly_have_outlookword_crashing_and/</id>
+        <link href="https://www.reddit.com/r/sysadmin/comments/1ha61ch/psa_if_you_suddenly_have_outlookword_crashing_and/"/>
+        <updated>2024-12-09T09:28:16.000Z</updated>
+        <summary type="html"><![CDATA[2411 apparently introduced a stack overflow when trying to read parts of the MailSettings registry key with values that worked in earlier versions.
+ Event viewer will show WINWORD.EXE or OUTLOOK.EXE crashing on the basis of ucrtbase.dll
+ If you need to delete these keys on a whim, this PowerShell script should do the trick.
+ Get-ChildItem "Registry::HKEY_CURRENT_USER\Software\Microsoft\Office" -Depth 2 | ? { $_.Name -like "*MailSettings*" } | Remove-Item 
+    submitted by    /u/WhAtEvErYoUmEaN101  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : sysadmin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best way to convert 50 workstations to AD with the least pushback?]]></title>
+        <id>https://www.reddit.com/r/sysadmin/comments/1ha10cx/best_way_to_convert_50_workstations_to_ad_with/</id>
+        <link href="https://www.reddit.com/r/sysadmin/comments/1ha10cx/best_way_to_convert_50_workstations_to_ad_with/"/>
+        <updated>2024-12-09T03:51:26.000Z</updated>
+        <summary type="html"><![CDATA[Long story short, I’ve been brought in as a new sysadmin at a place that absolutely hates ANY kind of change. Like, if an icon on their desktop moves, it’s code red, shit hits the fan. 
+ They’ve also been running for the last few years with no directory system in place, 50+ users on these workstations running around with full admin access, asking for an accident to happen, so my first plan of action is to obviously fix that. I’m wanting to implement AD, but not sure whether I want to do on-prem or entra. I’ve never been a big fan of Microsoft’s licensing, especially for entra which is absolutely outrageous in my own opinion, however we are already using 365 so I feel like entra would be an easier transition? Or should I go on-premise?
+ Have any of you encountered a similar issue? Is there an easy way to make this conversion as painless as possible?
+ send help - a stressed out sysadmin with stubborn end users who can’t stand change
+    submitted by    /u/Tivum  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : sysadmin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple announces Apple Retail expansion in the Kingdom of Saudi Arabia]]></title>
+        <id>https://www.reddit.com/r/apple/comments/1h9ysag/apple_announces_apple_retail_expansion_in_the/</id>
+        <link href="https://www.reddit.com/r/apple/comments/1h9ysag/apple_announces_apple_retail_expansion_in_the/"/>
+        <updated>2024-12-09T01:51:45.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/iMacmatician  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : apple</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple announces Apple Retail expansion in the Kingdom of Saudi Arabia]]></title>
+        <id>https://www.apple.com/newsroom/2024/12/apple-announces-apple-retail-expansion-in-the-kingdom-of-saudi-arabia/</id>
+        <link href="https://www.apple.com/newsroom/2024/12/apple-announces-apple-retail-expansion-in-the-kingdom-of-saudi-arabia/"/>
+        <updated>2024-12-09T01:01:19.683Z</updated>
+        <summary type="html"><![CDATA[Apple today announced plans to expand in the Kingdom of Saudi Arabia, starting with the launch of the Apple Store online in summer 2025.]]></summary>
+        <author>
+            <name>Apple Newsroom</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NEWS RELEASES | Three Historical Exhibits Open at Canada Branch]]></title>
+        <id>0476e710d9b4582a003961aa80274de6</id>
+        <link href="https://www.jw.org/en/news/region/canada/Three-Historical-Exhibits-Open-at-Canada-Branch/"/>
+        <updated>2024-12-09T00:00:00.000Z</updated>
+        <author>
+            <name>JW.ORG Newsroom</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NEWS RELEASES | “A Unique and Precious Gift”]]></title>
+        <id>ad61b4d5fa85f488e6c17006a74a71e4</id>
+        <link href="https://www.jw.org/en/news/region/russia/A-Unique-and-Precious-Gift/"/>
+        <updated>2024-12-09T00:00:00.000Z</updated>
+        <author>
+            <name>JW.ORG Newsroom</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Trailers of the week: Star Trek, Severance, and Gundam]]></title>
         <id>https://www.theverge.com/2024/12/8/24316520/trailers-of-the-week-star-trek-severance-gundam-the-gorge-wheel-of-time-invincible-gundam</id>
@@ -23,6 +688,31 @@ Star Trek: Section 31
 I’ll admit that the biggest appeal for me about this straight-to-streaming spy movie spinoff of Star Trek: Discovery is Michelle Y…]]></summary>
         <author>
             <name>The Verge -  Front Pages</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How one of the world’s richest men is avoiding $8 billion in taxes — Nvidia CEO Jensen Huang has ‘done a magnificent job’ using tax strategies ubiquitous among the ultrawealthy]]></title>
+        <id>https://www.reddit.com/r/technology/comments/1h9uyjx/how_one_of_the_worlds_richest_men_is_avoiding_8/</id>
+        <link href="https://www.reddit.com/r/technology/comments/1h9uyjx/how_one_of_the_worlds_richest_men_is_avoiding_8/"/>
+        <updated>2024-12-08T22:42:10.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/marketrent  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : technology</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New 0-Day NTLM Hash Disclosure Vulnerability in Windows 7 to 11]]></title>
+        <id>https://www.reddit.com/r/sysadmin/comments/1h9ujaa/new_0day_ntlm_hash_disclosure_vulnerability_in/</id>
+        <link href="https://www.reddit.com/r/sysadmin/comments/1h9ujaa/new_0day_ntlm_hash_disclosure_vulnerability_in/"/>
+        <updated>2024-12-08T22:22:51.000Z</updated>
+        <summary type="html"><![CDATA[Researchers at 0patch have uncovered a zero-day vulnerability affecting all supported versions of Windows Workstation and Server, from Windows 7 and Server 2008 R2 to the latest Windows 11 (v24H2) and Server 2022. This critical vulnerability enables attackers to capture users' NTLM credentials simply by tricking them into viewing a malicious file in Windows Explorer.
+ The flaw allows an attacker to extract NTLM credentials if the victim views a malicious file in Windows Explorer, such as when opening a shared folder, inserting a USB device, or navigating to the Downloads folder where the malicious file may have been placed via an attacker’s website. This technique does not require the user to open or execute the file — merely viewing it is sufficient.
+ https://cyberinsider.com/new-0-day-ntlm-hash-disclosure-vulnerability-in-windows-7-to-11/
+    submitted by    /u/goran7  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : sysadmin</name>
         </author>
     </entry>
     <entry>
@@ -199,6 +889,16 @@ This poem appears in the January 2025 print edition.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[QR codes bypass browser isolation for malicious C2 communication]]></title>
+        <id>https://www.bleepingcomputer.com/news/security/qr-codes-bypass-browser-isolation-for-malicious-c2-communication/</id>
+        <link href="https://www.bleepingcomputer.com/news/security/qr-codes-bypass-browser-isolation-for-malicious-c2-communication/"/>
+        <updated>2024-12-08T15:27:37.000Z</updated>
+        <summary type="html"><![CDATA[Mandiant has identified a novel method to bypass contemporary browser isolation technology and achieve command-and-control C2 operations. [...]]]></summary>
+        <author>
+            <name>Bill Toulas</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Our hottest and coldest 2025 takes]]></title>
         <id>https://www.theverge.com/2024/12/8/24314769/2025-preview-tech-tiktok-matter-apple-ai-vergecast</id>
         <link href="https://www.theverge.com/2024/12/8/24314769/2025-preview-tech-tiktok-matter-apple-ai-vergecast"/>
@@ -320,6 +1020,60 @@ Read the full story at The Verge.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Shangri-La Frontier Season 2 - Episode 9 discussion]]></title>
+        <id>https://www.reddit.com/r/anime/comments/1h9eiwy/shangrila_frontier_season_2_episode_9_discussion/</id>
+        <link href="https://www.reddit.com/r/anime/comments/1h9eiwy/shangrila_frontier_season_2_episode_9_discussion/"/>
+        <updated>2024-12-08T08:35:21.000Z</updated>
+        <summary type="html"><![CDATA[Shangri-La Frontier Season 2, episode 9
+ Reminder: Please do not discuss plot points not yet seen or skipped in the show. Failing to follow the rules may result in a ban.
+  
+Streams
+  
+Crunchyroll
+  
+Show information
+  
+MyAnimeList
+ AniList
+ AniDB
+ Anime-Planet
+ Official Website
+ /r/ShangriLaFrontier
+  
+ All discussions
+  
+ Episode Link 
+  
+ 1 Link 
+  2 Link 
+  3 Link 
+  4 Link 
+  5 Link 
+  6 Link 
+  7 Link 
+  8 Link 
+  9 Link 
+ 
+  
+This post was created by a bot. Message the mod team for feedback and comments. The original source code can be found on GitHub.
+    submitted by    /u/AutoLovepon  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : anime</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UnitedHealthcare under fire for using AI to deny Medicare claims]]></title>
+        <id>https://www.reddit.com/r/technology/comments/1h9e8q7/unitedhealthcare_under_fire_for_using_ai_to_deny/</id>
+        <link href="https://www.reddit.com/r/technology/comments/1h9e8q7/unitedhealthcare_under_fire_for_using_ai_to_deny/"/>
+        <updated>2024-12-08T08:14:36.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/wizardofthefuture  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : technology</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[$25 Million UnitedHealth CEO Whines About Social Media Trashing His Industry]]></title>
         <id>https://www.reddit.com/r/technology/comments/1h9e5bn/25_million_unitedhealth_ceo_whines_about_social/</id>
         <link href="https://www.reddit.com/r/technology/comments/1h9e5bn/25_million_unitedhealth_ceo_whines_about_social/"/>
@@ -363,6 +1117,17 @@ Read the full story at The Verge.]]></summary>
  [link]   [comments]]]></summary>
         <author>
             <name>top scoring links : sysadmin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Black Ops 6 Zombies Voice Actors Quit In Protest Amid Excessive AI Usage]]></title>
+        <id>https://www.reddit.com/r/technology/comments/1h97ojj/black_ops_6_zombies_voice_actors_quit_in_protest/</id>
+        <link href="https://www.reddit.com/r/technology/comments/1h97ojj/black_ops_6_zombies_voice_actors_quit_in_protest/"/>
+        <updated>2024-12-08T01:31:35.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/MetaKnowing  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : technology</name>
         </author>
     </entry>
     <entry>
@@ -1458,6 +2223,26 @@ Source]]></summary>
  [link]   [comments]]]></summary>
         <author>
             <name>top scoring links : technology</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MAC(s) are invading my company - seeking guidance on how to prepare?]]></title>
+        <id>https://www.reddit.com/r/sysadmin/comments/1h7yx6t/macs_are_invading_my_company_seeking_guidance_on/</id>
+        <link href="https://www.reddit.com/r/sysadmin/comments/1h7yx6t/macs_are_invading_my_company_seeking_guidance_on/"/>
+        <updated>2024-12-06T11:02:50.000Z</updated>
+        <summary type="html"><![CDATA[It's done - the decision has been made. One new employee in a leadership position will get a Mac Book pro or something like that.
+ I'am the sole admin of the company and we are pretty small <100 users. Fortunately I do have some experience with iMac's and Mac Book pro's from previous jobs that I was hoping to bury forever.
+ I did see some posts about similar situation in larger organisations where people said they wanted x or y before it happened but most of those solutions seem way to expensive and complex for our size.
+ We don't have any MDM or RMM. We are 90% on-prem. What is the bare minimum I need to pay attention to when the first Mac enters our environment?
+ I envision problems with our Dell docks (WD19S (USB-C)), authentication to Wifi since we use certificate based authentication, network shares not (re-)connection like intended, OS Updates not being installed, etc.
+ It is to be expected that there will be more as some people from leadership seem also interested.
+ My current bare minimum plan will be to have a local admin account for setup, a user for the user. We will probably get parallels as we have applications that only run in windows environments. Our security solution does support IOS so we are covered on that front. No mayor budged for any management systems is available.
+ I appreciate any tips on what to look out for.
+ EDID: Appreceate the many comments. I did push for Apple Business Manager and the purchase through that way. I'll look into the free options of Mosyle.
+    submitted by    /u/Floh4ever  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>top scoring links : sysadmin</name>
         </author>
     </entry>
     <entry>
@@ -4988,567 +5773,6 @@ While you browse through the 2024 Black Friday and Cyber Monday deals, be sure t
         <summary type="html"><![CDATA[Minimizing gender disparities in house chores means reconsidering some deeply held societal truths.]]></summary>
         <author>
             <name>The Atlantic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Trump Doesn’t Understand About the Military]]></title>
-        <id>https://www.theatlantic.com/international/archive/2024/11/partisanship-military-democracy-harms/680828/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/international/archive/2024/11/partisanship-military-democracy-harms/680828/?utm_source=feed"/>
-        <updated>2024-11-30T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Politicizing the U.S. armed forces won’t just hurt democracy. It will make the military weaker.]]></summary>
-        <author>
-            <name>The Atlantic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How a Strongman Made Himself Look Weak]]></title>
-        <id>https://www.theatlantic.com/international/archive/2024/11/narendra-modi-india-canada-assassinations/680805/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/international/archive/2024/11/narendra-modi-india-canada-assassinations/680805/?utm_source=feed"/>
-        <updated>2024-11-30T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Narendra Modi has picked a needless fight with the United States and Canada.]]></summary>
-        <author>
-            <name>The Atlantic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Does closing apps on your iPhone save battery life? The surprising answer is no – here's why]]></title>
-        <id>https://www.reddit.com/r/apple/comments/1h3ars9/does_closing_apps_on_your_iphone_save_battery/</id>
-        <link href="https://www.reddit.com/r/apple/comments/1h3ars9/does_closing_apps_on_your_iphone_save_battery/"/>
-        <updated>2024-11-30T11:35:44.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/ekurutepe  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : apple</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vietnam to build US$67 billion high-speed railway]]></title>
-        <id>https://www.reddit.com/r/technology/comments/1h3aqhy/vietnam_to_build_us67_billion_highspeed_railway/</id>
-        <link href="https://www.reddit.com/r/technology/comments/1h3aqhy/vietnam_to_build_us67_billion_highspeed_railway/"/>
-        <updated>2024-11-30T11:33:09.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/Saltedline  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : technology</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Biden Made a Mess of Ukraine]]></title>
-        <id>https://www.theatlantic.com/ideas/archive/2024/11/biden-ukraine-policy-failures/680834/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/ideas/archive/2024/11/biden-ukraine-policy-failures/680834/?utm_source=feed"/>
-        <updated>2024-11-30T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[He treated the conflict as a crisis to be managed, not a war to be won.]]></summary>
-        <author>
-            <name>The Atlantic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Has a user ever wanted RGB in their work machines?]]></title>
-        <id>https://www.reddit.com/r/sysadmin/comments/1h371a3/has_a_user_ever_wanted_rgb_in_their_work_machines/</id>
-        <link href="https://www.reddit.com/r/sysadmin/comments/1h371a3/has_a_user_ever_wanted_rgb_in_their_work_machines/"/>
-        <updated>2024-11-30T07:03:26.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever gotten a ticket asking for unicorn vomit in a work machine?
-    submitted by    /u/Darth_Malgus_1701  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : sysadmin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Extra Tsun [Bleach: TYBW]]]></title>
-        <id>https://www.reddit.com/r/anime/comments/1h34wqf/extra_tsun_bleach_tybw/</id>
-        <link href="https://www.reddit.com/r/anime/comments/1h34wqf/extra_tsun_bleach_tybw/"/>
-        <updated>2024-11-30T04:50:42.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/bandannadann  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : anime</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wallace & Gromit bring Christmas cheer to London’s Battersea Power Station]]></title>
-        <id>https://www.reddit.com/r/apple/comments/1h33mzu/wallace_gromit_bring_christmas_cheer_to_londons/</id>
-        <link href="https://www.reddit.com/r/apple/comments/1h33mzu/wallace_gromit_bring_christmas_cheer_to_londons/"/>
-        <updated>2024-11-30T03:37:13.000Z</updated>
-        <summary type="html"><![CDATA[🇬🇧🎄 
-    submitted by    /u/Designer-Border-711  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : apple</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[When you confess you have to kiss that person [Dandadan]]]></title>
-        <id>https://www.reddit.com/r/anime/comments/1h33j7k/when_you_confess_you_have_to_kiss_that_person/</id>
-        <link href="https://www.reddit.com/r/anime/comments/1h33j7k/when_you_confess_you_have_to_kiss_that_person/"/>
-        <updated>2024-11-30T03:31:11.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/SCVGoodT0GoSir  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : anime</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Here’s why Apple Wallet order tracking has probably never worked for you]]></title>
-        <id>https://www.reddit.com/r/apple/comments/1h31xtw/heres_why_apple_wallet_order_tracking_has/</id>
-        <link href="https://www.reddit.com/r/apple/comments/1h31xtw/heres_why_apple_wallet_order_tracking_has/"/>
-        <updated>2024-11-30T02:02:24.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/Hrhnick  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : apple</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Indian regulator rejects Apple request to put antitrust report on hold]]></title>
-        <id>https://www.reddit.com/r/apple/comments/1h319s0/indian_regulator_rejects_apple_request_to_put/</id>
-        <link href="https://www.reddit.com/r/apple/comments/1h319s0/indian_regulator_rejects_apple_request_to_put/"/>
-        <updated>2024-11-30T01:26:57.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/FollowingFeisty5321  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : apple</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The best Black Friday tech deals we’ve found (so far)]]></title>
-        <id>https://www.theverge.com/24307545/black-friday-2024-best-deals-tech-gadgets-cyber-monday-gift-ideas</id>
-        <link href="https://www.theverge.com/24307545/black-friday-2024-best-deals-tech-gadgets-cyber-monday-gift-ideas"/>
-        <updated>2024-11-29T23:45:56.000Z</updated>
-        <summary type="html"><![CDATA[Image: Elen Winata for The Verge
-    
-
-
-  
-From OLED TVs and iPads to streaming services and games, here’s the very best of what Black Friday has to offer.
- Now that Thanksgiving is done and dusted, the holiday we’ve actually been waiting for is here: Black Friday. The biggest shopping event of the year has officially kicked off, folks, and as expected, there is a dizzying array of deals available just about everywhere you look. Thankfully, we at The Verge know a thing or two about how to find the best deals.
-
-
-
-Many of the writers and editors at The Verge have spent years testing and toying with various gadgets, many of which can be found in our buying guides, reviews, and deal coverage. Our team has also spent more hours than we care to admit sifting through spreadsheets and retailer lis…]]></summary>
-        <author>
-            <name>The Verge -  Front Pages</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The 100 best Black Friday deals under $100]]></title>
-        <id>https://www.theverge.com/24309009/black-friday-2024-best-deals-under-100-tech-gift-ideas-cyber-monday</id>
-        <link href="https://www.theverge.com/24309009/black-friday-2024-best-deals-under-100-tech-gift-ideas-cyber-monday"/>
-        <updated>2024-11-29T23:04:27.000Z</updated>
-        <summary type="html"><![CDATA[Twinkly’s discounted string lights can display more than 16 million colors, allowing for a wide range of dazzling effects. | Image: Twinkly
-    
-
-  
-Gadgets make for expensive gifts, but that’s the beauty of Black Friday. As noted in our roundup of the absolute best Black Friday deals, this year’s shopping event has brought steep discounts on Apple devices, TVs, and plenty of other pricey tech. However, unless you’re planning on spending a couple hundred dollars on yourself or someone else, many of the more expensive items might not be in your budget.
-
-
-We get it, which is why we’ve curated this guide to our favorite deals under $100. We’ve included gift-worthy gadgets like the Fitbit Charge 6  and Backbone One controller, along with headphones like the Beats Solo 4, e-readers like Amazon’…]]></summary>
-        <author>
-            <name>The Verge -  Front Pages</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Legend of Zelda: Tears of the Kingdom has dropped to $30 for the first time]]></title>
-        <id>https://www.theverge.com/2024/11/29/24309019/black-friday-2024-zelda-tears-of-the-kingdom-totk-nintendo-switch-cyber-monday</id>
-        <link href="https://www.theverge.com/2024/11/29/24309019/black-friday-2024-zelda-tears-of-the-kingdom-totk-nintendo-switch-cyber-monday"/>
-        <updated>2024-11-29T21:58:09.000Z</updated>
-        <summary type="html"><![CDATA[If you thought Breath of the Wild was big, wait until you experience Tears of the Kingdom. | Image: Nintendo
-    
-
-  
-Significant discounts on first-party Nintendo Switch games can be notoriously difficult to come by, particularly on landmark titles like The Legend of Zelda: Tears of the Kingdom. However, that trend seems to be shifting with Black Friday, as last year’s Game of the Year contender has dropped to just $30 ($40 off) at Walmart for a limited time, beating its previous low by $10.
-
-
-Nintendo’s action-adventure RPG presents a familiar premise: you’re ultimately chasing after the malevolent Ganon in hopes of saving Princess Zelda and protecting the kingdom of Hyrule. But wait, didn’t we do that in the last game and many before it? How could she possibly fall into that predicament yet again? I’ll leave you to uncover the details, but let’s just say there’s enough timeline shifting to make Doctor Strange blush. 
-
-
-You’ll have tons to do around the realm in pursuit of her safety, too. There are plenty of puzzling shrines to complete, weapons to collect, and open regions to explore, including floating islands and harrowing subsurface caverns. It’s a familiar trek on the surface, but there are enough changes and secrets to keep it feeling fresh if you’ve played the equally impressive The Legend of Zelda: Breath of the Wild.
-What you can’t find in the wild, you’ll probably be able to craft using an imaginative system that lets you leverage anything you can stuff into your inventory. Link also has a few new tricks up his sleeve to aid in combat and traversal, including teleportation and the ability to alchemically phase through walls and objects. If you could have just one game hold you over until Nintendo launches the heavily rumored Switch 2, Tears of the Kingdom is it.]]></summary>
-        <author>
-            <name>The Verge -  Front Pages</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Leak: Intel’s Battlemage desktop GPUs are just days away]]></title>
-        <id>https://www.theverge.com/2024/11/29/24309086/intel-battlemage-gpu-leak-arc-b580-b570</id>
-        <link href="https://www.theverge.com/2024/11/29/24309086/intel-battlemage-gpu-leak-arc-b580-b570"/>
-        <updated>2024-11-29T21:45:02.000Z</updated>
-        <summary type="html"><![CDATA[An older image of an Intel discrete GPU. | Image: Intel
-    
-
-  
-Under financial pressures, Intel’s desktop gaming graphics business may be on the chopping block — but it seems that a pair of Battlemages will escape unscathed. Videocardz is reporting that Intel will announce the Arc B580 and B570 graphics cards just days from now on December 3rd, and launch them on December 12th alongside media reviews. 
-You shouldn’t expect these card to compete at the high-end. Far from it, based on leaked specs that suggest they have fewer cores, less memory, and less memory bandwidth than some of their Intel predecessors. 
-But they could also be a value leader. Retailer leaks spotted by Momomo_us suggest Intel’s own “Limited Edition” Arc B580 could cost just $250. 
-pic.twitter.com/M5ALLvkjex
-— 188号 (@momomo_us) November 27, 2024
-
-
-
-
-While no confirmed specs have surfaced just yet, one particular GPU leak on Amazon suggested that the B580 will feature 20 Xe2 cores, a 2.8GHz GPU clock, 12GB of GDDR6 graphics memory at 19Gbps with a 192-bit memory interface, and require as little as two axial fans and one single 8-pin PCIe power connector (though another variant was spotted with three fans and two connectors.) They may also connect to a motherboard with a PCIe 5.0 x8 connector.
-If Videocardz is correct, we won’t have to speculate for long: full confirmed details should arrive this Tuesday. 
-It’d be nice to see the lower end of the GPU market get shaken up a bit. What with the pandemic, the great GPU shortage, and its aftermath, it’s been a while since big GPU boosts have felt affordable.]]></summary>
-        <author>
-            <name>The Verge -  Front Pages</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WSJ: China Is Bombarding Tech Talent With Job Offers. The West Is Freaking Out.]]></title>
-        <id>https://www.reddit.com/r/technology/comments/1h2wbcz/wsj_china_is_bombarding_tech_talent_with_job/</id>
-        <link href="https://www.reddit.com/r/technology/comments/1h2wbcz/wsj_china_is_bombarding_tech_talent_with_job/"/>
-        <updated>2024-11-29T21:27:24.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/tommos  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : technology</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[You can take a selfie with the Earth using this YouTuber’s satellite]]></title>
-        <id>https://www.theverge.com/2024/11/29/24309059/earth-selfie-satellite-mark-rober-youtube-spacex-tmobile</id>
-        <link href="https://www.theverge.com/2024/11/29/24309059/earth-selfie-satellite-mark-rober-youtube-spacex-tmobile"/>
-        <updated>2024-11-29T21:20:17.000Z</updated>
-        <summary type="html"><![CDATA[A mockup of the Earth selfie from YouTuber Mark Rober.  | Screenshot: Mark Rober
-    
-
-  
-The stunt escalation on YouTube may have reached new heights with Mark Rober’s offer to snap anyone’s selfie with the planet Earth using a satellite he’s launching into orbit with the help of Google and T-Mobile. 
-Rober is a former NASA engineer who made a name for himself on YouTube by glitter bombing porch pirates, creating the world’s largest Super Soaker, and building an obstacle course for squirrels. Now he’s merging his interests with the launch of a satellite that can take photos of anyone’s portrait displayed on a Google Pixel with the Earth — yes, Planet Earth — in the background. 
-If you tell Rober where you live, he claims that he’ll take the selfie while the satellite is located over your …]]></summary>
-        <author>
-            <name>The Verge -  Front Pages</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Here are the best Black Friday deals you can grab for under $30]]></title>
-        <id>https://www.theverge.com/24306407/black-friday-2024-best-deals-under-30-tech-gift-ideas-cyber-monday</id>
-        <link href="https://www.theverge.com/24306407/black-friday-2024-best-deals-under-30-tech-gift-ideas-cyber-monday"/>
-        <updated>2024-11-29T21:15:49.000Z</updated>
-        <summary type="html"><![CDATA[Amazon’s latest Echo Dot is one of the better Echo speakers available — and it’s down to just $22.99. | Image: Amazon
-    
-
-  
-Combing through the deluge of Black Friday deals can be a daunting task, but the most affordable end of the spectrum is always a good place to start. In fact, we’re already seeing plenty of discounts available on budget-friendly gadgets and goodies ahead of the holiday, many of which are under $30. You’re not just getting junk, either.
-
-
-If you know where to look, it’s not hard to find something useful for your arsenal. Right now, for example, you can get a great smart speaker in the fifth-gen Echo Dot, pick up a classic platformer like Super Mario Odyssey, or even level up your home security with cameras like the Blink Video Doorbell or Ring Indoor Cam. Many of th…]]></summary>
-        <author>
-            <name>The Verge -  Front Pages</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The best Black Friday deals you may want to get before Trump’s tariffs]]></title>
-        <id>https://www.theverge.com/24305982/black-friday-2024-best-deals-tariffs-trump-save-ideas-cyber-monday</id>
-        <link href="https://www.theverge.com/24305982/black-friday-2024-best-deals-tariffs-trump-save-ideas-cyber-monday"/>
-        <updated>2024-11-29T21:08:42.000Z</updated>
-        <summary type="html"><![CDATA[Image: Cath Virginia / The Verge, Getty Images
-    
-
-  
-There’s no telling exactly what the new year and new administration in the US will bring. But there are likely big changes afoot in the world of tech, especially if President-elect Donald Trump enacts all the tariffs he threatened on the campaign trail. We don’t have a crystal ball that tells us exactly what may get pricier or by how much, but there are several categories of big-ticket products that are at serious risk of being priced out of reach for many folks.
-Trump said on Monday that he’d put “an additional 10 percent tariff above any additional tariffs” on all products coming in from China, after campaigning on the pledge to implement 60 percent tariffs on Chinese imports. A lot of tech products are imported from China, includin…]]></summary>
-        <author>
-            <name>The Verge -  Front Pages</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is inefficiency as prominent as I experience it in large organizations?]]></title>
-        <id>https://www.reddit.com/r/sysadmin/comments/1h2vhot/is_inefficiency_as_prominent_as_i_experience_it/</id>
-        <link href="https://www.reddit.com/r/sysadmin/comments/1h2vhot/is_inefficiency_as_prominent_as_i_experience_it/"/>
-        <updated>2024-11-29T20:49:27.000Z</updated>
-        <summary type="html"><![CDATA[This post primarily targets S&P1000 or other organizations in the multi billion class in manufacturing, finance, or public sector. 
- I work in ITOM and this exposes me to just about every aspect of IT in these large organizations.
- Most of the time these things are what I see:
-  
-Antiquated processes, if processes exist at all.
- Little or NO automation. 
- Outsourcing to India which is so damn inefficient that it takes weeks or months to even get a VM spun up.
- Little or knowledge about the in house infrastructure. E.g. subnet information stored in excel sheets or IPAM solutions so shit that you wish it was in a decent excel sheet.
- Anything not commonly ordered, nobody has any idea who can do that thing for you. I.e. you end up chasing people all the time to get shit done.
- Word document "form" galore. - Fill out this word document to submit your request
- Little or no understanding of which applications exist in the organization
- Definitely no understanding of what services the applications deliver
-  
-In other words, my experience when I enter a project is that nobody knows anything and nobody knows who to ask, nor where to look for the information needed.
-    submitted by    /u/picardo85  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : sysadmin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Years ago I remember at an MS event, talk about breaking Outlook desktop into a separate license from Office...]]></title>
-        <id>https://www.reddit.com/r/sysadmin/comments/1h2v5bo/years_ago_i_remember_at_an_ms_event_talk_about/</id>
-        <link href="https://www.reddit.com/r/sysadmin/comments/1h2v5bo/years_ago_i_remember_at_an_ms_event_talk_about/"/>
-        <updated>2024-11-29T20:33:42.000Z</updated>
-        <summary type="html"><![CDATA[It obviously caused an uproar in the audience and I haven't heard anything about it since. This was back in the office 2010-2016 days. I remember actually feeling uncomfortable with how animated some people were. This memory came back in my mind with how hard MS seems to keep pushing the New Outlook even when it's not even half baked with features.
- I'm wondering if what we are seeing is the New Outlook becoming the standard Outlook, and Classic eventually becoming the "Pro" Outlook that will be more a month. Call something like Outlook Dynamics or something like that. Since Outlook used to have a Business Contact Manager as an addon, which was replaced with Dynamics.
- It would be a move that would both save them money since the code base for OWA and New outlook are probably much easier and cheaper. Moving Classic Outlook to Dynamics side and charging a premium would allow them to make more money on customers paying for the premium features.
-    submitted by    /u/Hangikjot  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : sysadmin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Latest from Comfort Zone, Magic Rays of Light, and MacStories Unwind]]></title>
-        <id>https://www.macstories.net/?p=77365</id>
-        <link href="https://www.macstories.net/news/the-latest-from-comfort-zone-magic-rays-of-light-and-macstories-unwind-10/"/>
-        <updated>2024-11-29T19:53:51.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the latest episodes from MacStories’ family of podcasts: Comfort Zone “The gang has so much to be thankful for, including you, dear listeners. ❤️ Oh yeah, and they find new ways to listen to music before being revealing their absolute favorite Apple app.” Magic Rays of Light Sigmund and Devon discuss Steve McQueen’s Blitz, […]]]></summary>
-        <author>
-            <name>John Voorhees</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI sued by Canada’s biggest media outlets]]></title>
-        <id>https://www.theverge.com/2024/11/29/24308984/openai-sued-canadian-media-copyright-chatgpt</id>
-        <link href="https://www.theverge.com/2024/11/29/24308984/openai-sued-canadian-media-copyright-chatgpt"/>
-        <updated>2024-11-29T19:45:59.000Z</updated>
-        <summary type="html"><![CDATA[Illustration: The Verge
-    
-
-  
-A host of Canadian media companies filed a lawsuit against OpenAI today, alleging “inappropriate and illegal” use of their journalism to power the company’s GPT model, Reuters reports. It’s the latest salvo fired by the media in its fight against AI companies that have scraped large swaths of the open web to train their large-language models. 
-The suit was filed by several leading Canadian media companies, including the owners of the National Post and Toronto Star, The Globe and Mail, The Canadian Press, and CBC/Radio-Canada. The group alleges that OpenAI infringed on its copyrights when training its models, like ChatGPT, without seeking permission or offering compensation. 
-
-
-“OpenAI’s public statements that it is somehow fair or in the public interest for…]]></summary>
-        <author>
-            <name>The Verge -  Front Pages</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The best Black Friday robot vacuum deals from iRobot, Roborock, and more]]></title>
-        <id>https://www.theverge.com/24306781/black-friday-2024-best-deals-robot-vacuums-mops-roombas-cyber-monday</id>
-        <link href="https://www.theverge.com/24306781/black-friday-2024-best-deals-robot-vacuums-mops-roombas-cyber-monday"/>
-        <updated>2024-11-29T19:33:27.000Z</updated>
-        <summary type="html"><![CDATA[Shark’s newest robot vacuum is $500 off for Black Friday and is worth buying just so you can call it Sharkira. | Photo by Jennifer Pattison Tuohy / The Verge
-    
-
-  
-Robot vacuums are on sale all the time. But this Black Friday, there are some fairly significant price drops, including on rarely reduced flagship models like Roborock’s S8 MaxV Ultra and iRobot’s Combo 10 Max. If you’ve been holding out on trying the latest and greatest, now is a good time to dive in. 
-
-
-Deep discounts are also available on some of our favorite midrange and budget bots, and iRobot is slashing prices on its entire line. Read on for our rundown on the best deals on robotic floor cleaners this holiday shopping weekend.
-Top-of-the-line robots with big discounts
-SharkNinja’s latest robot vacuum is down to an all-…]]></summary>
-        <author>
-            <name>The Verge -  Front Pages</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Breaking Up Google’s Search Monopoly Could Do to AI]]></title>
-        <id>https://www.theatlantic.com/newsletters/archive/2024/11/what-breaking-up-googles-search-monopoly-could-do-to-ai/680817/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/newsletters/archive/2024/11/what-breaking-up-googles-search-monopoly-could-do-to-ai/680817/?utm_source=feed"/>
-        <updated>2024-11-29T19:30:00.000Z</updated>
-        <summary type="html"><![CDATA[The most powerful chatbot may not be the most successful one.]]></summary>
-        <author>
-            <name>The Atlantic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Rockstar 2FA phishing service targets Microsoft 365 accounts]]></title>
-        <id>https://www.bleepingcomputer.com/news/security/new-rockstar-2fa-phishing-service-targets-microsoft-365-accounts/</id>
-        <link href="https://www.bleepingcomputer.com/news/security/new-rockstar-2fa-phishing-service-targets-microsoft-365-accounts/"/>
-        <updated>2024-11-29T19:01:50.000Z</updated>
-        <summary type="html"><![CDATA[A new phishing-as-a-service (PhaaS) platform named 'Rockstar 2FA' has emerged, facilitating large-scale adversary-in-the-middle (AiTM) attacks to steal Microsoft 365 credentials. [...]]]></summary>
-        <author>
-            <name>Bill Toulas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Imagine a Drug That Feels Like Tylenol and Works Like OxyContin]]></title>
-        <id>https://www.theatlantic.com/science/archive/2024/11/opioid-pain-addiction-magl-medicine-neuroscience/680818/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/science/archive/2024/11/opioid-pain-addiction-magl-medicine-neuroscience/680818/?utm_source=feed"/>
-        <updated>2024-11-29T19:00:00.000Z</updated>
-        <summary type="html"><![CDATA[New research points to a future in which pleasure and pain relief can be independently controlled.]]></summary>
-        <author>
-            <name>The Atlantic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Russia arrests cybercriminal Wazawaka for ties with ransomware gangs]]></title>
-        <id>https://www.bleepingcomputer.com/news/security/russia-arrests-cybercriminal-wazawaka-for-ties-with-ransomware-gangs/</id>
-        <link href="https://www.bleepingcomputer.com/news/security/russia-arrests-cybercriminal-wazawaka-for-ties-with-ransomware-gangs/"/>
-        <updated>2024-11-29T17:50:55.000Z</updated>
-        <summary type="html"><![CDATA[Russian law enforcement has arrested and indicted notorious ransomware affiliate Mikhail Pavlovich Matveev (also known as Wazawaka, Uhodiransomwar, m1x, and Boriselcin) for developing malware and his involvement in several hacking groups. [...]]]></summary>
-        <author>
-            <name>Sergiu Gatlan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shadow IT brought down a bunch of our business on Black Friday]]></title>
-        <id>https://www.reddit.com/r/sysadmin/comments/1h2qy8r/shadow_it_brought_down_a_bunch_of_our_business_on/</id>
-        <link href="https://www.reddit.com/r/sysadmin/comments/1h2qy8r/shadow_it_brought_down_a_bunch_of_our_business_on/"/>
-        <updated>2024-11-29T17:29:48.000Z</updated>
-        <summary type="html"><![CDATA[I work for a large retail company. Black Friday is, obviously, super critical for us. We spend over a month doing hardening for our critical systems to ensure we're prepared for peak season.
- Everything was great, and then today we start getting calls that all our stores can't print. This is critical as we have transactions that require our stores to give physical printouts of information to our customers. I just so happen to manage all our print servers, so natually I get brought in because they think my systems are the culprit.
- We get a bridge going with over 80 IT people from different departments on the line. We eventually discover that at some point this year, we apparently started using Printanista to audit print jobs and such. This was the first time any of us heard about it, and w…]]></summary>
-        <author>
-            <name>top scoring links : sysadmin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bologna FC confirms data breach after RansomHub ransomware attack]]></title>
-        <id>https://www.bleepingcomputer.com/news/security/bologna-fc-confirms-data-breach-after-ransomhub-ransomware-attack/</id>
-        <link href="https://www.bleepingcomputer.com/news/security/bologna-fc-confirms-data-breach-after-ransomhub-ransomware-attack/"/>
-        <updated>2024-11-29T17:19:47.000Z</updated>
-        <summary type="html"><![CDATA[Bologna Football Club 1909 has confirmed it suffered a ransomware attack after its stolen data was leaked online by the RansomHub extortion group. [...]]]></summary>
-        <author>
-            <name>Bill Toulas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Windows Server 2012 zero-day gets free, unofficial patches]]></title>
-        <id>https://www.bleepingcomputer.com/news/security/new-windows-server-2012-zero-day-gets-free-unofficial-patches/</id>
-        <link href="https://www.bleepingcomputer.com/news/security/new-windows-server-2012-zero-day-gets-free-unofficial-patches/"/>
-        <updated>2024-11-29T17:00:18.000Z</updated>
-        <summary type="html"><![CDATA[Free unofficial security patches have been released through the 0patch platform to address a zero-day vulnerability introduced over two years ago in the Windows Mark of the Web (MotW) security mechanism. [...]]]></summary>
-        <author>
-            <name>Sergiu Gatlan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Photos of the Week: Doo Dah, Horse Play, Cloud Falls]]></title>
-        <id>https://www.theatlantic.com/photo/2024/11/photos-of-the-week-doo-dah-horse-play-cloud-falls/680836/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/photo/2024/11/photos-of-the-week-doo-dah-horse-play-cloud-falls/680836/?utm_source=feed"/>
-        <updated>2024-11-29T16:30:00.000Z</updated>
-        <summary type="html"><![CDATA[An autonomous delivery robot in Barcelona, a heat wave in Australia, a triceratops auction in France, a lava flow in southwestern Iceland, Macy’s Thanksgiving Day Parade in New York City, and much more]]></summary>
-        <author>
-            <name>The Atlantic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Brits are scrolling away from X and aren't interested in AI]]></title>
-        <id>https://www.reddit.com/r/technology/comments/1h2p99i/brits_are_scrolling_away_from_x_and_arent/</id>
-        <link href="https://www.reddit.com/r/technology/comments/1h2p99i/brits_are_scrolling_away_from_x_and_arent/"/>
-        <updated>2024-11-29T16:15:30.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/ardi62  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : technology</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Gen Z Came to See Books as a Waste of Time]]></title>
-        <id>https://www.theatlantic.com/newsletters/archive/2024/11/books-briefing-gen-z-reading-books-waste-time/680586/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/newsletters/archive/2024/11/books-briefing-gen-z-reading-books-waste-time/680586/?utm_source=feed"/>
-        <updated>2024-11-29T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Young people might be responding to a cultural message: Reading just isn’t that important.]]></summary>
-        <author>
-            <name>The Atlantic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kaiju No. 8: Hoshina’s Day Off New Visual]]></title>
-        <id>https://www.reddit.com/r/anime/comments/1h2owal/kaiju_no_8_hoshinas_day_off_new_visual/</id>
-        <link href="https://www.reddit.com/r/anime/comments/1h2owal/kaiju_no_8_hoshinas_day_off_new_visual/"/>
-        <updated>2024-11-29T15:59:45.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/Turbostrider27  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : anime</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How many times do you hit enter after you console into a switch?]]></title>
-        <id>https://www.reddit.com/r/sysadmin/comments/1h2o4a9/how_many_times_do_you_hit_enter_after_you_console/</id>
-        <link href="https://www.reddit.com/r/sysadmin/comments/1h2o4a9/how_many_times_do_you_hit_enter_after_you_console/"/>
-        <updated>2024-11-29T15:23:20.000Z</updated>
-        <summary type="html"><![CDATA[5 times is my average. 7 if I had coffee.
-    submitted by    /u/CantankerousBusBoy  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : sysadmin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[World’s largest piracy network [serving over 22 million users in Europe] taken down after 100 homes raided across 10 countries]]></title>
-        <id>https://www.reddit.com/r/technology/comments/1h2nrg8/worlds_largest_piracy_network_serving_over_22/</id>
-        <link href="https://www.reddit.com/r/technology/comments/1h2nrg8/worlds_largest_piracy_network_serving_over_22/"/>
-        <updated>2024-11-29T15:06:35.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/TylerFortier_Photo  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : technology</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Behind the Blog: How About Them Eggs]]></title>
-        <id>6749d1157767f60001998345</id>
-        <link href="https://www.404media.co/behind-the-blog-how-about-them-eggs/"/>
-        <updated>2024-11-29T14:49:02.000Z</updated>
-        <summary type="html"><![CDATA[This is Behind the Blog, where we share our behind-the-scenes thoughts about how a few of our top stories of the week came together. This week, we talk about traffic, a return to Azeroth, egg prices and bullying.]]></summary>
-        <author>
-            <name>Samantha Cole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Trends <em>Atlantic</em> Writers Love and Hate]]></title>
-        <id>https://www.theatlantic.com/newsletters/archive/2024/11/trends-love-hate-landline-wifi-cargo-shorts/680821/?utm_source=feed</id>
-        <link href="https://www.theatlantic.com/newsletters/archive/2024/11/trends-love-hate-landline-wifi-cargo-shorts/680821/?utm_source=feed"/>
-        <updated>2024-11-29T14:37:00.000Z</updated>
-        <summary type="html"><![CDATA[Six answers to the question: “What’s a trend you wish would come back, and one you wish would go away?”]]></summary>
-        <author>
-            <name>The Atlantic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Happy Affiliate Marketing Day to All Who Celebrate]]></title>
-        <id>674795877767f6000198769c</id>
-        <link href="https://www.404media.co/happy-affiliate-marketing-day-to-all-who-celebrate/"/>
-        <updated>2024-11-29T14:00:21.000Z</updated>
-        <summary type="html"><![CDATA[Black Friday: A good encapsulation of why the internet is the way it is.]]></summary>
-        <author>
-            <name>Jason Koebler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HomePass 2 Brings a New Design, Maintenance Features, and a Freemium Model]]></title>
-        <id>https://www.macstories.net/?p=77357</id>
-        <link href="https://www.macstories.net/reviews/homepass-2-brings-a-new-design-maintenance-features-and-a-freemium-model/"/>
-        <updated>2024-11-29T13:59:27.000Z</updated>
-        <summary type="html"><![CDATA[Back in 2020, John opened his review of HomePass 1.7 in this way: My HomeKit setup started out simple enough with a few Hue bulbs, but over time, it has grown to include security cameras, door sensors, electrical outlets, and more. As the number of accessories connected to my network grew, so did the hassle […]]]></summary>
-        <author>
-            <name>Jonathan Reed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 10 Anime of the Week #9 - Fall 2024 (Anime Corner)]]></title>
-        <id>https://www.reddit.com/r/anime/comments/1h2m4rt/top_10_anime_of_the_week_9_fall_2024_anime_corner/</id>
-        <link href="https://www.reddit.com/r/anime/comments/1h2m4rt/top_10_anime_of_the_week_9_fall_2024_anime_corner/"/>
-        <updated>2024-11-29T13:47:05.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/Kezja  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : anime</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Org wants to onboard Salesforce without much planning]]></title>
-        <id>https://www.reddit.com/r/sysadmin/comments/1h2ltme/org_wants_to_onboard_salesforce_without_much/</id>
-        <link href="https://www.reddit.com/r/sysadmin/comments/1h2ltme/org_wants_to_onboard_salesforce_without_much/"/>
-        <updated>2024-11-29T13:30:46.000Z</updated>
-        <summary type="html"><![CDATA[It’s a long story, but in short, a department wants to onboard Salesforce outside of standard IT governance, instead they’re gotten into the ear and gaining support of our exec. Approved shadow IT if you will… there hasn’t been thought given to TCO or planning for ownership & administration of the system, so we’ll be raising why this needs to be considered & planned before barrelling into buying a second CRM.
- As far as I understand, Salesforce admin is an industry unto itself and this is a terrible idea without a plan for who will own it, given we have no spare capacity (not to mention no Salesforce skills) to start administering it moving forward. 
- Outside of the obvious issues, I’m looking for a sanity check to make sure I’m not jumping at shadows. Can it be onboarded as a more simple and vendor-owned, set and forget SaaS platform in certain use cases?
-    submitted by    /u/nebbyh  
- [link]   [comments]]]></summary>
-        <author>
-            <name>top scoring links : sysadmin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Install and manage VM watch on Azure Virtual Machines]]></title>
-        <id>https://4sysops.com/?p=1588943</id>
-        <link href="https://4sysops.com/archives/install-and-manage-vm-watch-on-azure-virtual-machines/"/>
-        <updated>2024-11-29T13:08:18.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft announced the public preview of VM watch, a new in-VM service designed for Azure Virtual Machines (VMs) and Virtual Machine Scale Sets (VMSS). This service aims to enhance VM health monitoring by offering standardized, lightweight, and flexible in-VM health checks that connect seamlessly with Azure's monitoring and AIOps systems.
-Source]]></summary>
-        <author>
-            <name>Baki Onur Okutucu</name>
         </author>
     </entry>
 </feed>
